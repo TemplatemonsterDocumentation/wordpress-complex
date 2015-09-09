@@ -8,29 +8,8 @@
 	"articles":
 	{
 		"cherryframework4":
-		[	
-			{
-				"id":"blog-posts",
-				"translations":{
-					"en":"Creating blog posts",
-					"ru":"Создание постов в блоге"
-				}
-			},	
-			{
-				"id":"blog-options",
-				"translations":{
-					"en":"Blog Monstroid options",
-					"ru":"Опции блога Monstroid"
-				}
-			},		
-			{
-				"id":"assigning-blog",
-				"translations":{
-					"en":"Assigning the blog page",
-					"ru":"Назначение страницы блога"
-				}
-			}
-		],		
+		[],	
+
 		"monstroid":	
 		[	
 			{
@@ -41,7 +20,7 @@
 				}
 			},	
 			{
-				"id":"blog-options_msd",
+				"id":"blog-options",
 				"translations":{
 					"en":"Blog Monstroid options",
 					"ru":"Опции блога Monstroid"
@@ -55,29 +34,10 @@
 				}
 			}
 		],
+
 		"wordpress-themes":	
-		[	
-			{
-				"id":"blog-posts",
-				"translations":{
-					"en":"Creating blog posts",
-					"ru":"Создание постов в блоге"
-				}
-			},	
-			{
-				"id":"blog-options",
-				"translations":{
-					"en":"Blog Monstroid options",
-					"ru":"Опции блога Monstroid"
-				}
-			},		
-			{
-				"id":"assigning-blog",
-				"translations":{
-					"en":"Assigning the blog page",
-					"ru":"Назначение страницы блога"
-				}
-			}
-		]
+		[],
+		"woocommerce-themes":
+		[]
 	}
 }

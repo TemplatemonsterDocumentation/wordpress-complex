@@ -6,34 +6,140 @@
 		"ru":"Дополнение"
 	},
 	"articles":
-	[		
-		{
-			"id":"help",
-			"translations":{
-				"en":"Help and Support",
-				"ru":"Помощь и поддержка"
-			}
-		},
-		{
-			"id":"cookies",
-			"translations":{
-				"en":"Cookies",
-				"ru":"Cookies"
-			}
-		},
-		{
-			"id":"documentation",
-			"translations":{
-				"en":"Documentation",
-				"ru":"Документация"
-			}
-		},
-		{
-			"id":"google-services",
-			"translations":{
-				"en":"Google Services",
-				"ru":"Google Сервисы"
-			}
-		}		
-	]
+	{
+		"cherryframework4":
+		[		
+			{
+				"id":"help",
+				"translations":{
+					"en":"Help and Support",
+					"ru":"Помощь и поддержка"
+				}
+			},
+			{
+				"id":"cookies",
+				"translations":{
+					"en":"Cookies",
+					"ru":"Cookies"
+				}
+			},
+			{
+				"id":"documentation",
+				"translations":{
+					"en":"Documentation",
+					"ru":"Документация"
+				}
+			},
+			{
+				"id":"google-services",
+				"translations":{
+					"en":"Google Services",
+					"ru":"Google Сервисы"
+				}
+			}		
+		],	
+
+		"monstroid":	
+		[		
+			{
+				"id":"help",
+				"translations":{
+					"en":"Help and Support",
+					"ru":"Помощь и поддержка"
+				}
+			},
+			{
+				"id":"cookies",
+				"translations":{
+					"en":"Cookies",
+					"ru":"Cookies"
+				}
+			},
+			{
+				"id":"documentation",
+				"translations":{
+					"en":"Documentation",
+					"ru":"Документация"
+				}
+			},
+			{
+				"id":"google-services",
+				"translations":{
+					"en":"Google Services",
+					"ru":"Google Сервисы"
+				}
+			},
+			{
+				"id":"license-faqs",
+				"translations":{
+					"en":"License FAQs",
+					"ru":"License FAQs"
+				}
+			}		
+		],
+
+		"wordpress-themes":	
+		[		
+			{
+				"id":"help",
+				"translations":{
+					"en":"Help and Support",
+					"ru":"Помощь и поддержка"
+				}
+			},
+			{
+				"id":"cookies",
+				"translations":{
+					"en":"Cookies",
+					"ru":"Cookies"
+				}
+			},
+			{
+				"id":"documentation",
+				"translations":{
+					"en":"Documentation",
+					"ru":"Документация"
+				}
+			},
+			{
+				"id":"google-services",
+				"translations":{
+					"en":"Google Services",
+					"ru":"Google Сервисы"
+				}
+			}		
+		],
+
+		"woocommerce-themes":	
+		[		
+			{
+				"id":"help",
+				"translations":{
+					"en":"Help and Support",
+					"ru":"Помощь и поддержка"
+				}
+			},
+			{
+				"id":"cookies",
+				"translations":{
+					"en":"Cookies",
+					"ru":"Cookies"
+				}
+			},
+			{
+				"id":"documentation",
+				"translations":{
+					"en":"Documentation",
+					"ru":"Документация"
+				}
+			},
+			{
+				"id":"google-services",
+				"translations":{
+					"en":"Google Services",
+					"ru":"Google Сервисы"
+				}
+			}		
+		]
+	}
 }

@@ -1,5 +1,10 @@
 <?php 
 
+/**
+ * Get sections array from section.json file
+ * @param  string $project Project name
+ * @return array          
+ */
 function getSections($project)
 {	
 	$sections_json_file = dirname(__FILE__) . '/sections.json';
@@ -11,11 +16,9 @@ function getSections($project)
 		if (array_key_exists($project, $sections_array)) {
 			$active_sections = $project;
 		}
-
-		return $sections_array[$active_sections];
-		
+		return $sections_array[$active_sections];		
 	} else {
-		die('Sections.json file not found');
+		die('sections.json file not found');
 	}
 }
 
@@ -113,14 +116,25 @@ function includeSection($sections, $lang, $section_param, $project)
 		$section_articles 	= $current_section['articles'][$proj];
 
 		echo "<section id='" . $section_id . "'>";
-			// Load section description
-			$section_desc = dirname(__FILE__) . '/sections/' . $section_param . '/' . $lang . '/__description.php';
+			
+			//Define description filename depending on project title
+			$section_desc_path = dirname(__FILE__) . '/sections/' . $section_param . '/' . $lang . '/';
+			$section_desc = $section_desc_path . '__description_'. $project .'.php';
+
 			if (file_exists($section_desc)) {
 				echo "<article class='description'>";
 					include_once $section_desc;
 				echo "</article>";
 			} else {
-				echo "<i>Section __description.php file is missing.</i>";
+				// Load default description file if no project description file defined
+				$section_desc = $section_desc_path . '__description.php';
+				if (file_exists($section_desc)) {
+					echo "<article class='description'>";
+						include_once $section_desc;
+					echo "</article>";
+				} else {
+					echo "<i>Section description.php file is missing.</i>";
+				}				
 			}			
 
 			foreach ($section_articles as $key => $article) {
@@ -136,7 +150,7 @@ function includeSection($sections, $lang, $section_param, $project)
 			}
 		echo "</section>";
 	else:
-		die("Section $section_dirname JSON file not found");
+		die("Section.json file in \"$section_param\" directory not found");
 	endif;	
 }
 

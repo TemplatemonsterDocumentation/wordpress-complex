@@ -1,57 +1,54 @@
-
 {
 	"cherryframework4":
 	[
-		"general-info",
-		"installation",
+		"introduction",
 		"posts-categories",
-		"header",
-		"pages",
-		"blog",
-		"portfolio",
-		"shop",
-		"styling-options",
 		"cherry-options",
-		"cherry-plugins",
+		"statics-editor",
 		"shortcodes",
-		"footer",
-		"third-party-plugins",
-		"extras"
+		"cherry-plugins"
 	],
 	"monstroid": 
 	[
-		"general-info",
-		"installation",
-		"posts-categories",
+		"introduction",
+		"template-installation",
 		"header",
+		"footer",
 		"pages",
-		"blog",
 		"portfolio",
+		"blog",		
 		"shop",
+		"posts-categories",
 		"styling-options",
 		"cherry-options",
-		"cherry-plugins",
-		"shortcodes",
-		"footer",
+		"statics-editor",
+		"shortcodes",	
+		"cherry-plugins",			
 		"third-party-plugins",
 		"extras"
 	],	
 	"wordpress-themes":
 	[
-		"general-info",
-		"installation",
+		"introduction",
+		"template-installation",
 		"posts-categories",
-		"header",
-		"pages",
-		"blog",
-		"portfolio",
-		"shop",
-		"styling-options",
 		"cherry-options",
-		"cherry-plugins",
+		"statics-editor",
 		"shortcodes",
-		"footer",
-		"third-party-plugins",
+		"cherry-plugins",
+		"third-party-plugins",		
+		"extras"
+	],
+	"woocommerce-themes":
+	[
+		"introduction",
+		"template-installation",
+		"posts-categories",
+		"cherry-options",
+		"statics-editor",
+		"shortcodes",
+		"cherry-plugins",
+		"third-party-plugins",		
 		"extras"
 	]
 }

@@ -104,8 +104,10 @@ ul figure:last-child, ol figure:last-child {
 }
 
 article {
-  margin-top: 80px;
-  margin-bottom: 60px;
+  padding-top: 80px;
+}
+article:first-child {
+  padding-top: 0;
 }
 article article {
   padding-right: 10%;
@@ -256,6 +258,28 @@ b, strong {
 /*=======================================================
                         Components
 =========================================================*/
+/*===============  Table  ==================*/
+.table thead {
+  background: #f0f0f0;
+}
+.table th {
+  font-weight: 500;
+}
+.table table, .table td, .table th {
+  border: 1px solid #f0f0f0;
+}
+.table td {
+  text-align: center;
+  width: 20%;
+  vertical-align: middle;
+}
+.table td, .table th {
+  padding: 10px;
+}
+.table tr th {
+  text-align: left;
+}
+
 /*===============  Marked List  ==================*/
 .marked-list > li {
   position: relative;
@@ -309,6 +333,12 @@ b, strong {
   position: absolute;
   left: 0;
   font-weight: 500;
+}
+.index-list > li pre {
+  margin: 20px 0 40px 0;
+}
+.index-list > li strong + pre {
+  margin: 10px 0 40px 0;
 }
 .index-list > li + li {
   margin-top: 10px;
@@ -382,6 +412,21 @@ blockquote {
 }
 .chapter-nav li + li {
   margin-top: 10px;
+}
+
+/*==================== Quick Guide ====================*/
+.quick-guide {
+  width: auto;
+  margin-top: 17px;
+  box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1), 0 5px 5px 0 rgba(0, 0, 0, 0.1);
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+.quick-guide:hover {
+  box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1), 0 8px 8px 0 rgba(0, 0, 0, 0.1);
+}
+.quick-guide:active {
+  box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
 }
 
 /*==================   RD Mobile Menu    =====================*/

@@ -9,10 +9,10 @@ if (!isset($sections)) {
 
 <!DOCTYPE html>
 <head>
-    <title><?php echo $doc_title; ?></title>
+    <title><?php echo $projectTitle; ?></title>
     <meta charset="utf-8">
     <meta name="format-detection" content="telephone=no"/>
-    <link rel="icon" href="<?php echo $path; ?>/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="<?php echo $path; ?>/img/favicon_<?php echo $project; ?>.ico" type="image/x-icon">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="<?php echo $path; ?>/css/grid.css">
     <link rel="stylesheet" href="<?php echo $path; ?>/css/style.css">
@@ -39,8 +39,11 @@ if (!isset($sections)) {
 <body data-section="<?php echo $section_param; ?>" onload="prettyPrint()" data-project="<?php echo $project; ?>">
 <div class="page-wrap">
     <div class="rd-mobilemenu active">
-        <div class="logo">
-            <a href="<?php echo $path; ?>"><img src="<?php echo $path; ?>/img/logo.png" alt=""><span>Monstroid</span><small>premium theme</small></a>
+        <div class="logo logo__<?php echo $project; ?>">
+            <a href="<?php echo $path; ?>/index.php?project=<?php echo $project; ?>">
+                <img src="<?php echo $path; ?>/img/logo_<?php echo $project; ?>.png" alt="<?php echo $projectTextLogo; ?>">
+                <?php echo $projectTextLogo; ?>
+            </a>
         </div>        
         <div class="panel">
             <!-- <div class="select select-version">
@@ -66,7 +69,7 @@ if (!isset($sections)) {
         <button class="rd-mobilepanel_toggle active"><span></span></button>
         <div class="rd-mobilepanel">            
             <h1 class="rd-mobilepanel_title">
-                <span><?php echo $product_name; ?></span> <?php echo $product_desc; ?>
+                <span><?php echo $projectTitle; ?></span>
             </h1>
         </div>
         <div class="page">

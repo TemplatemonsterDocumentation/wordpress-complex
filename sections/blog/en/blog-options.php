@@ -1,4 +1,4 @@
-<h3>Blog options</h3>
+<h3>Blog Monstroid options</h3>
 
 <p>The section contains settings for WordPress blog pages (listing and single post types).</p>
 

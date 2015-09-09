@@ -1,25 +1,57 @@
 <?php 
+include_once 'functions.php';
 
 $path = dirname($_SERVER['PHP_SELF']);
 
-//$path = 111;
-
-// Variables
-$product_name = "Monstroid Theme";
-$product_desc = "Documentation";
-$doc_title = $product_name . " " . $product_desc;
-
+/**
+ * [$project description]
+ * @var string
+ */
 $project = 'cherryframework4';
 if (isset($_GET['project'])) {
 	$project = $_GET['project'];
 }
 
+$projectName = "Monstroid Theme";
+
+switch ($project) {
+    case 'monstroid':
+        $projectTextLogo = '<span>Monstroid</span><small>premium theme</small>';
+        $projectTitle = 'Monstroid Premium Theme Documentation';
+        break;
+    case 'wordpress-themes':
+        $projectTextLogo = '';
+        $projectTitle = 'WordPress Themes Documentation v4-0';
+        break;
+    case 'cherryframework4':
+        $projectTextLogo = '';
+        $projectTitle = 'Cherry Framework 4 Documentation';
+        break;
+     case 'woocommerce-themes':
+        $projectTextLogo = '';
+        $projectTitle = 'WooCommerce Themes Documentation v4-0';
+        break;
+    default:
+        $projectTextLogo = '';
+        $projectTitle = '';
+        break;
+}
+
+/**
+ * Language
+ * @var string
+ */
 $lang = 'en';
 if (isset($_GET['lang'])) {
 	$lang = $_GET['lang'];
 }
 
-$section_param = 'general-info';
+/**
+ * Section parameter
+ * @var string
+ */
+$_sections = getSections($project);
+$section_param = $_sections[0];
 if (isset($_GET['section'])) {
 	$section_param = $_GET['section'];
 }

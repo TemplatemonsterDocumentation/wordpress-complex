@@ -6,21 +6,104 @@
 		"ru":"Сторонние плагины"
 	},
 	"articles":
-	[				
-		{
-			"id":"motopress-slider",
-			"translations":{
-				"en":"MotoPress Slider",
-				"ru":"MotoPress Slider"
-			}
-		},		
-		{
-			"id":"wpml-configuration",
-			"translations":{
-				"en":"WPML configuration",
-				"ru":"Настройка WPML"
-			}
-		}	
+	{
+		"cherryframework4":
+		[],	
 
-	]
+		"monstroid":	
+		[				
+			{
+				"id":"motopress-slider",
+				"translations":{
+					"en":"MotoPress Slider",
+					"ru":"MotoPress Slider"
+				}
+			},	
+			{
+				"id":"motopress-content-editor",
+				"translations":{
+					"en":"Motopress Content Editor",
+					"ru":"Motopress Content Editor"
+				}
+			},		
+			{
+				"id":"wpml-configuration",
+				"translations":{
+					"en":"WPML configuration",
+					"ru":"Настройка WPML"
+				}
+			},		
+			{
+				"id":"contact-form",
+				"translations":{
+					"en":"Contact form 7",
+					"ru":"Contact form 7"
+				}
+			}	
+		],
+
+		"wordpress-themes":	
+		[				
+			{
+				"id":"motopress-slider",
+				"translations":{
+					"en":"MotoPress Slider",
+					"ru":"MotoPress Slider"
+				}
+			},	
+			{
+				"id":"motopress-content-editor",
+				"translations":{
+					"en":"Motopress Content Editor",
+					"ru":"Motopress Content Editor"
+				}
+			},		
+			{
+				"id":"wpml-configuration",
+				"translations":{
+					"en":"WPML configuration",
+					"ru":"Настройка WPML"
+				}
+			},		
+			{
+				"id":"contact-form",
+				"translations":{
+					"en":"Contact form 7",
+					"ru":"Contact form 7"
+				}
+			}	
+		],
+
+		"woocommerce-themes":	
+		[				
+			{
+				"id":"motopress-slider",
+				"translations":{
+					"en":"MotoPress Slider",
+					"ru":"MotoPress Slider"
+				}
+			},	
+			{
+				"id":"motopress-content-editor",
+				"translations":{
+					"en":"Motopress Content Editor",
+					"ru":"Motopress Content Editor"
+				}
+			},		
+			{
+				"id":"wpml-configuration",
+				"translations":{
+					"en":"WPML configuration",
+					"ru":"Настройка WPML"
+				}
+			},		
+			{
+				"id":"contact-form",
+				"translations":{
+					"en":"Contact form 7",
+					"ru":"Contact form 7"
+				}
+			}	
+		]
+	}
 }

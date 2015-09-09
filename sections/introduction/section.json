@@ -1,0 +1,19 @@
+{
+	"id":"introduction",
+	"translations":
+	{
+		"en":"Introduction",
+		"ru":"Введение"
+	},
+	"articles":
+	{
+		"cherryframework4":
+		[],	
+		"monstroid":	
+		[],
+		"wordpress-themes":	
+		[],
+		"woocommerce-themes":	
+		[]
+	}
+}

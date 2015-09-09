@@ -1,0 +1,22 @@
+{	
+	"id":"statics-editor",
+	"translations":
+	{
+		"en":"Statics Editor",
+		"ru":"Редактор статиков"
+	},
+	"articles":
+	{
+		"cherryframework4":
+		[],	
+
+		"monstroid":	
+		[],
+
+		"wordpress-themes":	
+		[],
+
+		"woocommerce-themes":	
+		[]
+	}
+}

@@ -6,20 +6,32 @@
 		"ru":"Футер"
 	},
 	"articles":
-	[		
-		{
-			"id":"footer-widgets",
-			"translations":{
-				"en":"Adding footer widgets",
-				"ru":"Добавление виджетов в футер"
+	{
+		"cherryframework4":
+		[],	
+
+		"monstroid":	
+		[		
+			{
+				"id":"footer-widgets",
+				"translations":{
+					"en":"Adding footer widgets",
+					"ru":"Добавление виджетов в футер"
+				}
+			},		
+			{
+				"id":"copyrights",
+				"translations":{
+					"en":"Copyrights",
+					"ru":"Авторские права"
+				}
 			}
-		},		
-		{
-			"id":"copyrights",
-			"translations":{
-				"en":"Copyrights",
-				"ru":"Авторские права"
-			}
-		}
-	]
+		],
+
+		"wordpress-themes":	
+		[],
+
+		"woocommerce-themes":	
+		[]
+	}
 }

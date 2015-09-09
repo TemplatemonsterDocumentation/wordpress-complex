@@ -6,13 +6,25 @@
 		"ru":"Портфолио"
 	},
 	"articles":
-	[		
-		{
-			"id":"portfolio-post",
-			"translations":{
-				"en":"Working with the portfolio post types",
-				"ru":"Работа с постами портфолио"
+	{
+		"cherryframework4":
+		[],	
+
+		"monstroid":	
+		[	
+			{
+				"id":"portfolio-post",
+				"translations":{
+					"en":"Working with the portfolio post types",
+					"ru":"Работа с постами портфолио"
+				}
 			}
-		}
-	]
+		],
+
+		"wordpress-themes":	
+		[],
+
+		"woocommerce-themes":	
+		[]
+	}
 }
