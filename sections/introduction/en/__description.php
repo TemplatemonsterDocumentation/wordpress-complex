@@ -61,7 +61,7 @@
         <ul>
             <li>
                 <dl class="inline-term">
-                    <dt><i class="fa fa-folder"></i> <strong>CherryFramework.zip</strong></dt>
+                    <dt><i class="fa fa-folder"></i> <strong>cherryframework4.zip</strong></dt>
                     <dd>
                         archive with the Cherry Framework theme. Contains all theme files. It must
                         be installed through WordPress extension manager.

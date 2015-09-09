@@ -23,17 +23,13 @@ switch ($project) {
         $projectTextLogo = '';
         $projectTitle = 'WordPress Themes Documentation v4-0';
         break;
-    case 'cherryframework4':
-        $projectTextLogo = '';
-        $projectTitle = 'Cherry Framework 4 Documentation';
-        break;
      case 'woocommerce-themes':
         $projectTextLogo = '';
         $projectTitle = 'WooCommerce Themes Documentation v4-0';
         break;
     default:
         $projectTextLogo = '';
-        $projectTitle = '';
+        $projectTitle = 'Cherry Framework 4 Documentation';
         break;
 }
 

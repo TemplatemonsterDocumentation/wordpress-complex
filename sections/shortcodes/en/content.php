@@ -155,7 +155,7 @@
 </figure>
 
 
-<h4>Cherry Charts</h4>
+<h4>Charts</h4>
 
 <p>Displays chart according to pre-set and set up element identification.</p>
 <ul class="marked-list">
@@ -183,3 +183,74 @@
 </figure>
 
 
+<h4>Blog Layout</h4>
+
+<p>Shortcode for outputting blog posts, with enhanced customization.</p>
+<ul class="marked-list">
+    <li><i class="icon-angle-right"></i> <strong>Limit</strong> – maximum number of posts</li>
+    <li><i class="icon-angle-right"></i> <strong>Order</strong> – posts order</li>
+    <li><i class="icon-angle-right"></i> <strong>Order by</strong> – order posts by</li>
+    <li><i class="icon-angle-right"></i> <strong>Category</strong> – select categories to show posts from</li>
+    <li><i class="icon-angle-right"></i> <strong>Show pages</strong> – show page navigation or not</li>
+    <li><i class="icon-angle-right"></i> <strong>Layout</strong> – select output layout format</li>
+    <li><i class="icon-angle-right"></i> <strong>Filter type</strong> – select blog filter type</li>
+    <li><i class="icon-angle-right"></i> <strong>Grid columns</strong> – select grid layout pattern for pages with custom blog layout</li>
+    <li><i class="icon-angle-right"></i> <strong>Masonry columns number</strong> – specify custom masonry layout columns number</li>
+    <li><i class="icon-angle-right"></i> <strong>Masonry columns gutter</strong> – specify custom masonry layout columns gutter(px)</li>
+    <li><i class="icon-angle-right"></i> <strong>Timeline item width</strong> – specify custom item width for Timeline blog layout(%)</li>
+    <li><i class="icon-angle-right"></i> <strong>Enable timeline breakpoints</strong> – enable/disable timeline breakpoints</li>
+    <li><i class="icon-angle-right"></i> <strong>Timeline breakpoint</strong> – select timeline breakpoint type</li>
+    <li><i class="icon-angle-right"></i> <strong>Timeline breakpoint date format</strong> – timeline breakpoint date format</li>
+    <li><i class="icon-angle-right"></i> <strong>Enable marker's date label</strong> – enable/disable marker's date label</li>
+    <li><i class="icon-angle-right"></i> <strong>Enable/disable marker's date label</strong> – enable/disable marker's date label</li>
+    <li><i class="icon-angle-right"></i> <strong>Prev button label</strong> – previous button label text. Text or HTML can be used</li>
+    <li><i class="icon-angle-right"></i> <strong>Next button label</strong> – next button label text. Text or HTML can be used</li>
+    <li><i class="icon-angle-right"></i> <strong>Class</strong> – extra CSS class</li>
+</ul>
+<pre class="prettyprint">[cherry_blog posts_per_page="6" order="asc" orderby="id" category="uncategorized" paged="yes" layout_type="masonry" filter_type="tags" grid_column="grid-3" columns="4" columns_gutter="20" timeline_item_width="50" use_timeline_breakpoint="no" timeline_breakpoint="year" timeline_breakpoint_date_format="Y, j, F" show_marker_date="yes" timeline_marker_date_format=" Y, j, F" pagination_previous_label="Previous" class="custom_class"]</pre>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/wordpress/blog_layouts.jpg">
+</figure>
+
+
+<h4>Simple Slider</h4>
+
+<p>Shortcode for outputting slider (posts format "slides list").</p>
+<ul class="marked-list">
+    <li><i class="icon-angle-right"></i> <strong>Post per page</strong> – specify number of posts that you want to show. Enter -1 to get all posts</li>
+    <li><i class="icon-angle-right"></i> <strong>Slider width</strong> – sets the width of the slider</li>
+    <li><i class="icon-angle-right"></i> <strong>Slider height</strong> – sets the height of the slider</li>
+    <li><i class="icon-angle-right"></i> <strong>Slider orientation</strong> – indicates whether the slides will be arranged horizontally or vertically</li>
+    <li><i class="icon-angle-right"></i> <strong>Slide distance</strong> – sets the distance between the slides</li>
+    <li><i class="icon-angle-right"></i> <strong>Slider navigation</strong> – indicates whether the arrow buttons will be created</li>
+    <li><i class="icon-angle-right"></i> <strong>Slider pagination</strong> – indicates whether the pagination will be created</li>
+    <li><i class="icon-angle-right"></i> <strong>Slider autoplay</strong> – indicates whether or not autoplay will be enabled</li>
+    <li><i class="icon-angle-right"></i> <strong>Slider fullScreen</strong> – indicates whether the full-screen button is enabled</li>
+    <li><i class="icon-angle-right"></i> <strong>Class</strong> –  extra CSS class</li>
+</ul>
+<pre class="prettyprint">[cherry_slider posts_per_page="4" slider_width="90%" slider_height="560" slider_orientation="vertical" slider_slide_distance="15" slider_navigation="no" slider_pagination="no" slider_autoplay="no" slider_fullScreen="no" custom_class="custom_class"]</pre>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/wordpress/simple_slider.jpg">
+</figure>
+
+
+<h4>Video Preview</h4>
+
+<p>Shortcode for outputting video in the content. You can configure the playback mode, set the poster, and more.</p>
+<ul class="marked-list">
+    <li><i class="icon-angle-right"></i> <strong>URL or File</strong> – to use video from YouTube or Vimeo input video URL. You can also upload video file from media library.</li>
+    <li><i class="icon-angle-right"></i> <strong>Poster</strong> – poster image url</li>
+    <li><i class="icon-angle-right"></i> <strong>Controls</strong> – select how to display controls</li>
+    <li><i class="icon-angle-right"></i> <strong>Show content on mouse hover</strong> – select, show or hide content on mouse hover</li>
+    <li><i class="icon-angle-right"></i> <strong>Muted</strong> – set enable or disable mute mode</li>
+    <li><i class="icon-angle-right"></i> <strong>Loop</strong> – enable or disable loop paying mode</li>
+    <li><i class="icon-angle-right"></i> <strong>Preload</strong></li>
+    <li><i class="icon-angle-right"></i> <strong>Custom class</strong> –  extra CSS class</li>
+</ul>
+<pre class="prettyprint">[cherry_slider posts_per_page="4" slider_width="90%" slider_height="560" slider_orientation="vertical" slider_slide_distance="15" slider_navigation="no" slider_pagination="no" slider_autoplay="no" slider_fullScreen="no" custom_class="custom_class"]</pre>
+
+<figure class="img-polaroid">
+    <img alt="" src="img/wordpress/video_preview.jpg">
+</figure>

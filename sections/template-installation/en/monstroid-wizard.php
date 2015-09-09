@@ -65,6 +65,8 @@
 
 <figure class="img-polaroid"><img src="img/monstroid/how-to-install-a-theme-10.jpg" alt=""></figure>
 
+<div class="alert alert-warning">ATTENTION! Sample data installation will overwrite the current content of your site.</div>
+
 <p>
     Sample data was downloaded from cloud. You can continue installation:
 </p>

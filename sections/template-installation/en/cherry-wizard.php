@@ -36,6 +36,9 @@
 <h4>Downloading and installing the theme files </h4>
 <p>The next step can be the sample data installation. Sample data is a set of demo content that will make your theme appear as on the preview page. It can be installed from the cloud, the local computer or you can skip this step.</p>
 <figure class="img-polaroid"><img src="img/wordpress/1sample-data-step.png" alt=""></figure>
+
+<div class="alert alert-warning">ATTENTION! Sample data installation will overwrite the current content of your site.</div>
+
 <p>If you choose installation from cloud, the installation process will begin.</p>
 <figure class="img-polaroid"><img src="img/wordpress/1sample-media.png" alt=""></figure>
 <p>Once all media files are downloaded, you will proceed to installing database files.</p>
