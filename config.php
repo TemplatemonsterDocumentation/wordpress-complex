@@ -4,16 +4,18 @@ include_once 'functions.php';
 $path = dirname($_SERVER['PHP_SELF']);
 
 /**
- * [$project description]
- * @var string
+ * List of allowed project names
+ * @var array
  */
-$project = 'cherryframework4';
-if (isset($_GET['project'])) {
-	$project = $_GET['project'];
+$allowedProjects = array('cherryframework4', 'wordpress', 'monstroid');
+$defaultProject = $project = $allowedProjects[0];
+if (isset($_REQUEST['project'])) {
+    $project = allowedParameterValue($_REQUEST['project'], $allowedProjects);
 }
 
-$projectName = "Monstroid Theme";
-
+/**
+ * Project text logo and project title depending on project name
+ */
 switch ($project) {
     case 'monstroid':
         $projectTextLogo = '<span>Monstroid</span><small>premium theme</small>';
@@ -34,12 +36,31 @@ switch ($project) {
 }
 
 /**
- * Language
+ * Project image logo path
  * @var string
  */
-$lang = 'en';
-if (isset($_GET['lang'])) {
-	$lang = $_GET['lang'];
+$projectImgLogoPath = $path . "/img/logo_" . $defaultProject . ".png";
+if (file_exists(dirname(__FILE__) . "/img/logo_" . $project . ".png")) {
+    $projectImgLogoPath = $path . "/img/logo_" . $project . ".png";
+}
+
+/**
+ * Project favicon path
+ * @var string
+ */
+$projectFaviconPath = $path . "/img/favicon_" . $defaultProject . ".ico";
+if (file_exists(dirname(__FILE__) . "/img/favicon_" . $project . ".ico")) {
+    $projectFaviconPath = $path . "/img/favicon_" . $project . ".ico";
+}
+
+/**
+ * List of available languages
+ * @var array
+ */
+$allowedLanguages = array('en');
+$lang = $allowedLanguages[0];
+if (isset($_REQUEST['lang'])) {
+    $lang = allowedParameterValue($_REQUEST['lang'], $allowedLanguages);
 }
 
 /**

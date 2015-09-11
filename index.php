@@ -12,7 +12,7 @@ if (!isset($sections)) {
     <title><?php echo $projectTitle; ?></title>
     <meta charset="utf-8">
     <meta name="format-detection" content="telephone=no"/>
-    <link rel="icon" href="<?php echo $path; ?>/img/favicon_<?php echo $project; ?>.ico" type="image/x-icon">
+    <link rel="icon" href="<?php echo $projectFaviconPath; ?>" type="image/x-icon">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="<?php echo $path; ?>/css/grid.css">
     <link rel="stylesheet" href="<?php echo $path; ?>/css/style.css">
@@ -41,7 +41,7 @@ if (!isset($sections)) {
     <div class="rd-mobilemenu active">
         <div class="logo logo__<?php echo $project; ?>">
             <a href="<?php echo $path; ?>/index.php?project=<?php echo $project; ?>">
-                <img src="<?php echo $path; ?>/img/logo_<?php echo $project; ?>.png" alt="<?php echo $projectTextLogo; ?>">
+                <img src="<?php echo $projectImgLogoPath ?>" alt="<?php echo $projectTextLogo; ?>">
                 <?php echo $projectTextLogo; ?>
             </a>
         </div>        

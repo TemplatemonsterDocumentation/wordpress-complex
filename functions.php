@@ -225,3 +225,20 @@ function search_dir($dir)
 
 	return $pages;
 }
+
+/**
+ * Check if parameter value is allowed
+ * @param  $_REQUEST Request parameter
+ * @param  array $allowed_params Allowed parameter values
+ * @return string Parameter value
+ */
+function allowedParameterValue($param, $allowed_params)
+{
+    if ($param) {
+        if (in_array($param, $allowed_params)) {
+            return $param;
+        } else {
+            return $allowed_params[0];
+        }
+    }
+}
