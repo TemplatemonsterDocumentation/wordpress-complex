@@ -39,6 +39,27 @@
 					"en":"Contact form 7",
 					"ru":"Contact form 7"
 				}
+			},		
+			{
+				"id":"mailchimp-for-wordpress",
+				"translations":{
+					"en":"MailChimp for WordPress",
+					"ru":"MailChimp for WordPress"
+				}
+			},		
+			{
+				"id":"homepage-pop-up",
+				"translations":{
+					"en":"Homepage Pop-up",
+					"ru":"Homepage Pop-up"
+				}
+			},		
+			{
+				"id":"wordpress-countdown",
+				"translations":{
+					"en":"WordPress Countdown",
+					"ru":"WordPress Countdown"
+				}
 			}	
 		],
 
@@ -71,7 +92,28 @@
 					"en":"Contact form 7",
 					"ru":"Contact form 7"
 				}
-			}	
+			},		
+			{
+				"id":"mailchimp-for-wordpress",
+				"translations":{
+					"en":"MailChimp for WordPress",
+					"ru":"MailChimp for WordPress"
+				}
+			},		
+			{
+				"id":"homepage-pop-up",
+				"translations":{
+					"en":"Homepage Pop-up",
+					"ru":"Homepage Pop-up"
+				}
+			},		
+			{
+				"id":"wordpress-countdown",
+				"translations":{
+					"en":"WordPress Countdown",
+					"ru":"WordPress Countdown"
+				}
+			}				
 		],
 
 		"woocommerce-themes":	
@@ -103,7 +145,28 @@
 					"en":"Contact form 7",
 					"ru":"Contact form 7"
 				}
-			}	
+			},		
+			{
+				"id":"mailchimp-for-wordpress",
+				"translations":{
+					"en":"MailChimp for WordPress",
+					"ru":"MailChimp for WordPress"
+				}
+			},		
+			{
+				"id":"homepage-pop-up",
+				"translations":{
+					"en":"Homepage Pop-up",
+					"ru":"Homepage Pop-up"
+				}
+			},		
+			{
+				"id":"wordpress-countdown",
+				"translations":{
+					"en":"WordPress Countdown",
+					"ru":"WordPress Countdown"
+				}
+			}				
 		]
 	}
 }
