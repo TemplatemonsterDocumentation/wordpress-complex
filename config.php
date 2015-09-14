@@ -7,7 +7,7 @@ $path = dirname($_SERVER['PHP_SELF']);
  * List of allowed project names
  * @var array
  */
-$allowedProjects = array('wordpress', 'cherryframework4', 'monstroid', 'woocommerce');
+$allowedProjects = array('cherryframework4', 'wordpress', 'monstroid', 'woocommerce');
 $defaultProject = $project = $allowedProjects[0];
 if (isset($_REQUEST['project'])) {
     $project = allowedParameterValue($_REQUEST['project'], $allowedProjects);
@@ -21,9 +21,9 @@ switch ($project) {
         $projectTextLogo = '<span>Monstroid</span><small>premium theme</small>';
         $projectTitle = 'Monstroid Premium Theme Documentation';
         break;
-    case 'cherryframework4':
+    case 'wordpress':
         $projectTextLogo = '';
-        $projectTitle = 'Cherry Framework 4 Documentation';
+        $projectTitle = 'WordPress Themes Documentation v4-0';   
         break;
      case 'woocommerce':
         $projectTextLogo = '';
@@ -31,7 +31,7 @@ switch ($project) {
         break;
     default:
         $projectTextLogo = '';
-        $projectTitle = 'WordPress Themes Documentation v4-0';        
+        $projectTitle = 'Cherry Framework 4 Documentation';     
         break;
 }
 
@@ -39,7 +39,7 @@ switch ($project) {
  * Project image logo path
  * @var string
  */
-$projectImgLogoPath = $path . "/img/logo_" . $defaultProject . ".png";
+$projectImgLogoPath = $path . "/img/logo.png";
 if (file_exists(dirname(__FILE__) . "/img/logo_" . $project . ".png")) {
     $projectImgLogoPath = $path . "/img/logo_" . $project . ".png";
 }
@@ -48,7 +48,7 @@ if (file_exists(dirname(__FILE__) . "/img/logo_" . $project . ".png")) {
  * Project favicon path
  * @var string
  */
-$projectFaviconPath = $path . "/img/favicon_" . $defaultProject . ".ico";
+$projectFaviconPath = $path . "/img/favicon.ico";
 if (file_exists(dirname(__FILE__) . "/img/favicon_" . $project . ".ico")) {
     $projectFaviconPath = $path . "/img/favicon_" . $project . ".ico";
 }
