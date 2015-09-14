@@ -3,7 +3,7 @@ include_once 'config.php';
 include_once 'functions.php';
 
 if (!isset($sections)) {
-    $sections = getSections($project);
+    $sections = getSections($project, $defaultProject);
 }
 ?>
 
@@ -79,7 +79,7 @@ if (!isset($sections)) {
             <header>
                 <nav class="nav">
                     <ul class="menu" data-type="navbar">
-                        <?php echo generateNavigation($sections, $lang, $section_param, $project); ?>
+                        <?php echo generateNavigation($sections, $lang, $section_param, $project, $defaultProject); ?>
                     </ul>
                 </nav>
             </header>

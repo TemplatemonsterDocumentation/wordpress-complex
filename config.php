@@ -67,7 +67,7 @@ if (isset($_REQUEST['lang'])) {
  * Section parameter
  * @var string
  */
-$_sections = getSections($project);
+$_sections = getSections($project, $defaultProject);
 $section_param = $_sections[0];
 if (isset($_GET['section'])) {
 	$section_param = $_GET['section'];

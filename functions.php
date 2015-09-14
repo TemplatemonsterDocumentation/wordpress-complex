@@ -5,14 +5,14 @@
  * @param  string $project Project name
  * @return array          
  */
-function getSections($project)
+function getSections($project, $defaultProject)
 {	
 	$sections_json_file = dirname(__FILE__) . '/sections.json';
 	if (file_exists($sections_json_file)) {
 		$sections_string = file_get_contents($sections_json_file);
 		$sections_array = json_decode($sections_string, true);
 		
-		$active_sections = 'cherryframework4';
+		$active_sections = $defaultProject;
 		if (array_key_exists($project, $sections_array)) {
 			$active_sections = $project;
 		}
@@ -29,10 +29,10 @@ function getSections($project)
  * @param  string $lang     Current language key
  * @return string           Navigation markup string
  */
-function generateNavigation($sections, $lang, $section_param, $project)
+function generateNavigation($sections, $lang, $section_param, $project, $defaultProject)
 {		
 	$html = '';
-	
+
 	foreach ($sections as $section_key => $section_dirname) {
 		$section_json_file	= dirname(__FILE__) . '/sections/' . $section_dirname . '/section.json';
 		// Check if section json file exists
@@ -40,7 +40,7 @@ function generateNavigation($sections, $lang, $section_param, $project)
 			$section_string 	= file_get_contents($section_json_file);
 			$current_section 	= json_decode($section_string, true);
 
-			$proj = 'cherryframework4';
+			$proj = $defaultProject;
 			if (array_key_exists($project, $current_section['articles'])) {
 				$proj = $project;
 			} 
@@ -99,7 +99,7 @@ function generateNavigation($sections, $lang, $section_param, $project)
  * @param  string $lang          	Current language
  * @param  string $section_param 	Current section
  */
-function includeSection($sections, $lang, $section_param, $project)
+function includeSection($sections, $lang, $section_param, $project, $defaultProject)
 {
 	$section_json_file	= dirname(__FILE__) . '/sections/' . $section_param . '/section.json';
 
@@ -109,7 +109,7 @@ function includeSection($sections, $lang, $section_param, $project)
 
 		$section_id 		= $current_section['id'];
 
-		$proj = 'cherryframework4';
+		$proj = $defaultProject;
 		if (array_key_exists($project, $current_section['articles'])) {
 			$proj = $project;
 		} 
