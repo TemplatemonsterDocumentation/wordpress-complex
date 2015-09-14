@@ -27,7 +27,7 @@
 		"third-party-plugins",
 		"extras"
 	],	
-	"wordpress-themes":
+	"wordpress":
 	[
 		"introduction",
 		"template-installation",
@@ -39,7 +39,7 @@
 		"third-party-plugins",		
 		"extras"
 	],
-	"woocommerce-themes":
+	"woocommerce":
 	[
 		"introduction",
 		"template-installation",
