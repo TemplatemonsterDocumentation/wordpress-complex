@@ -7,7 +7,7 @@ $path = dirname($_SERVER['PHP_SELF']);
  * List of allowed project names
  * @var array
  */
-$allowedProjects = array('cherryframework4', 'wordpress', 'monstroid');
+$allowedProjects = array('wordpress', 'cherryframework4', 'monstroid', 'woocommerce');
 $defaultProject = $project = $allowedProjects[0];
 if (isset($_REQUEST['project'])) {
     $project = allowedParameterValue($_REQUEST['project'], $allowedProjects);
@@ -21,17 +21,17 @@ switch ($project) {
         $projectTextLogo = '<span>Monstroid</span><small>premium theme</small>';
         $projectTitle = 'Monstroid Premium Theme Documentation';
         break;
-    case 'wordpress-themes':
+    case 'cherryframework4':
         $projectTextLogo = '';
-        $projectTitle = 'WordPress Themes Documentation v4-0';
+        $projectTitle = 'Cherry Framework 4 Documentation';
         break;
-     case 'woocommerce-themes':
+     case 'woocommerce':
         $projectTextLogo = '';
         $projectTitle = 'WooCommerce Themes Documentation v4-0';
         break;
     default:
         $projectTextLogo = '';
-        $projectTitle = 'Cherry Framework 4 Documentation';
+        $projectTitle = 'WordPress Themes Documentation v4-0';        
         break;
 }
 
