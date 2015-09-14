@@ -63,7 +63,7 @@
 			}	
 		],
 
-		"wordpress-themes":	
+		"wordpress":	
 		[				
 			{
 				"id":"motopress-slider",
@@ -116,7 +116,7 @@
 			}				
 		],
 
-		"woocommerce-themes":	
+		"woocommerces":	
 		[				
 			{
 				"id":"motopress-slider",

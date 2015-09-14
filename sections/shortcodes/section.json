@@ -99,7 +99,7 @@
 			}			
 		],
 
-		"wordpress-themes":	
+		"wordpress":	
 		[		
 			{
 				"id":"grid-shortcodes",
@@ -145,7 +145,7 @@
 			}			
 		],
 
-		"woocommerce-themes":	
+		"woocommerces":	
 		[		
 			{
 				"id":"grid-shortcodes",

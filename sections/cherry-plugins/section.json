@@ -218,7 +218,7 @@
 			}	
 		],
 
-		"wordpress-themes":	
+		"wordpress":	
 		[
 			{
 				"id":"shortcodes-templater",
@@ -320,7 +320,7 @@
 			}
 		],
 
-		"woocommerce-themes":	
+		"woocommerces":	
 		[
 			{
 				"id":"shortcodes-templater",

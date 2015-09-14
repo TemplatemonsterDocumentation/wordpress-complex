@@ -190,7 +190,7 @@
 			}
 		],
 
-		"wordpress-themes":	
+		"wordpress":	
 		[			
 			{
 				"id":"option-general",
@@ -278,7 +278,7 @@
 			}
 		],
 
-		"woocommerce-themes":	
+		"woocommerces":	
 		[			
 			{
 				"id":"option-general",

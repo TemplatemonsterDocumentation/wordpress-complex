@@ -42,10 +42,10 @@
 			}
 		],
 
-		"wordpress-themes":	
+		"wordpress":	
 		[],
 
-		"woocommerce-themes":	
+		"woocommerces":	
 		[]
 	}
 }

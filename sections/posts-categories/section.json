@@ -113,7 +113,7 @@
 			}
 		],
 
-		"wordpress-themes":	
+		"wordpress":	
 		[		
 			{
 				"id":"adding-category",
@@ -166,7 +166,7 @@
 			}
 		],
 
-		"woocommerce-themes":	
+		"woocommerces":	
 		[		
 			{
 				"id":"adding-category",

@@ -78,7 +78,7 @@
 			}
 		],
 
-		"wordpress-themes":	
+		"wordpress":	
 		[
 			{
 				"id":"cherry-wizard",
@@ -110,7 +110,7 @@
 			}		
 		],
 
-		"woocommerce-themes":	
+		"woocommerces":	
 		[
 			{
 				"id":"cherry-wizard",
