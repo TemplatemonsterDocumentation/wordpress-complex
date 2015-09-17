@@ -1,9 +1,9 @@
 {	
-	"id":"statics-editor",
+	"id":"static-area-builder",
 	"translations":
 	{
-		"en":"Statics Editor",
-		"ru":"Редактор статиков"
+		"en":"Static Area Builder",
+		"ru":"Static Area Builder"
 	},
 	"articles":
 	{
