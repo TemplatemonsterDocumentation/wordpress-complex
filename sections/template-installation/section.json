@@ -1,4 +1,4 @@
-{	
+{
 	"id":"template-installation",
 	"translations":
 	{
@@ -22,39 +22,39 @@
 					"en":"WordPress Engine Installation",
 					"ru":"Установка движка WordPress"
 				}
-			},		
+			},
 			{
 				"id":"manual-install",
 				"translations":{
 					"en":"Manual Installation",
 					"ru":"Ручная установка"
 				}
-			},		
+			},
 			{
 				"id":"update-framework-plugins",
 				"translations":{
 					"en":"How to update Cherry Framework and Cherry Plugins",
 					"ru":"Как обновить Cherry Framework and Cherry плагины"
 				}
-			}		
-		],	
+			}
+		],
 
-		"monstroid":	
-		[				
+		"monstroid":
+		[
 			{
 				"id":"engine-installation",
 				"translations":{
 					"en":"WordPress installation",
 					"ru":"Установка WordPress"
 				}
-			},	
+			},
 			{
 				"id":"monstroid-wizard",
 				"translations":{
 					"en":"Automatic installation using <br> Monstroid Wizard",
 					"ru":"Автоматическая установка через <br> Monstroid Wizard"
 				}
-			},		
+			},
 			{
 				"id":"manual-install",
 				"translations":{
@@ -69,16 +69,42 @@
 					"ru":"Как обновить Monstroid"
 				}
 			}
-			,{
-				"id":"change-log",
+
+		],
+
+		"wordpress":
+		[
+			{
+				"id":"cherry-wizard",
 				"translations":{
-					"en":"Monstroid change log",
-					"ru":"Журнал изменений Monstroid"
+					"en":"Automatic installation using <br> Cherry Wizard",
+					"ru":"Автоматическая установка через <br> Cherry Wizard"
+				}
+			},
+			{
+				"id":"engine-installation",
+				"translations":{
+					"en":"WordPress Engine Installation",
+					"ru":"Установка движка WordPress"
+				}
+			},
+			{
+				"id":"manual-install",
+				"translations":{
+					"en":"Manual Installation",
+					"ru":"Ручная установка"
+				}
+			},
+			{
+				"id":"update-framework-plugins",
+				"translations":{
+					"en":"How to update Cherry Framework and Cherry Plugins",
+					"ru":"Как обновить Cherry Framework and Cherry плагины"
 				}
 			}
 		],
 
-		"wordpress":	
+		"woocommerce":
 		[
 			{
 				"id":"cherry-wizard",
@@ -93,53 +119,21 @@
 					"en":"WordPress Engine Installation",
 					"ru":"Установка движка WordPress"
 				}
-			},		
+			},
 			{
 				"id":"manual-install",
 				"translations":{
 					"en":"Manual Installation",
 					"ru":"Ручная установка"
-				}
-			},		
-			{
-				"id":"update-framework-plugins",
-				"translations":{
-					"en":"How to update Cherry Framework and Cherry Plugins",
-					"ru":"Как обновить Cherry Framework and Cherry плагины"
-				}
-			}		
-		],
-
-		"woocommerce":	
-		[
-			{
-				"id":"cherry-wizard",
-				"translations":{
-					"en":"Automatic installation using <br> Cherry Wizard",
-					"ru":"Автоматическая установка через <br> Cherry Wizard"
 				}
 			},
 			{
-				"id":"engine-installation",
-				"translations":{
-					"en":"WordPress Engine Installation",
-					"ru":"Установка движка WordPress"
-				}
-			},		
-			{
-				"id":"manual-install",
-				"translations":{
-					"en":"Manual Installation",
-					"ru":"Ручная установка"
-				}
-			},		
-			{
 				"id":"update-framework-plugins",
 				"translations":{
 					"en":"How to update Cherry Framework and Cherry Plugins",
 					"ru":"Как обновить Cherry Framework and Cherry плагины"
 				}
-			}		
+			}
 		]
 	}
 }

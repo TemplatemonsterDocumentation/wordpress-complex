@@ -61,7 +61,7 @@
         <dl class="inline-term">
             <dt>More button label</dt>
             <dd>
-                Specify read more button label text. 
+                Specify read more button label text.
             </dd>
         </dl>
     </li>
@@ -78,6 +78,10 @@
 
 
 <h4>Blog > Layout</h4>
+
+<div class="alert alert-info">
+        Attention, if you want to configure "Blog layout" option, you must have installed plugin - "<a href="index.php?lang=en&section=cherry-plugins#blog-layouts">Cherry Blog Layouts</a>"
+</div>
 
 
 <ul class="marked-list">
@@ -231,6 +235,10 @@
 
 <h4>Blog > Meta</h4>
 
+<div class="alert alert-info">
+        Attention, if you want to configure "Additional post meta" option, you must have installed plugin - "<a href="index.php?lang=en&section=cherry-plugins#blog-layouts">Cherry Blog Layouts</a>"
+</div>
+
 
 <ul class="marked-list">
     <li>
@@ -273,7 +281,7 @@
         <dl class="inline-term">
             <dt>Tags</dt>
             <dd>
-                Show/Hide post tags.	
+                Show/Hide post tags.
             </dd>
         </dl>
     </li>

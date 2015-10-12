@@ -1,4 +1,4 @@
-{	
+{
 	"id":"cherry-plugins",
 	"translations":
 	{
@@ -15,7 +15,7 @@
 					"en":"Cherry Shortcodes Templater",
 					"ru":"Cherry Shortcodes Templater"
 				}
-			},		
+			},
 			{
 				"id":"shortcodes",
 				"translations":{
@@ -29,14 +29,14 @@
 					"en":"Cherry Services",
 					"ru":"Cherry Services"
 				}
-			},		
+			},
 			{
 				"id":"charts",
 				"translations":{
 					"en":"Cherry Charts",
 					"ru":"Cherry Charts"
 				}
-			},		
+			},
 			{
 				"id":"data-manager",
 				"translations":{
@@ -107,9 +107,9 @@
 					"ru":"Cherry Chat"
 				}
 			}
-		],	
+		],
 
-		"monstroid":	
+		"monstroid":
 		[
 			{
 				"id":"shortcodes-templater",
@@ -117,7 +117,7 @@
 					"en":"Cherry Shortcodes Templater",
 					"ru":"Cherry Shortcodes Templater"
 				}
-			},		
+			},
 			{
 				"id":"shortcodes",
 				"translations":{
@@ -126,19 +126,26 @@
 				}
 			},
 			{
+				"id":"blog-layouts",
+				"translations":{
+					"en":"Cherry Blog Layouts",
+					"ru":"Cherry Blog Layouts"
+				}
+			},
+			{
 				"id":"services",
 				"translations":{
 					"en":"Cherry Services",
 					"ru":"Cherry Services"
 				}
-			},		
+			},
 			{
 				"id":"charts",
 				"translations":{
 					"en":"Cherry Charts",
 					"ru":"Cherry Charts"
 				}
-			},		
+			},
 			{
 				"id":"data-manager",
 				"translations":{
@@ -208,17 +215,24 @@
 					"en":"Cherry Chat",
 					"ru":"Cherry Chat"
 				}
-			},		
+			},
 			{
 				"id":"white-label",
 				"translations":{
 					"en":"Cherry White Label",
 					"ru":"Cherry White Label"
 				}
-			}	
+			},
+			{
+				"id":"monstroid-dashboard",
+				"translations":{
+					"en":"Monstroid dashboard",
+					"ru":"Панель настройки"
+				}
+			}
 		],
 
-		"wordpress":	
+		"wordpress":
 		[
 			{
 				"id":"shortcodes-templater",
@@ -226,7 +240,7 @@
 					"en":"Cherry Shortcodes Templater",
 					"ru":"Cherry Shortcodes Templater"
 				}
-			},		
+			},
 			{
 				"id":"shortcodes",
 				"translations":{
@@ -240,14 +254,14 @@
 					"en":"Cherry Services",
 					"ru":"Cherry Services"
 				}
-			},		
+			},
 			{
 				"id":"charts",
 				"translations":{
 					"en":"Cherry Charts",
 					"ru":"Cherry Charts"
 				}
-			},		
+			},
 			{
 				"id":"data-manager",
 				"translations":{
@@ -320,7 +334,7 @@
 			}
 		],
 
-		"woocommerce":	
+		"woocommerce":
 		[
 			{
 				"id":"shortcodes-templater",
@@ -328,7 +342,7 @@
 					"en":"Cherry Shortcodes Templater",
 					"ru":"Cherry Shortcodes Templater"
 				}
-			},		
+			},
 			{
 				"id":"shortcodes",
 				"translations":{
@@ -342,14 +356,14 @@
 					"en":"Cherry Services",
 					"ru":"Cherry Services"
 				}
-			},		
+			},
 			{
 				"id":"charts",
 				"translations":{
 					"en":"Cherry Charts",
 					"ru":"Cherry Charts"
 				}
-			},		
+			},
 			{
 				"id":"data-manager",
 				"translations":{

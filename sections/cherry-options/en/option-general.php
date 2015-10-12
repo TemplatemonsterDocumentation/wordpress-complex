@@ -55,5 +55,5 @@
 </ul>
 
 <figure class="img-polaroid">
-    <img src="img/cherryframework/cherry-options_general.jpg" alt="" style="opacity: 1;">
+    <img src="img/cherryframework/cherry-options_general.png" alt="" style="opacity: 1;">
 </figure>

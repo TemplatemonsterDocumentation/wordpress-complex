@@ -16,3 +16,7 @@
 </ol>
 
 <figure class="img-polaroid"><img src="img/monstroid/logo.jpg" alt=""></figure>
+
+<div class="alert alert-info">
+You have the ability to customize the positioning of information blocks, such as logo, navigation, search and etc. With help of <a href="index.php?project=monstroid&lang=en&section=static-area-builder">Static Area Builder</a>
+</div>

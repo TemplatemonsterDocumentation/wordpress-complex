@@ -1,4 +1,4 @@
-{	
+{
 	"id":"cherry-options",
 	"translations":
 	{
@@ -8,28 +8,28 @@
 	"articles":
 	{
 		"cherryframework4":
-		[			
+		[
 			{
 				"id":"option-general",
 				"translations":{
 					"en":"General",
 					"ru":"Общие"
 				}
-			},			
+			},
 			{
 				"id":"option-grid",
 				"translations":{
 					"en":"Grid",
 					"ru":"Сетка"
 				}
-			},		
+			},
 			{
 				"id":"option-blog",
 				"translations":{
 					"en":"Blog",
 					"ru":"Блог"
 				}
-			},					
+			},
 			{
 				"id":"option-styling",
 				"translations":{
@@ -43,7 +43,7 @@
 					"en":"Color Schemes",
 					"ru":"Цветовые схемы"
 				}
-			},		
+			},
 			{
 				"id":"option-navigation",
 				"translations":{
@@ -57,21 +57,21 @@
 					"en":"Header",
 					"ru":"Хедер"
 				}
-			},	
+			},
 			{
 				"id":"option-page",
 				"translations":{
 					"en":"Page",
 					"ru":"Страница"
 				}
-			},		
+			},
 			{
 				"id":"option-footer",
 				"translations":{
 					"en":"Footer",
 					"ru":"Футер"
 				}
-			},		
+			},
 			{
 				"id":"option-typography",
 				"translations":{
@@ -93,31 +93,31 @@
 					"ru":"Cookie Баннер"
 				}
 			}
-		],	
+		],
 
-		"monstroid":	
-		[			
+		"monstroid":
+		[
 			{
 				"id":"option-general",
 				"translations":{
 					"en":"General",
 					"ru":"Общие"
 				}
-			},			
+			},
 			{
 				"id":"option-grid",
 				"translations":{
 					"en":"Grid",
 					"ru":"Сетка"
 				}
-			},		
+			},
 			{
 				"id":"option-blog",
 				"translations":{
 					"en":"Blog",
 					"ru":"Блог"
 				}
-			},					
+			},
 			{
 				"id":"option-styling",
 				"translations":{
@@ -131,7 +131,7 @@
 					"en":"Color Schemes",
 					"ru":"Цветовые схемы"
 				}
-			},		
+			},
 			{
 				"id":"option-navigation",
 				"translations":{
@@ -145,26 +145,33 @@
 					"en":"Header",
 					"ru":"Хедер"
 				}
-			},	
+			},
 			{
 				"id":"option-page",
 				"translations":{
 					"en":"Page",
 					"ru":"Страница"
 				}
-			},		
+			},
 			{
 				"id":"option-footer",
 				"translations":{
 					"en":"Footer",
 					"ru":"Футер"
 				}
-			},		
+			},
 			{
 				"id":"option-typography",
 				"translations":{
 					"en":"Typography",
 					"ru":"Типографика"
+				}
+			},
+			{
+				"id":"option-portfolio",
+				"translations":{
+					"en":"Portfolio",
+					"ru":"Портфолио"
 				}
 			},
 			{
@@ -190,29 +197,29 @@
 			}
 		],
 
-		"wordpress":	
-		[			
+		"wordpress":
+		[
 			{
 				"id":"option-general",
 				"translations":{
 					"en":"General",
 					"ru":"Общие"
 				}
-			},			
+			},
 			{
 				"id":"option-grid",
 				"translations":{
 					"en":"Grid",
 					"ru":"Сетка"
 				}
-			},		
+			},
 			{
 				"id":"option-blog",
 				"translations":{
 					"en":"Blog",
 					"ru":"Блог"
 				}
-			},					
+			},
 			{
 				"id":"option-styling",
 				"translations":{
@@ -226,7 +233,7 @@
 					"en":"Color Schemes",
 					"ru":"Цветовые схемы"
 				}
-			},		
+			},
 			{
 				"id":"option-navigation",
 				"translations":{
@@ -240,21 +247,21 @@
 					"en":"Header",
 					"ru":"Хедер"
 				}
-			},	
+			},
 			{
 				"id":"option-page",
 				"translations":{
 					"en":"Page",
 					"ru":"Страница"
 				}
-			},		
+			},
 			{
 				"id":"option-footer",
 				"translations":{
 					"en":"Footer",
 					"ru":"Футер"
 				}
-			},		
+			},
 			{
 				"id":"option-typography",
 				"translations":{
@@ -278,29 +285,29 @@
 			}
 		],
 
-		"woocommerce":	
-		[			
+		"woocommerce":
+		[
 			{
 				"id":"option-general",
 				"translations":{
 					"en":"General",
 					"ru":"Общие"
 				}
-			},			
+			},
 			{
 				"id":"option-grid",
 				"translations":{
 					"en":"Grid",
 					"ru":"Сетка"
 				}
-			},		
+			},
 			{
 				"id":"option-blog",
 				"translations":{
 					"en":"Blog",
 					"ru":"Блог"
 				}
-			},					
+			},
 			{
 				"id":"option-styling",
 				"translations":{
@@ -314,7 +321,7 @@
 					"en":"Color Schemes",
 					"ru":"Цветовые схемы"
 				}
-			},		
+			},
 			{
 				"id":"option-navigation",
 				"translations":{
@@ -328,21 +335,21 @@
 					"en":"Header",
 					"ru":"Хедер"
 				}
-			},	
+			},
 			{
 				"id":"option-page",
 				"translations":{
 					"en":"Page",
 					"ru":"Страница"
 				}
-			},		
+			},
 			{
 				"id":"option-footer",
 				"translations":{
 					"en":"Footer",
 					"ru":"Футер"
 				}
-			},		
+			},
 			{
 				"id":"option-typography",
 				"translations":{

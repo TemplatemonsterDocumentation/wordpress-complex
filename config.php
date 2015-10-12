@@ -1,4 +1,4 @@
-<?php 
+<?php
 include_once 'functions.php';
 
 $path = dirname($_SERVER['PHP_SELF']);
@@ -7,7 +7,8 @@ $path = dirname($_SERVER['PHP_SELF']);
  * List of allowed project names
  * @var array
  */
-$allowedProjects = array('cherryframework4', 'wordpress', 'monstroid', 'woocommerce');
+//$allowedProjects = array('cherryframework4', 'wordpress', 'monstroid', 'woocommerce');
+$allowedProjects = array('monstroid', 'cherryframework4', 'wordpress', 'woocommerce');
 $defaultProject = $project = $allowedProjects[0]; // default project equals first object in array above
 if (isset($_REQUEST['project'])) {
     $project = allowedParameterValue($_REQUEST['project'], $allowedProjects);
@@ -23,7 +24,7 @@ switch ($project) {
         break;
     case 'wordpress':
         $projectTextLogo = '';
-        $projectTitle = 'WordPress Themes Documentation v4-0';   
+        $projectTitle = 'WordPress Themes Documentation v4-0';
         break;
      case 'woocommerce':
         $projectTextLogo = '';
@@ -31,7 +32,7 @@ switch ($project) {
         break;
     default:
         $projectTextLogo = '';
-        $projectTitle = 'Cherry Framework 4 Documentation';     
+        $projectTitle = 'Cherry Framework 4 Documentation';
         break;
 }
 
@@ -57,7 +58,7 @@ if (file_exists(dirname(__FILE__) . "/img/favicon_" . $project . ".ico")) {
  * List of available languages
  * @var array
  */
-$allowedLanguages = array('en');
+$allowedLanguages = array('en', 'ru', 'es');
 $lang = $allowedLanguages[0];
 if (isset($_REQUEST['lang'])) {
     $lang = allowedParameterValue($_REQUEST['lang'], $allowedLanguages);

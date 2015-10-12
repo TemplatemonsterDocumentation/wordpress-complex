@@ -19,7 +19,7 @@
 <p>Now you can create a new template based on the default one. It will get a name with an ordinal prefix and
    shortcode name <strong>[Shortcode Name][N]</strong>, e.g. <strong>post_1</strong>.
    The shortcode name will be displayed in the list and in the visual editor title. The template will be
-   physically stored in the \wp-content\themes\cherryframework4\templates\shortcodes\ directory.</p>
+   physically stored in the \wp-content\uploads\templates\shortcodes\shortcodes_name\*-N.tmpl directory.</p>
 <figure class="img-polaroid"><img src="img/wordpress/1shortcode-editor-new-template.png" alt=""></figure>
 
 <p>You can rename, copy and delete the template. While copying, <strong>Duplicate</strong> the template. It will

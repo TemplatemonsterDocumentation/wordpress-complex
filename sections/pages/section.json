@@ -1,4 +1,4 @@
-{	
+{
 	"id":"pages",
 	"translations":
 	{
@@ -8,30 +8,51 @@
 	"articles":
 	{
 		"cherryframework4":
-		[],	
+		[],
 
-		"monstroid":	
-		[	
+		"monstroid":
+		[
 			{
 				"id":"page-templates",
 				"translations":{
 					"en":"Page templates",
 					"ru":"Шаблоны страниц"
 				}
-			},	
+			},
 			{
 				"id":"home-page",
 				"translations":{
 					"en":"Setting up the home page",
 					"ru":"Настройка домашней страницы"
 				}
+			},
+			{
+				"id":"page-settings",
+				"translations":{
+					"en":"Page settings",
+					"ru":"Дополнительные настройки страницы"
+				}
+			},
+			{
+				"id":"custom-paddings",
+				"translations":{
+					"en":"Setting up custom paddings on page",
+					"ru":"Настройка отступов на странице"
+				}
+			},
+			{
+				"id":"contact-form",
+				"translations":{
+					"en":"Contact form",
+					"ru":"Форма обратной связи"
+				}
 			}
 		],
 
-		"wordpress":	
+		"wordpress":
 		[],
 
-		"woocommerce":	
+		"woocommerce":
 		[]
 	}
 }

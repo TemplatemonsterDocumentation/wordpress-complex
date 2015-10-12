@@ -1,4 +1,4 @@
-{	
+{
 	"id":"extras",
 	"translations":
 	{
@@ -8,7 +8,7 @@
 	"articles":
 	{
 		"cherryframework4":
-		[		
+		[
 			{
 				"id":"help",
 				"translations":{
@@ -36,11 +36,11 @@
 					"en":"Google Services",
 					"ru":"Google Сервисы"
 				}
-			}		
-		],	
+			}
+		],
 
-		"monstroid":	
-		[		
+		"monstroid":
+		[
 			{
 				"id":"help",
 				"translations":{
@@ -75,11 +75,19 @@
 					"en":"License FAQs",
 					"ru":"License FAQs"
 				}
-			}		
+			},
+			{
+				"id":"change-log",
+				"translations":{
+					"en":"Monstroid change log",
+					"ru":"Журнал изменений Monstroid"
+				}
+			}
+
 		],
 
-		"wordpress":	
-		[		
+		"wordpress":
+		[
 			{
 				"id":"help",
 				"translations":{
@@ -107,11 +115,11 @@
 					"en":"Google Services",
 					"ru":"Google Сервисы"
 				}
-			}		
+			}
 		],
 
-		"woocommerce":	
-		[		
+		"woocommerce":
+		[
 			{
 				"id":"help",
 				"translations":{
@@ -139,7 +147,7 @@
 					"en":"Google Services",
 					"ru":"Google Сервисы"
 				}
-			}		
+			}
 		]
 	}
 }

@@ -8,7 +8,7 @@
 		"shortcodes",
 		"cherry-plugins"
 	],
-	"monstroid": 
+	"monstroid":
 	[
 		"introduction",
 		"template-installation",
@@ -16,17 +16,18 @@
 		"footer",
 		"pages",
 		"portfolio",
-		"blog",		
+		"blog",
 		"shop",
 		"posts-categories",
 		"styling-options",
 		"cherry-options",
 		"static-area-builder",
-		"shortcodes",	
-		"cherry-plugins",			
+		"shortcodes",
+		"cherry-plugins",
 		"third-party-plugins",
-		"extras"
-	],	
+		"extras",
+		"tricks"
+	],
 	"wordpress":
 	[
 		"introduction",
@@ -36,7 +37,7 @@
 		"static-area-builder",
 		"shortcodes",
 		"cherry-plugins",
-		"third-party-plugins",		
+		"third-party-plugins",
 		"extras"
 	],
 	"woocommerce":
@@ -48,7 +49,7 @@
 		"static-area-builder",
 		"shortcodes",
 		"cherry-plugins",
-		"third-party-plugins",		
+		"third-party-plugins",
 		"extras"
 	]
 }
