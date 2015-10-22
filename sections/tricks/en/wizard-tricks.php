@@ -1,4 +1,3 @@
-
 	<h3>Wizard tricks</h3>
 
 	<h4>The solution of possible errors</h4>
@@ -31,13 +30,13 @@
 		<li>
 			<dl class="inline-term">
 				<dt>The package could not be installed. The plugin contains no files. Plugin install failed.</dt>
-				<dd>Обнулить хосты для ключа, на сайте c ошибкой - перейти по ссылке wp-admin/tools.php?page=monstroid-wizard&step=enter-key&type=premium, активировать ключ заново и запустить установку повторно.</dd>
+				<dd>Please contact technical support.</dd>
 			</dl>
 		</li>
 		<li>
 			<dl class="inline-term">
 				<dt>Activation request error 0-. Please try again later.</dt>
-				<dd>Сайт клиента не поддерживает удаленные запросы через HTTPS - необходимо обратится в тех-поддержку.</dd>
+				<dd>User site not supports the remote HTTPS requests - please contact the technical support.</dd>
 			</dl>
 		</li>
 	</ul>

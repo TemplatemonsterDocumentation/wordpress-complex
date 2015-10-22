@@ -52,6 +52,42 @@
             </dd>
         </dl>
     </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Landing page</dt>
+            <dd>
+                Define the page in which will be use landing navigation.
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>To Top</dt>
+            <dd>
+                Define - display or hide "To top" button.
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>404 content</dt>
+            <dd>
+                Visual editor for crating 404 page content.
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Google Analytics Code</dt>
+            <dd>
+                Text area for Google Analytics code.s
+            </dd>
+        </dl>
+    </li>
 </ul>
 
 <figure class="img-polaroid">

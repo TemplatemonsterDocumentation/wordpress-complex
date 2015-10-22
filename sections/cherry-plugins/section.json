@@ -227,7 +227,14 @@
 				"id":"monstroid-dashboard",
 				"translations":{
 					"en":"Monstroid dashboard",
-					"ru":"Панель настройки"
+					"ru":"Monstroid dashboard"
+				}
+			},
+			{
+				"id":"style-switcher",
+				"translations":{
+					"en":"Cherry Style Switcher",
+					"ru":"Cherry Style Switcher"
 				}
 			}
 		],

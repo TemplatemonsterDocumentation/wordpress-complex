@@ -92,6 +92,20 @@
 					"en":"Cookie Banner",
 					"ru":"Cookie Баннер"
 				}
+			},
+			{
+				"id":"option-simple-slider",
+				"translations":{
+					"en":"Slider",
+					"ru":"Слайдер"
+				}
+			},
+			{
+				"id":"option-olark",
+				"translations":{
+					"en":"Olark live chat",
+					"ru":"Olark чат"
+				}
 			}
 		],
 
@@ -137,6 +151,13 @@
 				"translations":{
 					"en":"Navigation",
 					"ru":"Навигация"
+				}
+			},
+			{
+				"id":"option-megamenu",
+				"translations":{
+					"en":"Megamenu",
+					"ru":"Мегаменю"
 				}
 			},
 			{
@@ -194,7 +215,29 @@
 					"en":"Landing Page",
 					"ru":"Landing Page"
 				}
+			},
+			{
+				"id":"option-simple-slider",
+				"translations":{
+					"en":"Slider",
+					"ru":"Слайдер"
+				}
+			},
+			{
+				"id":"option-olark",
+				"translations":{
+					"en":"Olark live chat",
+					"ru":"Olark чат"
+				}
+			},
+			{
+				"id":"option-style-switcher",
+				"translations":{
+					"en":"Style Switcher",
+					"ru":"Style Switcher"
+				}
 			}
+
 		],
 
 		"wordpress":
