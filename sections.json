@@ -50,6 +50,7 @@
 		"shortcodes",
 		"cherry-plugins",
 		"third-party-plugins",
-		"extras"
+		"extras",
+		"woocommerce-recommended"
 	]
 }

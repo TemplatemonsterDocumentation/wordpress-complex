@@ -1,0 +1,51 @@
+{
+	"id":"woocommerce-recommended",
+	"translations":
+	{
+		"en":"Recommended plugins",
+		"ru":"Рекомендованные плагины"
+	},
+	"articles":
+	{
+		"cherryframework4":
+		[],
+
+		"monstroid":
+		[],
+
+		"wordpress":
+		[],
+
+		"woocommerce":
+		[
+			{
+				"id":"yith-woocommerce-compare",
+				"translations":{
+					"en":"Yith woocommerce compare",
+					"ru":"Yith woocommerce compare"
+				}
+			},
+			{
+				"id":"yith-woocommerce-quick-view",
+				"translations":{
+					"en":"Yith woocommerce quick view",
+					"ru":"Yith woocommerce quick view"
+				}
+			},
+			{
+				"id":"yith-woocommerce-wishlist",
+				"translations":{
+					"en":"Yith woocommerce wishlist",
+					"ru":"Yith woocommerce wishlist"
+				}
+			},
+			{
+				"id":"yith-woocommerce-zoom-magnifier",
+				"translations":{
+					"en":"Yith woocommerce zoom magnifier",
+					"ru":"Yith woocommerce zoom magnifier"
+				}
+			}
+		]
+	}
+}
