@@ -8,3 +8,5 @@
 </p>
 
 <figure class="img-polaroid"><img src="img/woocommerce/woocommerce-yith-wishlist-panel.png" alt=""></figure>
+
+<figure class="img-polaroid"><img src="img/woocommerce/woocommerce-yith-wishlist-panel.png" alt=""></figure>
