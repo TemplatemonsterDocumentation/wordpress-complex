@@ -7,8 +7,9 @@ $path = dirname($_SERVER['PHP_SELF']);
  * List of allowed project names
  * @var array
  */
-//$allowedProjects = array('cherryframework4', 'wordpress', 'monstroid', 'woocommerce');
-$allowedProjects = array('monstroid', 'cherryframework4', 'wordpress', 'woocommerce');
+
+$allowedProjects = array('cherryframework4', 'wordpress', 'monstroid', 'woocommerce');
+//$allowedProjects = array('monstroid', 'cherryframework4', 'wordpress', 'woocommerce');
 $defaultProject = $project = $allowedProjects[0]; // default project equals first object in array above
 if (isset($_REQUEST['project'])) {
     $project = allowedParameterValue($_REQUEST['project'], $allowedProjects);
