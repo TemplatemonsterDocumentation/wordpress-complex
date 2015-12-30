@@ -20,3 +20,7 @@
 	<li><b>.col-lg-*</b>: - width for displays with horizontal screen resolution more or equal to 1200px</li>
 </ul>
 <p>Also you can define item display conditions. Using conditions fields you can display statiс item for example only for logged in users and only at the home page (as displayed on the image).</p>
+
+<div class="alert alert-info">
+	For more information, please visit our <a href="http://info.template-help.com/help/cherryframework-4-how-to-use-statics-editor.html#prettyPhoto/0/" target="blank">video tutorial</a>
+</div>

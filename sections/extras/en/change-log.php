@@ -1,5 +1,342 @@
 <h3>Monstroid change log</h3>
 
+
+<h4>Monstroid Update 1.1.1</h4>
+
+<p>Theme:</p>
+<ul  class="marked-list">
+	<li>ADD: Minimal skin</li>
+	<li>ADD: ‘row’ paddings check in flat functions</li>
+	<li>ADD: Countdown shortcode support</li>
+	<li>ADD: New home business page</li>
+	<li>ADD: Support new slider presets</li>
+	<li>ADD: Single services page style</li>
+	<li>UPD: ‘flat-skin-functions.php’</li>
+	<li>UPD: Styles for new moto shortcodes</li>
+	<li>UPD: Font awesome version 4.4.0 &gt; 4.5.0</li>
+	<li>FIX: Mailchimp updates fixes</li>
+	<li>FIX: Slider styles</li>
+	<li>FIX:  Woocommerce right sidebar bug</li>
+	<li>FIX:  Woocommerce function for statics</li>
+	<li>FIX:  Icon shortcode</li>
+	<li>FIX:  Title box styles</li>
+	<li>FIX:  Menu hover, menu height js scripts</li>
+	<li>FIX: Styles issues</li>
+	<li>FIX: Home business 2, home-business-3</li>
+	<li>FIX: Extra responsive styles</li>
+	<li>FIX: Follow &amp; sharing shortcodes styles</li>
+	<li>FIX: 404 default value</li>
+</ul>
+
+<p>Plugins</p>
+<ul  class="marked-list">
+	<li>Сherry data manager </br><h6>Version 1.0.9</h6>
+
+		<ul  class="marked-list">
+			<li>UPD: Prepare Data Manager for partial export</li>
+			<li>UPD: Translation files</li>
+			<li>UPD: Installation finish re-factoring</li>
+			<li>UPD: Allow to skip new live demo URLs while importing</li>
+			<li>UPD: Improve 'clean_files' method in installation tools</li>
+			<li>FIX: Correctly remove all required files after shop sample data installation</li>
+			<li>FIX: Prevent PHP errors while widgets importing</li>
+		</ul>
+	</li>
+	<li>Cherry services </br><h6>Version 1.0.4</h6>
+		<ul  class="marked-list">
+			<li>UPD: new custom page templates registration logic</li>
+			<li>FIX: WordPress Code Style Guide</li>
+			<li>FIX: Setting posts per archive page</li>
+			<li>FIX: Services category listing template</li>
+		</ul>
+	</li>
+	<li>Cherry style switcher </br><h6>Version 1.0.4.1</h6>
+		<ul  class="marked-list">
+			<li>FIX: success url redirect</li>
+		</ul>
+	</li>
+	<li>Cherry portfolioVersion </br><h6>Version 1.0.4.2</h6>
+		<ul  class="marked-list">
+			<li>ADD: .pot file</li>
+			<li>FIX: Updater logic</li>
+			<li>FIX: Coding standards</li>
+			<li>FIX: WooCommerce-plugins conflict</li>
+			<li>FIX: Set active shortcode in dialog</li>
+		</ul>
+	</li>
+	<li>Cherry sidebar manager </br><h6>Version 1.0.5.1</h6>
+		<ul  class="marked-list">
+			<li>UPD: Localized files</li>
+			<li>FIX: Empty sidebar id value</li>
+			<li>ADD: All sidebare list filter</li>
+		</ul>
+	</li>
+	<li>Monstroid Dashboard </br><h6>Version 1.1.0</h6>
+		<ul  class="marked-list">
+			<li>FIX: WordPress Code Style Guide</li>
+			<li>FIX: Setting posts per archive page</li>
+			<li>FIX: Services category listing template</li>
+		</ul>
+	</li>
+</ul>
+
+<h4>Monstroid Update 1.1.0</h4>
+
+<p>Theme:</p>
+<ul  class="marked-list">
+	<li>UPD: Documentation Link</li>
+	<li>FIX: change tmpl to monstroid thumbs</li>
+	<li>FIX: header statics conditions</li>
+	<li>FIX: wpml-compatibility</li>
+	<li>FIX: dark skin</li>
+	<li>FIX: woocommerce placeholder image</li>
+	<li>FIX: woocommerce top sidebar</li>
+	<li>FIX: woocommerce dinamic styles</li>
+	<li>FIX: woocommerce single carousel styles</li>
+	<li>FIX: woocommerce cart now work on every page in every sidebar (worked only on woo pages)</li>
+	<li>FIX: woocommerce widget styles</li>
+	<li>FIX: woocommerce wishlist info message</li>
+	<li>FIX: flat skin base scripts &amp; styles</li>
+	<li>FIX: vertical align sub-menu arrow</li>
+	<li>FIX: titles responsive</li>
+	<li>ADD: Minimal skin</li>
+	<li>ADD: default options portfolio filters</li>
+	<li>ADD: new options for title box shortcode</li>
+	<li>ADD: new icon shortcode options</li>
+	<li>ADD: new title_box align variable</li>
+</ul>
+
+<p>CherryFramework4</p>
+<ul  class="marked-list">
+	<li>ADD: class <code>Cherry_Current_Page</code> to store and quick access to page specific data</li>
+	<li>ADD: <code>header background</code> to current page data</li>
+	<li>ADD: PHP-class <code>Cherry_CSS_Grabber</code>
+	</li>
+	<li>ADD: <code>cherry_option_</code> . $name filter</li>
+	<li>UPD: Refactoring for getting container classes functions</li>
+	<li>UPD: Improved <code>cherry_video_atts</code> function-callback</li>
+	<li>UPD: admin/public files require</li>
+	<li>UPD: Moved a <code>cherry_get_styles</code> function from <code>styles.php</code> to <code>utils.php</code> file</li>
+	<li>UPD: Partical export</li>
+	<li>UPD: Statics import</li>
+	<li>UPD: Compressed backend stylesheets</li>
+	<li>UPD: Using a native WordPress function <code>the_post_navigation</code>
+	</li>
+	<li>UPD: Localized files</li>
+	<li>UPD: Default options value</li>
+	<li>FIX: <a data-permission-text="Issue title is private" data-error-text="Failed to load issue title" data-id="70824640" data-url="https://github.com/CherryFramework/cherryframework4/issues/26" class="issue-link js-issue-link" href="https://github.com/CherryFramework/cherryframework4/issues/26">CherryFramework/cherryframework4#26</a>
+	</li>
+	<li>FIX: <a data-permission-text="Issue title is private" data-error-text="Failed to load issue title" data-id="92792382" data-url="https://github.com/CherryFramework/cherryframework4/issues/46" class="issue-link js-issue-link" href="https://github.com/CherryFramework/cherryframework4/issues/46">CherryFramework/cherryframework4#46</a>
+	</li>
+	<li>FIX: <a data-permission-text="Issue title is private" data-error-text="Failed to load issue title" data-id="92795647" class="issue-link js-issue-link" href="https://github.com/CherryFramework/cherryframework4/issues/48" title="Mobile menu: Accessibility improvement ">CherryFramework/cherryframework4#48</a>
+	</li>
+	<li>FIX: Modification of the list of image sizes that are available in the WP Media Library</li>
+	<li>FIX: <code>ui-typography</code> element</li>
+	<li>FIX: Deregister a <code>WooCommerce</code> backend style</li>
+	<li>FIX: <code>aria-controls</code> attribute in toggle menu button</li>
+	<li>FIX: iframe css</li>
+	<li>DEL: <code>wp_audio_shortcode</code> filter</li>
+	<li>DEL: <code>ui-notice</code> element</li>
+</ul>
+
+<p>Plugins</p>
+<ul  class="marked-list">
+	<li>Cherry-charts
+		<ul  class="marked-list">
+			<li>ADD: multi progress bar</li>
+			<li>UPD: localization files</li>
+			<li>FIX: HTML-validation errors</li>
+		</ul>
+	</li>
+	<li>Сherry data manager
+		<ul  class="marked-list">
+			<li>FIX: correctly replace host for video_preview shortocode</li>
+		</ul>
+	</li>
+	<li>Cherry Shortcodes
+		<ul  class="marked-list">
+			<li>NEW: <code>[countdown]</code> shortcode</li>
+			<li>ADD: New shortcodes dynamic style management logic</li>
+			<li>ADD: New additional variable for filter <code>cherry_shortcode_box_format</code>
+			</li>
+			<li>ADD: <code>scoped</code> attribute to the style tag</li>
+			<li>UPD: Localized files</li>
+			<li>FIX: <code>content_type</code> values in <code>[posts]</code> shortcode</li>
+			<li>FIX: Correctly process icon when <code>none</code> value passed</li>
+			<li>FIX: Backward compatibility for <code>[title_box]</code> shortcode</li>
+		</ul>
+	</li>
+	<li>Cherry Shortcode Templater
+		<ul  class="marked-list">
+			<li>ADD: .pot file</li>
+			<li>FIX: Updater logic</li>
+			<li>FIX: Coding standards</li>
+			<li>FIX: WooCommerce-plugins conflict</li>
+			<li>FIX: Set active shortcode in dialog</li>
+		</ul>
+	</li>
+	<li>Cherry Style Switcher
+		<ul  class="marked-list">
+			<li>FIX:empty preset url generate</li>
+			<li>FIX: redirect url generate</li>
+			<li>ADD: localized files</li>
+			<li>ADD: cherry static settings to preset file</li>
+			<li>UPD: refactoring code in accordance with the TM style guide</li>
+		</ul>
+	</li>
+	<li>Cherry Services
+		<ul  class="marked-list">
+			<li>FIX: WordPress Code Style Guide</li>
+			<li>FIX: Setting posts per archive page</li>
+			<li>FIX: Services category listing template</li>
+		</ul>
+	</li>
+	<li>Cherry sidebar manager
+		<ul  class="marked-list">
+			<li>UPD: Localized files</li>
+		</ul>
+	</li>
+	<li>Cherry team
+		<ul  class="marked-list">
+			<li>FIX: Display flex on iOS</li>
+			<li>FIX: Add CSS clearings to prevent layout breaking</li>
+			<li>FIX: Prevent adding empty items into social list</li>
+		</ul>
+	</li>
+	<li>Cherry testimonials
+		<ul  class="marked-list">
+			<li>NEW: Custom fields in metabox - <code>position</code>, <code>company name</code>
+			</li>
+			<li>ADD: Pass template name into testimonials block wrapper CSS classes</li>
+			<li>UPD: Minify CSS</li>
+			<li>UPD: Translated string</li>
+		</ul>
+	</li>
+	<li>Monstroid Dashboard
+		<ul  class="marked-list">
+			<li>UPD: Localized files</li>
+			<li>UPD: CSS improvements</li>
+			<li>UPD: Monstroid Documetation link</li>
+			<li>FIX: prevent plugin from rewriting menus positions for existing items.</li>
+		</ul>
+	</li>
+	<li>Motopress Cherryframework4
+		<ul  class="marked-list">
+			<li>UPD: Localized files</li>
+			<li>FIX: <code>team</code>-shortocode bug</li>
+			<li>ADD: page templates</li>
+		</ul>
+	</li>
+</ul>
+
+
+<h4>Monstroid Update 1.0.6</h4>
+
+<p>Theme:</p>
+<ul  class="marked-list">
+	<li>ADD: New meta box 'paddings' for pages.</li>
+	<li>ADD: Text domain.</li>
+	<li>ADD: Woocommerce check.</li>
+	<li>DEL: <code>[template_url]</code> shortcode.</li>
+	<li>DEL: Woocommerce dependecies.</li>
+	<li>FIX: Woocommerce product thumbnails height.</li>
+	<li>FIX: Woocommerce scripts.</li>
+	<li>FIX: Woocommerce menu hamburger styles.</li>
+	<li>FIX: Responsive menu.</li>
+	<li>FIX: Team shortcode.</li>
+	<li>FIX: Client single pages.</li>
+	<li>FIX: Ie10 issues.</li>
+	<li>FIX: Ul default styles.</li>
+	<li>FIX: Portfolio masonry with sidebars.</li>
+	<li>FIX: 2 sidebars portfolio fixes.</li>
+	<li>FIX: Gallery/Slider.</li>
+</ul>
+<p>CherryFramework4</p>
+<ul  class="marked-list">
+	<li>NEW: Option for <code>Home</code> page title in breadcrumbs</li>
+	<li>NEW: Macros-logic for comment item</li>
+	<li>ADD: Filter <code>cherry_dynamic_styles_before</code> to add custom dynamic style before main</li>
+	<li>ADD: Filter to archive <code>page-layout</code> option</li>
+	<li>ADD: <code>Breadcrumbs mobile</code> option hint</li>
+	<li>ADD: Allow to use font icons for breadcrumbs labels</li>
+	<li>UPD: Compressed utils-scripts</li>
+	<li>UPD: Moved style for <code>Secodary Menu</code> to the <code>_wpnative.scss</code> file</li>
+	<li>FIX: PHP-errors if <code>MotoPress Slider</code> not activated</li>
+	<li>FIX: PHP-notices in <code>Cherry_Layouts</code> and <code>Cherry_Grid_Type</code> metaboxes</li>
+	<li>FIX: Interface elements</li>
+	<li>FIX: <code>WooCommerce</code> compatibility</li>
+	<li>FIX: Style for a <code>calendar</code> widget</li>
+	<li>FIX: Style for <code>gallery</code> item with long caption</li>
+</ul>
+<p>Plugins</p>
+<ul  class="marked-list">
+	<li>cherry-shortcodes
+		<ul  class="marked-list">
+			<li>UPD: Pass additional parameters into <code>cherry_shortcodes_comments_template_callbacks</code> filter</li>
+			<li>UPD: <code>class</code> attribute name for all ahortcodes</li>
+			<li>UPD: Compressed assets</li>
+			<li>UPD: <code>color-picker</code> interface element (backend)</li>
+			<li>FIX: Crop image tool</li>
+			<li>FIX: <code>[carousel]</code> shortcode</li>
+			<li>FIX: Anchor button selector</li>
+			<li>FIX: <code>[video-preview]</code> shortcode</li>
+			<li>FIX: Image icon processing</li>
+			<li>ADD: Attributes <code>size_sm</code> and <code>size_xs</code> for <code>[spacer]</code> shortcode</li>
+			<li>ADD: Pass current template name into shortcode wrapper CSS classes (for <code>posts</code>, <code>swiper_carousel</code> and <code>banner</code> shortcodes)</li>
+			<li>ADD: <code>align</code> attribute for <code>[icon]</code> shortcode</li>
+			<li>ADD: Filter to the <code>[box]</code> shortcode format</li>
+			<li>ADD: Filter <code>cherry_shortcodes_list_classes</code> to modify <code>[list]</code> shortcode classes</li>
+			<li>ADD: <code>[google_map]</code> multi marker possibility</li>
+		</ul>
+	</li>
+	<li>cherry-sidebar-manager
+		<ul  class="marked-list">
+			<li>FIX: Error in sidebar array</li>
+			<li>FIX: Function <code>set_custom_sidebar_array</code></li>
+		</ul>
+	</li>
+	<li>cherry-team
+		<ul  class="marked-list">
+			<li>FIX: Display flex on iOS</li>
+			<li>FIX: Add CSS clearings to prevent layout breaking</li>
+			<li>FIX: Prevent adding empty items into social list</li>
+		</ul>
+	</li>
+	<li>cherry-portfolio
+		<ul  class="marked-list">
+			<li>FIX: post status publish only</li>
+			<li>ADD: new options for order/orderby default values</li>
+			<li>ADD: target link option for external link</li>
+			<li>FIX: video single post, mobile device problems</li>
+			<li>FIX: interface ui-item master class</li>
+			<li>FIX: grid layout mode js plugin</li>
+		</ul>
+	</li>
+	<li>motopress-cherryframework4
+		<ul  class="marked-list">
+			<li>NEW: attribute in <code>col</code> shortcode - background-size</li>
+			<li>FIX: color picker js-error</li>
+		</ul>
+	</li>
+	<li>cherry-blog-layouts
+		<ul  class="marked-list">
+			<li>FIX: assets include refactoring</li>
+			<li>UPD: Optimizing</li>
+		</ul>
+	</li>
+	<li>cherry-style-switcher
+		<ul  class="marked-list">
+			<li>FIX: get option function check</li>
+			<li>UPD: success url navigation</li>
+			<li>ADD: coming soon class</li>
+			<li>ADD: mobile version</li>
+		</ul>
+	</li>
+</ul>
+
+
+
+
 <h4>Monstroid Update 1.0.5</h4>
 
 <p>Theme:</p>
@@ -36,7 +373,7 @@
 			<li>UPD: Optimize assets in interface builder</li>
 		</ul>
 	</li>
-	
+
     <li>cherry-shortcodes
 		<ul  class="marked-list">
 			<li>UPD: Set of default attributes in posts shortcode.</li>
@@ -167,7 +504,7 @@
     <li>WooCommerce Products Quick View</li>
     <li>YITH WooCommerce Zoom Magnifier</li>
     <li>Monstroid dashboard</li>
-	<li>Motopress-cherryframework4 
+	<li>Motopress-cherryframework4
 		<ul  class="marked-list">
 			<li>Filter for bg-type attributes</li>
 		</ul>
@@ -191,17 +528,17 @@
 </ul>
 <p>Plugins:</p>
 <ul  class="marked-list">
-	<li>Cherry-white label 
+	<li>Cherry-white label
 		<ul  class="marked-list">
 			<li>Fix login page</li>
 		</ul>
 	</li>
-    <li>Cherry-shortcode 
+    <li>Cherry-shortcode
 		<ul  class="marked-list">
 			<li>Fix style</li>
 		</ul>
 	</li>
-	<li>Cherry-social 
+	<li>Cherry-social
 		<ul  class="marked-list">
 			<li>Fix: Follow Us networks option</li>
 		</ul>
@@ -218,7 +555,7 @@
 </ul>
 <p>Browser:</p>
 <ul  class="marked-list">
-	<li>Safari 
+	<li>Safari
 		<ul  class="marked-list">
 			<li>Fix: transition bug</li>
 		</ul>

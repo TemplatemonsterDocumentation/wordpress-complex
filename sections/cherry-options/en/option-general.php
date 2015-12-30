@@ -84,7 +84,7 @@
         <dl class="inline-term">
             <dt>Google Analytics Code</dt>
             <dd>
-                Text area for Google Analytics code.s
+                Text area for Google Analytics code. For more information, how to add Google Analytics code, please visit our <a href="http://info.template-help.com/help/monstroid-how-to-add-google-analytics-code.html#prettyPhoto/0/" target="blank">video tutorial</a>
             </dd>
         </dl>
     </li>

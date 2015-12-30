@@ -34,6 +34,10 @@
         class="icon-search"></i><span></span>
 </figure>
 
+<div class="alert alert-info">
+    To finding out, how to disable/enable arrows markup, please visit our <a href="http://info.template-help.com/help/monstroid-how-to-disableenable-arrows-markup.html#prettyPhoto/0/" target="blank">video tutorial</a>
+</div>
+
 
 <h4>Pagination</h4>
 

@@ -101,6 +101,13 @@
 				}
 			},
 			{
+				"id":"mailer",
+				"translations":{
+					"en":"Cherry Mailer",
+					"ru":"Cherry Mailer"
+				}
+			},
+			{
 				"id":"chat",
 				"translations":{
 					"en":"Cherry Chat",
@@ -210,10 +217,24 @@
 				}
 			},
 			{
+				"id":"mailer",
+				"translations":{
+					"en":"Cherry Mailer",
+					"ru":"Cherry Mailer"
+				}
+			},
+			{
 				"id":"chat",
 				"translations":{
 					"en":"Cherry Chat",
 					"ru":"Cherry Chat"
+				}
+			},
+			{
+				"id":"rank",
+				"translations":{
+					"en":"Cherry Rank",
+					"ru":"Cherry Rank"
 				}
 			},
 			{
