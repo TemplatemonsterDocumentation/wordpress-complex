@@ -101,7 +101,14 @@
 				}
 			},
 			{
-				"id":"wordpress-countdown",
+				"id":"booked-appointment",
+				"translations":{
+					"en":"Booked - Appointment Booking",
+					"ru":"Booked - Appointment Booking"
+				}
+			},
+			{
+				"id":"widget-countdown",
 				"translations":{
 					"en":"WordPress Countdown",
 					"ru":"WordPress Countdown"
