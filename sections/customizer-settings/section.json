@@ -1,0 +1,41 @@
+{
+	"id":"customizer-settings",
+	"translations":
+	{
+		"en":"Customizer",
+		"ru":"Customizer"
+	},
+	"articles":
+	{
+		"tm":
+		[
+			{
+				"id":"logo-and-favicon",
+				"translations":{
+					"en":"Logo & Favicon",
+					"ru":"Логотип и фавиконка"
+				}
+			}
+		],
+
+		"cherryframework4":
+		[
+
+		],
+
+		"monstroid":
+		[
+
+		],
+
+		"wordpress":
+		[
+
+		],
+
+		"woocommerce":
+		[
+
+		]
+	}
+}

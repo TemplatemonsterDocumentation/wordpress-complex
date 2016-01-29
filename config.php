@@ -8,7 +8,7 @@ $path = dirname($_SERVER['PHP_SELF']);
  * @var array
  */
 
-$allowedProjects = array('cherryframework4', 'wordpress', 'monstroid', 'woocommerce');
+$allowedProjects = array('tm', 'cherryframework4', 'wordpress', 'monstroid', 'woocommerce');
 //$allowedProjects = array('monstroid', 'cherryframework4', 'wordpress', 'woocommerce');
 $defaultProject = $project = $allowedProjects[0]; // default project equals first object in array above
 if (isset($_REQUEST['project'])) {
@@ -31,9 +31,13 @@ switch ($project) {
         $projectTextLogo = '';
         $projectTitle = 'WooCommerce Themes Documentation v4-0';
         break;
-    default:
+     case 'cherryframework4':
         $projectTextLogo = '';
         $projectTitle = 'Cherry Framework 4 Documentation';
+        break;
+    default:
+        $projectTextLogo = '';
+        $projectTitle = 'TM WordPress';
         break;
 }
 

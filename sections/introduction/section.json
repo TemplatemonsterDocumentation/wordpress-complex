@@ -8,12 +8,14 @@
 	"articles":
 	{
 		"cherryframework4":
-		[],	
-		"monstroid":	
 		[],
-		"wordpress":	
+		"tm":
 		[],
-		"woocommerce":	
+		"monstroid":
+		[],
+		"wordpress":
+		[],
+		"woocommerce":
 		[]
 	}
 }

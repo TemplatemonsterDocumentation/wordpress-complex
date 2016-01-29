@@ -7,6 +7,24 @@
 	},
 	"articles":
 	{
+		"tm":
+		[
+
+			{
+				"id":"engine-installation",
+				"translations":{
+					"en":"WordPress Engine Installation",
+					"ru":"Установка движка WordPress"
+				}
+			},
+			{
+				"id":"manual-install_tm",
+				"translations":{
+					"en":"Manual Installation",
+					"ru":"Ручная установка"
+				}
+			}
+		],
 		"cherryframework4":
 		[
 			{

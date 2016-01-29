@@ -1,4 +1,4 @@
-{	
+{
 	"id":"posts-categories",
 	"translations":
 	{
@@ -7,15 +7,8 @@
 	},
 	"articles":
 	{
-		"cherryframework4":
-		[		
-			{
-				"id":"adding-category",
-				"translations":{
-					"en":"Adding a category",
-					"ru":"Добавление категории"
-				}
-			},
+		"tm":
+		[
 			{
 				"id":"blog-post",
 				"translations":{
@@ -24,43 +17,21 @@
 				}
 			},
 			{
+				"id":"adding-category",
+				"translations":{
+					"en":"Adding a category",
+					"ru":"Добавление категории"
+				}
+			},
+			{
 				"id":"post-formats",
 				"translations":{
 					"en":"Post formats",
 					"ru":"Форматы постов"
 				}
-			},
-			{
-				"id":"slider-post",
-				"translations":{
-					"en":"Creating slider post",
-					"ru":"Создание записи слайдера"
-				}
-			},
-			{
-				"id":"portfolio-post",
-				"translations":{
-					"en":"Creating portfolio post",
-					"ru":"Добавление записи портфолио"
-				}
-			},
-			{
-				"id":"testimonial-post",
-				"translations":{
-					"en":"Creating testimonial post",
-					"ru":"Добавление отзывов"
-				}
-			},		
-			{
-				"id":"team-post",
-				"translations":{
-					"en":"Creating Our Team post",
-					"ru":"Добавление записи Наша команда"
-				}
 			}
-		],	
-
-		"monstroid":	
+		],
+		"cherryframework4":
 		[
 			{
 				"id":"adding-category",
@@ -103,7 +74,7 @@
 					"en":"Creating testimonial post",
 					"ru":"Добавление отзывов"
 				}
-			},		
+			},
 			{
 				"id":"team-post",
 				"translations":{
@@ -113,8 +84,8 @@
 			}
 		],
 
-		"wordpress":	
-		[		
+		"monstroid":
+		[
 			{
 				"id":"adding-category",
 				"translations":{
@@ -156,7 +127,7 @@
 					"en":"Creating testimonial post",
 					"ru":"Добавление отзывов"
 				}
-			},		
+			},
 			{
 				"id":"team-post",
 				"translations":{
@@ -166,8 +137,8 @@
 			}
 		],
 
-		"woocommerce":	
-		[		
+		"wordpress":
+		[
 			{
 				"id":"adding-category",
 				"translations":{
@@ -209,7 +180,60 @@
 					"en":"Creating testimonial post",
 					"ru":"Добавление отзывов"
 				}
-			},		
+			},
+			{
+				"id":"team-post",
+				"translations":{
+					"en":"Creating Our Team post",
+					"ru":"Добавление записи Наша команда"
+				}
+			}
+		],
+
+		"woocommerce":
+		[
+			{
+				"id":"adding-category",
+				"translations":{
+					"en":"Adding a category",
+					"ru":"Добавление категории"
+				}
+			},
+			{
+				"id":"blog-post",
+				"translations":{
+					"en":"Adding blog post",
+					"ru":"Создание записи блога"
+				}
+			},
+			{
+				"id":"post-formats",
+				"translations":{
+					"en":"Post formats",
+					"ru":"Форматы постов"
+				}
+			},
+			{
+				"id":"slider-post",
+				"translations":{
+					"en":"Creating slider post",
+					"ru":"Создание записи слайдера"
+				}
+			},
+			{
+				"id":"portfolio-post",
+				"translations":{
+					"en":"Creating portfolio post",
+					"ru":"Добавление записи портфолио"
+				}
+			},
+			{
+				"id":"testimonial-post",
+				"translations":{
+					"en":"Creating testimonial post",
+					"ru":"Добавление отзывов"
+				}
+			},
 			{
 				"id":"team-post",
 				"translations":{

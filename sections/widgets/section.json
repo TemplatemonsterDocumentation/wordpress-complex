@@ -1,0 +1,41 @@
+{
+	"id":"widgets",
+	"translations":
+	{
+		"en":"Widgets",
+		"ru":"Виджеты"
+	},
+	"articles":
+	{
+		"tm":
+		[
+		{
+			"id":"widgets-installation",
+			"translations":{
+				"en":"Widgets installation",
+				"ru":"Установка виджетов"
+			}
+		}
+
+		],
+		"cherryframework4":
+		[
+
+		],
+
+		"monstroid":
+		[
+
+		],
+
+		"wordpress":
+		[
+
+		],
+
+		"woocommerce":
+		[
+
+		]
+	}
+}

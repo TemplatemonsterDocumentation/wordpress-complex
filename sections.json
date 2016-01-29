@@ -8,6 +8,15 @@
 		"shortcodes",
 		"cherry-plugins"
 	],
+	"tm":
+	[
+		"introduction",
+		"template-installation",
+		"posts-categories",
+		"widgets",
+		"customizer-settings",
+		"extras"
+	],
 	"monstroid":
 	[
 		"introduction",
