@@ -13,7 +13,7 @@
         <dl class="inline-term">
             <dt>Accent color (1)</dt>
             <dd>
-                Description
+                Первый вариант основного цвета темы
             </dd>
         </dl>
     </li>
@@ -22,7 +22,7 @@
         <dl class="inline-term">
             <dt>Accent color (2)</dt>
             <dd>
-                Description
+                Второй вариант основного цвета темы
             </dd>
         </dl>
     </li>
@@ -31,7 +31,7 @@
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
             <dd>
-                Description
+                Третий вариант основного цвета темы 
             </dd>
         </dl>
     </li>
@@ -123,18 +123,108 @@
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
-            <dt>Enable page title in breadcrumbs area</dt>
+            <dt>Accent color (1)</dt>
             <dd>
-                Выводить заголовок страницы в навигационной цепочке
+                Первый вариант инвертного основного цвета темы
             </dd>
         </dl>
     </li>
 
     <li>
         <dl class="inline-term">
-            <dt>Enable Breadcrumbs</dt>
+            <dt>Accent color (2)</dt>
             <dd>
-                Выводить / Скрыть навигационную цепочку
+                Второй вариант инвертного основного цвета темы
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (3)</dt>
+            <dd>
+                Третий вариант инвертного основного цвета темы 
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Text color</dt>
+            <dd>
+                Инвертный цвет текста
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Link color</dt>
+            <dd>
+                Инвертный цвет ссылок
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Link hover color</dt>
+            <dd>
+                Инвертный цвет ссылок при наведении
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>H1 color</dt>
+            <dd>
+                Инвертный цвет текста заголовка H1
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>H2 color</dt>
+            <dd>
+                Инвертный цвет текста заголовка H2
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>H3 color</dt>
+            <dd>
+                Инвертный цвет текста заголовка H3
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>H4 color</dt>
+            <dd>
+                Инвертный цвет текста заголовка H4
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>H5 color</dt>
+            <dd>
+                Инвертный цвет текста заголовка H5
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>H6 color</dt>
+            <dd>
+                Инвертный цвет текста заголовка H6
             </dd>
         </dl>
     </li>

@@ -15,6 +15,20 @@
 					"en":"Logo & Favicon",
 					"ru":"Логотип и фавиконка"
 				}
+			},
+			{
+				"id":"breadcrumbs",
+				"translations":{
+					"en":"Breadcrumbs",
+					"ru":"Навигационная цепочка"
+				}
+			},
+			{
+				"id":"color-scheme",
+				"translations":{
+					"en":"Color scheme",
+					"ru":"Цветовая схема"
+				}
 			}
 		],
 

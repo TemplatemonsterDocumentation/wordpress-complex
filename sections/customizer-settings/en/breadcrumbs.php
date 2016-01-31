@@ -6,7 +6,7 @@
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
 
-<h5>Show full/minified breadcrumbs path/h5>
+<h5>Show full/minified breadcrumbs path</h5>
 
 <ul class="marked-list">
     <li>
