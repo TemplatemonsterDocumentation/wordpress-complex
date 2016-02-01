@@ -1,38 +1,116 @@
 
-<h3>Logo & Favicon</h3>
-<p>Здесь вы можете настроиоть логотип и фавиконку</p>
+<h3>Header</h3>
+<p>Здесь вы можете настроить элементы хедера</p>
 
 <figure class="img-polaroid">
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
 
-<h5>Тип логотипа</h5>
+<h5>Header Styles</h5>
 
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
-            <dt>Изображение</dt>
+            <dt>Background Color</dt>
             <dd>
-            	You can choose a logo image from the media library in the next option
+                Здесь можно задать фоновый цвет хедера сайта
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Background Image</dt>
+            <dd>
+            	Здесь можно задать фоновое изображение для хедера сайта
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Background Repeat</dt>
+            <dd>
+                This property sets how a background image will be repeated, or not. By default, a background-image is repeated both vertically and horizontally.
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Background Position</dt>
+            <dd>
+                This property sets the starting position of a background image. By default, a background-image is placed at the top-left corner.
             </dd>
         </dl>
     </li>
 
     <li>
         <dl class="inline-term">
-            <dt>Текст</dt>
+            <dt>Background Attachment</dt>
             <dd>
-            	Your WordPress Site Title will be shown instead
+                This property sets whether a background image is fixed or scrolls with the rest of the page. By default, a background attachment is scroll.
             </dd>
         </dl>
     </li>
 
+    <li>
+        <dl class="inline-term">
+            <dt>Layout</dt>
+            <dd>
+                Здесь можно определить тип лейаута хедера
+            </dd>
+        </dl>
+    </li>
 </ul>
 
-<h5>Logo Upload</h5>
+<h5>Top Panel</h5>
 
-<p>Click the Choose Media button to select the logo image from the media library or upload your image.</p>
+<p>Здесь можно настроить верхнюю панель хедера.</p>
 
-<h5>Site Icon</h5>
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>Disclaimer Text</dt>
+            <dd>
+                Здесь можно задать текстовое содержание верхней панели хедера
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Enable search</dt>
+            <dd>
+                Вывести / Скрывать форму поиска в верхней панели хедера
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Background color</dt>
+            <dd>
+                Здесь можно задать фоновый цвет верхней панели хедера
+            </dd>
+        </dl>
+    </li>
+</ul>
 
-<p>Icon image that is displayed in the browser address bar and browser tab heading.  Icons must be square. Max icon (.ico) size is 32x32 px. You can also upload favicon for retina displays. Max retina icon size: 512x512 px. Also you can <strong>Enable Retina optimization</strong> and <strong>Show preloader when open a page</strong> via selecting the checkbox.</p>
+<h5>Main Menu</h5>
+
+<p>Здесь можно настроить главное навигационное меню.</p>
+
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>Enable sticky menu </dt>
+            <dd>
+                Enable\disable fixed stick-to-top main menu.
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Enable title attributes</dt>
+            <dd>
+                Вывести / Скрывать форму поиска в верхней панели хедера
+            </dd>
+        </dl>
+    </li>
+</ul>

@@ -1,5 +1,5 @@
 
-<h3>Logo & Favicon</h3>
+<h3>Blog Settings</h3>
 <p>Здесь вы можете настроить логотип и фавиконку</p>
 
 <figure class="img-polaroid">
