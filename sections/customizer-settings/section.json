@@ -10,6 +10,13 @@
 		"tm":
 		[
 			{
+				"id":"site-identity",
+				"translations":{
+					"en":"Site Identity",
+					"ru":"Айдентика сайта"
+				}
+			},
+			{
 				"id":"logo-and-favicon",
 				"translations":{
 					"en":"Logo & Favicon",
@@ -31,17 +38,10 @@
 				}
 			},
 			{
-				"id":"header",
+				"id":"typography",
 				"translations":{
-					"en":"Header",
-					"ru":"Хедер"
-				}
-			},
-			{
-				"id":"page-layout",
-				"translations":{
-					"en":"Page Layout",
-					"ru":"Настройки страницы"
+					"en":"Typography",
+					"ru":"Типография"
 				}
 			},
 			{
@@ -49,6 +49,13 @@
 				"translations":{
 					"en":"Social links",
 					"ru":"Социальные сети"
+				}
+			},
+			{
+				"id":"page-layout",
+				"translations":{
+					"en":"Page Layout",
+					"ru":"Настройки страницы"
 				}
 			},
 			{
@@ -73,6 +80,13 @@
 				}
 			},
 			{
+				"id":"mailchimp",
+				"translations":{
+					"en":"Mailchimp",
+					"ru":"Мейлчимп"
+				}
+			},
+			{
 				"id":"widgets",
 				"translations":{
 					"en":"Widgets",
@@ -92,8 +106,14 @@
 					"en":"Blog Settings",
 					"ru":"Настройки блога"
 				}
+			},
+			{
+				"id":"static-front-page",
+				"translations":{
+					"en":"Static Front Page",
+					"ru":"Главаная траница"
+				}
 			}
-
 		],
 
 		"cherryframework4":
