@@ -15,6 +15,55 @@
 				"en":"Widgets installation",
 				"ru":"Установка виджетов"
 			}
+		},
+		{
+			"id":"tm-about-author",
+			"translations":{
+				"en":"TM About Author",
+				"ru":"Информация об авторе"
+			}
+		},
+		{
+			"id":"tm-carousel-slider",
+			"translations":{
+				"en":"TM Carousel Slider",
+				"ru":"Слайдер карусель"
+			}
+		},
+		{
+			"id":"tm-image-grid",
+			"translations":{
+				"en":"TM Image Grid",
+				"ru":"Сетка изображений"
+			}
+		},
+		{
+			"id":"tm-instagram",
+			"translations":{
+				"en":"TM Instagram",
+				"ru":"Instagram виджет"
+			}
+		},
+		{
+			"id":"tm-smart-slider",
+			"translations":{
+				"en":"TM Smart Slider",
+				"ru":"Умный слайдер"
+			}
+		},
+		{
+			"id":"tm-subscribe-and-follow",
+			"translations":{
+				"en":"TM Subscribe and Follow",
+				"ru":"Подписка и Follow"
+			}
+		},
+		{
+			"id":"tm-taxonomy-tiles",
+			"translations":{
+				"en":"TM Taxonomy Tiles",
+				"ru":"Виджет категорий и тегов"
+			}
 		}
 
 		],
