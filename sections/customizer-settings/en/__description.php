@@ -1,5 +1,4 @@
 <h2>Customizer</h2>
 <h5>
-	Customizer это WYSIWYG интерфейс настроек для темы. Вы можете осуществлять настройку типографии, навигации, позиционирования виджетов, а также некоторые настройки фоновых изображений и цветов. После установки нашей темы для вас будет доступен более широкий спектр настроек, такими как соц сети, настройки лейаутов страницы, сайдбары, настройки блока и многое другое.
-	Основным достоинством является то что вы сразу видете результат, и то чьл за мгновенье его можно изменить не прибегая к работе с файлами или кодом.
+	Customizer is a WYSIWYG theme settings interface. You can setup typography, navigation, widgets positioning, and some background images and colors settings here. Our theme installation will provide you with a wider range of settings, such as social networks configuration, page layouts setting, sidebars, block setting and much more. The main advantage is that you can see a result immediately, and you can change it right at the moment without having to work with files or code.
 </h5>

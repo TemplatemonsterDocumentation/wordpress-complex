@@ -13,7 +13,7 @@
         <dl class="inline-term">
             <dt>Full</dt>
             <dd>
-
+                Full breadcrumbs display mode
             </dd>
         </dl>
     </li>
@@ -22,21 +22,20 @@
         <dl class="inline-term">
             <dt>Minified</dt>
             <dd>
-
+                Minified breadcrumbs display mode
             </dd>
         </dl>
     </li>
-
 </ul>
 
-<h5>Additional options</h5>
+<h5>Additional settings</h5>
 
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
             <dt>Enable page title in breadcrumbs area</dt>
             <dd>
-
+                Show page title in breadcrumbs
             </dd>
         </dl>
     </li>
@@ -45,9 +44,10 @@
         <dl class="inline-term">
             <dt>Enable Breadcrumbs</dt>
             <dd>
-
+                Show / Hide breadcrumbs
             </dd>
         </dl>
     </li>
 </ul>
+
 

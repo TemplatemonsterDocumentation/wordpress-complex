@@ -7,6 +7,17 @@
 	},
 	"articles":
 	{
+		"tm":
+		[
+			{
+				"id":"page-settings-tm",
+				"translations":{
+					"en":"Page settings",
+					"ru":"Настройки страницы"
+				}
+			}
+		],
+
 		"cherryframework4":
 		[],
 
