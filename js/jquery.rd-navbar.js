@@ -219,13 +219,17 @@
             var nav = this,
                 p = $('.rd-mobilepanel'),
                 st_before = 0,
-                fz = 56;
+                fz = parseInt($('.rd-mobilepanel_title').css('font-size'), 10);
 
+                //console.log(fz);
 
             function resizePanel() {
                 var p = $('.rd-mobilepanel'),
                     t = $('.rd-mobilepanel_title'),
                     st = $(document).scrollTop();
+
+                    console.log();
+
 
                 function resize() {
                     p.removeClass('fixed');

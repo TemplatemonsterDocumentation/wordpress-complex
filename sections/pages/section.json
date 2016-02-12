@@ -7,10 +7,10 @@
 	},
 	"articles":
 	{
-		"tm":
+		"wildride":
 		[
 			{
-				"id":"page-settings-tm",
+				"id":"page-settings-blog-theme",
 				"translations":{
 					"en":"Page settings",
 					"ru":"Настройки страницы"

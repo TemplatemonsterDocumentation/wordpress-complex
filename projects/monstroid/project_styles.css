@@ -1,0 +1,25 @@
+h2 {
+  color: #2b5ac7; }
+
+h3 {
+  color: #312f44; }
+
+h4 {
+  color: #2b5ac7; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+
+.rd-mobilepanel {
+  background-image: url("../../projects/monstroid/img/header-bg.png");
+  background-color: #2b5ac7;
+  background-position: right top;
+  height: 256px; }
+
+.rd-mobilepanel_title span {
+  font-size: 56px; }
+  .rd-mobilepanel_title span span {
+    color: #FFFFFF; }
+
+.rd-mobilemenu .logo {
+  background-color: #2b5ac7; }

@@ -28,9 +28,8 @@
 </p>
 
 <figure class="img-polaroid">
-	<img src="img/tm/basic-settings/social-menu.png" alt="social-menu">
+	<img src="projects/<?php echo $project;?>/img/basic-settings/social-menu.png" alt="social-menu">
 </figure>
-
 
 
 

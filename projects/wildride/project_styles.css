@@ -1,0 +1,37 @@
+@import url(//fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat+Alternates:400,700);
+h1 {
+  font-family: "Montserrat", sans-serif; }
+
+h2 {
+  color: #1082FC;
+  font-family: "Montserrat", sans-serif; }
+
+h3 {
+  color: #312F44;
+  font-family: "Montserrat", sans-serif; }
+
+h4 {
+  color: #1082FC; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+
+.rd-mobilepanel {
+  background-image: url("../../projects/wildride/img/header-bg.png");
+  background-color: #312F44;
+  background-position: right top;
+  height: 600px; }
+
+.rd-mobilepanel_title {
+  font-size: 82px; }
+
+.tm-title-caption {
+  font-size: 32px;
+  top: 200px;
+  font-family: "Montserrat", sans-serif;
+  color: #1082FC;
+  line-height: 36px;
+  width: 430px; }
+
+.rd-mobilemenu .logo {
+  background-color: #1082FC; }

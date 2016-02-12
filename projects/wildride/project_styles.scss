@@ -1,0 +1,65 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #1082FC;
+$primary-color-second: #312F44;
+$primary-color-light: #FFFFFF;
+$header-background-image: '../../projects/wildride/img/header-bg.png';
+
+@import url(//fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat+Alternates:400,700);
+$primary-font-family:'Montserrat', sans-serif;
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+}
+h2 {
+	color: $primary-color;
+	font-family: $primary-font-family;
+}
+h3 {
+	color: $primary-color-second;
+	font-family: $primary-font-family;
+}
+h4 {
+	color: $primary-color;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+		}
+	}
+}
+
+.rd-mobilepanel {
+	background-image: url($header-background-image);
+	background-color: $primary-color-second;
+	background-position: right top;
+	height: 600px;
+}
+
+.rd-mobilepanel_title {
+	font-size: 82px;
+
+}
+
+.tm-title-caption {
+	font-size: 32px;
+	top: 200px;
+	font-family: $primary-font-family;
+    color: $primary-color;
+    line-height: 36px;
+    width: 430px;
+}
+
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color;
+	}
+}

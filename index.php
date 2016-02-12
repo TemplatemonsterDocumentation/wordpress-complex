@@ -5,7 +5,14 @@ include_once 'functions.php';
 if (!isset($sections)) {
     $sections = getSections($project, $defaultProject);
 }
+/*
+echo "<pre style='color: #555;>";
+var_dump($projectName);
+echo "</pre>";*/
 ?>
+
+
+
 
 <!DOCTYPE html>
 <head>
@@ -15,8 +22,16 @@ if (!isset($sections)) {
     <link rel="icon" href="<?php echo $projectFaviconPath; ?>" type="image/x-icon">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="<?php echo $path; ?>/css/grid.css">
+
+
+
+
+
+
     <link rel="stylesheet" href="<?php echo $path; ?>/css/style.css">
-    <link href='//fonts.googleapis.com/css?family=Roboto:400,500,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="<?php echo $path.'/projects/'.$projectName;?>/project_styles.css">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat+Alternates:400,700' rel='stylesheet' type='text/css'>
+    <!--<link href='//fonts.googleapis.com/css?family=Roboto:400,500,700' rel='stylesheet' type='text/css'>-->
     <link rel="stylesheet" href="<?php echo $path; ?>/css/prettify.css">
     <link rel="stylesheet" href="<?php echo $path; ?>/css/jquery.fancybox.css">
 
@@ -44,7 +59,7 @@ if (!isset($sections)) {
                 <img src="<?php echo $projectImgLogoPath ?>" alt="<?php echo $projectTextLogo; ?>">
                 <?php echo $projectTextLogo; ?>
             </a>
-        </div>        
+        </div>
         <div class="panel">
             <!-- <div class="select select-version">
                 <select>
@@ -67,10 +82,11 @@ if (!isset($sections)) {
     </div>
     <div class="page-content active">
         <button class="rd-mobilepanel_toggle active"><span></span></button>
-        <div class="rd-mobilepanel">            
+        <div class="rd-mobilepanel">
             <h1 class="rd-mobilepanel_title">
-                <span><?php echo $projectTitle; ?></span>
+                <?php echo $projectTitle; ?>
             </h1>
+            <div class="tm-title-caption"><?php echo$projectTitleCaption; ?></div>
         </div>
         <div class="page">
             <!--========================================================

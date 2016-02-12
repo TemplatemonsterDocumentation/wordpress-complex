@@ -1,4 +1,5 @@
 <?php
+
 include_once 'functions.php';
 
 $path = dirname($_SERVER['PHP_SELF']);
@@ -8,17 +9,29 @@ $path = dirname($_SERVER['PHP_SELF']);
  * @var array
  */
 
-$allowedProjects = array('tm', 'cherryframework4', 'wordpress', 'monstroid', 'woocommerce');
+$allowedProjects = array('wildride', 'blogetti', 'cherryframework4', 'wordpress', 'monstroid', 'woocommerce');
 //$allowedProjects = array('monstroid', 'cherryframework4', 'wordpress', 'woocommerce');
 $defaultProject = $project = $allowedProjects[0]; // default project equals first object in array above
 if (isset($_REQUEST['project'])) {
     $project = allowedParameterValue($_REQUEST['project'], $allowedProjects);
 }
 
+$projectName = $_REQUEST['project'];
+
 /**
  * Project text logo and project title depending on project name
  */
 switch ($project) {
+    case 'blogetti':
+        $projectTextLogo = '';
+        $projectTitle = 'Blogetti';
+        $projectTitleCaption = 'Slow-Cooker Alabamian';
+        break;
+    case 'wildride':
+        $projectTextLogo = '';
+        $projectTitle = 'Wild Ride';
+        $projectTitleCaption = 'Bicycle NXT 3000 exhibited at CES in Vegas';
+        break;
     case 'monstroid':
         $projectTextLogo = '<span>Monstroid</span><small>premium theme</small>';
         $projectTitle = 'Monstroid Premium Theme Documentation';
@@ -46,8 +59,8 @@ switch ($project) {
  * @var string
  */
 $projectImgLogoPath = $path . "/img/logo.png";
-if (file_exists(dirname(__FILE__) . "/img/logo_" . $project . ".png")) {
-    $projectImgLogoPath = $path . "/img/logo_" . $project . ".png";
+if (file_exists(dirname(__FILE__) . "/projects/".$project."/img/logo_" . $project . ".png")) {
+    $projectImgLogoPath = $path . "/projects/".$project."/img/logo_" . $project . ".png";
 }
 
 /**
@@ -55,8 +68,8 @@ if (file_exists(dirname(__FILE__) . "/img/logo_" . $project . ".png")) {
  * @var string
  */
 $projectFaviconPath = $path . "/img/favicon.ico";
-if (file_exists(dirname(__FILE__) . "/img/favicon_" . $project . ".ico")) {
-    $projectFaviconPath = $path . "/img/favicon_" . $project . ".ico";
+if (file_exists(dirname(__FILE__) . "/projects/".$project."/img/favicon_" . $project . ".ico")) {
+    $projectFaviconPath = $path ."/projects/".$project."/img/favicon_" . $project . ".ico";
 }
 
 /**

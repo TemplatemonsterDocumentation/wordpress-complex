@@ -8,7 +8,7 @@
 		"shortcodes",
 		"cherry-plugins"
 	],
-	"tm":
+	"wildride":
 	[
 		"introduction",
 		"template-installation",
@@ -18,6 +18,14 @@
 		"widgets",
 		"customizer-settings",
 		"extras"
+	],
+	"blogetti":
+	[
+		"introduction",
+		"template-installation",
+		"posts-categories",
+		"pages",
+		"basic-configuration"
 	],
 	"monstroid":
 	[

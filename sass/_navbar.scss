@@ -43,19 +43,19 @@ $rd-menu-width-mobile: 250px;
     left: 0;
     right: 0;
     height: $rd-mobilepanel-height*2;
-    background: darken(map-get($rd-theme, panel-background-color), 5%);
+    //background: darken(map-get($rd-theme, panel-background-color), 5%);
     padding: 33px 24px;
     text-align: left;
     @include box-sizing(border-box);
-    color:#fff;       
+    color:#fff;
     img{
       float: left;
-      margin-right: 10px;      
+      margin-right: 10px;
     }
     span{
       font-family: 'Oswald', sans-serif;
       display: block;
-      text-transform: uppercase; 
+      text-transform: uppercase;
       font-size: 32px;
       line-height: 32px;
       padding-top: 5px;
@@ -73,7 +73,7 @@ $rd-menu-width-mobile: 250px;
 
       small{
         font-size: 12px;
-        line-height: 15px; 
+        line-height: 15px;
       }
     }
   }
@@ -160,17 +160,59 @@ $rd-menu-width-mobile: 250px;
   }
 }
 
+.rd-mobilepanel {
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 600px;
+  //background: map-get($rd-theme, panel-background-color);
+  //background-image: url('../img/nbt_header.png');
+  background-repeat: no-repeat;
+  color: map-get($rd-theme, panel-text-color);
+  z-index: 9999997;
+
+  &.fixed {
+    position: fixed;
+    height: 56px;
+    @include box-shadow(-3px 3px 6px 0 rgba(0, 0, 0, .1));
+    background-image: none;
+
+    .rd-mobilepanel_title {
+      transform: translateY(50.25px);
+      //font-size: 24px;
+      bottom: 61px;
+      top: -40px;
+    }
+    .tm-title-caption {
+      display: none;
+    }
+  }
+
+  .panel{
+    position: absolute;
+    right: 10px;
+    bottom: 14px;
+    @include transition(.3s all cubic-bezier(0.2, 1, 0.3, 1));
+  }
+}
+
+.tm-title-caption {
+  position: absolute;
+  left: 95px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .rd-mobilepanel_title {
   position: absolute;
-  left: 64px;
+  left: 95px;
   width: 1170px;
   margin-left: auto;
   margin-right: auto;
-  right: 300px;
-  bottom: 61px;
+  top: 74px;
   color: map-get($rd-theme, panel-text-color);
   text-overflow: ellipsis;
-  white-space: nowrap;
 
   @media (max-width: 1599px) {
     right: 64px;
@@ -195,34 +237,6 @@ $rd-menu-width-mobile: 250px;
   }
 }
 
-.rd-mobilepanel {
-  position: relative;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 256px;
-  background: map-get($rd-theme, panel-background-color);
-  color: map-get($rd-theme, panel-text-color);
-  z-index: 9999997;
-
-  &.fixed {
-    position: fixed;
-    height: 56px;
-    @include box-shadow(-3px 3px 6px 0 rgba(0, 0, 0, .1));
-
-    .rd-mobilepanel_title {
-      transform: translateY(50.25px);
-      font-size: 24px;
-    }
-  }
-
-  .panel{
-    position: absolute;
-    right: 10px;
-    bottom: 14px;
-    @include transition(.3s all cubic-bezier(0.2, 1, 0.3, 1));
-  }
-}
 
 .page-content.active{
   .panel{

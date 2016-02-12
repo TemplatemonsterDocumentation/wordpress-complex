@@ -7,7 +7,7 @@
 	},
 	"articles":
 	{
-		"tm":
+		"wildride":
 		[
 		{
 			"id":"widgets-installation",
@@ -17,51 +17,51 @@
 			}
 		},
 		{
-			"id":"tm-about-author",
+			"id":"about-author-widget",
 			"translations":{
-				"en":"TM About Author",
+				"en":"About Author",
 				"ru":"Информация об авторе"
 			}
 		},
 		{
-			"id":"tm-carousel-slider",
+			"id":"carousel-slider-widget",
 			"translations":{
-				"en":"TM Carousel Slider",
+				"en":"Carousel Slider",
 				"ru":"Слайдер карусель"
 			}
 		},
 		{
-			"id":"tm-image-grid",
+			"id":"image-grid-widget",
 			"translations":{
-				"en":"TM Image Grid",
+				"en":"Image Grid",
 				"ru":"Сетка изображений"
 			}
 		},
 		{
-			"id":"tm-instagram",
+			"id":"instagram-widget",
 			"translations":{
-				"en":"TM Instagram",
+				"en":"Instagram Widget",
 				"ru":"Instagram виджет"
 			}
 		},
 		{
-			"id":"tm-smart-slider",
+			"id":"smart-slider-widget",
 			"translations":{
-				"en":"TM Smart Slider",
+				"en":"Smart Slider",
 				"ru":"Умный слайдер"
 			}
 		},
 		{
-			"id":"tm-subscribe-and-follow",
+			"id":"subscribe-and-follow-widget",
 			"translations":{
-				"en":"TM Subscribe and Follow",
+				"en":"Subscribe and Follow",
 				"ru":"Подписка и Follow"
 			}
 		},
 		{
-			"id":"tm-taxonomy-tiles",
+			"id":"taxonomy-tiles-widget",
 			"translations":{
-				"en":"TM Taxonomy Tiles",
+				"en":"Taxonomy Tiles",
 				"ru":"Виджет категорий и тегов"
 			}
 		}

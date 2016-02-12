@@ -7,9 +7,8 @@
 	},
 	"articles":
 	{
-		"tm":
+		"wildride":
 		[
-
 			{
 				"id":"engine-installation",
 				"translations":{
@@ -18,10 +17,10 @@
 				}
 			},
 			{
-				"id":"manual-install_tm",
+				"id":"manual-install-blog-theme",
 				"translations":{
-					"en":"Manual Installation",
-					"ru":"Ручная установка"
+					"en":"Theme Installation",
+					"ru":"Установка темы"
 				}
 			}
 		],

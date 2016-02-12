@@ -1,0 +1,64 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #fe7646;
+$primary-color-second: #312f44;
+$primary-color-light: #FFFFFF;
+$header-background-image: '../../projects/blogetti/img/header-bg.png';
+
+@import url(//fonts.googleapis.com/css?family=Noto+Serif:400,700);
+$primary-font-family:'Noto Serif', serif;
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+}
+
+h2 {
+	color: $primary-color;
+}
+
+h3 {
+	color: $primary-color-second;
+}
+
+h4 {
+	color: $primary-color;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+		}
+	}
+}
+
+.rd-mobilepanel {
+	background-image: url($header-background-image);
+	background-color: $primary-color;
+	background-position: right top;
+	height: 600px;
+}
+
+.rd-mobilepanel_title {
+	font-size: 82px;
+	color: $primary-color-light;
+	width: 430px;
+}
+
+.tm-title-caption {
+	font-size: 32px;
+	top: 200px;
+	font-family: $primary-font-family;
+}
+
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color-second;
+	}
+}

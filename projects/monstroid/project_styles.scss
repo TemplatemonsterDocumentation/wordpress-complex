@@ -1,0 +1,58 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #2b5ac7;
+$primary-color-second: #312f44;
+$primary-color-light: #FFFFFF;
+$header-background-image: '../../projects/monstroid/img/header-bg.png';
+
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+}
+
+h2 {
+	color: $primary-color;
+}
+
+h3 {
+	color: $primary-color-second;
+}
+
+h4 {
+	color: $primary-color;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+		}
+	}
+}
+
+.rd-mobilepanel {
+	background-image: url($header-background-image);
+	background-color: $primary-color;
+	background-position: right top;
+	height: 256px;
+}
+
+.rd-mobilepanel_title {
+	span {
+	font-size: 56px;
+		span {
+			color: $primary-color-light;
+		}
+	}
+}
+
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color;
+	}
+}

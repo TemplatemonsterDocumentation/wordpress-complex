@@ -1,0 +1,34 @@
+@import url(//fonts.googleapis.com/css?family=Noto+Serif:400,700);
+h1 {
+  font-family: "Noto Serif", serif; }
+
+h2 {
+  color: #fe7646; }
+
+h3 {
+  color: #312f44; }
+
+h4 {
+  color: #fe7646; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+
+.rd-mobilepanel {
+  background-image: url("../../projects/blogetti/img/header-bg.png");
+  background-color: #fe7646;
+  background-position: right top;
+  height: 600px; }
+
+.rd-mobilepanel_title {
+  font-size: 82px;
+  color: #FFFFFF;
+  width: 430px; }
+
+.tm-title-caption {
+  font-size: 32px;
+  top: 200px;
+  font-family: "Noto Serif", serif; }
+
+.rd-mobilemenu .logo {
+  background-color: #312f44; }
