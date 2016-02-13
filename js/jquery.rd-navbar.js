@@ -67,7 +67,7 @@
 
             $('.rd-mobilemenu').append(nav.createNavDOM());
 
-            if ($('html').hasClass('desktop') && (window_width >= 1600)) {
+            if ($('html').hasClass('desktop') && (window_width >= 1280)) {
                 $('body').delegate('*', 'mousewheel', nav.scroll);
                 $('body').delegate('*', 'touchmove', nav.scroll);
                 $('body').delegate('*', 'touchend', nav.touchend);

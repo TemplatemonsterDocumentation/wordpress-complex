@@ -470,7 +470,7 @@ blockquote {
   top: 0;
   left: 0;
   right: 0;
-  height: 600px;
+  height: 256px;
   background-repeat: no-repeat;
   color: #FFF;
   z-index: 9999997; }
@@ -511,9 +511,6 @@ blockquote {
   top: 74px;
   color: #FFF;
   text-overflow: ellipsis; }
-  @media (max-width: 1599px) {
-    .rd-mobilepanel_title {
-      right: 64px; } }
   @media (min-width: 1068px) and (max-width: 1301px) {
     .rd-mobilepanel_title {
       width: 940px; } }
@@ -529,6 +526,10 @@ blockquote {
 
 .page-content.active .panel {
   right: 315px; }
+
+@media (max-width: 1599px) {
+  .page-content.active .container {
+    width: 940px; } }
 
 body.navbar-stickup {
   padding-top: 256px; }
@@ -547,14 +548,39 @@ body.navbar-fixed {
   transition: 1s all cubic-bezier(0.2, 1, 0.3, 1), 0s height;
   transition-property: transform; }
 
-.page-content.active .page, .page-content.active .rd-mobilepanel, .page-content.active .rd-mobilepanel_toggle {
+.page-content.active .rd-mobilepanel, .page-content.active .rd-mobilepanel_toggle {
   -moz-transform: translateX(299px);
   -ms-transform: translateX(299px);
   -o-transform: translateX(299px);
   -webkit-transform: translateX(299px);
   transform: translateX(299px); }
+.page-content.active .page {
+  -moz-transform: translateX(150px);
+  -ms-transform: translateX(150px);
+  -o-transform: translateX(150px);
+  -webkit-transform: translateX(150px);
+  transform: translateX(150px); }
+@media (max-width: 1280px) {
+  .page-content.active .page, .page-content.active .rd-mobilepanel, .page-content.active .rd-mobilepanel_toggle {
+    -moz-transform: translateX(299px);
+    -ms-transform: translateX(299px);
+    -o-transform: translateX(299px);
+    -webkit-transform: translateX(299px);
+    transform: translateX(299px); }
+  .page-content.active .page {
+    -moz-transform: translateX(299px);
+    -ms-transform: translateX(299px);
+    -o-transform: translateX(299px);
+    -webkit-transform: translateX(299px);
+    transform: translateX(299px); } }
 @media (max-width: 479px) {
   .page-content.active .page, .page-content.active .rd-mobilepanel, .page-content.active .rd-mobilepanel_toggle {
+    -moz-transform: translateX(249px);
+    -ms-transform: translateX(249px);
+    -o-transform: translateX(249px);
+    -webkit-transform: translateX(249px);
+    transform: translateX(249px); }
+  .page-content.active .page {
     -moz-transform: translateX(249px);
     -ms-transform: translateX(249px);
     -o-transform: translateX(249px);

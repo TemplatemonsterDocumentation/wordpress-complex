@@ -15,12 +15,27 @@ h4 {
 
 .page-content.active .rd-mobilepanel {
   background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% top; } }
 
 .rd-mobilepanel {
-  background-image: url("../../projects/wildride/img/header-bg.png");
   background-color: #312F44;
-  background-position: right top;
+  background-position: right top; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px top; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/wildride/img/header-bg.png");
   height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
 
 .rd-mobilepanel_title {
   font-size: 82px; }

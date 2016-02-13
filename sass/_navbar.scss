@@ -165,7 +165,7 @@ $rd-menu-width-mobile: 250px;
   top: 0;
   left: 0;
   right: 0;
-  height: 600px;
+  height: 256px;
   //background: map-get($rd-theme, panel-background-color);
   //background-image: url('../img/nbt_header.png');
   background-repeat: no-repeat;
@@ -188,6 +188,12 @@ $rd-menu-width-mobile: 250px;
       display: none;
     }
   }
+
+[data-section="introduction"] {
+  .rd-mobilepanel {
+    //height: 600px; 
+  }
+}
 
   .panel{
     position: absolute;
@@ -215,7 +221,7 @@ $rd-menu-width-mobile: 250px;
   text-overflow: ellipsis;
 
   @media (max-width: 1599px) {
-    right: 64px;
+    //right: 64px; 
   }
 
   @media (min-width: 1068px) and (max-width: 1301px) {
@@ -241,7 +247,15 @@ $rd-menu-width-mobile: 250px;
 .page-content.active{
   .panel{
     right: 315px;
+
   }
+}
+.page-content.active{
+    .container {
+        @media (max-width: 1599px) {
+        width: 940px;
+      }  
+    }
 }
 
 body.navbar-stickup {
@@ -264,15 +278,37 @@ body.navbar-fixed {
 
 .page-content{
   &.active {
-    .page, .rd-mobilepanel, .rd-mobilepanel_toggle {
+    .rd-mobilepanel, .rd-mobilepanel_toggle {
       @include transform(translateX($rd-menu-width - 1));
+    } 
+    .page { 
+      @include transform(translateX($rd-menu-width - 150));  
+    }
+}
+
+
+
+  @media (max-width: 1280px) {
+    &.active {
+      .page, .rd-mobilepanel, .rd-mobilepanel_toggle {
+        @include transform(translateX($rd-menu-width - 1));
+      }
+      .page { 
+        @include transform(translateX($rd-menu-width - 1));  
+      }
     }
   }
+
+
+
 
   @media (max-width: 479px) {
     &.active {
       .page, .rd-mobilepanel, .rd-mobilepanel_toggle {
         @include transform(translateX($rd-menu-width-mobile - 1));
+      }
+      .page { 
+        @include transform(translateX($rd-menu-width-mobile - 1));  
       }
     }
   }

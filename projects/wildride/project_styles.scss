@@ -33,18 +33,42 @@ h4 {
 	&.active {
 		.rd-mobilepanel{
 			background-position: 66% top;
+			@media (max-width: 1440px) {
+    			background-position: 100% top;
+			}
 		}
 	}
 }
 
-.rd-mobilepanel {
-	background-image: url($header-background-image);
-	background-color: $primary-color-second;
-	background-position: right top;
-	height: 600px;
-}
 
-.rd-mobilepanel_title {
+	.rd-mobilepanel {
+		
+		background-color: $primary-color-second;
+		background-position: right top;
+
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px top;
+		}
+	}
+
+[data-section="introduction"] {
+	.rd-mobilepanel {	 
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    	}
+	}	
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}	
+}
+ 
+ .rd-mobilepanel_title {
 	font-size: 82px;
 
 }
