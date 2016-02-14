@@ -1,38 +1,91 @@
 
 <h3>Blog Settings</h3>
-<p>You can set your custom logo and favicon here</p>
+<p>You can set your blog settings here</p>
 
 <figure class="img-polaroid">
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
 
-<h5>Type of Logo</h5>
-
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
-            <dt>Image</dt>
+            <dt>Layout</dt>
             <dd>
-            	You can choose a logo image from the media library in the next option
+                Select grid layout pattern for pages with custom blog layout.           	
             </dd>
         </dl>
     </li>
 
     <li>
         <dl class="inline-term">
-            <dt>Text</dt>
+            <dt>Featured Post Label</dt>
             <dd>
-            	Your WordPress Site Title will be shown instead
+            	This setting specify the featured Post Label
             </dd>
         </dl>
     </li>
-
+    <li>
+        <dl class="inline-term">
+            <dt>Post content</dt>
+            <dd>
+                Select how you want to display post content in blog listing                               
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Featured Image</dt>
+            <dd>
+                Set dimensions for post featured images.               
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Read More button text</dt>
+            <dd>
+                This setting specify read more button label text.                               
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show post author</dt>
+            <dd>
+                Show / Hide post author.                
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show publish date</dt>
+            <dd>
+                Show / Hide publish date               
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show categories</dt>
+            <dd>
+                Show / Hide categories                 
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show tags</dt>
+            <dd>
+                Show / Hide tags                 
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show comments</dt>
+            <dd>
+                Show / Hide tags                 
+            </dd>
+        </dl>
+    </li>
 </ul>
-
-<h5>Logo Upload</h5>
-
-<p>Click the Choose Media button to select the logo image from the media library or upload your image.</p>
-
-<h5>Site Icon</h5>
-
-<p>Icon image that is displayed in the browser address bar and browser tab heading.  Icons must be square. Max icon (.ico) size is 32x32 px. You can also upload favicon for retina displays. Max retina icon size: 512x512 px. Also you can <strong>Enable Retina optimization</strong> and <strong>Show preloader when open a page</strong> via selecting the checkbox.</p>

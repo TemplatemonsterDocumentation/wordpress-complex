@@ -138,6 +138,34 @@
 					"en":"Typography",
 					"ru":"Типография"
 				}
+			},
+			{
+				"id":"header",
+				"translations":{
+					"en":"Header settings",
+					"ru":"Настройки хедера"
+				}
+			},
+			{
+				"id":"menu-locations",
+				"translations":{
+					"en":"Menu Locations",
+					"ru":"Хедер"
+				}
+			},
+			{
+				"id":"sidebar-blogetti",
+				"translations":{
+					"en":"Sidebar settings",
+					"ru":"Настройки Сайдбара"
+				}
+			},
+			{
+				"id":"footer",
+				"translations":{
+					"en":"Footer",
+					"ru":"Футер"
+				}
 			}
 		],
 			
