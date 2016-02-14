@@ -221,7 +221,7 @@
                 st_before = 0,
                 fz = parseInt($('.rd-mobilepanel_title').css('font-size'), 10);
 
-                //console.log(fz);
+                console.log(p.innerHeight());
 
             function resizePanel() {
                 var p = $('.rd-mobilepanel'),
