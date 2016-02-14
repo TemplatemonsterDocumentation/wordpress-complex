@@ -21,7 +21,11 @@ h4 {
 
 .rd-mobilepanel {
   background-color: #312F44;
-  background-position: right top; }
+  background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s; }
   @media (max-width: 1440px) {
     .rd-mobilepanel {
       background-size: 60% auto;
@@ -32,7 +36,8 @@ h4 {
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
-    background-image: none; }
+    background-image: none;
+    transition: top 1s ease-out 0.5s; }
 
 body:not([data-section="introduction"]) .tm-title-caption {
   display: none; }

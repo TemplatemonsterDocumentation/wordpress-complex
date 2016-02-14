@@ -26,7 +26,6 @@
             </dd>
         </dl>
     </li>
-
 </ul>
 
 <h5>Logo Upload</h5>

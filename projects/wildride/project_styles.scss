@@ -39,13 +39,13 @@ h4 {
 		}
 	}
 }
-
-
 	.rd-mobilepanel {
-		
 		background-color: $primary-color-second;
 		background-position: right top;
-
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
 		@media (max-width: 1440px) {
 	    	background-size: 60% auto;
 	    	background-position: 600px top;
@@ -59,6 +59,7 @@ h4 {
 		&.fixed {
     		height: 56px;
     		background-image: none;
+    		transition: top 1s ease-out 0.5s;
     	}
 	}	
 }

@@ -226,6 +226,7 @@
             function resizePanel() {
                 var p = $('.rd-mobilepanel'),
                     t = $('.rd-mobilepanel_title'),
+                    tc = $('.tm-title-caption'),
                     st = $(document).scrollTop();
 
                     console.log();
@@ -239,20 +240,36 @@
                             "transform": "translateY(" + (st / 4) + "px)",
                             "font-size": fz - st / 6.7
                         });
+                        tc.css({
+                            "transform": "translateY(" + (st / 8) + "px)",
+                            "font-size": 32 - st / 25
+                        });
                     } else {
                         t.css({
                             "transform": "translateY(" + (st / 4) + "px)",
                             "font-size": fz - st / 6.7
                         });
+                        tc.css({
+                            "transform": "translateY(" + (st / 4) + "px)",
+                            "font-size": 32 - st / 25
+                        });
                     }
                 }
 
                 function fix() {
+                    
                     p.addClass('fixed');
+                    //p.addClass('fixed').slideUp(500);
+
                     t.css({
                         "transform": "translateY(50.25px)",
                         "font-size": 24
                     });
+
+                    tc.css({
+                        "transform": "translateY(50.25px)"
+                    });
+                    //p.addClass('fixed').css({"transition": "height 0.1s ease-out 0.1s"});
                 }
 
                 if ($(window).width() > 1067) {

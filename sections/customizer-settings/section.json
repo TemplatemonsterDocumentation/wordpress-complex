@@ -116,6 +116,31 @@
 			}
 		],
 
+		"blogetti":
+		[
+			{
+				"id":"general-site-settings",
+				"translations":{
+					"en":"General site settings",
+					"ru":"Главные настройки сайта"
+				}
+			},
+			{
+				"id":"color-scheme",
+				"translations":{
+					"en":"Color scheme",
+					"ru":"Цветовая схема"
+				}
+			},
+			{
+				"id":"typography-blogetti",
+				"translations":{
+					"en":"Typography",
+					"ru":"Типография"
+				}
+			}
+		],
+			
 		"cherryframework4":
 		[
 
