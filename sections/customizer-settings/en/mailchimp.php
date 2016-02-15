@@ -1,9 +1,11 @@
 <h3>MailChimp</h3>
 <p>Here you can setup MailChimp settings for subscribe widget </p>
 
+<!--
 <figure class="img-polaroid">
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
+-->
 
 <h5>MailChimp API key</h5>
 

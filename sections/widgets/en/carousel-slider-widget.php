@@ -1,4 +1,4 @@
-	<h3>TM Carousel Slider</h3>
+	<h3>Carousel Slider</h3>
 
 	<p>Widget is used to display and setup slider carousel on the website.</p>
 

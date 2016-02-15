@@ -2,9 +2,11 @@
 <h3>Blog Settings</h3>
 <p>Здесь вы можете настроить логотип и фавиконку</p>
 
+<!--
 <figure class="img-polaroid">
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
+-->
 
 <h5>Тип логотипа</h5>
 

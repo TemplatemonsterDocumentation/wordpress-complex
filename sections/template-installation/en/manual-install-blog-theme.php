@@ -1,6 +1,29 @@
 <h3>Installation</h3>
 
-<h4>Install Theme</h4>
+<p>Now you can proceed to installing  the theme: <strong>theme####.zip</strong>.Here are the steps:</p>
+
+<ol class="index-list">
+    <li>
+        Go to the menu <strong>Appearance</strong> &gt; <strong>Themes</strong> and click the <strong>Add New Theme </strong>button
+    </li>
+    <li>
+        Click the <strong>Upload</strong> link.
+    </li>
+    <li>
+        Click the <strong>Browse</strong> button and navigate to the unzipped template package on your computer.
+    </li>
+    <li>
+        Look for a file called <strong>theme####.zip </strong>(where <strong>XXXX</strong> is the unique number of your theme). Click on it to select, then click <strong>OK</strong>.
+    </li>
+    <li>
+        Click the <strong>Install Now</strong> button and wait until the installation is complete.
+    </li>
+    <li>
+        Click the <strong>Activate</strong> link to change the current layout of the site to the theme your purchased.
+    </li>
+</ol>
+
+<p>Congratulations, the theme have been successfully installed!</p>
 
 <p>For installing the sample data, please follow the instructions below.</p>
 
@@ -39,9 +62,6 @@
 
 <p>To use this method, you need to have access to your WordPress site files on FTP through the File  Manager of your hosting control panel or an FTP client like Filezilla,  CuteFTP, Total Commander, etc.</p>
 
-<div class="alert alert-info">
-    If you have installed the theme with the sample data install or manual install and the theme is displayed differently from the Live demo, please open Cherry Options and click "Restore Defaults."
-</div>
 
 <ol class="index-list">
     <li>Unzip the <strong>theme####.zip</strong> files to any folder on your hard drive (first, right-click each of the .zip files, select Unzip  to… <strong>theme####</strong> accordingly, so you get the one folder called theme####).

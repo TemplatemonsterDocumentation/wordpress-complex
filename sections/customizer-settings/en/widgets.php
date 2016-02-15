@@ -3,9 +3,11 @@
 <p><p>You can configure widgets and their positions here. Main theme functionality is focused in widgets. Each template has a specific set of Widget Areas</p>
 
 
+<!--
 <figure class="img-polaroid">
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
+-->
 
 <h5>Widget creating</h5>
 

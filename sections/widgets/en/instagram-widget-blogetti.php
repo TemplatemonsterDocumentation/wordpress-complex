@@ -17,17 +17,9 @@
     </li>
     <li>
         <dl class="inline-term">
-            <dt>Client ID</dt>
+            <dt>Hashtag</dt>
             <dd>
-                Here you can define Client ID to show this account images on your website.
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>Hashtag (enter without `#` symbol)</dt>
-            <dd>
-                Here you can set a hashtag to display images, selected by this property
+                Here you can set a hashtag to display images, selected by this property (enter without `#` symbol).
             </dd>
         </dl>
     </li>
@@ -41,17 +33,9 @@
     </li>
     <li>
         <dl class="inline-term">
-            <dt>Caption</dt>
+            <dt>Client ID</dt>
             <dd>
-                Hide/Show caption below the images
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>Date</dt>
-            <dd>
-                Hide/Show date below the images
+                Here you can define Client ID to show this account images on your website.
             </dd>
         </dl>
     </li>

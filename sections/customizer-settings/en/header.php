@@ -2,9 +2,11 @@
 <h3>Header</h3>
 <p>You can set header items here</p>
 
+<!--
 <figure class="img-polaroid">
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
+-->
 
 <h5>Header Styles</h5>
 

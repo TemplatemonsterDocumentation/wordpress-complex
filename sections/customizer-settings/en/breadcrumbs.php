@@ -2,9 +2,11 @@
 <h3>Breadcrumbs</h3>
 <p>Here you can set up site breadcrumbs.</p>
 
+<!--
 <figure class="img-polaroid">
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
+-->
 
 <h5>Show full/minified breadcrumbs path</h5>
 

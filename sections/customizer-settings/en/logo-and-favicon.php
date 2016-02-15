@@ -2,9 +2,11 @@
 <h3>Logo & Favicon</h3>
 <p>You can configure logo and favicon here</p>
 
+<!--
 <figure class="img-polaroid">
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
+-->
 
 <h5>Type of logo</h5>
 

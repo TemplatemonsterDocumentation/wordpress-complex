@@ -2,9 +2,11 @@
 <h3>Color Scheme</h3>
 <p>Here you can set up site color scheme.</p>
 
+<!--
 <figure class="img-polaroid">
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
+-->
 
 <h5>Regular scheme</h5>
 
@@ -13,7 +15,7 @@
         <dl class="inline-term">
             <dt>Accent color (1)</dt>
             <dd>
-                First version of the main theme color 
+                First version of the main theme color
             </dd>
         </dl>
     </li>
@@ -31,7 +33,7 @@
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
             <dd>
-                Third version of the main theme color 
+                Third version of the main theme color
             </dd>
         </dl>
     </li>
@@ -143,7 +145,7 @@
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
             <dd>
-                The third version of the main inverted theme color 
+                The third version of the main inverted theme color
             </dd>
         </dl>
     </li>

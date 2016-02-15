@@ -2,9 +2,11 @@
 <h3>Static Front Page</h3>
 <p>Your theme supports a static front page. </p>
 
+<!--
 <figure class="img-polaroid">
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
+-->
 
 <h5>Front page displays</h5>
 

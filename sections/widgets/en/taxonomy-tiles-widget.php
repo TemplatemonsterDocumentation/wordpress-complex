@@ -1,4 +1,4 @@
-	<h3>TM Taxonomy Tiles</h3>
+	<h3>Taxonomy Tiles</h3>
 
 	<p>This widget is used to setup and display categories.</p>
 

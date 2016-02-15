@@ -2,16 +2,17 @@
 <h3>Blog Settings</h3>
 <p>You can set your blog settings here</p>
 
+<!--
 <figure class="img-polaroid">
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
-
+-->
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
             <dt>Layout</dt>
             <dd>
-                Select grid layout pattern for pages with custom blog layout.           	
+                Select grid layout pattern for pages with custom blog layout.
             </dd>
         </dl>
     </li>
@@ -28,7 +29,7 @@
         <dl class="inline-term">
             <dt>Post content</dt>
             <dd>
-                Select how you want to display post content in blog listing                               
+                Select how you want to display post content in blog listing
             </dd>
         </dl>
     </li>
@@ -36,7 +37,7 @@
         <dl class="inline-term">
             <dt>Featured Image</dt>
             <dd>
-                Set dimensions for post featured images.               
+                Set dimensions for post featured images.
             </dd>
         </dl>
     </li>
@@ -44,7 +45,7 @@
         <dl class="inline-term">
             <dt>Read More button text</dt>
             <dd>
-                This setting specify read more button label text.                               
+                This setting specify read more button label text.
             </dd>
         </dl>
     </li>
@@ -52,7 +53,7 @@
         <dl class="inline-term">
             <dt>Show post author</dt>
             <dd>
-                Show / Hide post author.                
+                Show / Hide post author.
             </dd>
         </dl>
     </li>
@@ -60,7 +61,7 @@
         <dl class="inline-term">
             <dt>Show publish date</dt>
             <dd>
-                Show / Hide publish date               
+                Show / Hide publish date
             </dd>
         </dl>
     </li>
@@ -68,7 +69,7 @@
         <dl class="inline-term">
             <dt>Show categories</dt>
             <dd>
-                Show / Hide categories                 
+                Show / Hide categories
             </dd>
         </dl>
     </li>
@@ -76,7 +77,7 @@
         <dl class="inline-term">
             <dt>Show tags</dt>
             <dd>
-                Show / Hide tags                 
+                Show / Hide tags
             </dd>
         </dl>
     </li>
@@ -84,7 +85,7 @@
         <dl class="inline-term">
             <dt>Show comments</dt>
             <dd>
-                Show / Hide tags                 
+                Show / Hide tags
             </dd>
         </dl>
     </li>

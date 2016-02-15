@@ -2,7 +2,8 @@
 
 include_once 'functions.php';
 
-$path = dirname($_SERVER['PHP_SELF']);
+//$path = dirname($_SERVER['PHP_SELF']);
+$path = (@$_SERVER["HTTPS"] == "on") ? "https://" : "http://" . $_SERVER["SERVER_NAME"] . '/' . trim(dirname($_SERVER["PHP_SELF"]),'/');
 
 /**
  * List of allowed project names

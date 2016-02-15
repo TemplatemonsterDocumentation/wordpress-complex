@@ -1,4 +1,4 @@
-	<h3>TM Image Grid Widget</h3>
+	<h3>Image Grid Widget</h3>
 
 	<p>This widget is used to display image grid. By default you have to select appropriate category or tags in order to start display</p>
 

@@ -1,9 +1,11 @@
 <h3>Page layout</h3>
 <p>Here you can select the layout pattern for the main website container.</p>
 
+<!--
 <figure class="img-polaroid">
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
+-->
 
 <h5>Layout type</h5>
 

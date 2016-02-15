@@ -2,9 +2,11 @@
 <h3>Sidebar settings</h3>
 <p>Here you can configure the template sidebars.</p>
 
+<!--
 <figure class="img-polaroid">
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
+-->
 
 <ul class="marked-list">
     <li>

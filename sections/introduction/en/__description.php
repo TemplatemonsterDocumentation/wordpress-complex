@@ -21,20 +21,6 @@
     <ul class="files_structure">
     <li>
     	<dl class="inline-term">
-    		<dt><i class="fa fa-folder"></i> <strong>documentation</strong></dt>
-    		<dd> contains documentation.</dd>
-    	</dl>
-    	<ul>
-            <li>
-                <dl class="inline-term">
-                    <dt><i class="fa fa-file"></i> <strong>documentation.html</strong></dt>
-            		<dd>the main documentation file that you are reading at the moment :)</dd>
-        		</dl>
-    		</li>               		
-    	</ul>
-    </li>
-    <li>
-    	<dl class="inline-term">
     		<dt><i class="fa fa-folder"></i> <strong>screenshots</strong></dt>
     		<dd> contains screen-shots of the template. However, they are not required to edit the template.</dd>
     	</dl>
@@ -59,15 +45,6 @@
             <dd> contains WordPress theme files.</dd>
         </dl>
         <ul>
-            <li>
-                <dl class="inline-term">
-                    <dt><i class="fa fa-folder"></i> <strong>cherryframework4.zip</strong></dt>
-                    <dd>
-                        archive with the Cherry Framework theme. Contains all theme files. It must
-                        be installed through WordPress extension manager.
-                    </dd>
-                </dl>
-            </li>
             <li>
                 <dl class="inline-term">
                     <dt>
@@ -192,9 +169,9 @@
     	<h4>Hosting</h4>
     	<p>As WordPress CMS is a PHP/MySQL platform, you need to have the hosting server prepared for it.</p>
     	<p>In case you already have a hosting server, you need to check whether it is compatibile with <a href="http://wordpress.org/about/requirements/" target="_blank"> WordPress hosting requirements </a>, in other words, whether you can host a WordPress website with it.</p>
-    	
+
     	<p>Cherry Framework itself requires Apache or Nginx hosting servers with the following configuration settings:</p>
-    	
+
     	<h5>Recommended Configuration</h5>
 
     	<ol class="index-list">
@@ -214,10 +191,10 @@
     		<li>1 GB of disk space</li>
     		<li>memory limit per process: 64mb (128mb or more recommended)</li>
     	</ol>
-    	
+
 
     	<h5>PHP and MySQL</h5>
-    	
+
     	<p>Minimal required version of PHP is 5.2.4 and MySQL 5. PHP 5.2 is already not safe as contains critical vulnerabilities that can be used to harm your website. Some Cherry Framework extensions will not work with PHP 5.2 and require version 5.4 or later.</p>
 
     	<p>Recommended settings are: </p>

@@ -68,13 +68,48 @@
 
 		],
 
-		"wildride":
+		"blogetti":
 		[
 		{
 			"id":"widgets-installation",
 			"translations":{
 				"en":"Widgets installation",
 				"ru":"Установка виджетов"
+			}
+		},
+		{
+			"id":"about-author-widget",
+			"translations":{
+				"en":"About Author",
+				"ru":"Информация об авторе"
+			}
+		},
+		{
+			"id":"carousel-slider-widget-blogetti",
+			"translations":{
+				"en":"Carousel Slider",
+				"ru":"Слайдер карусель"
+			}
+		},
+		{
+			"id":"instagram-widget-blogetti",
+			"translations":{
+				"en":"Instagram Widget",
+				"ru":"Instagram виджет"
+			}
+		},
+		{
+			"id":"slider-widget-blogetti",
+			"translations":{
+				"en":"Post Slider",
+				"ru":"Cлайдер постов"
+			}
+		},
+		{
+			"id":"subscribe-and-social-widget",
+			"translations":{
+				"en":"Subscribe and Follow",
+				"ru":"Подписка и Follow"
 			}
 		}
 		],
