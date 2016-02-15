@@ -124,7 +124,7 @@ input[type='button'] {
   margin-left: 1230px; }
 
 .page {
-  padding-left: 64px;
+  padding-left: 300px;
   padding-right: 300px; }
 
 @media (max-width: 1599px) {
@@ -274,5 +274,3 @@ input[type='button'] {
   line-height: 0; }
 .container:after, .row:after {
   clear: both; }
-
-/*# sourceMappingURL=grid.css.map */

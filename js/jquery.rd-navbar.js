@@ -272,21 +272,17 @@
                     //p.addClass('fixed').css({"transition": "height 0.1s ease-out 0.1s"});
                 }
 
-                if ($(window).width() > 1067) {
-                    var offset = 202;
-                    if ( 'introduction' === $('body').data('section') ) {
-                      offset = 546;
-                    }
-                    if (st < offset) {
-                        resize();
-                    } else {
-                        fix();
-                        $('body').removeClass('navbar-fixed').addClass('navbar-stickup');
-                    }
-                } else {
-                    fix();
-                    $('body').removeClass('navbar-stickup').addClass('navbar-fixed');
-                }
+            if ($(window).width() > 1067) {
+                     if (st < 546 && 'introduction' === $('body').data('section')) {
+                         resize();
+                     } else {
+                         fix();
+                         $('body').removeClass('navbar-stickup').addClass('navbar-fixed');
+                     }
+                 } else {
+                     fix();
+                     $('body').removeClass('navbar-stickup').addClass('navbar-fixed');
+                 }
 
                 st_before = st;
             }
