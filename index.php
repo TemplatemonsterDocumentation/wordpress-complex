@@ -82,7 +82,7 @@ echo "</pre>";*/
     </div>
     <div class="page-content active">
         <button class="rd-mobilepanel_toggle active"><span></span></button>
-        <div class="rd-mobilepanel">
+        <div class="rd-mobilepanel<?php if ('introduction' !== $section_param) : ?> fixed<?php endif; ?>">
             <h1 class="rd-mobilepanel_title">
                 <?php echo $projectTitle; ?>
             </h1>

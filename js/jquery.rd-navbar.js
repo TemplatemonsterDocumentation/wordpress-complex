@@ -238,11 +238,11 @@
                     if (st > st_before && !p.hasClass('fixed')) {
                         t.css({
                             "transform": "translateY(" + (st / 4) + "px)",
-                            "font-size": fz - st / 6.7
+                            "font-size": fz/* - st / 6.7*/
                         });
                         tc.css({
                             "transform": "translateY(" + (st / 8) + "px)",
-                            "font-size": 32 - st / 25
+                            "font-size": 32 /*- st / 25*/
                         });
                     } else {
                         t.css({
