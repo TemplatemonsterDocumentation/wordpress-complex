@@ -257,7 +257,7 @@
                 }
 
                 function fix() {
-                    
+
                     p.addClass('fixed');
                     //p.addClass('fixed').slideUp(500);
 
@@ -272,8 +272,12 @@
                     //p.addClass('fixed').css({"transition": "height 0.1s ease-out 0.1s"});
                 }
 
-                if ($(window).width() > 1067) {
-                    if (st < 202) {
+if ($(window).width() > 1067) {
+                    var offset = 202;
+                    if ( 'introduction' === $('body').data('section') ) {
+                      offset = 546;
+                    }
+                    if (st < offset) {
                         resize();
                     } else {
                         fix();

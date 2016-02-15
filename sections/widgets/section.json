@@ -67,6 +67,18 @@
 		}
 
 		],
+
+		"wildride":
+		[
+		{
+			"id":"widgets-installation",
+			"translations":{
+				"en":"Widgets installation",
+				"ru":"Установка виджетов"
+			}
+		}
+		],
+
 		"cherryframework4":
 		[
 

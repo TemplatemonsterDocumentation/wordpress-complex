@@ -150,7 +150,7 @@ a {
   &:focus { outline: none; }
   &:active { background-color: transparent; }
 
-  @include transition(.3s);
+  @include transition(.1s);
 }
 
 a[href^="tel:"],
