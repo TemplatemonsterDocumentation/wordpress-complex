@@ -3,7 +3,17 @@
 include_once 'functions.php';
 
 //$path = dirname($_SERVER['PHP_SELF']);
-$path = (@$_SERVER["HTTPS"] == "on") ? "https://" : "http://" . $_SERVER["SERVER_NAME"] . '/' . trim(dirname($_SERVER["PHP_SELF"]),'/');
+//$path = (@$_SERVER["HTTPS"] == "on") ? "https://" : "http://" . $_SERVER["SERVER_NAME"] . str_replace('//', '', '/' . trim(dirname($_SERVER["PHP_SELF"]), '/'));
+
+if ( false === defined('DOCUMENT_ROOT')) {
+    define('DOCUMENT_ROOT', str_replace(
+        array('/', '\\'),
+        DIRECTORY_SEPARATOR,
+        $_SERVER['DOCUMENT_ROOT']
+    ));
+}
+
+$path = '//' . $_SERVER['SERVER_NAME'] . str_replace(array(DOCUMENT_ROOT, '\\'), array('', '/'), __DIR__);
 
 /**
  * List of allowed project names

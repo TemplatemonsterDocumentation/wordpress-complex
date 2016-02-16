@@ -48,7 +48,7 @@
             <li>
                 <dl class="inline-term">
                     <dt>
-                        <i class="fa fa-folder"></i> <strong>theme####.zip</strong>
+                        <i class="fa fa-folder"></i> <strong>theme-name.zip</strong>
                     </dt>
                     <dd>
                         archive with the theme (child theme). Contains all theme files.
@@ -81,18 +81,11 @@
                     <li>
                         <dl class="inline-term">
                             <dt>
-                                <i class="fa fa-file"></i> <strong>widgets.json</strong>
+                                <i class="fa fa-file"></i> <strong>widgets.wie</strong>
                             </dt>
                             <dd>
                                 contains widgets settings.
                             </dd>
-                        </dl>
-                    </li>
-                    <li>
-                        <dl class="inline-term">
-                            <dt>
-                                <i class="fa fa-file"></i> <strong>various images and media files</strong>.
-                            </dt>
                         </dl>
                     </li>
                 </ul>

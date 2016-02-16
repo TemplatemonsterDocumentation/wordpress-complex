@@ -7,6 +7,24 @@
 	},
 	"articles":
 	{
+		"wildride":
+		[
+			{
+				"id":"contact-form",
+				"translations":{
+					"en":"Contact form 7",
+					"ru":"Contact form 7"
+				}
+			},
+			{
+				"id":"mailchimp-for-wordpress",
+				"translations":{
+					"en":"MailChimp for WordPress",
+					"ru":"MailChimp for WordPress"
+				}
+			}
+		],
+
 		"cherryframework4":
 		[],
 

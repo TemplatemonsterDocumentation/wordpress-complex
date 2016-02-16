@@ -161,6 +161,10 @@
         Database details.
     </h4>
 
+    <div class="alert alert-info">
+	    Please note that the prefix of WordPress database tables should be <strong>wp_</strong>.
+	</div>
+
     <p>
         You need to enter the WordPress database connection details here.
     </p>

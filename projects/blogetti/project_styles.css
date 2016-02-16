@@ -13,22 +13,77 @@ h4 {
 
 .page-content.active .rd-mobilepanel {
   background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% top; } }
 
 .rd-mobilepanel {
-  background-image: url("../../projects/blogetti/img/header-bg.png");
   background-color: #fe7646;
   background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px top; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/blogetti/img/header-bg.png");
   height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
 
 .rd-mobilepanel_title {
-  font-size: 82px;
-  color: #FFFFFF;
-  width: 430px; }
+  font-size: 82px; }
 
 .tm-title-caption {
   font-size: 32px;
   top: 200px;
-  font-family: "Noto Serif", serif; }
+  font-family: "Noto Serif", serif;
+  color: #fe7646;
+  line-height: 36px;
+  width: 430px; }
 
 .rd-mobilemenu .logo {
   background-color: #312f44; }
+
+/*
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+		}
+	}
+}
+
+.rd-mobilepanel {
+	background-image: url($header-background-image);
+	background-color: $primary-color;
+	background-position: right top;
+	height: 600px;
+}
+
+.rd-mobilepanel_title {
+	font-size: 82px;
+	color: $primary-color-light;
+	width: 430px;
+}
+
+.tm-title-caption {
+	font-size: 32px;
+	top: 200px;
+	font-family: $primary-font-family;
+}
+
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color-second;
+	}
+}*/
