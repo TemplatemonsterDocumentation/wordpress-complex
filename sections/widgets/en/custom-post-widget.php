@@ -1,15 +1,15 @@
-	<h3>Post Slider</h3>
+	<h3>Custom Posts</h3>
 
-	<p>This widget is used to setup and display slider on the website.</p>
+	<p>This widget is used to setup and display custom posts.</p>
 
-    <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/smart-slider-widget.png">
+	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/widgets/custom-posts.png">
     </figure>
 
 	<ul class="marked-list">
     <li>
         <dl class="inline-term">
-            <dt>Title</dt>
+            <dt>Widget Title</dt>
             <dd>
 				This property specifies the widget title
             </dd>
@@ -19,31 +19,47 @@
         <dl class="inline-term">
             <dt>Category</dt>
             <dd>
-                Here you can select a category to pull slides from
+                Select category to use for posts display.
             </dd>
         </dl>
     </li>
     <li>
         <dl class="inline-term">
-            <dt>Tag</dt>
+            <dt>Tags </dt>
             <dd>
-                Here you can select a tag to pull slides from
+                Select tag to use for posts display.
             </dd>
         </dl>
     </li>
     <li>
         <dl class="inline-term">
-            <dt>Posts count</dt>
+            <dt>Count of posts</dt>
             <dd>
-                This property defines number of posts / slides to display
+                Here you can define the number of posts to display
             </dd>
         </dl>
     </li>
     <li>
         <dl class="inline-term">
-            <dt>Show button</dt>
+            <dt>Choose taxonomy type</dt>
             <dd>
-                Here you can define whether to Hide/Show read more button
+                Here you can define items selection source: by Category or Tag
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Title length</dt>
+            <dd>
+                This property sets the number of words symbols for title description.
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Excerpt length</dt>
+            <dd>
+                This property sets the number of symbols limit for excerpt.
             </dd>
         </dl>
     </li>
@@ -51,40 +67,23 @@
         <dl class="inline-term">
             <dt>Button text</dt>
             <dd>
-                Read more button label
+                Button text label
             </dd>
         </dl>
     </li>
     <li>
         <dl class="inline-term">
-            <dt>Show arrows</dt>
+            <dt>Show date</dt>
             <dd>
-                Here you can define whether to Hide/Show navigation arrows
-            </dd>
-        </dl>
-    </li>
-
-    <li>
-        <dl class="inline-term">
-            <dt>Show bullets</dt>
-            <dd>
-                Here you can define whether to Hide/Show bullet dots
+                Here you can define whether to Hide/Show date.
             </dd>
         </dl>
     </li>
     <li>
         <dl class="inline-term">
-            <dt>Show thumb</dt>
+            <dt>Show comments</dt>
             <dd>
-                Here you can define whether to Hide/Show slide thumbnails below the slider.
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>Autoplay</dt>
-            <dd>
-                This property specifies enable / disable autoplaying for slides
+                Here you can define whether to Hide/Show comments.
             </dd>
         </dl>
     </li>

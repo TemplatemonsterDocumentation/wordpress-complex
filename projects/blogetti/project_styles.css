@@ -45,9 +45,10 @@ body:not([data-section="introduction"]) .tm-title-caption {
 
 .tm-title-caption {
   font-size: 32px;
+  font-weight: 700;
   top: 200px;
   font-family: "Noto Serif", serif;
-  color: #fe7646;
+  color: #FFFFFF;
   line-height: 36px;
   width: 430px; }
 

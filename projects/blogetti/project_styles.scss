@@ -54,7 +54,7 @@ h4 {
 	}
 
 [data-section="introduction"] {
-	.rd-mobilepanel {	 
+	.rd-mobilepanel {
 		background-image: url($header-background-image);
 		height: 600px;
 		&.fixed {
@@ -62,14 +62,14 @@ h4 {
     		background-image: none;
     		transition: top 1s ease-out 0.5s;
     	}
-	}	
+	}
 }
 body:not([data-section="introduction"]) {
 	.tm-title-caption {
 		display: none;
-	}	
+	}
 }
- 
+
  .rd-mobilepanel_title {
 	font-size: 82px;
 
@@ -77,9 +77,10 @@ body:not([data-section="introduction"]) {
 
 .tm-title-caption {
 	font-size: 32px;
+	font-weight: 700;
 	top: 200px;
 	font-family: $primary-font-family;
-    color: $primary-color;
+    color: $primary-color-light;
     line-height: 36px;
     width: 430px;
 }

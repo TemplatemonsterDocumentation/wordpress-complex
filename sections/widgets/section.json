@@ -64,6 +64,13 @@
 				"en":"Taxonomy Tiles",
 				"ru":"Виджет категорий и тегов"
 			}
+		},
+		{
+			"id":"track-kickstarter-project-widget",
+			"translations":{
+				"en":"Track kickstarter project",
+				"ru":"Мониторинг проекта на кикстартере"
+			}
 		}
 
 		],
@@ -82,6 +89,13 @@
 			"translations":{
 				"en":"About Author",
 				"ru":"Информация об авторе"
+			}
+		},
+		{
+			"id":"categories-tiles-widget",
+			"translations":{
+				"en":"Categories tiles",
+				"ru":"Вывод категорий"
 			}
 		},
 		{
@@ -110,6 +124,34 @@
 			"translations":{
 				"en":"Subscribe and Follow",
 				"ru":"Подписка и Follow"
+			}
+		},
+		{
+			"id":"custom-post-widget",
+			"translations":{
+				"en":"Custom post",
+				"ru":"Посты"
+			}
+		},
+		{
+			"id":"facebook-page-widget-blogetti",
+			"translations":{
+				"en":"Facebook page widget",
+				"ru":"Facebook виджет"
+			}
+		},
+		{
+			"id":"twitter-widget",
+			"translations":{
+				"en":"Twitter widget",
+				"ru":"Twitter виджет"
+			}
+		},
+		{
+			"id":"youtube-subscribe-widget-blogetti",
+			"translations":{
+				"en":"Youtube subscribe widget",
+				"ru":"Youtube блок подриски"
 			}
 		}
 		],

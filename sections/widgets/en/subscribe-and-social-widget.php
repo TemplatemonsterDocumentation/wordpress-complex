@@ -1,4 +1,4 @@
-	<h3>Subscribe and Follow</h3>
+	<h3>Subscribe and Social</h3>
 
 	<p>This widget is used to display blocks for Subscribe and Social sections.</p>
 
@@ -45,60 +45,114 @@
         <dl class="inline-term">
             <dt>Subscribe button</dt>
             <dd>
-                This property specifies a placeholder text “Submit” in the subscribe button of the Subscribe Box.
-            </dd>
-        </dl>
-    </li>
-
-
-
-
-
-
-
-
-
-
-
-    <li>
-        <dl class="inline-term">
-            <dt>Subscribe input placeholder</dt>
-            <dd>
-                This property specifies a placeholder text “Enter Your Email Here” in the input area of the Subscribe Box.
-            </dd>
-        </dl>
-    </li>
-
-    <li>
-        <dl class="inline-term">
-            <dt>Subscribe success</dt>
-            <dd>
-                This property specifies a success message text “You are successfully subscribed” in the subscribe area of the Subscribe Box.
+                This property specifies a placeholder text “Get” in the subscribe button of the Subscribe Box.
             </dd>
         </dl>
     </li>
     <li>
         <dl class="inline-term">
-            <dt>Enable Follow Box</dt>
+            <dt>MailChimp ApiKey</dt>
             <dd>
-                Hide/Show Follow Box
+                If you want to set up an integration with your MailChimp account, you'll need to generate an API key, and insert in this field.
             </dd>
         </dl>
     </li>
     <li>
         <dl class="inline-term">
-            <dt>Follow Title</dt>
+            <dt>MailChimp list id</dt>
             <dd>
-                This property specifies the follow box title
+                Each MailChimp list has a unique List ID that integrations, plugins, and widgets may require to connect and transfer subscriber data.
             </dd>
         </dl>
     </li>
-        <li>
+    <li>
         <dl class="inline-term">
-            <dt>Follow text message</dt>
+            <dt>Success message</dt>
             <dd>
-                Here you can add text description for the Follow block.
+                This property specifies a success message text “Success” in the subscribe area of the Subscribe Box.
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Failed message</dt>
+            <dd>
+                This property specifies a failed message text “Failed” in the subscribe area of the Subscribe Box.
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Warning message</dt>
+            <dd>
+                This property specifies a warning message text “Email is not correct” in the subscribe area of the Subscribe Box.
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show social buttons</dt>
+            <dd>
+                Displays the list of links to social networks pages in site
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Social title</dt>
+            <dd>
+                This property specifies the social networks box title
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Social description</dt>
+            <dd>
+                This property specifies the social networks box description
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Social button #1</dt>
+            <dd>
+                This property specifies a label text “Facebook” and permalink for facebook button.
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Social button #2</dt>
+            <dd>
+                This property specifies a label text “Twitter” and permalink for twitter button.
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Social button #3</dt>
+            <dd>
+                This property specifies a label text “Google-plus” and permalink for google-plus button.
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Social button #4</dt>
+            <dd>
+                This property specifies a label text “Linkedin” and permalink for linkedin button.
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Social button #5</dt>
+            <dd>
+                This property specifies a label text “Pinterest” and permalink for pinterest button.
             </dd>
         </dl>
     </li>
 </ul>
+
+<p>Also, you can add a new social button.</p>

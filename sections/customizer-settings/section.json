@@ -187,9 +187,16 @@
 					"en":"Static Front Page",
 					"ru":"Главаная траница"
 				}
+			},
+			{
+				"id":"misc",
+				"translations":{
+					"en":"Miscellaneous settings",
+					"ru":"Различные настройки"
+				}
 			}
 		],
-			
+
 		"cherryframework4":
 		[
 
