@@ -1,18 +1,14 @@
-@import url(//fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat+Alternates:400,700);
 h1 {
-  font-family: "Montserrat", sans-serif;
   color: #FFFFFF; }
 
 h2 {
-  color: #1082FC;
-  font-family: "Montserrat", sans-serif; }
+  color: #f62e46; }
 
 h3 {
-  color: #312F44;
-  font-family: "Montserrat", sans-serif; }
+  color: #2a445d; }
 
 h4 {
-  color: #1082FC; }
+  color: #f62e46; }
 
 .page-content.active .rd-mobilepanel {
   background-position: 66% top; }
@@ -21,7 +17,7 @@ h4 {
       background-position: 100% top; } }
 
 .rd-mobilepanel {
-  background-color: #312F44;
+  background-color: #2a445d;
   background-position: right top;
   transition-property: height;
   transition-duration: 2s;
@@ -33,7 +29,7 @@ h4 {
       background-position: 600px top; } }
 
 [data-section="introduction"] .rd-mobilepanel {
-  background-image: url("../../projects/wildride/img/header-bg.png");
+  background-image: url("../../projects/cherryframework4/img/header-bg.png");
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
@@ -49,10 +45,9 @@ body:not([data-section="introduction"]) .tm-title-caption {
 .tm-title-caption {
   font-size: 32px;
   top: 200px;
-  font-family: "Montserrat", sans-serif;
-  color: #1082FC;
+  color: #f62e46;
   line-height: 36px;
   width: 430px; }
 
 .rd-mobilemenu .logo {
-  background-color: #1082FC; }
+  background-color: #f62e46; }

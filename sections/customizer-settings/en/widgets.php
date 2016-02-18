@@ -15,6 +15,10 @@
 
 <h5>Registered widgets areas</h5>
 
+<figure class="img-polaroid">
+    <img src="img/blog-theme/widgets/widget-areas.png" alt="" >
+</figure>
+<!--
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
@@ -89,5 +93,5 @@
         </dl>
     </li>
 </ul>
-
+-->
 <p>More info on widgets is available <a href="">here</a>.</p>

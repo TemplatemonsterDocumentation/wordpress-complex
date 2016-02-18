@@ -57,7 +57,8 @@ switch ($project) {
         break;
      case 'cherryframework4':
         $projectTextLogo = '';
-        $projectTitle = 'Cherry Framework 4 Documentation';
+        $projectTitle = 'Cherry4';
+        $projectTitleCaption = 'WorPress Framework';
         break;
     default:
         $projectTextLogo = '';
