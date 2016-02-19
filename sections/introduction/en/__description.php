@@ -181,7 +181,7 @@
     		</li>
     		<li>in <strong>.htaccess</strong> file: 'php_value max_execution_time' => 60;</li>
     		<li>in <strong>wp-config.php</strong>: 'set_time_limit' => 60;</li>
-    		<li>1 GB of disk space</li>
+    		<li>50 MB of disk space</li>
     		<li>memory limit per process: 64mb (128mb or more recommended)</li>
     	</ol>
 

@@ -2,9 +2,9 @@
 
 	<p>This widget is used to setup and display categories.</p>
 
-	<figure class="img-polaroid">
-	    <img src="img/tm/widgets/.png" alt="" >
-	</figure>
+    <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/widgets/taxonomy-tiles-widget.png">
+    </figure>
 
 	<ul class="marked-list">
     <li>

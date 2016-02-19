@@ -74,7 +74,7 @@
     <figure class="img-polaroid">
         <img src="img/blog-theme/installation/wordpress-importer-select.png" alt="" >
     </figure>
-    
+
     <p>Next press on Upload File and import</p>
 
     <p>
@@ -83,7 +83,7 @@
     <p>
         Check the checkbox 'Download and import file attachments'</br> Navigate to the Dashboard when it is completed.
     </p>
-    
+
     <figure class="img-polaroid">
         <img src="img/blog-theme/installation/wordpress-importer-setting.png" alt="" >
     </figure>
@@ -113,6 +113,24 @@
 
 
     <p>After the successful installation all of widgets settings will be applied.</p>
+
+    <div class="alert alert-info">
+    If there are problems with installing theme via the admin panel, here's the alternative way to do it.
+    </div>
+
+    <h4>Upload via FTP</h4>
+
+<p>To use this method, you need to have access to your WordPress site files on FTP through the File  Manager of your hosting control panel or an FTP client like Filezilla,  CuteFTP, Total Commander, etc.</p>
+
+
+<ol class="index-list">
+    <li>Unzip the <strong>theme-name.zip</strong> files to any folder on your hard drive (first, right-click each of the .zip files, select Unzip  to… <strong>theme-name</strong> accordingly, so you get the one folder called theme-name).
+    </li>
+    <li>Upload the <strong>theme-name</strong> folder to the <strong>/wp-content/themes/</strong> directory on your FTP server.</li>
+    <li>Log in to your WordPress admin panel (add /wp-admin after your domain name in the browser address bar).</li>
+    <li>Go to the menu <strong>Appearance</strong> > <strong>Themes</strong>.</li>
+    <li>Under the <strong>Available Themes</strong> section find <strong>theme-name</strong> and activate it by clicking the <strong>Activate</strong> button.</li>
+</ol>
 
 
 <h4>Installing the sample data manualy</h4>
@@ -152,26 +170,9 @@
 
 <p>8. Click the Save Changes button.</p>
 
-<p>9. Refresh your home page. The template has been installed and looks exactly like the live demo with sample content.</p>
+<p>9. Refresh your home page. The template has been installed with demo sample content.</p>
 
 
 
-<div class="alert alert-info">
-    If there are problems with installing them via the admin panel, here's the alternative way to do it.
-</div>
-
-<h4>Upload via FTP</h4>
-
-<p>To use this method, you need to have access to your WordPress site files on FTP through the File  Manager of your hosting control panel or an FTP client like Filezilla,  CuteFTP, Total Commander, etc.</p>
-
-
-<ol class="index-list">
-    <li>Unzip the <strong>theme-name.zip</strong> files to any folder on your hard drive (first, right-click each of the .zip files, select Unzip  to… <strong>theme-name</strong> accordingly, so you get the one folder called theme-name).
-    </li>
-    <li>Upload the <strong>theme-name</strong> folder to the <strong>/wp-content/themes/</strong> directory on your FTP server.</li>
-    <li>Log in to your WordPress admin panel (add /wp-admin after your domain name in the browser address bar).</li>
-    <li>Go to the menu <strong>Appearance</strong> > <strong>Themes</strong>.</li>
-    <li>Under the <strong>Available Themes</strong> section find <strong>theme-name</strong> and activate it by clicking the <strong>Activate</strong> button.</li>
-</ol>
 
 

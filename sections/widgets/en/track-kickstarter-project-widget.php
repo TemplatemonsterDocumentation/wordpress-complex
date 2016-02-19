@@ -1,11 +1,11 @@
 	<h3>Track Kickstarter Project</h3>
 
 	<p>This widget is used to display kickstarter project information</p>
-<!--
+
     <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/about-author-widget.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/track-kickstarter-project-widget.png">
     </figure>
--->
+
 	<ul class="marked-list">
     <li>
         <dl class="inline-term">

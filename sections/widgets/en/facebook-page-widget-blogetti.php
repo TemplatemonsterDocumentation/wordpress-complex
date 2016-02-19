@@ -81,7 +81,7 @@
     </li>
     <li>
         <dl class="inline-term">
-            <dt>Adaptive width</dt>
+            <dt>Hide cover</dt>
             <dd>
                 This property defines whether to display / hide header background image for facebook block
             </dd>
