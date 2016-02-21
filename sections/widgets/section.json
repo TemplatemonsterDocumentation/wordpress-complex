@@ -81,6 +81,80 @@
 		}
 
 		],
+		"kingnews":
+		[
+		{
+			"id":"widgets-installation",
+			"translations":{
+				"en":"Widgets installation",
+				"ru":"Установка виджетов"
+			}
+		},
+		{
+			"id":"about-author-widget",
+			"translations":{
+				"en":"About Author",
+				"ru":"Информация об авторе"
+			}
+		},
+		{
+			"id":"carousel-slider-widget",
+			"translations":{
+				"en":"Carousel Slider",
+				"ru":"Слайдер карусель"
+			}
+		},
+		{
+			"id":"image-grid-widget",
+			"translations":{
+				"en":"Image Grid",
+				"ru":"Сетка изображений"
+			}
+		},
+		{
+			"id":"instagram-widget",
+			"translations":{
+				"en":"Instagram Widget",
+				"ru":"Instagram виджет"
+			}
+		},
+		{
+			"id":"smart-slider-widget",
+			"translations":{
+				"en":"Smart Slider",
+				"ru":"Умный слайдер"
+			}
+		},
+		{
+			"id":"subscribe-and-follow-widget",
+			"translations":{
+				"en":"Subscribe and Follow",
+				"ru":"Подписка и Follow"
+			}
+		},
+		{
+			"id":"taxonomy-tiles-widget",
+			"translations":{
+				"en":"Taxonomy Tiles",
+				"ru":"Виджет категорий и тегов"
+			}
+		},
+		{
+			"id":"track-kickstarter-project-widget",
+			"translations":{
+				"en":"Track kickstarter project",
+				"ru":"Мониторинг проекта на кикстартере"
+			}
+		},
+		{
+			"id":"give-donation-form",
+			"translations":{
+				"en":"Give - Donation Form",
+				"ru":"Give - Donation Form"
+			}
+		}
+
+		],
 
 		"blogetti":
 		[

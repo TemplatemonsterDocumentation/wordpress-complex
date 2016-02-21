@@ -20,7 +20,7 @@ $path = '//' . $_SERVER['SERVER_NAME'] . str_replace(array(DOCUMENT_ROOT, '\\'),
  * @var array
  */
 
-$allowedProjects = array('wildride', 'blogetti', 'cherryframework4', 'wordpress', 'monstroid', 'woocommerce');
+$allowedProjects = array('wildride', 'kingnews', 'blogetti', 'cherryframework4', 'wordpress', 'monstroid', 'woocommerce');
 //$allowedProjects = array('monstroid', 'cherryframework4', 'wordpress', 'woocommerce');
 $defaultProject = $project = $allowedProjects[0]; // default project equals first object in array above
 if (isset($_REQUEST['project'])) {
@@ -38,15 +38,24 @@ switch ($project) {
         $projectTitle = 'Blogetti';
         $projectTitleCaption = 'Slow-Cooker Alabamian';
         break;
+
     case 'wildride':
         $projectTextLogo = '';
         $projectTitle = 'Wild Ride';
         $projectTitleCaption = 'Bicycle NXT 3000 exhibited at CES in Vegas';
         break;
+
+    case 'kingnews':
+        $projectTextLogo = '';
+        $projectTitle = 'King news';
+        $projectTitleCaption = 'Latest news';
+        break;
+
     case 'monstroid':
         $projectTextLogo = '<span>Monstroid</span><small>premium theme</small>';
         $projectTitle = 'Monstroid Premium Theme Documentation';
         break;
+
     case 'wordpress':
         $projectTextLogo = '';
         $projectTitle = 'WordPress Themes Documentation v4-0';

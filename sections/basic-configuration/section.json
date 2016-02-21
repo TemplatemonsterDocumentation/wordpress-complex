@@ -25,6 +25,24 @@
 			}
 		],
 
+		"kingnews":
+		[
+			{
+				"id":"menu-and-navigation",
+				"translations":{
+					"en":"Menu and navigation",
+					"ru":"Меню и навигация"
+				}
+			},
+			{
+				"id":"customizer",
+				"translations":{
+					"en":"Customizer overview",
+					"ru":"Начало работы с Customizer"
+				}
+			}
+		],
+
 		"blogetti":
 		[
 			{

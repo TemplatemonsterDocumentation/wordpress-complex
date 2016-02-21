@@ -21,6 +21,19 @@
 		"third-party-plugins",
 		"extras"
 	],
+	"kingnews":
+	[
+		"introduction",
+		"template-installation",
+		"posts-categories",
+		"pages",
+		"basic-configuration",
+		"widgets",
+		"plugins",
+		"customizer-settings",
+		"third-party-plugins",
+		"extras"
+	],
 	"blogetti":
 	[
 		"introduction",

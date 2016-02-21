@@ -1,0 +1,58 @@
+@import url(//fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat+Alternates:400,700);
+h1 {
+  font-family: "Montserrat", sans-serif;
+  color: #000000; }
+
+h2 {
+  color: #02afff;
+  font-family: "Montserrat", sans-serif; }
+
+h3 {
+  color: #000000;
+  font-family: "Montserrat", sans-serif; }
+
+h4 {
+  color: #000000; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% top; } }
+
+.rd-mobilepanel {
+  background-color: #fff603;
+  background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px top; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/kingnews/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 82px; }
+
+.tm-title-caption {
+  font-size: 32px;
+  top: 200px;
+  font-family: "Montserrat", sans-serif;
+  color: #000000;
+  line-height: 36px;
+  width: 430px; }
+
+.rd-mobilemenu .logo {
+  background-color: #000000; }
