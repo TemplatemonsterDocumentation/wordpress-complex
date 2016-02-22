@@ -5,10 +5,6 @@ include_once 'functions.php';
 if (!isset($sections)) {
     $sections = getSections($project, $defaultProject);
 }
-/*
-echo "<pre style='color: #555;>";
-var_dump($projectName);
-echo "</pre>";*/
 ?>
 
 

@@ -45,6 +45,13 @@
 			}
 		},
 		{
+			"id":"easy-twitter-feed",
+			"translations":{
+				"en":"Easy twitter feed",
+				"ru":"Twitter лента"
+			}
+		},
+		{
 			"id":"smart-slider-widget",
 			"translations":{
 				"en":"Smart Slider",
@@ -98,6 +105,20 @@
 			}
 		},
 		{
+			"id":"featured-post-block",
+			"translations":{
+				"en":"Featured Post Block",
+				"ru":"Выбраные посты"
+			}
+		},
+		{
+			"id":"news-smart-box",
+			"translations":{
+				"en":"News Smart box",
+				"ru":"Новостная лента"
+			}
+		},
+		{
 			"id":"carousel-slider-widget",
 			"translations":{
 				"en":"Carousel Slider",
@@ -119,6 +140,13 @@
 			}
 		},
 		{
+			"id":"easy-twitter-feed",
+			"translations":{
+				"en":"Easy twitter feed",
+				"ru":"Twitter лента"
+			}
+		},
+		{
 			"id":"smart-slider-widget",
 			"translations":{
 				"en":"Smart Slider",
@@ -137,20 +165,6 @@
 			"translations":{
 				"en":"Taxonomy Tiles",
 				"ru":"Виджет категорий и тегов"
-			}
-		},
-		{
-			"id":"track-kickstarter-project-widget",
-			"translations":{
-				"en":"Track kickstarter project",
-				"ru":"Мониторинг проекта на кикстартере"
-			}
-		},
-		{
-			"id":"give-donation-form",
-			"translations":{
-				"en":"Give - Donation Form",
-				"ru":"Give - Donation Form"
 			}
 		}
 
