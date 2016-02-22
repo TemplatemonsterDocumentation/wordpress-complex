@@ -79,7 +79,7 @@
 
 <p>The main feature of this post format is the possibility to add an unlimited number of images.</p>
 
-<figure class="img-polaroid"><img src="img/wordpress/gallery_post_type.jpg" alt=""></figure>
+<!--<figure class="img-polaroid"><img src="img/wordpress/gallery_post_type.jpg" alt=""></figure>-->
 
 <h5>Adding a gallery:</h5>
 

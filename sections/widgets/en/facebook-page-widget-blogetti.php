@@ -6,7 +6,7 @@
         <img src="projects/<?php echo $project;?>/img/widgets/facebook-page-widget.png">
     </figure>
 
-	<ul class="marked-list">
+<ul class="marked-list">
     <li>
         <dl class="inline-term">
             <dt>Title</dt>
@@ -96,3 +96,5 @@
         </dl>
     </li>
 </ul>
+
+<p>To learn how to get facebook application ID please view the following information <a href="https://developers.facebook.com/quickstarts/?platform=web" target="_blank" alt="Facebook application ID">here</a></p>
