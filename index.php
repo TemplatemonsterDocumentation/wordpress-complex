@@ -21,11 +21,6 @@ if (!isset($sections)) {
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="<?php echo $path; ?>/css/grid.css">
 
-
-
-
-
-
     <link rel="stylesheet" href="<?php echo $path; ?>/css/style.css">
     <link rel="stylesheet" href="<?php echo $path.'/projects/'.$projectName;?>/project_styles.css">
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat+Alternates:400,700' rel='stylesheet' type='text/css'>
@@ -51,12 +46,6 @@ if (!isset($sections)) {
 </head>
 <body data-section="<?php echo $section_param; ?>" onload="prettyPrint()" data-project="<?php echo $project; ?>">
 
-<?php/*
-echo "<pre>";
-var_dump($_SERVER["HTTP_HOST"]);
-echo "</pre>";
-die();*/
-?>
 <div class="page-wrap">
     <div class="rd-mobilemenu active">
         <div class="logo logo__<?php echo $project; ?>">

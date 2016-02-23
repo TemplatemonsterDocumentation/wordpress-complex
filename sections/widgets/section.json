@@ -52,6 +52,13 @@
 			}
 		},
 		{
+			"id":"facebook-page-like-widget",
+			"translations":{
+				"en":"Facebook Page Like Widget",
+				"ru":"Facebook Page Like Widget"
+			}
+		},
+		{
 			"id":"smart-slider-widget",
 			"translations":{
 				"en":"Smart Slider",
@@ -144,6 +151,13 @@
 			"translations":{
 				"en":"Easy twitter feed",
 				"ru":"Twitter лента"
+			}
+		},
+		{
+			"id":"facebook-page-like-widget",
+			"translations":{
+				"en":"Facebook Page Like Widget",
+				"ru":"Facebook Page Like Widget"
 			}
 		},
 		{
