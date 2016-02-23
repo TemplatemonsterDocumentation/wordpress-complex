@@ -5,6 +5,8 @@ include_once 'functions.php';
 if (!isset($sections)) {
     $sections = getSections($project, $defaultProject);
 }
+
+
 ?>
 
 
@@ -48,6 +50,13 @@ if (!isset($sections)) {
     <script src='<?php echo $path; ?>/js/device.min.js'></script>
 </head>
 <body data-section="<?php echo $section_param; ?>" onload="prettyPrint()" data-project="<?php echo $project; ?>">
+
+<?php/*
+echo "<pre>";
+var_dump($_SERVER["HTTP_HOST"]);
+echo "</pre>";
+die();*/
+?>
 <div class="page-wrap">
     <div class="rd-mobilemenu active">
         <div class="logo logo__<?php echo $project; ?>">

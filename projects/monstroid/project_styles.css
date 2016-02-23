@@ -1,3 +1,6 @@
+h1 {
+  color: #FFFFFF; }
+
 h2 {
   color: #2b5ac7; }
 
@@ -23,3 +26,8 @@ h4 {
 
 .rd-mobilemenu .logo {
   background-color: #2b5ac7; }
+
+.toTop {
+  background-color: #2b5ac7; }
+  .toTop:hover {
+    background: #7697e2; }

@@ -89,3 +89,10 @@ body:not([data-section="introduction"]) {
 		background-color: darken($primary-color, 0);
 	}
 }
+
+.toTop {
+	background-color: $primary-color;
+	&:hover {
+    	background: lighten($primary-color, 20%);
+	}
+}

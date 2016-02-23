@@ -893,7 +893,6 @@ body.navbar-fixed {
   font-size: 24px;
   line-height: 52px;
   color: #fff;
-  background: #298ffc;
   border-radius: 50%;
   -webkit-box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.15);
   -moz-box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.15);
@@ -916,7 +915,6 @@ body.navbar-fixed {
   z-index: 9999999; }
   .toTop:hover {
     color: #fff;
-    background: #1082fc;
     text-decoration: none; }
   .toTop.active {
     -moz-transform: translateY(0px);

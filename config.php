@@ -13,7 +13,13 @@ if ( false === defined('DOCUMENT_ROOT')) {
     ));
 }
 
-$path = '//' . $_SERVER['SERVER_NAME'] . str_replace(array(DOCUMENT_ROOT, '\\'), array('', '/'), __DIR__);
+if (($_SERVER["HTTP_HOST"]) == "documentation.templatemonster.com") {
+    $path = '//' . $_SERVER['SERVER_NAME'] . str_replace(array(DOCUMENT_ROOT, '\\'), array('', '/'), __DIR__);
+}else{
+    $path = dirname($_SERVER['PHP_SELF']);
+}
+
+
 
 /**
  * List of allowed project names

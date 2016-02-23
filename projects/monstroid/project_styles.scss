@@ -13,6 +13,7 @@ $header-background-image: '../../projects/monstroid/img/header-bg.png';
 //========================================================
 
 h1 {
+	color: $primary-color-light;
 }
 
 h2 {
@@ -54,5 +55,11 @@ h4 {
 .rd-mobilemenu {
 	.logo{
 		background-color: $primary-color;
+	}
+}
+.toTop {
+	background-color: $primary-color;
+	&:hover {
+    	background: lighten($primary-color, 20%);
 	}
 }

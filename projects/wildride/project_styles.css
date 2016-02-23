@@ -56,3 +56,8 @@ body:not([data-section="introduction"]) .tm-title-caption {
 
 .rd-mobilemenu .logo {
   background-color: #1082FC; }
+
+.toTop {
+  background-color: #1082FC; }
+  .toTop:hover {
+    background: #75b7fd; }

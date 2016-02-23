@@ -90,3 +90,9 @@ body:not([data-section="introduction"]) {
 		background-color: $primary-color;
 	}
 }
+.toTop {
+	background-color: $primary-color;
+	&:hover {
+    	background: lighten($primary-color, 20%);
+	}
+}

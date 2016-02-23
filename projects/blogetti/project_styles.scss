@@ -92,36 +92,9 @@ body:not([data-section="introduction"]) {
 	}
 }
 
-/*
-.page-content {
-	&.active {
-		.rd-mobilepanel{
-			background-position: 66% top;
-		}
-	}
-}
-
-.rd-mobilepanel {
-	background-image: url($header-background-image);
+.toTop {
 	background-color: $primary-color;
-	background-position: right top;
-	height: 600px;
-}
-
-.rd-mobilepanel_title {
-	font-size: 82px;
-	color: $primary-color-light;
-	width: 430px;
-}
-
-.tm-title-caption {
-	font-size: 32px;
-	top: 200px;
-	font-family: $primary-font-family;
-}
-
-.rd-mobilemenu {
-	.logo{
-		background-color: $primary-color-second;
+	&:hover {
+    	background: lighten($primary-color, 10%);
 	}
-}*/
+}
