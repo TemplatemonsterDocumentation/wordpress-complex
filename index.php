@@ -6,13 +6,7 @@ if (!isset($sections)) {
     $sections = getSections($project, $defaultProject);
 }
 
-
-?>
-
-
-
-
-<!DOCTYPE html>
+?><!DOCTYPE html>
 <head>
     <title><?php echo $projectTitle; ?></title>
     <meta charset="utf-8">
@@ -22,7 +16,7 @@ if (!isset($sections)) {
     <link rel="stylesheet" href="<?php echo $path; ?>/css/grid.css">
 
     <link rel="stylesheet" href="<?php echo $path; ?>/css/style.css">
-    <link rel="stylesheet" href="<?php echo $path.'/projects/'.$projectName;?>/project_styles.css">
+    <link rel="stylesheet" href="<?php echo $path.'/projects/'.$project;?>/project_styles.css">
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat+Alternates:400,700' rel='stylesheet' type='text/css'>
     <!--<link href='//fonts.googleapis.com/css?family=Roboto:400,500,700' rel='stylesheet' type='text/css'>-->
     <link rel="stylesheet" href="<?php echo $path; ?>/css/prettify.css">

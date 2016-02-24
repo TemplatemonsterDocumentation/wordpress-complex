@@ -8,8 +8,11 @@ $third-color: #02afff;
 $primary-color-light: #FFFFFF;
 $header-background-image: '../../projects/kingnews/img/header-bg.png';
 
-@import url(//fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat+Alternates:400,700);
-$primary-font-family:'Montserrat', sans-serif;
+@import url(//fonts.googleapis.com/css?family=Noto+Sans:700|Noto+Serif);
+
+$primary-font-family: 'Noto Sans', sans-serif;
+
+$secondary-font-family: 'Noto Serif', serif;
 
 //========================================================
 //                     Color & Styles
@@ -21,11 +24,11 @@ h1 {
 }
 h2 {
 	color: $third-color;
-	font-family: $primary-font-family;
+	//font-family: $primary-font-family;
 }
 h3 {
 	color: $primary-color;
-	font-family: $primary-font-family;
+	//font-family: $primary-font-family;
 }
 h4 {
 	color: $primary-color;
@@ -83,6 +86,7 @@ body:not([data-section="introduction"]) {
     color: $primary-color;
     line-height: 36px;
     width: 430px;
+    font-family: $secondary-font-family;
 }
 
 .rd-mobilemenu {

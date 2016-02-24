@@ -53,7 +53,7 @@
         <img src="img/blog-theme/installation/wordpress-importer-tools.png" alt="" >
     </figure>
 
-    <p>Choose <strong>'WordPress'</strong> and click on Install importer, then you'll see the confirmation pop-up to run the install. Press on 'Install Now' there.</p>
+    <p>Choose <strong>"WordPress"</strong> and click on Install importer, then you'll see the confirmation pop-up to run the install. Press on 'Install Now' there.</p>
 
     <figure class="img-polaroid">
         <img src="img/blog-theme/installation/blog-content-import.png" alt="" >
@@ -87,6 +87,10 @@
     <figure class="img-polaroid">
         <img src="img/blog-theme/installation/wordpress-importer-setting.png" alt="" >
     </figure>
+
+    <div class="alert alert-info">
+        "WordPress Importer" plugin can also be downloaded <a href="https://wordpress.org/plugins/wordpress-importer/" target="_blank">here</a>
+    </div>
 
 
     <h4>In order to import widget settings</h4>

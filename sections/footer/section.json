@@ -1,37 +1,28 @@
-{	
-	"id":"footer",
-	"translations":
-	{
-		"en":"Footer",
-		"ru":"Футер"
+{
+	"id": "footer",
+	"translations": {
+		"en": "Footer",
+		"ru": "Футер"
 	},
-	"articles":
-	{
-		"cherryframework4":
-		[],	
-
-		"monstroid":	
-		[		
+	"articles": {
+		"cherryframework4": [],
+		"monstroid": [
 			{
-				"id":"footer-widgets",
-				"translations":{
-					"en":"Adding footer widgets",
-					"ru":"Добавление виджетов в футер"
+				"id": "footer-widgets",
+				"translations": {
+					"en": "Adding footer widgets",
+					"ru": "Добавление виджетов в футер"
 				}
-			},		
+			},
 			{
-				"id":"copyrights",
-				"translations":{
-					"en":"Copyrights",
-					"ru":"Авторские права"
+				"id": "copyrights",
+				"translations": {
+					"en": "Copyrights",
+					"ru": "Авторские права"
 				}
 			}
 		],
-
-		"wordpress":	
-		[],
-
-		"woocommerce":	
-		[]
+		"wordpress": [],
+		"woocommerce": []
 	}
 }

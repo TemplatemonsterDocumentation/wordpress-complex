@@ -1,6 +1,5 @@
 {
-	"cherryframework4":
-	[
+	"cherryframework4": [
 		"introduction",
 		"posts-categories",
 		"cherry-options",
@@ -8,8 +7,7 @@
 		"shortcodes",
 		"cherry-plugins"
 	],
-	"wildride":
-	[
+	"wildride": [
 		"introduction",
 		"template-installation",
 		"posts-categories",
@@ -21,8 +19,7 @@
 		"third-party-plugins",
 		"extras"
 	],
-	"kingnews":
-	[
+	"kingnews": [
 		"introduction",
 		"template-installation",
 		"posts-categories",
@@ -34,8 +31,7 @@
 		"third-party-plugins",
 		"extras"
 	],
-	"blogetti":
-	[
+	"blogetti": [
 		"introduction",
 		"template-installation",
 		"posts-categories",
@@ -44,8 +40,7 @@
 		"basic-configuration",
 		"customizer-settings"
 	],
-	"monstroid":
-	[
+	"monstroid": [
 		"introduction",
 		"template-installation",
 		"header",
@@ -63,8 +58,7 @@
 		"extras",
 		"tricks"
 	],
-	"wordpress":
-	[
+	"wordpress": [
 		"introduction",
 		"template-installation",
 		"posts-categories",
@@ -75,8 +69,7 @@
 		"third-party-plugins",
 		"extras"
 	],
-	"woocommerce":
-	[
+	"woocommerce": [
 		"introduction",
 		"template-installation",
 		"posts-categories",
@@ -87,5 +80,8 @@
 		"third-party-plugins",
 		"extras",
 		"woocommerce-recommended"
+	],
+	"kustrix": [
+		"introduction"
 	]
 }

@@ -1,15 +1,13 @@
-@import url(//fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat+Alternates:400,700);
+@import url(//fonts.googleapis.com/css?family=Noto+Sans:700|Noto+Serif);
 h1 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Noto Sans", sans-serif;
   color: #000000; }
 
 h2 {
-  color: #02afff;
-  font-family: "Montserrat", sans-serif; }
+  color: #02afff; }
 
 h3 {
-  color: #000000;
-  font-family: "Montserrat", sans-serif; }
+  color: #000000; }
 
 h4 {
   color: #000000; }
@@ -49,10 +47,11 @@ body:not([data-section="introduction"]) .tm-title-caption {
 .tm-title-caption {
   font-size: 32px;
   top: 200px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Noto Sans", sans-serif;
   color: #000000;
   line-height: 36px;
-  width: 430px; }
+  width: 430px;
+  font-family: "Noto Serif", serif; }
 
 .rd-mobilemenu .logo {
   background-color: #000000; }

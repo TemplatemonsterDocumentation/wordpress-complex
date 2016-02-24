@@ -1,73 +1,62 @@
 {
-	"id":"basic-configuration",
-	"translations":
-	{
-		"en":"Basic configuration",
-		"ru":"Базовые настройки"
+	"id": "basic-configuration",
+	"translations": {
+		"en": "Basic configuration",
+		"ru": "Базовые настройки"
 	},
-	"articles":
-	{
-		"wildride":
-		[
+	"articles": {
+		"wildride": [
 			{
-				"id":"menu-and-navigation",
-				"translations":{
-					"en":"Menu and navigation",
-					"ru":"Меню и навигация"
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
 				}
 			},
 			{
-				"id":"customizer",
-				"translations":{
-					"en":"Customizer overview",
-					"ru":"Начало работы с Customizer"
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
 				}
 			}
 		],
-
-		"kingnews":
-		[
+		"kingnews": [
 			{
-				"id":"menu-and-navigation",
-				"translations":{
-					"en":"Menu and navigation",
-					"ru":"Меню и навигация"
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
 				}
 			},
 			{
-				"id":"customizer",
-				"translations":{
-					"en":"Customizer overview",
-					"ru":"Начало работы с Customizer"
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
 				}
 			}
 		],
-
-		"blogetti":
-		[
+		"blogetti": [
 			{
-				"id":"menu-and-navigation",
-				"translations":{
-					"en":"Menu and navigation",
-					"ru":"Меню и навигация"
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
 				}
 			},
 			{
-				"id":"customizer",
-				"translations":{
-					"en":"Customizer overview",
-					"ru":"Начало работы с Customizer"
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
 				}
 			}
 		],
-
-		"cherryframework4":
-		[],
-		"monstroid":
-		[],
-		"wordpress":
-		[],
-		"woocommerce":
-		[]
+		"cherryframework4": [],
+		"monstroid": [],
+		"wordpress": [],
+		"woocommerce": [],
+		"kustrix": []
 	}
 }

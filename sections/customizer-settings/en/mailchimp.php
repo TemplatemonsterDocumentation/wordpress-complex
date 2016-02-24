@@ -16,3 +16,15 @@
 <p>
     Each MailChimp list has a unique List ID that integrations, plugins, and widgets may require to connect and transfer subscriber data.
 </p>
+
+<p>
+	After the template installation you'll see the following message: "Please set up MailChimp API key and List ID" instead of the subscribe and follow form.
+</p>
+
+<div class="alert alert-info">
+	Subscribe and follow form will be displayed, after you paste MailChimp API key and MailChimp list ID
+</div>
+
+<p>
+	For more information, please visit official <a href="http://kb.mailchimp.com/accounts/management/about-api-keys" target="_blank">documentation</a>
+</p>

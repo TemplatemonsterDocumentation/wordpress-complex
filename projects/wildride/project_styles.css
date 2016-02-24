@@ -1,15 +1,12 @@
 @import url(//fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat+Alternates:400,700);
 h1 {
-  font-family: "Montserrat", sans-serif;
   color: #FFFFFF; }
 
 h2 {
-  color: #1082FC;
-  font-family: "Montserrat", sans-serif; }
+  color: #1082FC; }
 
 h3 {
-  color: #312F44;
-  font-family: "Montserrat", sans-serif; }
+  color: #312F44; }
 
 h4 {
   color: #1082FC; }

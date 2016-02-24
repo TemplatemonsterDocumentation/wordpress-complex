@@ -1,51 +1,42 @@
-{	
-	"id":"header",
-	"translations":
-	{
-		"en":"Header",
-		"ru":"Хедер"
+{
+	"id": "header",
+	"translations": {
+		"en": "Header",
+		"ru": "Хедер"
 	},
-	"articles":
-	{
-		"cherryframework4":
-		[],	
-
-		"monstroid":	
-		[		
+	"articles": {
+		"cherryframework4": [],
+		"monstroid": [
 			{
-				"id":"logo-favicon",
-				"translations":{
-					"en":"Adding the logo and favicon",
-					"ru":"Добавление логотипа и фавиконки"
-				}
-			},	
-			{
-				"id":"setting-menu",
-				"translations":{
-					"en":"Setting up the menu",
-					"ru":"Настройка меню"
-				}
-			},		
-			{
-				"id":"mega-menu",
-				"translations":{
-					"en":"Using the mega menu",
-					"ru":"Использование мега меню"
+				"id": "logo-favicon",
+				"translations": {
+					"en": "Adding the logo and favicon",
+					"ru": "Добавление логотипа и фавиконки"
 				}
 			},
 			{
-				"id":"stickup-menu",
-				"translations":{
-					"en":"Setting up the StickUp menu",
-					"ru":"Настройка Stickup меню"
+				"id": "setting-menu",
+				"translations": {
+					"en": "Setting up the menu",
+					"ru": "Настройка меню"
+				}
+			},
+			{
+				"id": "mega-menu",
+				"translations": {
+					"en": "Using the mega menu",
+					"ru": "Использование мега меню"
+				}
+			},
+			{
+				"id": "stickup-menu",
+				"translations": {
+					"en": "Setting up the StickUp menu",
+					"ru": "Настройка Stickup меню"
 				}
 			}
 		],
-
-		"wordpress":	
-		[],
-
-		"woocommerce":	
-		[]
+		"wordpress": [],
+		"woocommerce": []
 	}
 }

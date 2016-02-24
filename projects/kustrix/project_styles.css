@@ -1,0 +1,74 @@
+h1 {
+  font-family: "";
+}
+
+h2 {
+  color: #AA4565;
+  font-family: "";
+}
+
+h3 {
+  color: #EE4565;
+  font-family: "";
+}
+
+h4 {
+  color: #AA4565;
+}
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top;
+}
+@media (max-width: 1440px) {
+  .page-content.active .rd-mobilepanel {
+    background-position: 100% top;
+  }
+}
+
+.rd-mobilepanel {
+  background-color: #EE4565;
+  background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s;
+}
+@media (max-width: 1440px) {
+  .rd-mobilepanel {
+    background-size: 60% auto;
+    background-position: 600px top;
+  }
+}
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/kustrix/img/header-bg.png");
+  height: 600px;
+}
+[data-section="introduction"] .rd-mobilepanel.fixed {
+  height: 56px;
+  background-image: none;
+  transition: top 1s ease-out 0.5s;
+}
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none;
+}
+
+.rd-mobilepanel:not(.fixed) .rd-mobilepanel_title {
+  font-size: 82px;
+}
+
+.tm-title-caption {
+  font-size: 32px;
+  top: 200px;
+  font-family: "";
+  color: #AA4565;
+  line-height: 36px;
+  width: 430px;
+}
+
+.rd-mobilemenu .logo {
+  background-color: #AA4565;
+}
+
+/*# sourceMappingURL=project_styles.css.map */

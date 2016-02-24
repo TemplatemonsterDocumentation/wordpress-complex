@@ -1,25 +1,17 @@
 {
-	"id":"introduction",
-	"translations":
-	{
-		"en":"Introduction",
-		"ru":"Введение"
+	"id": "introduction",
+	"translations": {
+		"en": "Introduction",
+		"ru": "Введение"
 	},
-	"articles":
-	{
-		"cherryframework4":
-		[],
-		"wildride":
-		[],
-		"kingnews":
-		[],
-		"blogetti":
-		[],
-		"monstroid":
-		[],
-		"wordpress":
-		[],
-		"woocommerce":
-		[]
+	"articles": {
+		"cherryframework4": [],
+		"wildride": [],
+		"kingnews": [],
+		"blogetti": [],
+		"monstroid": [],
+		"wordpress": [],
+		"woocommerce": [],
+		"kustrix": []
 	}
 }

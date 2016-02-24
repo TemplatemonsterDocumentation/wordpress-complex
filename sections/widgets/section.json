@@ -1,288 +1,264 @@
 {
-	"id":"widgets",
-	"translations":
-	{
-		"en":"Widgets",
-		"ru":"Виджеты"
+	"id": "widgets",
+	"translations": {
+		"en": "Widgets",
+		"ru": "Виджеты"
 	},
-	"articles":
-	{
-		"wildride":
-		[
-		{
-			"id":"widgets-installation",
-			"translations":{
-				"en":"Widgets installation",
-				"ru":"Установка виджетов"
+	"articles": {
+		"wildride": [
+			{
+				"id": "widgets-installation",
+				"translations": {
+					"en": "Widgets installation",
+					"ru": "Установка виджетов"
+				}
+			},
+			{
+				"id": "about-author-widget",
+				"translations": {
+					"en": "About Author",
+					"ru": "Информация об авторе"
+				}
+			},
+			{
+				"id": "carousel-slider-widget",
+				"translations": {
+					"en": "Carousel Slider",
+					"ru": "Слайдер карусель"
+				}
+			},
+			{
+				"id": "image-grid-widget",
+				"translations": {
+					"en": "Image Grid",
+					"ru": "Сетка изображений"
+				}
+			},
+			{
+				"id": "instagram-widget",
+				"translations": {
+					"en": "Instagram Widget",
+					"ru": "Instagram виджет"
+				}
+			},
+			{
+				"id": "easy-twitter-feed",
+				"translations": {
+					"en": "Easy twitter feed",
+					"ru": "Twitter лента"
+				}
+			},
+			{
+				"id": "facebook-page-like-widget",
+				"translations": {
+					"en": "Facebook Page Like Widget",
+					"ru": "Facebook Page Like Widget"
+				}
+			},
+			{
+				"id": "smart-slider-widget",
+				"translations": {
+					"en": "Smart Slider",
+					"ru": "Умный слайдер"
+				}
+			},
+			{
+				"id": "subscribe-and-follow-widget",
+				"translations": {
+					"en": "Subscribe and Follow",
+					"ru": "Подписка и Follow"
+				}
+			},
+			{
+				"id": "taxonomy-tiles-widget",
+				"translations": {
+					"en": "Taxonomy Tiles",
+					"ru": "Виджет категорий и тегов"
+				}
+			},
+			{
+				"id": "track-kickstarter-project-widget",
+				"translations": {
+					"en": "Track kickstarter project",
+					"ru": "Мониторинг проекта на кикстартере"
+				}
+			},
+			{
+				"id": "give-donation-form",
+				"translations": {
+					"en": "Give - Donation Form",
+					"ru": "Give - Donation Form"
+				}
 			}
-		},
-		{
-			"id":"about-author-widget",
-			"translations":{
-				"en":"About Author",
-				"ru":"Информация об авторе"
-			}
-		},
-		{
-			"id":"carousel-slider-widget",
-			"translations":{
-				"en":"Carousel Slider",
-				"ru":"Слайдер карусель"
-			}
-		},
-		{
-			"id":"image-grid-widget",
-			"translations":{
-				"en":"Image Grid",
-				"ru":"Сетка изображений"
-			}
-		},
-		{
-			"id":"instagram-widget",
-			"translations":{
-				"en":"Instagram Widget",
-				"ru":"Instagram виджет"
-			}
-		},
-		{
-			"id":"easy-twitter-feed",
-			"translations":{
-				"en":"Easy twitter feed",
-				"ru":"Twitter лента"
-			}
-		},
-		{
-			"id":"facebook-page-like-widget",
-			"translations":{
-				"en":"Facebook Page Like Widget",
-				"ru":"Facebook Page Like Widget"
-			}
-		},
-		{
-			"id":"smart-slider-widget",
-			"translations":{
-				"en":"Smart Slider",
-				"ru":"Умный слайдер"
-			}
-		},
-		{
-			"id":"subscribe-and-follow-widget",
-			"translations":{
-				"en":"Subscribe and Follow",
-				"ru":"Подписка и Follow"
-			}
-		},
-		{
-			"id":"taxonomy-tiles-widget",
-			"translations":{
-				"en":"Taxonomy Tiles",
-				"ru":"Виджет категорий и тегов"
-			}
-		},
-		{
-			"id":"track-kickstarter-project-widget",
-			"translations":{
-				"en":"Track kickstarter project",
-				"ru":"Мониторинг проекта на кикстартере"
-			}
-		},
-		{
-			"id":"give-donation-form",
-			"translations":{
-				"en":"Give - Donation Form",
-				"ru":"Give - Donation Form"
-			}
-		}
-
 		],
-		"kingnews":
-		[
-		{
-			"id":"widgets-installation",
-			"translations":{
-				"en":"Widgets installation",
-				"ru":"Установка виджетов"
+		"kingnews": [
+			{
+				"id": "widgets-installation",
+				"translations": {
+					"en": "Widgets installation",
+					"ru": "Установка виджетов"
+				}
+			},
+			{
+				"id": "about-author-widget",
+				"translations": {
+					"en": "About Author",
+					"ru": "Информация об авторе"
+				}
+			},
+			{
+				"id": "featured-post-block",
+				"translations": {
+					"en": "Featured Post Block",
+					"ru": "Выбраные посты"
+				}
+			},
+			{
+				"id": "news-smart-box",
+				"translations": {
+					"en": "News Smart box",
+					"ru": "Новостная лента"
+				}
+			},
+			{
+				"id": "carousel-slider-widget",
+				"translations": {
+					"en": "Carousel Slider",
+					"ru": "Слайдер карусель"
+				}
+			},
+			{
+				"id": "image-grid-widget",
+				"translations": {
+					"en": "Image Grid",
+					"ru": "Сетка изображений"
+				}
+			},
+			{
+				"id": "instagram-widget",
+				"translations": {
+					"en": "Instagram Widget",
+					"ru": "Instagram виджет"
+				}
+			},
+			{
+				"id": "easy-twitter-feed",
+				"translations": {
+					"en": "Easy twitter feed",
+					"ru": "Twitter лента"
+				}
+			},
+			{
+				"id": "facebook-page-like-widget",
+				"translations": {
+					"en": "Facebook Page Like Widget",
+					"ru": "Facebook Page Like Widget"
+				}
+			},
+			{
+				"id": "smart-slider-widget",
+				"translations": {
+					"en": "Smart Slider",
+					"ru": "Умный слайдер"
+				}
+			},
+			{
+				"id": "subscribe-and-follow-widget",
+				"translations": {
+					"en": "Subscribe and Follow",
+					"ru": "Подписка и Follow"
+				}
+			},
+			{
+				"id": "taxonomy-tiles-widget",
+				"translations": {
+					"en": "Taxonomy Tiles",
+					"ru": "Виджет категорий и тегов"
+				}
 			}
-		},
-		{
-			"id":"about-author-widget",
-			"translations":{
-				"en":"About Author",
-				"ru":"Информация об авторе"
-			}
-		},
-		{
-			"id":"featured-post-block",
-			"translations":{
-				"en":"Featured Post Block",
-				"ru":"Выбраные посты"
-			}
-		},
-		{
-			"id":"news-smart-box",
-			"translations":{
-				"en":"News Smart box",
-				"ru":"Новостная лента"
-			}
-		},
-		{
-			"id":"carousel-slider-widget",
-			"translations":{
-				"en":"Carousel Slider",
-				"ru":"Слайдер карусель"
-			}
-		},
-		{
-			"id":"image-grid-widget",
-			"translations":{
-				"en":"Image Grid",
-				"ru":"Сетка изображений"
-			}
-		},
-		{
-			"id":"instagram-widget",
-			"translations":{
-				"en":"Instagram Widget",
-				"ru":"Instagram виджет"
-			}
-		},
-		{
-			"id":"easy-twitter-feed",
-			"translations":{
-				"en":"Easy twitter feed",
-				"ru":"Twitter лента"
-			}
-		},
-		{
-			"id":"facebook-page-like-widget",
-			"translations":{
-				"en":"Facebook Page Like Widget",
-				"ru":"Facebook Page Like Widget"
-			}
-		},
-		{
-			"id":"smart-slider-widget",
-			"translations":{
-				"en":"Smart Slider",
-				"ru":"Умный слайдер"
-			}
-		},
-		{
-			"id":"subscribe-and-follow-widget",
-			"translations":{
-				"en":"Subscribe and Follow",
-				"ru":"Подписка и Follow"
-			}
-		},
-		{
-			"id":"taxonomy-tiles-widget",
-			"translations":{
-				"en":"Taxonomy Tiles",
-				"ru":"Виджет категорий и тегов"
-			}
-		}
-
 		],
-
-		"blogetti":
-		[
-		{
-			"id":"widgets-installation",
-			"translations":{
-				"en":"Widgets installation",
-				"ru":"Установка виджетов"
+		"blogetti": [
+			{
+				"id": "widgets-installation",
+				"translations": {
+					"en": "Widgets installation",
+					"ru": "Установка виджетов"
+				}
+			},
+			{
+				"id": "about-author-widget",
+				"translations": {
+					"en": "About Author",
+					"ru": "Информация об авторе"
+				}
+			},
+			{
+				"id": "categories-tiles-widget",
+				"translations": {
+					"en": "Categories tiles",
+					"ru": "Вывод категорий"
+				}
+			},
+			{
+				"id": "carousel-slider-widget-blogetti",
+				"translations": {
+					"en": "Carousel Slider",
+					"ru": "Слайдер карусель"
+				}
+			},
+			{
+				"id": "instagram-widget-blogetti",
+				"translations": {
+					"en": "Instagram Widget",
+					"ru": "Instagram виджет"
+				}
+			},
+			{
+				"id": "slider-widget-blogetti",
+				"translations": {
+					"en": "Post Slider",
+					"ru": "Cлайдер постов"
+				}
+			},
+			{
+				"id": "subscribe-and-social-widget",
+				"translations": {
+					"en": "Subscribe and Follow",
+					"ru": "Подписка и Follow"
+				}
+			},
+			{
+				"id": "custom-post-widget",
+				"translations": {
+					"en": "Custom post",
+					"ru": "Посты"
+				}
+			},
+			{
+				"id": "facebook-page-widget-blogetti",
+				"translations": {
+					"en": "Facebook page widget",
+					"ru": "Facebook виджет"
+				}
+			},
+			{
+				"id": "twitter-widget",
+				"translations": {
+					"en": "Twitter widget",
+					"ru": "Twitter виджет"
+				}
+			},
+			{
+				"id": "youtube-subscribe-widget-blogetti",
+				"translations": {
+					"en": "Youtube subscribe widget",
+					"ru": "Youtube блок подриски"
+				}
 			}
-		},
-		{
-			"id":"about-author-widget",
-			"translations":{
-				"en":"About Author",
-				"ru":"Информация об авторе"
-			}
-		},
-		{
-			"id":"categories-tiles-widget",
-			"translations":{
-				"en":"Categories tiles",
-				"ru":"Вывод категорий"
-			}
-		},
-		{
-			"id":"carousel-slider-widget-blogetti",
-			"translations":{
-				"en":"Carousel Slider",
-				"ru":"Слайдер карусель"
-			}
-		},
-		{
-			"id":"instagram-widget-blogetti",
-			"translations":{
-				"en":"Instagram Widget",
-				"ru":"Instagram виджет"
-			}
-		},
-		{
-			"id":"slider-widget-blogetti",
-			"translations":{
-				"en":"Post Slider",
-				"ru":"Cлайдер постов"
-			}
-		},
-		{
-			"id":"subscribe-and-social-widget",
-			"translations":{
-				"en":"Subscribe and Follow",
-				"ru":"Подписка и Follow"
-			}
-		},
-		{
-			"id":"custom-post-widget",
-			"translations":{
-				"en":"Custom post",
-				"ru":"Посты"
-			}
-		},
-		{
-			"id":"facebook-page-widget-blogetti",
-			"translations":{
-				"en":"Facebook page widget",
-				"ru":"Facebook виджет"
-			}
-		},
-		{
-			"id":"twitter-widget",
-			"translations":{
-				"en":"Twitter widget",
-				"ru":"Twitter виджет"
-			}
-		},
-		{
-			"id":"youtube-subscribe-widget-blogetti",
-			"translations":{
-				"en":"Youtube subscribe widget",
-				"ru":"Youtube блок подриски"
-			}
-		}
 		],
-
-		"cherryframework4":
-		[
-
-		],
-
-		"monstroid":
-		[
-
-		],
-
-		"wordpress":
-		[
-
-		],
-
-		"woocommerce":
-		[
-
-		]
+		"cherryframework4": [],
+		"monstroid": [],
+		"wordpress": [],
+		"woocommerce": []
 	}
 }

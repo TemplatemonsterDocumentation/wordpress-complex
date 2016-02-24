@@ -1,43 +1,35 @@
 {
-	"id":"blog",
-	"translations":
-	{
-		"en":"Blog",
-		"ru":"Блог"
+	"id": "blog",
+	"translations": {
+		"en": "Blog",
+		"ru": "Блог"
 	},
-	"articles":
-	{
-		"cherryframework4":
-		[],	
-
-		"monstroid":	
-		[	
+	"articles": {
+		"cherryframework4": [],
+		"monstroid": [
 			{
-				"id":"blog-posts",
-				"translations":{
-					"en":"Creating blog posts",
-					"ru":"Создание постов в блоге"
+				"id": "blog-posts",
+				"translations": {
+					"en": "Creating blog posts",
+					"ru": "Создание постов в блоге"
 				}
-			},	
+			},
 			{
-				"id":"blog-options",
-				"translations":{
-					"en":"Blog Monstroid options",
-					"ru":"Опции блога Monstroid"
+				"id": "blog-options",
+				"translations": {
+					"en": "Blog Monstroid options",
+					"ru": "Опции блога Monstroid"
 				}
-			},		
+			},
 			{
-				"id":"assigning-blog",
-				"translations":{
-					"en":"Assigning the blog page",
-					"ru":"Назначение страницы блога"
+				"id": "assigning-blog",
+				"translations": {
+					"en": "Assigning the blog page",
+					"ru": "Назначение страницы блога"
 				}
 			}
 		],
-
-		"wordpress":	
-		[],
-		"woocommerce":
-		[]
+		"wordpress": [],
+		"woocommerce": []
 	}
 }

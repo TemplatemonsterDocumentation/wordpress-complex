@@ -1,70 +1,59 @@
 {
-	"id":"tricks",
-	"translations":
-	{
-		"en":"Tricks",
-		"ru":"Полезные приемы"
+	"id": "tricks",
+	"translations": {
+		"en": "Tricks",
+		"ru": "Полезные приемы"
 	},
-	"articles":
-	{
-		"cherryframework4":
-		[
+	"articles": {
+		"cherryframework4": [
 			{
-				"id":"icon-tricks",
-				"translations":{
-					"en":"Icon tricks",
-					"ru":"Полезные приемы для иконок"
+				"id": "icon-tricks",
+				"translations": {
+					"en": "Icon tricks",
+					"ru": "Полезные приемы для иконок"
 				}
 			}
-
 		],
-
-		"monstroid":
-		[
+		"monstroid": [
 			{
-				"id":"icon-tricks",
-				"translations":{
-					"en":"Icon tricks",
-					"ru":"Полезные приемы для иконок"
+				"id": "icon-tricks",
+				"translations": {
+					"en": "Icon tricks",
+					"ru": "Полезные приемы для иконок"
 				}
 			},
 			{
-				"id":"appearance-tricks",
-				"translations":{
-					"en":"Apperance tricks",
-					"ru":"Полезные приемы для оформления"
+				"id": "appearance-tricks",
+				"translations": {
+					"en": "Apperance tricks",
+					"ru": "Полезные приемы для оформления"
 				}
 			},
 			{
-				"id":"wizard-tricks",
-				"translations":{
-					"en":"Wizard tricks",
-					"ru":"Полезные приемы для установщика"
+				"id": "wizard-tricks",
+				"translations": {
+					"en": "Wizard tricks",
+					"ru": "Полезные приемы для установщика"
 				}
 			}
 		],
-
-		"wordpress":
-		[
+		"wordpress": [
 			{
-				"id":"icon-tricks",
-				"translations":{
-					"en":"Icon tricks",
-					"ru":"Полезные приемы для иконок"
+				"id": "icon-tricks",
+				"translations": {
+					"en": "Icon tricks",
+					"ru": "Полезные приемы для иконок"
 				}
 			}
 		],
-
-		"woocommerce":
-		[
+		"woocommerce": [
 			{
-				"id":"icon-tricks",
-				"translations":{
-					"en":"Icon tricks",
-					"ru":"Полезные приемы для иконок"
+				"id": "icon-tricks",
+				"translations": {
+					"en": "Icon tricks",
+					"ru": "Полезные приемы для иконок"
 				}
 			}
-
 		]
 	}
 }

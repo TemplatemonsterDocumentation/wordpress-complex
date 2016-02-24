@@ -1,194 +1,185 @@
-{	
-	"id":"shortcodes",
-	"translations":
-	{
-		"en":"Shortcodes",
-		"ru":"Шорткоды"
+{
+	"id": "shortcodes",
+	"translations": {
+		"en": "Shortcodes",
+		"ru": "Шорткоды"
 	},
-	"articles":
-	{
-		"cherryframework4":
-		[		
+	"articles": {
+		"cherryframework4": [
 			{
-				"id":"grid-shortcodes",
-				"translations":{
-					"en":"Grid",
-					"ru":"Шорткоды Сетки"
+				"id": "grid-shortcodes",
+				"translations": {
+					"en": "Grid",
+					"ru": "Шорткоды Сетки"
 				}
 			},
 			{
-				"id":"typography",
-				"translations":{
-					"en":"Typography",
-					"ru":"Типографика"
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типографика"
 				}
 			},
 			{
-				"id":"content",
-				"translations":{
-					"en":"Content",
-					"ru":"Контент"
+				"id": "content",
+				"translations": {
+					"en": "Content",
+					"ru": "Контент"
 				}
 			},
 			{
-				"id":"media",
-				"translations":{
-					"en":"Media",
-					"ru":"Медиа"
+				"id": "media",
+				"translations": {
+					"en": "Media",
+					"ru": "Медиа"
 				}
 			},
 			{
-				"id":"components",
-				"translations":{
-					"en":"Components",
-					"ru":"Компоненты"
+				"id": "components",
+				"translations": {
+					"en": "Components",
+					"ru": "Компоненты"
 				}
 			},
 			{
-				"id":"other",
-				"translations":{
-					"en":"Other",
-					"ru":"Другие"
+				"id": "other",
+				"translations": {
+					"en": "Other",
+					"ru": "Другие"
 				}
-			}			
-		],	
-
-		"monstroid":	
-		[		
-			{
-				"id":"grid-shortcodes",
-				"translations":{
-					"en":"Grid",
-					"ru":"Шорткоды Сетки"
-				}
-			},
-			{
-				"id":"typography",
-				"translations":{
-					"en":"Typography",
-					"ru":"Типографика"
-				}
-			},
-			{
-				"id":"content",
-				"translations":{
-					"en":"Content",
-					"ru":"Контент"
-				}
-			},
-			{
-				"id":"media",
-				"translations":{
-					"en":"Media",
-					"ru":"Медиа"
-				}
-			},
-			{
-				"id":"components",
-				"translations":{
-					"en":"Components",
-					"ru":"Компоненты"
-				}
-			},
-			{
-				"id":"other",
-				"translations":{
-					"en":"Other",
-					"ru":"Другие"
-				}
-			}			
+			}
 		],
-
-		"wordpress":	
-		[		
+		"monstroid": [
 			{
-				"id":"grid-shortcodes",
-				"translations":{
-					"en":"Grid",
-					"ru":"Шорткоды Сетки"
+				"id": "grid-shortcodes",
+				"translations": {
+					"en": "Grid",
+					"ru": "Шорткоды Сетки"
 				}
 			},
 			{
-				"id":"typography",
-				"translations":{
-					"en":"Typography",
-					"ru":"Типографика"
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типографика"
 				}
 			},
 			{
-				"id":"content",
-				"translations":{
-					"en":"Content",
-					"ru":"Контент"
+				"id": "content",
+				"translations": {
+					"en": "Content",
+					"ru": "Контент"
 				}
 			},
 			{
-				"id":"media",
-				"translations":{
-					"en":"Media",
-					"ru":"Медиа"
+				"id": "media",
+				"translations": {
+					"en": "Media",
+					"ru": "Медиа"
 				}
 			},
 			{
-				"id":"components",
-				"translations":{
-					"en":"Components",
-					"ru":"Компоненты"
+				"id": "components",
+				"translations": {
+					"en": "Components",
+					"ru": "Компоненты"
 				}
 			},
 			{
-				"id":"other",
-				"translations":{
-					"en":"Other",
-					"ru":"Другие"
+				"id": "other",
+				"translations": {
+					"en": "Other",
+					"ru": "Другие"
 				}
-			}			
+			}
 		],
-
-		"woocommerce":	
-		[		
+		"wordpress": [
 			{
-				"id":"grid-shortcodes",
-				"translations":{
-					"en":"Grid",
-					"ru":"Шорткоды Сетки"
+				"id": "grid-shortcodes",
+				"translations": {
+					"en": "Grid",
+					"ru": "Шорткоды Сетки"
 				}
 			},
 			{
-				"id":"typography",
-				"translations":{
-					"en":"Typography",
-					"ru":"Типографика"
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типографика"
 				}
 			},
 			{
-				"id":"content",
-				"translations":{
-					"en":"Content",
-					"ru":"Контент"
+				"id": "content",
+				"translations": {
+					"en": "Content",
+					"ru": "Контент"
 				}
 			},
 			{
-				"id":"media",
-				"translations":{
-					"en":"Media",
-					"ru":"Медиа"
+				"id": "media",
+				"translations": {
+					"en": "Media",
+					"ru": "Медиа"
 				}
 			},
 			{
-				"id":"components",
-				"translations":{
-					"en":"Components",
-					"ru":"Компоненты"
+				"id": "components",
+				"translations": {
+					"en": "Components",
+					"ru": "Компоненты"
 				}
 			},
 			{
-				"id":"other",
-				"translations":{
-					"en":"Other",
-					"ru":"Другие"
+				"id": "other",
+				"translations": {
+					"en": "Other",
+					"ru": "Другие"
 				}
-			}			
+			}
+		],
+		"woocommerce": [
+			{
+				"id": "grid-shortcodes",
+				"translations": {
+					"en": "Grid",
+					"ru": "Шорткоды Сетки"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типографика"
+				}
+			},
+			{
+				"id": "content",
+				"translations": {
+					"en": "Content",
+					"ru": "Контент"
+				}
+			},
+			{
+				"id": "media",
+				"translations": {
+					"en": "Media",
+					"ru": "Медиа"
+				}
+			},
+			{
+				"id": "components",
+				"translations": {
+					"en": "Components",
+					"ru": "Компоненты"
+				}
+			},
+			{
+				"id": "other",
+				"translations": {
+					"en": "Other",
+					"ru": "Другие"
+				}
+			}
 		]
 	}
 }

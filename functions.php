@@ -1,22 +1,32 @@
-<?php 
+<?php
+
+if ( false === function_exists( 'get_projects_list' ) ) {
+	function get_projects_list() {
+		$projectsJson = realpath(DOCUMENT_ROOT . DIRECTORY_SEPARATOR . 'projects.json');
+		if ( ! $projectsJson ) {
+			return array();
+		}
+		return json_decode( file_get_contents( $projectsJson ), true );
+	}
+}
 
 /**
  * Get sections array from section.json file
  * @param  string $project Project name
- * @return array          
+ * @return array
  */
 function getSections($project, $defaultProject)
-{	
-	$sections_json_file = dirname(__FILE__) . '/sections.json';
+{
+	$sections_json_file = DOCUMENT_ROOT . DIRECTORY_SEPARATOR . 'sections.json';
 	if (file_exists($sections_json_file)) {
 		$sections_string = file_get_contents($sections_json_file);
 		$sections_array = json_decode($sections_string, true);
-		
+
 		$active_sections = $defaultProject;
 		if (array_key_exists($project, $sections_array)) {
 			$active_sections = $project;
 		}
-		return $sections_array[$active_sections];		
+		return $sections_array[$active_sections];
 	} else {
 		die('sections.json file not found');
 	}
@@ -30,11 +40,11 @@ function getSections($project, $defaultProject)
  * @return string           Navigation markup string
  */
 function generateNavigation($sections, $lang, $section_param, $project, $defaultProject)
-{		
+{
 	$html = '';
 
 	foreach ($sections as $section_key => $section_dirname) {
-		$section_json_file	= dirname(__FILE__) . '/sections/' . $section_dirname . '/section.json';
+		$section_json_file	= DOCUMENT_ROOT . DIRECTORY_SEPARATOR . 'sections' . DIRECTORY_SEPARATOR . $section_dirname . DIRECTORY_SEPARATOR . 'section.json';
 		// Check if section json file exists
 		if (file_exists($section_json_file)):
 			$section_string 	= file_get_contents($section_json_file);
@@ -43,7 +53,7 @@ function generateNavigation($sections, $lang, $section_param, $project, $default
 			$proj = $defaultProject;
 			if (array_key_exists($project, $current_section['articles'])) {
 				$proj = $project;
-			} 
+			}
 
 			if (empty($current_section)) {
 				echo "<i>Section $section_dirname JSON empty or formatted wrong</i>";
@@ -54,7 +64,7 @@ function generateNavigation($sections, $lang, $section_param, $project, $default
 			$section_path 		= 'index.php?project='. $proj . '&lang=' . $lang . '&section=' . $section_id;
 
 			// Active class
-			$active_class = '';			
+			$active_class = '';
 			if (isset($_GET['section']) && $section_id == $_GET['section']) {
 				$active_class = ' opened';
 			}
@@ -66,7 +76,7 @@ function generateNavigation($sections, $lang, $section_param, $project, $default
 
 				// Generate articles navigation
 				if (!empty($section_articles)) {
-					$html .= '<ul>';					
+					$html .= '<ul>';
 					foreach ($section_articles as $key => $article) {
 						$article_id 	= $article['id'];
 						$article_name 	= $article['translations'][$lang];
@@ -101,24 +111,24 @@ function generateNavigation($sections, $lang, $section_param, $project, $default
  */
 function includeSection($sections, $lang, $section_param, $project, $defaultProject)
 {
-	$section_json_file	= dirname(__FILE__) . '/sections/' . $section_param . '/section.json';
+	$section_json_file	= DOCUMENT_ROOT . DIRECTORY_SEPARATOR . 'sections' . DIRECTORY_SEPARATOR . $section_param . DIRECTORY_SEPARATOR . 'section.json';
 
 	if (file_exists($section_json_file)):
 		$section_string 	= file_get_contents($section_json_file);
-		$current_section 	= json_decode($section_string, true);	
+		$current_section 	= json_decode($section_string, true);
 
 		$section_id 		= $current_section['id'];
 
 		$proj = $defaultProject;
 		if (array_key_exists($project, $current_section['articles'])) {
 			$proj = $project;
-		} 
+		}
 		$section_articles 	= $current_section['articles'][$proj];
 
 		echo "<section id='" . $section_id . "'>";
-			
+
 			//Define description filename depending on project title
-			$section_desc_path = dirname(__FILE__) . '/sections/' . $section_param . '/' . $lang . '/';
+			$section_desc_path = DOCUMENT_ROOT . DIRECTORY_SEPARATOR . 'sections' . DIRECTORY_SEPARATOR . $section_param . DIRECTORY_SEPARATOR . $lang . DIRECTORY_SEPARATOR;
 			$section_desc = $section_desc_path . '__description_'. $project .'.php';
 
 			if (file_exists($section_desc)) {
@@ -134,24 +144,24 @@ function includeSection($sections, $lang, $section_param, $project, $defaultProj
 					echo "</article>";
 				} else {
 					echo "<i>Section description.php file is missing.</i>";
-				}				
-			}			
+				}
+			}
 
 			foreach ($section_articles as $key => $article) {
 				$article_id = $article['id'];
 				echo "<article id='" . $article_id . "'>";
-					$article_path = dirname(__FILE__) . '/sections/' . $section_param . '/' . $lang . '/' . $article_id . '.php';
+					$article_path = DOCUMENT_ROOT . DIRECTORY_SEPARATOR . 'sections' . DIRECTORY_SEPARATOR . $section_param . DIRECTORY_SEPARATOR . $lang . DIRECTORY_SEPARATOR . $article_id . '.php';
 					if (file_exists($article_path)) {
 						include_once $article_path;
 					} else {
 						echo "<i>Article $article_id not found.</i>";
-					}			
+					}
 				echo "</article>";
 			}
 		echo "</section>";
 	else:
 		die("Section.json file in \"$section_param\" directory not found");
-	endif;	
+	endif;
 }
 
 /**
@@ -202,7 +212,7 @@ function search_dir($dir)
 							'hash' => $sect_hash,
 							)
 						);
-					}					
+					}
 				}
 
 			} else {

@@ -1,328 +1,306 @@
 {
-	"id":"customizer-settings",
-	"translations":
-	{
-		"en":"Customizer",
-		"ru":"Customizer"
+	"id": "customizer-settings",
+	"translations": {
+		"en": "Customizer",
+		"ru": "Customizer"
 	},
-	"articles":
-	{
-		"wildride":
-		[
+	"articles": {
+		"wildride": [
 			{
-				"id":"site-identity",
-				"translations":{
-					"en":"Site Identity",
-					"ru":"Айдентика сайта"
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
 				}
 			},
 			{
-				"id":"logo-and-favicon",
-				"translations":{
-					"en":"Logo & Favicon",
-					"ru":"Логотип и фавиконка"
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
 				}
 			},
 			{
-				"id":"breadcrumbs",
-				"translations":{
-					"en":"Breadcrumbs",
-					"ru":"Навигационная цепочка"
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
 				}
 			},
 			{
-				"id":"color-scheme",
-				"translations":{
-					"en":"Color scheme",
-					"ru":"Цветовая схема"
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
 				}
 			},
 			{
-				"id":"typography",
-				"translations":{
-					"en":"Typography",
-					"ru":"Типография"
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
 				}
 			},
 			{
-				"id":"social-links",
-				"translations":{
-					"en":"Social links",
-					"ru":"Социальные сети"
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
 				}
 			},
 			{
-				"id":"page-layout",
-				"translations":{
-					"en":"Page Layout",
-					"ru":"Настройки страницы"
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
 				}
 			},
 			{
-				"id":"header",
-				"translations":{
-					"en":"Header",
-					"ru":"Хедер"
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
 				}
 			},
 			{
-				"id":"menu-locations",
-				"translations":{
-					"en":"Menu Locations",
-					"ru":"Хедер"
+				"id": "menu-locations",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Хедер"
 				}
 			},
 			{
-				"id":"sidebar",
-				"translations":{
-					"en":"Sidebar",
-					"ru":"Сайдбар"
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
 				}
 			},
 			{
-				"id":"mailchimp",
-				"translations":{
-					"en":"Mailchimp",
-					"ru":"Мейлчимп"
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
 				}
 			},
 			{
-				"id":"widgets",
-				"translations":{
-					"en":"Widgets",
-					"ru":"Виджеты"
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
 				}
 			},
 			{
-				"id":"footer",
-				"translations":{
-					"en":"Footer",
-					"ru":"Футер"
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
 				}
 			},
 			{
-				"id":"blog-settings",
-				"translations":{
-					"en":"Blog Settings",
-					"ru":"Настройки блога"
+				"id": "blog-settings",
+				"translations": {
+					"en": "Blog Settings",
+					"ru": "Настройки блога"
 				}
 			},
 			{
-				"id":"static-front-page",
-				"translations":{
-					"en":"Static Front Page",
-					"ru":"Главаная траница"
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
 				}
 			}
 		],
-		"kingnews":
-		[
+		"kingnews": [
 			{
-				"id":"site-identity",
-				"translations":{
-					"en":"Site Identity",
-					"ru":"Айдентика сайта"
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
 				}
 			},
 			{
-				"id":"logo-and-favicon",
-				"translations":{
-					"en":"Logo & Favicon",
-					"ru":"Логотип и фавиконка"
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
 				}
 			},
 			{
-				"id":"breadcrumbs",
-				"translations":{
-					"en":"Breadcrumbs",
-					"ru":"Навигационная цепочка"
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
 				}
 			},
 			{
-				"id":"color-scheme",
-				"translations":{
-					"en":"Color scheme",
-					"ru":"Цветовая схема"
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
 				}
 			},
 			{
-				"id":"typography",
-				"translations":{
-					"en":"Typography",
-					"ru":"Типография"
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
 				}
 			},
 			{
-				"id":"social-links",
-				"translations":{
-					"en":"Social links",
-					"ru":"Социальные сети"
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
 				}
 			},
 			{
-				"id":"page-layout",
-				"translations":{
-					"en":"Page Layout",
-					"ru":"Настройки страницы"
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
 				}
 			},
 			{
-				"id":"header",
-				"translations":{
-					"en":"Header",
-					"ru":"Хедер"
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
 				}
 			},
 			{
-				"id":"menu-locations",
-				"translations":{
-					"en":"Menu Locations",
-					"ru":"Хедер"
+				"id": "menu-locations",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Хедер"
 				}
 			},
 			{
-				"id":"sidebar",
-				"translations":{
-					"en":"Sidebar",
-					"ru":"Сайдбар"
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
 				}
 			},
 			{
-				"id":"mailchimp",
-				"translations":{
-					"en":"Mailchimp",
-					"ru":"Мейлчимп"
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
 				}
 			},
 			{
-				"id":"widgets",
-				"translations":{
-					"en":"Widgets",
-					"ru":"Виджеты"
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
 				}
 			},
 			{
-				"id":"footer",
-				"translations":{
-					"en":"Footer",
-					"ru":"Футер"
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
 				}
 			},
 			{
-				"id":"blog-settings",
-				"translations":{
-					"en":"Blog Settings",
-					"ru":"Настройки блога"
+				"id": "blog-settings",
+				"translations": {
+					"en": "Blog Settings",
+					"ru": "Настройки блога"
 				}
 			},
 			{
-				"id":"static-front-page",
-				"translations":{
-					"en":"Static Front Page",
-					"ru":"Главаная траница"
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
 				}
 			}
 		],
-
-		"blogetti":
-		[
+		"blogetti": [
 			{
-				"id":"general-site-settings",
-				"translations":{
-					"en":"General site settings",
-					"ru":"Главные настройки сайта"
+				"id": "general-site-settings",
+				"translations": {
+					"en": "General site settings",
+					"ru": "Главные настройки сайта"
 				}
 			},
 			{
-				"id":"color-scheme",
-				"translations":{
-					"en":"Color scheme",
-					"ru":"Цветовая схема"
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
 				}
 			},
 			{
-				"id":"typography-blogetti",
-				"translations":{
-					"en":"Typography",
-					"ru":"Типография"
+				"id": "typography-blogetti",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
 				}
 			},
 			{
-				"id":"header",
-				"translations":{
-					"en":"Header settings",
-					"ru":"Настройки хедера"
+				"id": "header",
+				"translations": {
+					"en": "Header settings",
+					"ru": "Настройки хедера"
 				}
 			},
 			{
-				"id":"menu-locations",
-				"translations":{
-					"en":"Menu Locations",
-					"ru":"Хедер"
+				"id": "menu-locations",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Хедер"
 				}
 			},
 			{
-				"id":"sidebar-blogetti",
-				"translations":{
-					"en":"Sidebar settings",
-					"ru":"Настройки Сайдбара"
+				"id": "sidebar-blogetti",
+				"translations": {
+					"en": "Sidebar settings",
+					"ru": "Настройки Сайдбара"
 				}
 			},
 			{
-				"id":"footer",
-				"translations":{
-					"en":"Footer",
-					"ru":"Футер"
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
 				}
 			},
 			{
-				"id":"blog-settings",
-				"translations":{
-					"en":"Blog Settings",
-					"ru":"Настройки блога"
+				"id": "blog-settings",
+				"translations": {
+					"en": "Blog Settings",
+					"ru": "Настройки блога"
 				}
 			},
 			{
-				"id":"widgets-blogetti",
-				"translations":{
-					"en":"Widgets",
-					"ru":"Виджеты"
+				"id": "widgets-blogetti",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
 				}
 			},
 			{
-				"id":"static-front-page",
-				"translations":{
-					"en":"Static Front Page",
-					"ru":"Главаная траница"
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
 				}
 			},
 			{
-				"id":"misc",
-				"translations":{
-					"en":"Miscellaneous settings",
-					"ru":"Различные настройки"
+				"id": "misc",
+				"translations": {
+					"en": "Miscellaneous settings",
+					"ru": "Различные настройки"
 				}
 			}
 		],
-
-		"cherryframework4":
-		[
-
-		],
-
-		"monstroid":
-		[
-
-		],
-
-		"wordpress":
-		[
-
-		],
-
-		"woocommerce":
-		[
-
-		]
+		"cherryframework4": [],
+		"monstroid": [],
+		"wordpress": [],
+		"woocommerce": []
 	}
 }

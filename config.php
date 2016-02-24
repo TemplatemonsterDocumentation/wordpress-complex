@@ -2,83 +2,46 @@
 
 include_once 'functions.php';
 
-//$path = dirname($_SERVER['PHP_SELF']);
-//$path = (@$_SERVER["HTTPS"] == "on") ? "https://" : "http://" . $_SERVER["SERVER_NAME"] . str_replace('//', '', '/' . trim(dirname($_SERVER["PHP_SELF"]), '/'));
-
 if ( false === defined('DOCUMENT_ROOT')) {
-    define('DOCUMENT_ROOT', str_replace(
+    define( 'DOCUMENT_ROOT', realpath( str_replace(
         array('/', '\\'),
         DIRECTORY_SEPARATOR,
-        $_SERVER['DOCUMENT_ROOT']
-    ));
+        realpath( dirname( basename( __DIR__ ) ) )
+    ) ) );
 }
 
-if (($_SERVER["HTTP_HOST"]) == "documentation.templatemonster.com") {
-    $path = '//' . $_SERVER['SERVER_NAME'] . str_replace(array(DOCUMENT_ROOT, '\\'), array('', '/'), __DIR__);
-}else{
-    $path = dirname($_SERVER['PHP_SELF']);
-}
+// Get relative path
+$path = str_replace( array(
+  realpath( $_SERVER['DOCUMENT_ROOT'] ),
+  DIRECTORY_SEPARATOR,
+), array(
+  '',
+  '/'
+), __DIR__ );
 
-
+$projectList = get_projects_list();
 
 /**
  * List of allowed project names
  * @var array
  */
+$allowedProjects = array_keys($projectList);
 
-$allowedProjects = array('wildride', 'kingnews', 'blogetti', 'cherryframework4', 'wordpress', 'monstroid', 'woocommerce');
-//$allowedProjects = array('monstroid', 'cherryframework4', 'wordpress', 'woocommerce');
 $defaultProject = $project = $allowedProjects[0]; // default project equals first object in array above
 if (isset($_REQUEST['project'])) {
     $project = allowedParameterValue($_REQUEST['project'], $allowedProjects);
 }
 
-$projectName = $_REQUEST['project'];
-
 /**
  * Project text logo and project title depending on project name
  */
-switch ($project) {
-    case 'blogetti':
-        $projectTextLogo = '';
-        $projectTitle = 'Blogetti';
-        $projectTitleCaption = 'Slow-Cooker Alabamian';
-        break;
-
-    case 'wildride':
-        $projectTextLogo = '';
-        $projectTitle = 'Wild Ride';
-        $projectTitleCaption = 'Bicycle NXT 3000 exhibited at CES in Vegas';
-        break;
-
-    case 'kingnews':
-        $projectTextLogo = '';
-        $projectTitle = 'King news';
-        $projectTitleCaption = 'Latest news';
-        break;
-
-    case 'monstroid':
-        $projectTextLogo = '<span>Monstroid</span><small>premium theme</small>';
-        $projectTitle = 'Monstroid Premium Theme Documentation';
-        break;
-
-    case 'wordpress':
-        $projectTextLogo = '';
-        $projectTitle = 'WordPress Themes Documentation v4-0';
-        break;
-     case 'woocommerce':
-        $projectTextLogo = '';
-        $projectTitle = 'WooCommerce Themes Documentation v4-0';
-        break;
-     case 'cherryframework4':
-        $projectTextLogo = '';
-        $projectTitle = 'Cherry4';
-        $projectTitleCaption = 'WorPress Framework';
-        break;
-    default:
-        $projectTextLogo = '';
-        $projectTitle = 'TM WordPress';
-        break;
+$projectTitle        = 'TM Wordpress';
+$projectTextLogo     = '';
+$projectTitleCaption = '';
+if ( true === isset( $projectList[ $project ] ) ) {
+	$projectTitle        = $projectList[ $project ]['title'];
+	$projectTextLogo     = $projectList[ $project ]['textLogo'];
+	$projectTitleCaption = $projectList[ $project ]['titleCaption'];
 }
 
 /**

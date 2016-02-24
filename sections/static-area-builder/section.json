@@ -1,22 +1,13 @@
-{	
-	"id":"static-area-builder",
-	"translations":
-	{
-		"en":"Static Area Builder",
-		"ru":"Static Area Builder"
+{
+	"id": "static-area-builder",
+	"translations": {
+		"en": "Static Area Builder",
+		"ru": "Static Area Builder"
 	},
-	"articles":
-	{
-		"cherryframework4":
-		[],	
-
-		"monstroid":	
-		[],
-
-		"wordpress":	
-		[],
-
-		"woocommerce":	
-		[]
+	"articles": {
+		"cherryframework4": [],
+		"monstroid": [],
+		"wordpress": [],
+		"woocommerce": []
 	}
 }

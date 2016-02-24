@@ -1,0 +1,50 @@
+{
+	"wildride": {
+		"textLogo": "",
+		"title": "Wild Ride",
+		"titleCaption": "Bicycle NXT 3000 exhibited at CES in Vegas",
+		"author": ""
+	},
+	"kingnews": {
+		"textLogo": "",
+		"title": "King news",
+		"titleCaption": "Latest news",
+		"author": ""
+	},
+	"blogetti": {
+		"textLogo": "",
+		"title": "Blogetti",
+		"titleCaption": "Slow-Cooker Alabamian",
+		"author": ""
+	},
+	"cherryframework4": {
+		"textLogo": "",
+		"title": "Cherry Framework 4 Documentation",
+		"titleCaption": "",
+		"author": ""
+	},
+	"wordpress": {
+		"textLogo": "",
+		"title": "WordPress Themes Documentation v4-0",
+		"titleCaption": "",
+		"author": ""
+	},
+	"monstroid": {
+		"textLogo": "<span>Monstroid</span><small>premium theme</small>",
+		"title": "Monstroid Premium Theme Documentation",
+		"titleCaption": "",
+		"author": ""
+	},
+	"woocommerce": {
+		"textLogo": "",
+		"title": "WooCommerce Themes Documentation v4-0",
+		"titleCaption": "",
+		"author": ""
+	},
+	"kustrix": {
+		"author": "maksim",
+		"textLogo": "Kustrix",
+		"title": "Kustrix",
+		"titleCaption": "Fahsion blog"
+	}
+}

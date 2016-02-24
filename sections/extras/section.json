@@ -1,215 +1,201 @@
 {
-	"id":"extras",
-	"translations":
-	{
-		"en":"Extras",
-		"ru":"Дополнение"
+	"id": "extras",
+	"translations": {
+		"en": "Extras",
+		"ru": "Дополнение"
 	},
-	"articles":
-	{
-		"wildride":
-		[
+	"articles": {
+		"wildride": [
 			{
-				"id":"help",
-				"translations":{
-					"en":"Help and Support",
-					"ru":"Помощь и поддержка"
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
 				}
 			},
 			{
-				"id":"cookies",
-				"translations":{
-					"en":"Cookies",
-					"ru":"Cookies"
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
 				}
 			},
 			{
-				"id":"documentation",
-				"translations":{
-					"en":"Documentation",
-					"ru":"Документация"
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
 				}
 			},
 			{
-				"id":"google-services",
-				"translations":{
-					"en":"Google Services",
-					"ru":"Google Сервисы"
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
 				}
 			}
 		],
-
-		"kingnews":
-		[
+		"kingnews": [
 			{
-				"id":"help",
-				"translations":{
-					"en":"Help and Support",
-					"ru":"Помощь и поддержка"
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
 				}
 			},
 			{
-				"id":"cookies",
-				"translations":{
-					"en":"Cookies",
-					"ru":"Cookies"
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
 				}
 			},
 			{
-				"id":"documentation",
-				"translations":{
-					"en":"Documentation",
-					"ru":"Документация"
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
 				}
 			},
 			{
-				"id":"google-services",
-				"translations":{
-					"en":"Google Services",
-					"ru":"Google Сервисы"
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
 				}
 			}
 		],
-
-		"cherryframework4":
-		[
+		"cherryframework4": [
 			{
-				"id":"help",
-				"translations":{
-					"en":"Help and Support",
-					"ru":"Помощь и поддержка"
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
 				}
 			},
 			{
-				"id":"cookies",
-				"translations":{
-					"en":"Cookies",
-					"ru":"Cookies"
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
 				}
 			},
 			{
-				"id":"documentation",
-				"translations":{
-					"en":"Documentation",
-					"ru":"Документация"
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
 				}
 			},
 			{
-				"id":"google-services",
-				"translations":{
-					"en":"Google Services",
-					"ru":"Google Сервисы"
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
 				}
 			}
 		],
-
-		"monstroid":
-		[
+		"monstroid": [
 			{
-				"id":"help",
-				"translations":{
-					"en":"Help and Support",
-					"ru":"Помощь и поддержка"
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
 				}
 			},
 			{
-				"id":"cookies",
-				"translations":{
-					"en":"Cookies",
-					"ru":"Cookies"
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
 				}
 			},
 			{
-				"id":"documentation",
-				"translations":{
-					"en":"Documentation",
-					"ru":"Документация"
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
 				}
 			},
 			{
-				"id":"google-services",
-				"translations":{
-					"en":"Google Services",
-					"ru":"Google Сервисы"
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
 				}
 			},
 			{
-				"id":"license-faqs",
-				"translations":{
-					"en":"License FAQs",
-					"ru":"License FAQs"
+				"id": "license-faqs",
+				"translations": {
+					"en": "License FAQs",
+					"ru": "License FAQs"
 				}
 			},
 			{
-				"id":"change-log",
-				"translations":{
-					"en":"Monstroid change log",
-					"ru":"Журнал изменений Monstroid"
-				}
-			}
-
-		],
-
-		"wordpress":
-		[
-			{
-				"id":"help",
-				"translations":{
-					"en":"Help and Support",
-					"ru":"Помощь и поддержка"
-				}
-			},
-			{
-				"id":"cookies",
-				"translations":{
-					"en":"Cookies",
-					"ru":"Cookies"
-				}
-			},
-			{
-				"id":"documentation",
-				"translations":{
-					"en":"Documentation",
-					"ru":"Документация"
-				}
-			},
-			{
-				"id":"google-services",
-				"translations":{
-					"en":"Google Services",
-					"ru":"Google Сервисы"
+				"id": "change-log",
+				"translations": {
+					"en": "Monstroid change log",
+					"ru": "Журнал изменений Monstroid"
 				}
 			}
 		],
-
-		"woocommerce":
-		[
+		"wordpress": [
 			{
-				"id":"help",
-				"translations":{
-					"en":"Help and Support",
-					"ru":"Помощь и поддержка"
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
 				}
 			},
 			{
-				"id":"cookies",
-				"translations":{
-					"en":"Cookies",
-					"ru":"Cookies"
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
 				}
 			},
 			{
-				"id":"documentation",
-				"translations":{
-					"en":"Documentation",
-					"ru":"Документация"
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
 				}
 			},
 			{
-				"id":"google-services",
-				"translations":{
-					"en":"Google Services",
-					"ru":"Google Сервисы"
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"woocommerce": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
 				}
 			}
 		]

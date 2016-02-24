@@ -1,37 +1,28 @@
-{	
-	"id":"shop",
-	"translations":
-	{
-		"en":"Shop",
-		"ru":"Магазин"
+{
+	"id": "shop",
+	"translations": {
+		"en": "Shop",
+		"ru": "Магазин"
 	},
-	"articles":
-	{
-		"cherryframework4":
-		[],	
-
-		"monstroid":	
-		[		
+	"articles": {
+		"cherryframework4": [],
+		"monstroid": [
 			{
-				"id":"create-products",
-				"translations":{
-					"en":"Create products",
-					"ru":"Создание продуктов"
+				"id": "create-products",
+				"translations": {
+					"en": "Create products",
+					"ru": "Создание продуктов"
 				}
-			},		
+			},
 			{
-				"id":"woocommerce-cart",
-				"translations":{
-					"en":"Using WooCommerce cart",
-					"ru":"Использование корзины WooCommerce"
+				"id": "woocommerce-cart",
+				"translations": {
+					"en": "Using WooCommerce cart",
+					"ru": "Использование корзины WooCommerce"
 				}
 			}
 		],
-
-		"wordpress":	
-		[],
-
-		"woocommerce":	
-		[]
+		"wordpress": [],
+		"woocommerce": []
 	}
 }
