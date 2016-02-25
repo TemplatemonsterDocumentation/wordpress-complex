@@ -14,9 +14,11 @@ if ( false === defined('DOCUMENT_ROOT')) {
 $path = str_replace( array(
   realpath( $_SERVER['DOCUMENT_ROOT'] ),
   DIRECTORY_SEPARATOR,
+  'home'
 ), array(
   '',
-  '/'
+  '/',
+  ''
 ), __DIR__ );
 
 $projectList = get_projects_list();
