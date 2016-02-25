@@ -4,8 +4,8 @@ include_once 'functions.php';
 
 if ( false === defined('DOCUMENT_ROOT')) {
     define( 'DOCUMENT_ROOT', realpath( str_replace(
-        array('/', '\\'),
-        DIRECTORY_SEPARATOR,
+        array('/', '\\', 'home'),
+        array(DIRECTORY_SEPARATOR, DIRECTORY_SEPARATOR, ''),
         realpath( dirname( basename( __DIR__ ) ) )
     ) ) );
 }
