@@ -1,12 +1,55 @@
 <?php
 
 if ( false === function_exists( 'get_projects_list' ) ) {
+	/**
+	 * Get projects json configuration
+	 * @return array
+	 */
 	function get_projects_list() {
-		$projectsJson = realpath(DOCUMENT_ROOT . DIRECTORY_SEPARATOR . 'projects.json');
-		if ( ! $projectsJson ) {
-			return array();
+		$projectsJSON = get_path( 'projects.json', true );
+		if ( ! file_exists( $projectsJSON ) ) {
+			//return array();
 		}
-		return json_decode( file_get_contents( $projectsJson ), true );
+		return json_decode( file_get_contents( $projectsJSON ), true );
+	}
+}
+
+if ( false === function_exists( 'get_docroot' ) ) {
+	/**
+	 * Get relative directory
+	 * @return string
+	 */
+	function get_relative_path() {
+		return RELATIVE_DIR;
+	}
+}
+
+if ( false === function_exists( '_fix_path_chunks' ) ) {
+	function _fix_path_chunks( $chunk ) {
+		return str_replace( array( '\\', '//', '\/' ), '/', $chunk );
+	}
+}
+
+if ( false === function_exists( 'join_path' ) ) {
+	function join_path( $arg1, $arg2 = '', $argN = '' ) {
+		$chunks = array_map( '_fix_path_chunks', func_get_args() );
+		return join( '/', $chunks );
+	}
+}
+
+if ( false === function_exists( 'get_path' ) ) {
+	/**
+	 * Get relative path to a directory/file
+	 * @param  string  $path         Path to a directory/file
+	 * @param  boolean $use_doc_root Use document root or relative path?
+	 * @return string
+	 */
+	function get_path( $path, $use_doc_root = false ) {
+		$doc_root = DOCUMENT_ROOT;
+		if ( ! $use_doc_root ) {
+			$doc_root = get_relative_path();
+		}
+		return join_path( preg_replace( '/(\/)+$/', '', $doc_root ), preg_replace( '/^(\/+)/', '', $path ) );
 	}
 }
 
@@ -17,7 +60,7 @@ if ( false === function_exists( 'get_projects_list' ) ) {
  */
 function getSections($project, $defaultProject)
 {
-	$sections_json_file = DOCUMENT_ROOT . DIRECTORY_SEPARATOR . 'sections.json';
+	$sections_json_file = get_path( 'sections.json', true );
 	if (file_exists($sections_json_file)) {
 		$sections_string = file_get_contents($sections_json_file);
 		$sections_array = json_decode($sections_string, true);
@@ -44,7 +87,7 @@ function generateNavigation($sections, $lang, $section_param, $project, $default
 	$html = '';
 
 	foreach ($sections as $section_key => $section_dirname) {
-		$section_json_file	= DOCUMENT_ROOT . DIRECTORY_SEPARATOR . 'sections' . DIRECTORY_SEPARATOR . $section_dirname . DIRECTORY_SEPARATOR . 'section.json';
+		$section_json_file = get_path( "/sections/{$section_dirname}/section.json", true );
 		// Check if section json file exists
 		if (file_exists($section_json_file)):
 			$section_string 	= file_get_contents($section_json_file);
@@ -111,7 +154,7 @@ function generateNavigation($sections, $lang, $section_param, $project, $default
  */
 function includeSection($sections, $lang, $section_param, $project, $defaultProject)
 {
-	$section_json_file	= DOCUMENT_ROOT . DIRECTORY_SEPARATOR . 'sections' . DIRECTORY_SEPARATOR . $section_param . DIRECTORY_SEPARATOR . 'section.json';
+	$section_json_file = get_path( "/sections/{$section_param}/section.json", true );
 
 	if (file_exists($section_json_file)):
 		$section_string 	= file_get_contents($section_json_file);
@@ -128,8 +171,7 @@ function includeSection($sections, $lang, $section_param, $project, $defaultProj
 		echo "<section id='" . $section_id . "'>";
 
 			//Define description filename depending on project title
-			$section_desc_path = DOCUMENT_ROOT . DIRECTORY_SEPARATOR . 'sections' . DIRECTORY_SEPARATOR . $section_param . DIRECTORY_SEPARATOR . $lang . DIRECTORY_SEPARATOR;
-			$section_desc = $section_desc_path . '__description_'. $project .'.php';
+			$section_desc = get_path( "/sections/{$section_param}/{$lang}/__description_{$project}.php", true );
 
 			if (file_exists($section_desc)) {
 				echo "<article class='description'>";
@@ -137,7 +179,7 @@ function includeSection($sections, $lang, $section_param, $project, $defaultProj
 				echo "</article>";
 			} else {
 				// Load default description file if no project description file defined
-				$section_desc = $section_desc_path . '__description.php';
+				$section_desc = get_path( "/sections/{$section_param}/{$lang}/__description.php", true );
 				if (file_exists($section_desc)) {
 					echo "<article class='description'>";
 						include_once $section_desc;
@@ -150,7 +192,7 @@ function includeSection($sections, $lang, $section_param, $project, $defaultProj
 			foreach ($section_articles as $key => $article) {
 				$article_id = $article['id'];
 				echo "<article id='" . $article_id . "'>";
-					$article_path = DOCUMENT_ROOT . DIRECTORY_SEPARATOR . 'sections' . DIRECTORY_SEPARATOR . $section_param . DIRECTORY_SEPARATOR . $lang . DIRECTORY_SEPARATOR . $article_id . '.php';
+					$article_path = get_path( "/sections/{$section_param}/{$lang}/{$article_id}.php", true );
 					if (file_exists($article_path)) {
 						include_once $article_path;
 					} else {

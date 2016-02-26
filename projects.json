@@ -24,9 +24,9 @@
 		"author": ""
 	},
 	"wordpress": {
-		"textLogo": "",
-		"title": "WordPress Themes Documentation v4-0",
-		"titleCaption": "",
+		"textLogo": "<span>WordPress</span>",
+		"title": "WordPress",
+		"titleCaption": "Documentation v4-0",
 		"author": ""
 	},
 	"monstroid": {
@@ -41,10 +41,10 @@
 		"titleCaption": "",
 		"author": ""
 	},
-	"kustrix": {
-		"author": "maksim",
-		"textLogo": "Kustrix",
-		"title": "Kustrix",
-		"titleCaption": "Fahsion blog"
+	"fitnesys": {
+		"author": "kirk",
+		"textLogo": "",
+		"title": "Fitnesys",
+		"titleCaption": "Be Stronger, Be Fit"
 	}
 }

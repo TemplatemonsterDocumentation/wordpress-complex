@@ -81,7 +81,15 @@
 		"extras",
 		"woocommerce-recommended"
 	],
-	"kustrix": [
-		"introduction"
+	"fitnesys": [
+		"introduction",
+		"basic-configuration",
+		"customizer-settings",
+		"extras",
+		"pages",
+		"plugins",
+		"posts-categories",
+		"template-installation",
+		"widgets"
 	]
 }

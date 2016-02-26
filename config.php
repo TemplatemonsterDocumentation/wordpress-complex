@@ -1,25 +1,19 @@
 <?php
 
-include_once 'functions.php';
+defined( 'DS' ) or define( 'DS', DIRECTORY_SEPARATOR );
 
-if ( false === defined('DOCUMENT_ROOT')) {
-    define( 'DOCUMENT_ROOT', realpath( str_replace(
-        array('/', '\\', 'home'),
-        array(DIRECTORY_SEPARATOR, DIRECTORY_SEPARATOR, ''),
-        realpath( dirname( basename( __DIR__ ) ) )
-    ) ) );
+$document_root = addslashes( realpath( __DIR__ ) );
+//$document_root = addslashes( realpath( dirname( $_SERVER['DOCUMENT_ROOT'] ) ) . DS );
+$relative_dir = addslashes( $_SERVER['REQUEST_URI'] );
+
+if ( strpos( $relative_dir, 'index.php' ) > -1 ) {
+  $relative_dir = explode( 'index.php', $relative_dir )[0];
 }
 
-// Get relative path
-$path = str_replace( array(
-  realpath( $_SERVER['DOCUMENT_ROOT'] ),
-  DIRECTORY_SEPARATOR,
-  'home'
-), array(
-  '',
-  '/',
-  ''
-), __DIR__ );
+defined( 'DOCUMENT_ROOT' ) or define( 'DOCUMENT_ROOT', $document_root );
+defined( 'RELATIVE_DIR' ) or define( 'RELATIVE_DIR', $relative_dir );
+
+include_once 'functions.php';
 
 $projectList = get_projects_list();
 
@@ -29,7 +23,7 @@ $projectList = get_projects_list();
  */
 $allowedProjects = array_keys($projectList);
 
-$defaultProject = $project = $allowedProjects[0]; // default project equals first object in array above
+$defaultProject = $project = isset( $allowedProjects[0] ) ? $allowedProjects[0] : ''; // default project equals first object in array above
 if (isset($_REQUEST['project'])) {
     $project = allowedParameterValue($_REQUEST['project'], $allowedProjects);
 }
@@ -50,18 +44,18 @@ if ( true === isset( $projectList[ $project ] ) ) {
  * Project image logo path
  * @var string
  */
-$projectImgLogoPath = $path . "/img/logo.png";
-if (file_exists(dirname(__FILE__) . "/projects/".$project."/img/logo_" . $project . ".png")) {
-    $projectImgLogoPath = $path . "/projects/".$project."/img/logo_" . $project . ".png";
+$projectImgLogoPath = RELATIVE_DIR . 'img/logo.png';
+if (file_exists(DOCUMENT_ROOT . "/projects/".$project."/img/logo_" . $project . ".png")) {
+    $projectImgLogoPath = RELATIVE_DIR . "projects/".$project."/img/logo_" . $project . ".png";
 }
 
 /**
  * Project favicon path
  * @var string
  */
-$projectFaviconPath = $path . "/img/favicon.ico";
-if (file_exists(dirname(__FILE__) . "/projects/".$project."/img/favicon_" . $project . ".ico")) {
-    $projectFaviconPath = $path ."/projects/".$project."/img/favicon_" . $project . ".ico";
+$projectFaviconPath = RELATIVE_DIR . "img/favicon.ico";
+if (file_exists(DOCUMENT_ROOT . RELATIVE_DIR . "/projects/".$project."/img/favicon_" . $project . ".ico")) {
+    $projectFaviconPath = RELATIVE_DIR ."projects/".$project."/img/favicon_" . $project . ".ico";
 }
 
 /**

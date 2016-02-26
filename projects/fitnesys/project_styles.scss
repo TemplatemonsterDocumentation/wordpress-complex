@@ -2,35 +2,41 @@
 //                     Variables
 //========================================================
 
-$primary-color: #AA4565;
-$primary-color-second: #EE4565;
+$primary-color: #303F9F;
+$primary-color-second: #F7E549;
 $primary-color-light: #FFFFFF;
-$primary-font-family: '';
-$primary-font-family-src: '';
-$header-background-image: '../../projects/kustrix/img/header-bg.png';
+$primary-color-red: #ec4040;
+//$primary-font-family: 'Racing Sans One', cursive;
+//$primary-font-family-src: '//fonts.googleapis.com/css?family=Racing+Sans+One:400';
+
+
+@import url(//fonts.googleapis.com/css?family=Racing+Sans+One);
+$header-background-image: '../../projects/fitnesys/img/header-bg.png';
 
 
 //========================================================
 //                     Color & Styles
 //========================================================
 
-@if variable_exists($primary-font-family-src) and $primary-font-family-src != '' {
-	@import url($primary-font-family-src);
-}
 
 h1 {
-	font-family: $primary-font-family;
+	//font-family: $primary-font-family;
+	font-weight: normal;
+	color: $primary-color-second;
+	font-family: 'Racing Sans One', cursive;
+
+
 }
 h2 {
-	color: $primary-color;
-	font-family: $primary-font-family;
+	color: $primary-color-red;
+	//font-family: $primary-font-family;
 }
 h3 {
-	color: $primary-color-second;
-	font-family: $primary-font-family;
+	//color: $primary-color-second;
+	//font-family: $primary-font-family;
 }
 h4 {
-	color: $primary-color;
+	//color: $primary-color;
 }
 
 .page-content {
@@ -44,7 +50,7 @@ h4 {
 	}
 }
 .rd-mobilepanel {
-	background-color: $primary-color-second;
+	background-color: $primary-color;
 	background-position: right top;
 	transition-property: height;
 	transition-duration: 2s;
@@ -80,14 +86,14 @@ body:not([data-section="introduction"]) {
 .tm-title-caption {
 	font-size: 32px;
 	top: 200px;
-	font-family: $primary-font-family;
-	color: $primary-color;
+	//font-family: $primary-font-family;
+	color: $primary-color-light;
 	line-height: 36px;
 	width: 430px;
 }
 
 .rd-mobilemenu {
 	.logo {
-		background-color: $primary-color;
+		background-color: $primary-color-light;
 	}
 }
