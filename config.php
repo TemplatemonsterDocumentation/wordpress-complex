@@ -53,8 +53,8 @@ if (file_exists(DOCUMENT_ROOT . "/projects/".$project."/img/logo_" . $project . 
  * Project favicon path
  * @var string
  */
-$projectFaviconPath = RELATIVE_DIR . "img/favicon.ico";
-if (file_exists(DOCUMENT_ROOT . RELATIVE_DIR . "/projects/".$project."/img/favicon_" . $project . ".ico")) {
+$projectFaviconPath = RELATIVE_DIR . 'img/favicon.ico';
+if (file_exists(DOCUMENT_ROOT . "/projects/".$project."/img/favicon_" . $project . ".ico")) {
     $projectFaviconPath = RELATIVE_DIR ."projects/".$project."/img/favicon_" . $project . ".ico";
 }
 

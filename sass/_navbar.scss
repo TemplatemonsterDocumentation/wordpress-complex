@@ -43,22 +43,17 @@ $rd-menu-width-mobile: 250px;
     left: 0;
     right: 0;
     height: $rd-mobilepanel-height*2;
-    //background: darken(map-get($rd-theme, panel-background-color), 5%);
-    padding: 33px 24px;
-    text-align: left;
+    align-items: center;
+    display: flex;
+    justify-content: center;
     @include box-sizing(border-box);
     color:#fff;
+    text-align: center;
+    padding: 0 1rem;
     img{
-      float: left;
-      margin-right: 10px;
-    }
-    span{
-      font-family: 'Oswald', sans-serif;
-      display: block;
-      text-transform: uppercase;
-      font-size: 32px;
-      line-height: 32px;
-      padding-top: 5px;
+      /*float: left;
+      margin-right: 10px;*/
+      width: 100%;
     }
 
     @media (max-width: 479px) {
@@ -279,7 +274,7 @@ body.navbar-fixed {
 .page-content{
   &.active {
     .rd-mobilepanel, .rd-mobilepanel_toggle {
-      @include transform(translateX($rd-menu-width - 1));
+      @include transform(translateX($rd-menu-width));
     }
     .page {
       @include transform(translateX($rd-menu-width - 150));

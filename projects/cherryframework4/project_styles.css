@@ -51,6 +51,8 @@ body:not([data-section="introduction"]) .tm-title-caption {
 
 .rd-mobilemenu .logo {
   background-color: #f62e46; }
+  .rd-mobilemenu .logo a {
+    display: inline-block; }
 
 .toTop {
   background-color: #f62e46; }

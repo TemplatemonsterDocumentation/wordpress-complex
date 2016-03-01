@@ -85,8 +85,10 @@ body:not([data-section="introduction"]) {
 
 .rd-mobilemenu {
 	.logo{
-		//background-color: $primary-color;
 		background-color: darken($primary-color, 0);
+		a {
+			display: inline-block;
+		}
 	}
 }
 

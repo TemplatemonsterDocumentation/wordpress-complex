@@ -63,6 +63,7 @@ if (!isset($sections)) {
                     <option data-href="#">RU</option>
                 </select>
             </div> -->
+
         </div>
         <p class="copyright">TemplateMonster ©
             <a href="http://www.templatemonster.com/privacy-policy.php">Privacy Policy</a>

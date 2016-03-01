@@ -52,10 +52,6 @@ h4 {
 .rd-mobilepanel {
 	background-color: $primary-color;
 	background-position: right top;
-	transition-property: height;
-	transition-duration: 2s;
-	transition-timing-function: linear;
-	transition-delay: 1s;
 	@media (max-width: 1440px) {
 		background-size: 60% auto;
 		background-position: 600px top;
@@ -95,5 +91,16 @@ body:not([data-section="introduction"]) {
 .rd-mobilemenu {
 	.logo {
 		background-color: $primary-color-light;
+
+
+
+
+
+
+
+
+		a {
+			display: inline-block;
+		}
 	}
 }
