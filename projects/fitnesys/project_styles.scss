@@ -92,15 +92,15 @@ body:not([data-section="introduction"]) {
 	.logo {
 		background-color: $primary-color-light;
 
-
-
-
-
-
-
-
 		a {
 			display: inline-block;
 		}
+	}
+}
+
+.toTop {
+	background-color: $primary-color;
+	&:hover {
+    	background: lighten($primary-color, 20%);
 	}
 }

@@ -31,6 +31,17 @@
 		"third-party-plugins",
 		"extras"
 	],
+	"gadnews": [
+		"introduction",
+		"template-installation",
+		"posts-categories",
+		"pages",
+		"basic-configuration",
+		"widgets",
+		"plugins",
+		"customizer-settings",
+		"extras"
+	],
 	"blogetti": [
 		"introduction",
 		"template-installation",

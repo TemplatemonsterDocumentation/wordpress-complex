@@ -93,17 +93,40 @@
 				}
 			},
 			{
-				"id": "give-donation-plugin",
+				"id": "widget-importer-exporter",
 				"translations": {
-					"en": "Give - Donation Plugin",
-					"ru": "Give - Donation Plugin"
+					"en": "Widget Importer & Exporter",
+					"ru": "Widget Importer & Exporter"
 				}
 			},
 			{
-				"id": "track-kickstarter-project",
+				"id": "wordpress-importer",
 				"translations": {
-					"en": "Track Kickstarter Project",
-					"ru": "Track Kickstarter Project"
+					"en": "Widget Importer & Exporter",
+					"ru": "Widget Importer & Exporter"
+				}
+			}
+		],
+		"gadnews": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "easy-twitter-feed-widget",
+				"translations": {
+					"en": "Easy Twitter Feed Widget",
+					"ru": "Easy Twitter Feed Widget"
 				}
 			},
 			{
@@ -146,27 +169,6 @@
 				"translations": {
 					"en": "Easy Twitter Feed Widget",
 					"ru": "Easy Twitter Feed Widget"
-				}
-			},
-			{
-				"id": "facebook-widget",
-				"translations": {
-					"en": "Facebook Widget",
-					"ru": "Facebook Widget"
-				}
-			},
-			{
-				"id": "give-donation-plugin",
-				"translations": {
-					"en": "Give - Donation Plugin",
-					"ru": "Give - Donation Plugin"
-				}
-			},
-			{
-				"id": "track-kickstarter-project",
-				"translations": {
-					"en": "Track Kickstarter Project",
-					"ru": "Track Kickstarter Project"
 				}
 			},
 			{

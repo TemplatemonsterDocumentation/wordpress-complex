@@ -35,6 +35,13 @@
 				}
 			},
 			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
 				"id": "typography",
 				"translations": {
 					"en": "Typography",
@@ -142,6 +149,13 @@
 				}
 			},
 			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
 				"id": "typography",
 				"translations": {
 					"en": "Typography",
@@ -170,14 +184,142 @@
 				}
 			},
 			{
-				"id": "menu-locations",
+				"id": "background-image",
 				"translations": {
-					"en": "Menu Locations",
+					"en": "Background Image",
+					"ru": "Задний фон"
+				}
+			},
+			{
+				"id": "menus",
+				"translations": {
+					"en": "Menus",
+					"ru": "Меню"
+				}
+			},
+			{
+				"id": "sidebar-kingnews",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "blog-settings",
+				"translations": {
+					"en": "Blog Settings",
+					"ru": "Настройки блога"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"gadnews": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
 					"ru": "Хедер"
 				}
 			},
 			{
-				"id": "sidebar",
+				"id": "background-image",
+				"translations": {
+					"en": "Background Image",
+					"ru": "Задний фон"
+				}
+			},
+			{
+				"id": "menus",
+				"translations": {
+					"en": "Menus",
+					"ru": "Меню"
+				}
+			},
+			{
+				"id": "sidebar-kingnews",
 				"translations": {
 					"en": "Sidebar",
 					"ru": "Сайдбар"
@@ -329,6 +471,13 @@
 				"translations": {
 					"en": "Color scheme",
 					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
 				}
 			},
 			{

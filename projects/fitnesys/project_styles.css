@@ -46,3 +46,8 @@ body:not([data-section="introduction"]) .tm-title-caption {
   background-color: #FFFFFF; }
   .rd-mobilemenu .logo a {
     display: inline-block; }
+
+.toTop {
+  background-color: #303F9F; }
+  .toTop:hover {
+    background: #6573d0; }

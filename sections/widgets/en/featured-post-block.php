@@ -6,7 +6,23 @@
         <img src="projects/<?php echo $project;?>/img/widgets/featured-post-block.png">
     </figure>
 
-    <h5>Layout</h5>
+
+
+
+<?php if ($project == 'gadnews' OR $project == 'kingnews') { ?>
+
+	<h5>Layout</h5>
+
+	<p>Here you can select appropriate layout type</p>
+
+	<h5>Posts IDs (Optional)</h5>
+
+	<p>Here you can select appropriate post IDs for display</p>
+
+<?php } ?>
+
+
+	<h5>Post meta</h5>
 
 	<ul class="marked-list">
 	    <li>

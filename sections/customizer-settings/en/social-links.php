@@ -28,6 +28,8 @@
         </dl>
     </li>
 
+<?php if ($project == 'wildride') { ?>
+
     <li>
         <dl class="inline-term">
             <dt>Add social sharing to blog posts  </dt>
@@ -36,4 +38,7 @@
              </dd>
         </dl>
     </li>
+
+<?php } ?>
+
 </ul>

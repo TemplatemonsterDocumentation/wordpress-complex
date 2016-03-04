@@ -11,6 +11,12 @@
 		"titleCaption": "Latest news",
 		"author": ""
 	},
+	"gadnews": {
+		"textLogo": "",
+		"title": "GADNEWS",
+		"titleCaption": "News portal about Gadget & Devices",
+		"author": ""
+	},
 	"blogetti": {
 		"textLogo": "",
 		"title": "Blogetti",

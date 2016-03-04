@@ -26,20 +26,6 @@
     	</dl>
     </li>
     <li>
-    	<dl class="inline-term">
-    		<dt><i class="fa fa-folder"></i> <strong>sources.zip</strong></dt>
-    		<dd> contains theme source files.</dd>
-    	</dl>
-    	<ul>
-            <li>
-                <dl class="inline-term">
-                    <dt><i class="fa fa-folder"></i> <strong>psd</strong></dt>
-            		<dd>contains Adobe Photoshop source files (.psd).</dd>
-            	</dl>
-            </li>
-    	</ul>
-    </li>
-    <li>
         <dl class="inline-term">
             <dt><i class="fa fa-folder"></i> <strong>theme</strong></dt>
             <dd> contains WordPress theme files.</dd>
@@ -71,7 +57,7 @@
                     <li>
                         <dl class="inline-term">
                             <dt>
-                                <i class="fa fa-file"></i> <strong>sample_data.xml</strong>
+                                <i class="fa fa-file"></i> <strong>content.xml</strong>
                             </dt>
                             <dd>
                                 contains all template sample data (posts, pages, categories, etc).
@@ -114,7 +100,7 @@
                     <li>
                         <dl class="inline-term">
                             <dt>
-                                <i class="fa fa-file"></i> <strong>theme#####.sql</strong>
+                                <i class="fa fa-file"></i> <strong>theme-name.sql</strong>
                             </dt>
                             <dd>
                                 database file (contains theme content).
@@ -127,14 +113,8 @@
     </li>
     <li>
         <dl class="inline-term">
-            <dt><i class="fa fa-file"></i> <strong>license.txt</strong></dt>
-            <dd> contains license information.</dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt><i class="fa fa-file"></i> <strong>fonts_info.txt</strong></dt>
-            <dd> contains links to download fonts used in the template.</dd>
+            <dt><i class="fa fa-file"></i> <strong>documentation.txt</strong></dt>
+            <dd> contains documentation link information.</dd>
         </dl>
     </li>
     <li>

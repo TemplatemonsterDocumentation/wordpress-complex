@@ -37,6 +37,22 @@
 				}
 			}
 		],
+		"gadnews": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Theme Installation",
+					"ru": "Установка темы"
+				}
+			}
+		],
 		"blogetti": [
 			{
 				"id": "engine-installation",
