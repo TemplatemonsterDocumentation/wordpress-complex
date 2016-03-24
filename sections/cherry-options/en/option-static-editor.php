@@ -1,10 +1,10 @@
 
 <h3>Statics Editor</h3>
-<p>Statics Editor is arrange static blocks (statics) in atatic areas. You can manage such blocks as: logo, header menu, header sidebar, search form, footer menu, footer info and footer sidebars.  </p>
+<p>Statics Editor arranges static blocks (statics) in static areas. You can manage such blocks as: logo, header menu, header sidebar, search form, footer menu, footer info and footer sidebars.  </p>
 <figure class="img-polaroid">
 	<img src="img/cherryframework/static-editor-menu.jpg" alt="" >
 </figure>
-<p>Statics editor is available under Cherry admin panel menu item. Put your mouse cursor over "Cherry" menu item and in the appeared dropdown menu click "Statics Editor" link.</p>
+<p>Statics editor is available under Cherry admin panel menu item. Put your mouse cursor over "Cherry" menu item and  click "Statics Editor" link in the appeared dropdown menu.</p>
 <figure class="img-polaroid">
 	<img src="img/cherryframework/static-editor.jpg" alt="">
 </figure>

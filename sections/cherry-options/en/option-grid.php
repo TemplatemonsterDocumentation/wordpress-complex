@@ -17,7 +17,7 @@
         <dl class="inline-term">
             <dt>Container width</dt>
             <dd>
-                The width of main website container in pixels.
+                The width of main website container is in pixels.
             </dd>
         </dl>
     </li>
@@ -34,7 +34,7 @@
         <dl class="inline-term">
             <dt>Pages</dt>
             <dd>
-                You can choose if you want to display sidebars and how you want to display them.
+                Choose the way you want to display the pages.
             </dd>
         </dl>
     </li>
@@ -42,7 +42,7 @@
         <dl class="inline-term">
             <dt>Blog posts</dt>
             <dd>
-                You can choose if you want to display sidebars and how you want to display them.
+                Choose the way you want to display the blog posts.
             </dd>
         </dl>
     </li>

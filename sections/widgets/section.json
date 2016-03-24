@@ -325,7 +325,286 @@
 		"cherryframework4": [],
 		"monstroid": [],
 		"wordpress": [],
-		"woocommerce": []
-
+		"woocommerce": [],
+		"stylepark": [{
+			"id": "widgets-installation",
+			"translations": {
+				"en": "Widgets installation",
+				"ru": "Установка виджетов"
+			}
+		},   {
+			"id": "about-author-widget",
+			"translations": {
+				"en": "About Author",
+				"ru": "Информация об авторе"
+			}
+		},  {
+			"id": "tm-youtube-widget",
+			"translations": {
+				"en": "TM YouTube Subscribe Widget",
+				"ru": "TM YouTube Subscribe Widget"
+			}
+		},  {
+			"id": "easy-twitter-stylepark",
+			"translations": {
+				"en": "Easy Twitter Feed Widget",
+				"ru": "Виджет Easy Twitter Feed"
+			}
+		},  {
+			"id": "facebook-page-widget-stylepark",
+			"translations": {
+				"en": "Facebook Page Like Widget",
+				"ru": "Виджет Facebook Page Like"
+			}
+		},  {
+			"id": "smart-slider-widget-stylepark",
+			"translations": {
+				"en": "Smart Slider",
+				"ru": "Умный слайдер"
+			}
+		},	{
+			"id": "carousel-slider-widget-stylepark",
+			"translations": {
+				"en": "Carousel Slider",
+				"ru": "Слайдер карусель"
+			}
+		},  {
+			"id": "image-grid-widget-column",
+			"translations": {
+				"en": "Image Grid",
+				"ru": "Сетка изображений"
+			}
+		},    {
+			"id": "subscribe-and-follow-widget-stylepark",
+			"translations": {
+				"en": "Subscribe and Follow",
+				"ru": "Подписка и Follow"
+			}
+		},  {
+			"id": "recent-posts-widget",
+			"translations": {
+				"en": "Recent Posts",
+				"ru": "Новые публикации "
+			}
+		}, {
+			"id": "recent-comments-widget",
+			"translations": {
+				"en": "Recent Comments",
+				"ru": "Новые комментарии "
+			}
+		},  {
+			"id": "taxonomy-tiles-widget",
+			"translations": {
+				"en": "Taxonomy Tiles",
+				"ru": "Виджет категорий и тегов"
+			}
+		}, {
+			"id": "instagram-widget-stylepark",
+			"translations": {
+				"en": "Instagram Widget",
+				"ru": "Instagram виджет"
+			}
+		}],
+		"kustrix": [{
+			"id": "widgets-installation",
+			"translations": {
+				"en": "Widgets installation",
+				"ru": "Установка виджетов"
+			}
+		},   {
+			"id": "smart-slider-widget",
+			"translations": {
+				"en": "Smart Slider",
+				"ru": "Умный слайдер"
+			}
+		},  {
+			"id": "about-author-widget",
+			"translations": {
+				"en": "About Author",
+				"ru": "Информация об авторе"
+			}
+		}, 	 {
+			"id": "subscribe-and-follow-widget",
+			"translations": {
+				"en": "Subscribe and Follow",
+				"ru": "Подписка и Follow"
+			}
+		},  {
+			"id": "pinterest-board-widget",
+			"translations": {
+				"en": "Pinterest Board Widget",
+				"ru": "Виджет Pinterest Board"
+			}
+		},  {
+			"id": "carousel-widget",
+			"translations": {
+				"en": "Carousel Widget",
+				"ru": "Виджет карусель"
+			}
+		},  {
+			"id": "easy-twitter-feed-kustrix",
+			"translations": {
+				"en": "Easy Twitter Feed Widget",
+				"ru": "Виджет Easy Twitter Feed"
+			}
+		},   {
+			"id": "facebook-page-like-widget-kustrix",
+			"translations": {
+				"en": "Facebook Page Like Widget",
+				"ru": "Виджет Facebook Page Like"
+			}
+		},  {
+			"id": "taxonomy-tiles-widget-kustrix",
+			"translations": {
+				"en": "Taxonomy Tiles",
+				"ru": "Виджет категорий и тегов"
+			}
+		}, {
+			"id": "instagram-widget-kustrix",
+			"translations": {
+				"en": "Instagram Widget",
+				"ru": "Instagram виджет"
+			}
+		}],
+		"fairystyle": [{
+			"id": "widgets-installation",
+			"translations": {
+				"en": "Widgets installation",
+				"ru": "Установка виджетов"
+			}
+		},   {
+			"id": "motopress-widget-fairystyle",
+			"translations": {
+				"en": "MotoPress Slider",
+				"ru": "Cлайдер MotoPress"
+			}
+		},  {
+			"id": "tm-banners-grid-widget",
+			"translations": {
+				"en": "TM Banners Grid",
+				"ru": "TM Banners Grid"
+			}
+		},  {
+			"id": "tm-product-categories-widget",
+			"translations": {
+				"en": "TM Product Categories",
+				"ru": "TM Product Categories"
+			}
+		},  {
+			"id": "tm-products-carousel-widget",
+			"translations": {
+				"en": "TM Products Carousel",
+				"ru": "TM Products Carousel"
+			}
+		},  {
+			"id": "tm-about-store-widget",
+			"translations": {
+				"en": "TM About Store",
+				"ru": "TM About Store"
+			}
+		},  {
+			"id": "carousel-widget",
+			"translations": {
+				"en": "Carousel Widget",
+				"ru": "Виджет карусель"
+			}
+		},  {
+			"id": "bne-testimonial-slider",
+			"translations": {
+				"en": "BNE Testimonial Slider",
+				"ru": "BNE Testimonial Slider"
+			}
+		},  {
+			"id": "woocommerce-products-new-products-widget",
+			"translations": {
+				"en": "WooCommerce New Products",
+				"ru": "WooCommerce New Products"
+			}
+		},    {
+			"id": "woocommerce-top-rated-products-widget",
+			"translations": {
+				"en": "WooCommerce Top Rated Products",
+				"ru": "WooCommerce Top Rated Products"
+			}
+		},  {
+			"id": "subscribe-and-follow-widget",
+			"translations": {
+				"en": "Subscribe and Follow",
+				"ru": "Подписка и Follow"
+			}
+		}, {
+			"id": "tm-custom-menu-bkg",
+			"translations": {
+				"en": "TM Custom Menu with Background",
+				"ru": "TM Custom Menu with Background"
+			}
+		}, {
+			"id": "tm-products-smart-box",
+			"translations": {
+				"en": "TM Products Smart Box",
+				"ru": "TM Products Smart Box"
+			}
+		}],
+		"dailysports": [{
+			"id": "widgets-installation",
+			"translations": {
+				"en": "Widgets installation",
+				"ru": "Установка виджетов"
+			}
+		}, {
+			"id": "subscribe-and-follow-widget-dailysports",
+			"translations": {
+				"en": "Subscribe and Follow",
+				"ru": "Подписка и Follow"
+			}
+		},  {
+			"id": "custom-post-widget-dailysports",
+			"translations": {
+				"en": "Custom Posts",
+				"ru": "Посты"
+			}
+		},  {
+			"id": "recent-comments-widget",
+			"translations": {
+				"en": "Recent Comments",
+				"ru": "Новые комментарии "
+			}
+		},  {
+			"id": "smart-slider-widget-dailysports",
+			"translations": {
+				"en": "Smart Slider",
+				"ru": "Умный слайдер"
+			}
+		},  {
+			"id": "featured-post-block-dailysports",
+			"translations": {
+				"en": "Featured Posts Block",
+				"ru": "Выбраные посты"
+			}
+		}, {
+			"id": "news-smartbox-dailysports",
+			"translations": {
+				"en": "Smartbox",
+				"ru": "Smartbox"
+			}
+		},  {
+			"id": "image-grid-widget",
+			"translations": {
+				"en": "Image Grid",
+				"ru": "Сетка изображений"
+			}
+		},  {
+			"id": "facebook-page-like-widget",
+			"translations": {
+				"en": "Facebook Page Like Widget",
+				"ru": "Facebook виджет"
+			}
+		},  {
+			"id": "easy-twitter-feed",
+			"translations": {
+				"en": "Easy Twitter Widget",
+				"ru": "Easy Twitter виджет"
+			}
+		}]
 	}
 }

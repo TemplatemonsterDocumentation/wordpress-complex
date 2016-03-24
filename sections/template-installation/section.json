@@ -189,7 +189,71 @@
 				}
 			}
 		],
+		"stylepark": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Theme Installation",
+					"ru": "Установка темы"
+				}
+			}
+		],	
 		"fitnesys": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Theme Installation",
+					"ru": "Установка темы"
+				}
+			}
+		],
+		"kustrix": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Theme Installation",
+					"ru": "Установка темы"
+				}
+			}
+		],
+		"fairystyle": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Theme Installation",
+					"ru": "Установка темы"
+				}
+			}
+		],
+		"dailysports": [
 			{
 				"id": "engine-installation",
 				"translations": {

@@ -1,11 +1,11 @@
 <h3>Grid</h3>
 
 <h4>Row (Background Type:None)</h4>
-<p>When forming a grid, you should "wrap" grid elements into [row] shortcode.</p>
+<p>When forming a grid, you should "wrap" the grid elements into [row] shortcode.</p>
 
 <ul class="marked-list">
-    <li><strong>Width Type</strong> - settings for select width type</li>
-    <li><strong>Background Type</strong> - settings for select background type</li>
+    <li><strong>Width Type</strong> - settings for width type select</li>
+    <li><strong>Background Type</strong> - settings for background type select</li>
     <li><strong>Anchor</strong> - this option defines menu item marker</li>
     <li><strong>Class</strong> - extra CSS class</li>
 </ul>
@@ -24,11 +24,11 @@
     <li><strong>Anchor</strong> - this option defines menu item marker</li>
     <li><strong>Class</strong> - extra CSS class</li>
     <li><strong>Styling preset</strong> - select styling preset</li>
-    <li><strong>Background Color</strong> - select background color</li>
-    <li><strong>Background Image</strong> - upload background image</li>
-    <li><strong>Background image position</strong> - select background image position</li>
-    <li><strong>Background image repeat</strong> - select background image repeat</li>
-    <li><strong>Background image attachment</strong> - select background image attachment</li>
+    <li><strong>Background Color</strong> - select the background color</li>
+    <li><strong>Background Image</strong> - upload the background image</li>
+    <li><strong>Background image position</strong> - select the background image position</li>
+    <li><strong>Background image repeat</strong> - select the background image repeat</li>
+    <li><strong>Background image attachment</strong> - select the background image attachment</li>
 </ul>
 
 <pre class="prettyprint">[cherry_row type="fixed-width" bg_type="image" anchor="anchor_title1" class="custom_class" preset="primary" bg_color="#ffb6ab" bg_image="http://99.99.99.99/cherry_test/wp-content/uploads/2015/07/257860.jpg" bg_position="top-left" bg_repeat="repeat-x" bg_attachment="fixed"][/cherry_row]</pre>
@@ -96,7 +96,7 @@
 <p>Along with row shortcode, column is used to build multicolumn layouts. Columns should be placed only within rows.</p>
 
 <ul class="marked-list">
-    <li><strong>size:</strong> - size of the column with possibility to set size for different resolutions</li>
+    <li><strong>size:</strong> - size of the column with the ability of setting a propper size for different  screen resolutions</li>
     <li><strong>offset:</strong> - increases the left margin of the column</li>
     <li><strong>pull:</strong> -
         <a href="http://getbootstrap.com/css/#grid-column-ordering">column order modifier</a>
@@ -136,7 +136,7 @@
 
 <h4>Spacer</h4>
 
-<p>Can be used in case you need vertical indent between blocks. Can be added in the visual editor with the help of the
+<p>Can be used in case you need the vertical indent between blocks. Can be added in the visual editor with the help of the
    [su_spacer] shortcode and has the following settings:</p>
 
 <ul class="marked-list">
@@ -186,7 +186,7 @@
 
 <h4>Box inner</h4>
 
-<p>Box shortcode is used to build nesting content wrapping boxes..</p>
+<p>Box shortcode is used to build nesting content wrapping boxes.</p>
 
 <ul class="marked-list">
     <li><strong>box styling preset:</strong> - container styling</li>

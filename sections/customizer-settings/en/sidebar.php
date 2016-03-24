@@ -35,6 +35,7 @@
             </dd>
         </dl>
     </li>
+
     <li>
         <dl class="inline-term">
             <dt>2 Sidebars</dt>

@@ -1,14 +1,14 @@
 <h2>Introduction</h2>
-<h5>Thank you for downloading Cherry Framework 4. This documentation consists of several parts and covers the entire process of installing and setting up Cherry Framework starting from scratch.</h5>
+<h5>Thank you for downloading Cherry Framework 4. This documentation consists of several parts and covers the entire process of installing and setting up Cherry Framework from scratch.</h5>
 <article id="whatiswordpress">
     <h3>What is Cherry Framework</h3>
 
-    <p>Cherry Framework 4 is an open source theme framework for WordPress. It has a rich variety of features and functional enhancements that allows to create WordPress websites and themes of any complexity. </p>
+    <p>Cherry Framework 4 is an open source theme framework for WordPress. It has a variety of features and functional enhancements that allows to create WordPress websites and themes of any complexity. </p>
 </article>
 
 <article id="structure">
     <h3>Cherry Framework Structure</h3>
-    <p>Cherry Framework is built as a WordPress theme. Let's check what's inside:</p>
+    <p>Cherry Framework is built as a regular WordPress theme. Let's check what's inside:</p>
 
     <ul class="files_structure">
                 <li class="folder">
@@ -127,7 +127,7 @@
                             <i class="fa fa-file"></i><strong>functions.php</strong>
                         </dt>
                         <dd>
-                           file contains additional functions that are required for Cherry Framework theme functioning. Also file contains somу WordPress core features enhancements, for example: thumbnails diemsions, path to loxalization files, widgets dimensions etc.
+                           file contains additional functions that are required for Cherry Framework theme functioning. The file also contains some WordPress core feature enhancements, for example: thumbnails diemsions, path to loxalization files, widgets dimensions etc.
                         </dd>
                     </dl>
                 </li>
@@ -137,7 +137,7 @@
                             <i class="fa fa-file"></i><strong>index.php</strong>
                         </dt>
                         <dd>
-                           main templates file. If your theme use custom template files this file is required.
+                           main templates file. If your theme uses any custom template files these file is required.
                         </dd>
                     </dl>
                 </li>
@@ -177,7 +177,7 @@
                             <i class="fa fa-file"></i><strong>single.php</strong>
                         </dt>
                         <dd>
-                           single post page template. Used to displayed requested post.
+                           single post page template. Used to display requested post.
                         </dd>
                     </dl>
                 </li>
@@ -187,7 +187,7 @@
                             <i class="fa fa-file"></i><strong>style.css</strong>
                         </dt>
                         <dd>
-                           main stylesheet file. It is required to be present in the theme. Should contain theme info in comment block.
+                           main stylesheet file. It is required to be present in the theme. Should contain theme info in the comment block.
                         </dd>
                     </dl>
                 </li>
@@ -195,10 +195,10 @@
 </article>
 <article id="preparation">
     <h3>Preparation</h3>
-    <h6>Before installing a Cherry Framework, you need to get fully prepared. We recommend that you get the following aspects covered:</h6>
+    <h6>Before installing the Cherry Framework, you need to get fully prepared. We recommend you to get the following aspects covered:</h6>
 
     <h4>Software</h4>
-    <p>Before you even start working with Cherry Framework, you should download the required software. You can check the required software on the template preview page.<br> 
+    <p>Before you start working with Cherry Framework, you should download the required software. You can check the required software on the template preview page.<br> 
     Requirements can alter from template to template, so we will list the most important ones:</p>
     <ol class="index-list">
     	<li>First of all, you will need the right software to extract files from the password protected sources_#########.zip archive. You can use WinZip 9 or a later version (if you have Windows OS) or Stuffit Expander 10 or a later version (if you have Mac OS).</li>

@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic);
+h1 {
+  font-family: "Playfair Display", serif;
+  color: #FFFFFF; }
+
+h2 {
+  color: #141414; }
+
+h3 {
+  color: #ff4747; }
+
+h4 {
+  color: #141414; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #ff4747;
+  background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/fairystyle/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 52px;
+  font-weight: 400;
+  top: 80px; }
+
+.tm-title-caption {
+  font-size: 30px;
+  font-style: italic;
+  top: 161px;
+  font-family: "Playfair Display", serif;
+  color: #FFFFFF;
+  line-height: 36px;
+  width: 430px; }
+
+.rd-mobilemenu .logo {
+  background-color: #ffffff; }
+
+.toTop {
+  background-color: #141414; }
+  .toTop:hover {
+    background: #474747; }
+
+.bold_text {
+  font-weight: 600; }
+
+.it_text {
+  font-weight: 400;
+  font-style: italic; }

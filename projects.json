@@ -43,7 +43,7 @@
 	},
 	"woocommerce": {
 		"textLogo": "",
-		"title": "WooCommerce Themes Documentation v4-0",
+		"title": "WooCommerce Themes Documentation Cherry Framework v4-0",
 		"titleCaption": "",
 		"author": ""
 	},
@@ -52,5 +52,29 @@
 		"textLogo": "",
 		"title": "Fitnesys",
 		"titleCaption": "Be Stronger, Be Fit"
+	},
+	"stylepark": {
+		"author": "",
+		"textLogo": "",
+		"title": "Stylepark",
+		"titleCaption": "The ugly, but SO practical travel beauty bag for makeup"
+	},
+	"kustrix": {
+		"author": "",
+		"textLogo": "",
+		"title": "Kustrix",
+		"titleCaption": "Lifestyle & Fashion Blog"
+	},
+	"fairystyle": {
+		"textLogo": "",
+		"title": "Retailer <span class=bold_text>Fairy</span><span class=it_text>style:</span>",
+		"titleCaption": "Brand Store.",
+		"author": ""
+	},
+	"dailysports": {
+		"textLogo": "",
+		"title": "Daily Sports",
+		"titleCaption": "The latest sports news",
+		"author": ""
 	}
 }

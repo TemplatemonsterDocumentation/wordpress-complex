@@ -17,7 +17,7 @@
     </li>
     <li>
         <dl class="inline-term">
-            <dt>Widget ID</dt>
+            <dt>Twitter Widget ID</dt>
             <dd>
                 Here you can define Widget ID to show this account images on your website.
             </dd>
@@ -25,7 +25,7 @@
     </li>
     <li>
         <dl class="inline-term">
-            <dt>Twitter Screen name</dt>
+            <dt>Twitter Screen Name</dt>
             <dd>
                 Here you can set a tvitter account name
             </dd>

@@ -23,7 +23,7 @@
 <figure class="img-polaroid"><img src="img/wordpress/1shortcode-editor-new-template.png" alt=""></figure>
 
 <p>You can rename, copy and delete the template. While copying, <strong>Duplicate</strong> the template. It will
-   get a name with an ordinal prefix (by analogy with the new template) but with the structure of current
+   get a name with an ordinal prefix (by analogy with the new template) but with the structure of the current
    template instead of the default template.</p>
 <figure class="img-polaroid"><img src="img/wordpress/1shortcode-editor-edit.png" alt=""></figure>
 

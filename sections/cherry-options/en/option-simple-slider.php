@@ -3,7 +3,7 @@
 <p>The section contains options for displaying and settings slider on site</p>
 
 <div class="alert alert-info">
-    Attention, Simple slider options will be available only in case you have - "<a href="index.php?project=monstroid&lang=ru&section=cherry-plugins#simple-slider">Cherry Simple Slider</a>"
+    Attention! Simple slider options will be available only in case you have - "<a href="index.php?project=monstroid&lang=ru&section=cherry-plugins#simple-slider">Cherry Simple Slider</a>"
 </div>
 
 
@@ -65,7 +65,7 @@
         <dl class="inline-term">
             <dt>Slider 992px breakpoint height</dt>
             <dd>
-                Define specific breakpoints which allow changing the look and behavior of the slider when the page resizes on 992px.
+                Define specific breakpoints which allow changing the look and behavior of the slider when the page resizes to 992px.
             </dd>
         </dl>
     </li>
@@ -74,7 +74,7 @@
         <dl class="inline-term">
             <dt>Slider 768px breakpoint height</dt>
             <dd>
-                Define specific breakpoints which allow changing the look and behavior of the slider when the page resizes on 768px.
+                Define specific breakpoints which allow changing the look and behavior of the slider when the page resizes to 768px.
             </dd>
         </dl>
     </li>
@@ -83,7 +83,7 @@
         <dl class="inline-term">
             <dt>Slider visible size</dt>
             <dd>
-                Define the size of the visible area, allowing for more slides to become visible near the selected slide.
+                Define the size of the visible area, allowing  more slides to become visible near the selected slide.
             </dd>
         </dl>
     </li>
@@ -110,7 +110,7 @@
         <dl class="inline-term">
             <dt>Slide distance</dt>
             <dd>
-                Define the distance between the slides.
+                Defines the distance between the slides.
             </dd>
         </dl>
     </li>
@@ -119,7 +119,7 @@
         <dl class="inline-term">
             <dt>Slide animation duration</dt>
             <dd>
-                Define the duration of the slide animation.
+                Defines the duration of the slide animation.
             </dd>
         </dl>
     </li>
@@ -128,7 +128,7 @@
         <dl class="inline-term">
             <dt>Slide fading</dt>
             <dd>
-                Enable / Disable indicates if fade will be used.
+                Enable / Disable - indicates if fade effect will be used.
             </dd>
         </dl>
     </li>

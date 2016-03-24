@@ -75,7 +75,7 @@
         <dl class="inline-term">
             <dt>Prev button label</dt>
             <dd>
-                Previous button label text. Text or HTML can be used.
+                "Previous" button label text. Text or HTML can be used.
             </dd>
         </dl>
     </li>
@@ -84,7 +84,7 @@
         <dl class="inline-term">
             <dt>Next button label</dt>
             <dd>
-                Next button label text. Text or HTML can be used.
+                "Next button" label text. Text or HTML can be used.
             </dd>
         </dl>
     </li>
@@ -93,7 +93,7 @@
         <dl class="inline-term">
             <dt>Show all the pages</dt>
             <dd>
-                If set to On, it will show all of the pages instead of a short list of pages near the current page.
+                If set to "On", it will show all of the pages instead of a short list of pages near the current page.
             </dd>
         </dl>
     </li>
@@ -171,7 +171,6 @@
             </dd>
         </dl>
     </li>
-
     <li>
         <dl class="inline-term">
             <dt>Breadcrumbs prefix</dt>

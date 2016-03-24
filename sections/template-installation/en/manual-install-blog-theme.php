@@ -1,14 +1,14 @@
 <h3>Installation</h3>
 
-    <p>Now you can proceed to installing the theme: <strong>theme_name.zip</strong>.Here are the steps:</p>
+    <p>Now you can proceed to theme installation: <strong>theme_name.zip</strong>.Follow the steps listed below:</p>
 
-    <p>Extract template package</p>
+    <p>Extract the template package</p>
 
     <figure class="img-polaroid">
         <img src="img/blog-theme/installation/add-theme-dashboard.png" alt="" >
     </figure>
 
-    <p>Navigate to the <strong>Appearance > Themes</strong> section at site admin panel and open <strong>'theme'</strong> folder</p>
+    <p>Navigate to the <strong>Appearance > Themes</strong> section at the admin panel of the site and open <strong>'theme'</strong> folder</p>
     <p>Locate the archive named as theme-name.zip and install the theme by pressing 'Install Now'.</p>
 
     <figure class="img-polaroid">
@@ -26,7 +26,7 @@
     <p>After you install and activate the theme, you may need to install the additional plugins:</p>
 
     <p>
-        Then press on 'Begin installing plugins' at the top of the website to start the recommended plugins installation.
+        Then press on 'Begin installing plugins' at the top of the website to start  installation of the recommended plugins.
     </p>
 
     <figure class="img-polaroid">
@@ -69,19 +69,19 @@
         <img src="img/blog-theme/installation/wordpress-importer-success.png" alt="" >
     </figure>
 
-    <p>Press on Browse button and select <strong>XML content</strong> file in the theme sample_data folder.</p>
+    <p>Press on the "Browse" button and select the <strong>XML content</strong> file in the theme sample_data folder.</p>
 
     <figure class="img-polaroid">
         <img src="img/blog-theme/installation/wordpress-importer-select.png" alt="" >
     </figure>
 
-    <p>Next press on Upload File and import</p>
+    <p>Next press Upload File and import</p>
 
     <p>
-        After doing this choose an author for manual import (or create a new user with login name) or select the one from the list of available authors (recommended option) (or assign post to an existing user:)
+        After that, choose an author for manual import (or create a new user with login name) or select the one from the list of available authors (recommended option) (or assign post to an existing user:)
     </p>
     <p>
-        Check the checkbox 'Download and import file attachments'</br> Navigate to the Dashboard when it is completed.
+        Check the  'Download and import file attachments' checkbox </br> Navigate to the Dashboard when it is completed.
     </p>
 
     <figure class="img-polaroid">
@@ -116,10 +116,10 @@
     </figure>
 
 
-    <p>After the successful installation all of widgets settings will be applied.</p>
+    <p>After the successful installation, all widgets settings will be applied.</p>
 
     <div class="alert alert-info">
-    If there are problems with installing theme via the admin panel, here's the alternative way to do it.
+    If there are problems with installing the theme via the admin panel, here's the alternative way to do it.
     </div>
 
     <h4>Upload via FTP</h4>
@@ -140,7 +140,7 @@
 <h4>Installing the sample data manualy</h4>
 
 
-<h5>For installing the sample data manualy please follow the instructions below.</h5>
+<h5>For installing the sample data manualy please follow the instructions listed below.</h5>
 
 <p>1. Open the <strong>theme\manual_install</strong> folder of your downloaded template package.</p>
 <p>2. Upload the “uploads” folder to the wp-content directory of your WordPress installation, accept folder(s) replacement. Please note that your images may be replaced with sample images.</p>
@@ -161,7 +161,7 @@
     NOTE: Always back up your database before performing any modifications.
 </div>
 
-<p>5.Open your WordPress database using a database management tool. Usually the database tool is called PhpMyadmin.</p>
+<p>5.Open your WordPress database using a database management tool. Usually, the database tool is called PhpMyadmin.</p>
 
 <p>6. Go to the Import tab and import the .sql file.</p>
 
@@ -174,7 +174,7 @@
 
 <p>8. Click the Save Changes button.</p>
 
-<p>9. Refresh your home page. The template has been installed with demo sample content.</p>
+<p>9. Refresh your home page. That's it the template has been installed with demo sample content.</p>
 
 
 

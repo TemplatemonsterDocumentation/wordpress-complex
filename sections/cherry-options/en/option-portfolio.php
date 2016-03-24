@@ -146,7 +146,7 @@
             <dl class="inline-term">
                 <dt>Masonry template</dt>
                 <dd>
-                    Defines template that allows to display posts in Masonry view.
+                    Defines template that allows to display posts in Masonry layout.
                 </dd>
             </dl>
         </li>
@@ -154,7 +154,7 @@
             <dl class="inline-term">
                 <dt>Grid template</dt>
                 <dd>
-                    Defines template that allows to display posts in Grid view.
+                    Defines template that allows to display posts in Grid layout.
                 </dd>
             </dl>
         </li>
@@ -162,7 +162,7 @@
             <dl class="inline-term">
                 <dt>Justified template</dt>
                 <dd>
-                    Defines template that allows to display posts in Justified view.
+                    Defines template that allows to display posts in Justified layout.
                 </dd>
             </dl>
         </li>

@@ -94,13 +94,58 @@
 	],
 	"fitnesys": [
 		"introduction",
+		"template-installation",
 		"basic-configuration",
 		"customizer-settings",
-		"extras",
+		"posts-categories",
 		"pages",
 		"plugins",
-		"posts-categories",
+		"widgets",
+		"extras"
+	],
+	"stylepark": [
+		"introduction",
 		"template-installation",
-		"widgets"
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"extras"		
+	],
+	"kustrix": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"extras"		
+	],
+	"fairystyle": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"third-party-plugins",
+		"extras"
+	],
+	"dailysports": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"third-party-plugins",
+		"extras"
 	]
+
 }

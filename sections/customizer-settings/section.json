@@ -557,6 +557,462 @@
 					"ru": "Главаная траница"
 				}
 			}
+			],	
+		"stylepark": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme-stylepark",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography-stylepark",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header-stylepark",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets-stylepark",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "blog-settings-stylepark",
+				"translations": {
+					"en": "Blog Settings",
+					"ru": "Настройки блога"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+			],	
+		"kustrix": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "blog-settings",
+				"translations": {
+					"en": "Blog Settings",
+					"ru": "Настройки блога"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+			],
+		"fairystyle": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "blog-settings",
+				"translations": {
+					"en": "Blog Settings",
+					"ru": "Настройки блога"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+			],
+		"dailysports": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "sidebar-dailysports",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "blog-settings",
+				"translations": {
+					"en": "Blog Settings",
+					"ru": "Настройки блога"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
 			]
 	}
 }

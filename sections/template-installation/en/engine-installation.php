@@ -5,19 +5,19 @@
        the requirements list. Make sure you download the correct version.</p>
 
     <p>
-        You can download the WordPress platform at the official WordPress.org website:
+        You can download the WordPress platform on the official WordPress.org website:
         <a href="http://WordPress.org/download/" target="_blank">
             <strong>Download WordPress</strong>
         </a>
         . If you need another release, follow this link:
         <a href="http://WordPress.org/download/release-archive/" target="_blank">
             <strong>WordPress versions archive</strong></a>
-        . Once the platform is downloaded, you'll need to unpack files. You can use any file archiver that support ZIP
+        . Once the platform is downloaded, you'll need to unpack the files. You can use any file archiver that supports ZIP
         format to unpack the <strong>ZIP</strong> file.
     </p>
 
     <p>
-        These tutorials will show you how to unpack archived file, if you have
+        These tutorials will show you how to unpack the archived files, if you have
         <a target="_blank" href="http://www.templatemonster.com/help/unzipping-your-template.html">
             <strong>Windows OS (using WinZip)</strong>
         </a>
@@ -69,11 +69,11 @@
 
     <div class="alert alert-info">
         If you can't find the PUBLIC_HTML or WWW directory on your hosting server, contact your hosting provider and
-        find out where you should upload website files to.
+        find out where you should upload the website files to.
     </div>
 
     <p>
-        You can also take a look at these tutorials that contain detailed information on how to upload files to a
+        You can also take a look at these tutorials that give detailed information on how to upload files to a
         hosting server:
     </p>
 
@@ -150,7 +150,7 @@
 
     <p>
         WordPress installation screen will inform you that
-        you are missing the configuration file. Click "Create
+        the configuration file is missing. Click "Create
         Configuration File" to create it.
     </p>
 
@@ -192,7 +192,7 @@
 
     <figure class="img-polaroid"><img src="img/wordpress/wp-install-6-b.jpg" alt="Inserting website details."></figure>
 
-    <p>If you have entered the correct details, you will see a message about successful installation and the
+    <p>If you have entered the correct details, you will see a successful installation message and the
        WordPress dashboard access button.</p>
 
     <figure class="img-polaroid"><img src="img/wordpress/wp-install-7-b.jpg" alt="Install WordPress button."></figure>

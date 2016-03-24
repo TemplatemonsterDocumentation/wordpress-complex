@@ -47,7 +47,7 @@
         <dl class="inline-term">
             <dt>Navigation parent container CSS selector</dt>
             <dd>
-                Define CSS selector for mega menu parent container (if needed). By default - ".container"
+                Define the CSS selector for mega menu parent container (if needed). By default - ".container"
             </dd>
         </dl>
     </li>

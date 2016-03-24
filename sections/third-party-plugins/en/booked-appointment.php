@@ -5,10 +5,10 @@
 
 <h4>Create a Profile Page</h4>
 
-<p>If you would like your customers to be able to manage their own appointments and edit their profile, you'll want to activate the profile page. It's an easy process though, just follow the guide below:</p> 
+<p>If you would like your customers to manage their own appointments and edit their profile, you'll want to activate the profile page. It's an easy process though, just follow the guide below:</p> 
 
 <ol>
-	<li>Create a page and give it a title. "Profile" works, but it can be whatever you want it to be.</li>
+	<li>Create a page and give it a title. "Profile" works too, but it can be whatever you want it to be.</li>
 	<li>Add the [booked-login] shortcode to the page so your users can log in to view their profile.</li>
 	<li>Go to the Booked Settings panel (Appointments > Settings) and choose this new page from the dropdown in the General Settings tab.</li>
 </ol>

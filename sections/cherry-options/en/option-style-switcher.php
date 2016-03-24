@@ -6,7 +6,7 @@
 
 
 <div class="alert alert-info">
-    Attention, Style Switcher options will be available only in case you have installed "<a href="index.php?project=monstroid&lang=ru&section=cherry-plugins#style-switcher">Cherry Style Switcher</a>" plugin.
+    Attention! Style Switcher options will be available only in case you have installed the "<a href="index.php?project=monstroid&lang=ru&section=cherry-plugins#style-switcher">Cherry Style Switcher</a>" plugin.
 </div>
 
 

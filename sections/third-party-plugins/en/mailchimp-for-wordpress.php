@@ -1,14 +1,14 @@
 <h3>MailChimp for WordPress</h3>
 
-<p><a href="https://wordpress.org/plugins/mailchimp-for-wp/" target="_blank">MailChimp for WordPress</a> plugin helps you add subscribers to your MailChimp lists using various methods. You can create good looking opt-in forms or integrate with any other form on your site, like your comment form or WooCommerce checkout.</p>
+<p><a href="https://wordpress.org/plugins/mailchimp-for-wp/" target="_blank">MailChimp for WordPress</a> plugin helps you add subscribers to your MailChimp lists using various methods. You can create compeling opt-in forms or integrate with any other form on your site, like your comment form or WooCommerce checkout.</p>
 	
 <h4>Installing MailChimp for WordPress Lite</h4>
 
-<p>Like other free WordPress plugins, installing the MailChimp for WordPress Lite plugin is quite easy-going. All you need is a MailChimp account and a self-hosted website.</p>
+<p>Like other free WordPress plugins, installing the MailChimp for WordPress Lite plugin is quite easy as well. All you need is a MailChimp account and a self-hosted website.</p>
 
 <ol class="index-list">
 	<li><p>In your WordPress admin panel, go to <strong>Plugins > New Plugin</strong>, search for MailChimp for WordPress and click "<strong>Install now</strong>"</p></li>
-	<li><p>Alternatively, <a href="https://wordpress.org/plugins/mailchimp-for-wp/installation/" target="_blank">download the plugin</a> and upload the contents of mailchimp-for-wp.zip to your plugins directory, which usually is /wp-content/plugins/.</p></li>
+	<li><p>Alternatively, <a href="https://wordpress.org/plugins/mailchimp-for-wp/installation/" target="_blank">download the plugin</a> and upload the contents of mailchimp-for-wp.zip to your plugins directory, which is usually /wp-content/plugins/.</p></li>
 	<li><p>Activate the plugin.</p></li>
 	<li><p>Set your <a href="https://login.mailchimp.com/?referrer=%2Faccount%2Fapi%2F" target="_blank">MailChimp API key</a> in the plugin settings.</p></li>
 </ol>
@@ -118,7 +118,7 @@
 			<dl class="inline-term">
 				<dt>Update existing subscribers?</dt>
 				<dd>
-					Select "yes" if you want to update existing subscribers (instead of showing the "already subscribed" message). This option is only available in MailChimp for WordPress Pro.
+					Select "yes" if you want to update the existing subscribers (instead of showing the "already subscribed" message). This option is only available in MailChimp for WordPress Pro.
 				</dd>
 			</dl>
 		</li>

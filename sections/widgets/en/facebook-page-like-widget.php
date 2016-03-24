@@ -1,4 +1,4 @@
-	<h3>Facebook page like widget</h3>
+	<h3>Facebook Page Like Widget</h3>
 
 	<p>This widget is used to setup and display facebook feed on the website.</p>
 
@@ -106,3 +106,9 @@
 </ul>
 
 <p>To learn how to get facebook application ID please view the following information <a href="https://developers.facebook.com/quickstarts/?platform=web" target="_blank" alt="Facebook application ID">here</a></p>
+
+
+
+
+
+

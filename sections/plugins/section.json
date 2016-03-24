@@ -58,8 +58,8 @@
 			{
 				"id": "wordpress-importer",
 				"translations": {
-					"en": "Widget Importer & Exporter",
-					"ru": "Widget Importer & Exporter"
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
 				}
 			}
 		],
@@ -102,8 +102,8 @@
 			{
 				"id": "wordpress-importer",
 				"translations": {
-					"en": "Widget Importer & Exporter",
-					"ru": "Widget Importer & Exporter"
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
 				}
 			}
 		],
@@ -139,8 +139,8 @@
 			{
 				"id": "wordpress-importer",
 				"translations": {
-					"en": "Widget Importer & Exporter",
-					"ru": "Widget Importer & Exporter"
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
 				}
 			}
 		],
@@ -181,8 +181,114 @@
 			{
 				"id": "wordpress-importer",
 				"translations": {
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
+				}
+			}
+		],
+		"stylepark": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"kustrix": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "widget-importer-exporter",
+				"translations": {
 					"en": "Widget Importer & Exporter",
 					"ru": "Widget Importer & Exporter"
+				}
+			},
+			{
+				"id": "wordpress-importer",
+				"translations": {
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
+				}
+			}
+		],	
+		"fairystyle": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "widget-importer-exporter",
+				"translations": {
+					"en": "Widget Importer & Exporter",
+					"ru": "Widget Importer & Exporter"
+				}
+			},
+			{
+				"id": "wordpress-importer",
+				"translations": {
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
+				}
+			}
+		],	
+		"dailysports": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "widget-importer-exporter",
+				"translations": {
+					"en": "Widget Importer & Exporter",
+					"ru": "Widget Importer & Exporter"
+				}
+			},
+			{
+				"id": "wordpress-importer",
+				"translations": {
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
 				}
 			}
 		]

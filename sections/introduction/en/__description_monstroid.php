@@ -1,14 +1,14 @@
 <h2>Introduction</h2>
 
 <h5>Thank you for purchasing a Monstroid Wordpress Premium Theme. This documentation consists of several parts and
-    covers the entire process of installing and setting up a WordPress website starting from scratch.</h5>
+    covers the entire process of installing and setting up a WordPress website from scratch.</h5>
 
 <article id="whatiswordpress">
     <h3>What is WordPress CMS?</h3>
 
     <p>WordPress is a free open-source blogging tool and content management system (CMS) based on PHP and MySQL. With
        its help you can create and administrate websites or powerful on-line applications without possessing any special
-       technical skills or knowledge. Due to its ease of use and flexibility WordPress has become the most popular
+       technical skills or knowledge. Thanks to a splendid performance and flexibility, WordPress has become the most popular
        platform for website development.
         <a href="http://wordpress.org/about/" target="_blank">Learn More</a>
     </p>
@@ -18,7 +18,7 @@
     <h3>What is Monstroid Premium Theme</h3>
 
     <p>Monstroid is a design tool that helps you build a website with any possible content, style and complexity without
-       the need to write a single line of code. Due to the inbuilt visual content editor anyone can build website of any
+       the need to write a single line of code. Due to the inbuilt visual content editor anyone can design a professional website of any
        level of complexity not even getting sweaty. Using this multi-purpose theme, you can build a website of any kind,
        business niche or style. Whether you are a pro or non-tech savvy, the whole process won’t take much of your time
        due to a rich set of developer-oriented features, multiple extensions and shortcodes. </p>
@@ -142,7 +142,7 @@
 
     <h4>Software</h4>
 
-    <p>Before you even start working with the WordPress template, you should download the required software. You can
+    <p>Before you start working with the WordPress template, you should download the required software. You can
        check the required software on the template preview page.
     </p>
 

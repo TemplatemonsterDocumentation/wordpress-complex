@@ -25,9 +25,9 @@
     </li>
     <li>
         <dl class="inline-term">
-            <dt>Select category to show</dt>
+            <dt>Select categories to show</dt>
             <dd>
-                Exact category to display posts from.
+                Choose the category to display posts from
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Select tags to show </dt>
             <dd>
-                Exact tag to display posts from.
+                Choose tags to display posts from
             </dd>
         </dl>
     </li>

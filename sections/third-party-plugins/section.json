@@ -14,6 +14,15 @@
 				}
 			}
 		],
+		"kingnews": [
+			{
+				"id": "mailchimp-for-wordpress",
+				"translations": {
+					"en": "MailChimp for WordPress",
+					"ru": "MailChimp for WordPress"
+				}
+			}
+		],
 		"cherryframework4": [],
 		"monstroid": [
 			{
@@ -167,6 +176,132 @@
 					"ru": "WordPress Countdown"
 				}
 			}
+		], 
+		"stylepark": [
+			{
+				"id": "tm-youtube",
+				"translations": {
+					"en": "TM Youtube Subscribe Widget",
+					"ru": "TM Youtube Subscribe Widget"
+				}
+			},  {
+				"id": "twitter-stylepark",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},  {
+				"id": "facebook-stylepark",
+				"translations": {
+					"en": "Facebook Page Like Widget",
+					"ru": "Facebook Page Like Widget"
+				}
+			}
+		],
+		"kustrix": [
+			{
+				"id": "instagram",
+				"translations": {
+					"en": "WP Instagram Widget",
+					"ru": "WP Instagram Widget"
+				}
+			},
+			{
+				"id": "pinterest",
+				"translations": {
+					"en": "Pinterest Widgets",
+					"ru": "Pinterest Widgets"
+				}
+			},
+			{
+				"id": "facebook",
+				"translations": {
+					"en": "Facebook Page Like Widget",
+					"ru": "Facebook Page Like Widget"
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			}
+		],
+		"fairystyle": [
+			{
+				"id": "bne-testimonials-plugin",
+				"translations": {
+					"en": "BNE Testimonials",
+					"ru": "Виджет Testimonials"
+				}
+			},
+			{
+				"id": "facebook-fairystyle",
+				"translations": {
+					"en": "Easy Facebook Likebox Widget",
+					"ru": "Виджет Easy Facebook Likebox"
+				}
+			},
+			{
+				"id": "mailchimp-for-wp",
+				"translations": {
+					"en": "MailChimp for WordPress",
+					"ru": "MailChimp for WordPress"
+				}
+			},
+			{
+				"id": "motopress-slider",
+				"translations": {
+					"en": "MotoPress Slider",
+					"ru": "Слайдер MotoPress"
+				}
+			},
+			{
+				"id": "woocommerce-fairystyle",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+				}
+			},
+			{
+				"id": "yith-woocommerce-wishlist",
+				"translations": {
+					"en": "YITH WooCommerce Wishlist",
+					"ru": "YITH WooCommerce Wishlist"
+				}
+			},
+			{
+				"id": "wpml-configuration-fairystyle",
+				"translations": {
+					"en": "WPML Support",
+					"ru": "Поддержка WPML"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"dailysports": [
+			{
+				"id": "facebook-main",
+				"translations": {
+					"en": " Facebook Widget",
+					"ru": "Виджет Facebook "
+				}
+			},
+			{
+				"id": "twitter-dailysports",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			}
+			
 		]
 	}
 }

@@ -30,7 +30,7 @@
             <dd>
                 Select a page that regular visitors will see if maintenance mode is enabled. You can select any
                 WordPress
-                page here including your custom ones.
+                page from here, including your custom ones.
             </dd>
         </dl>
     </li>

@@ -14,7 +14,7 @@
 <figure class="img-polaroid">
 	<img src="img/wordpress/1Activate.png" alt="">
 </figure>
-<p>Click <strong>Activate</strong> under the "Cherry Wizard" plugin. Click <b>Begin installation</b> in the notification box that has appeared. </p>
+<p>Click <strong>Activate</strong> under the "Cherry Wizard" plugin. Click <b>Begin installation</b> in the popup notification box. </p>
 
 <figure class="img-polaroid">
 	<img src="img/wordpress/1License_input.png" alt="">
@@ -26,7 +26,7 @@
 </ol>
 
 <h4>Downloading and installing framework and plugins</h4>
-<p>Cherry Wizard will automatically install all required plugins. In case there are incompatibilities with server recommended settings, you will see the following notification:</p>
+<p>Cherry Wizard will automatically install all required plugins. In case, there are incompatibilities with server recommended settings, you will see the following notification:</p>
 <figure class="img-polaroid"><img src="img/wordpress/1warning_notice.png" alt=""></figure>
 <p>This message shows your current hosting server settings and recommended ones. Please contact your hosting to make your server compatible with Cherry Plugins. </p>
 <p>You can check the installation details of each plugin and component during the installation process.</p>
@@ -41,6 +41,6 @@
 
 <p>If you choose installation from cloud, the installation process will begin.</p>
 <figure class="img-polaroid"><img src="img/wordpress/1sample-media.png" alt=""></figure>
-<p>Once all media files are downloaded, you will proceed to installing database files.</p>
+<p>Once all media files are downloaded, you can proceed to installing database files.</p>
 <figure class="img-polaroid"><img src="img/wordpress/1sample-media-step.png" alt=""></figure>
 <figure class="img-polaroid"><img src="img/wordpress/1sample-data-install.png" alt=""></figure>

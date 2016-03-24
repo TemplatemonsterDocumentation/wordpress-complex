@@ -15,7 +15,7 @@
     <li>Upload the Cherry Framework 4 package.</li>
 </ol>
 
-<div class="alert alert-warning">Please make sure Cherry Framework 4 archive is named 'cherryframework4.zip'</div>
+<div class="alert alert-warning">Please make sure that Cherry Framework 4 archive is named 'cherryframework4.zip'</div>
 
 <h4>Install Cherry Theme</h4>
 
@@ -25,7 +25,7 @@
     </li>
     <li>Open the WordPress admin panel and go to "<b>Appearance -> Themes</b>."</li>
     <li>Upload the Cherry theme package.</li>
-    <li>Activate Cherry theme.</li>
+    <li>Activate the Cherry theme.</li>
 </ol>
 
 <p>
@@ -43,7 +43,7 @@
     </li>
     <li>Log into the WordPress dashboard (add /wp-admin after the domain name in the browser address bar).</li>
     <li>Click <strong>Appearance</strong> > <strong>Themes</strong> .</li>
-    <li>Then click <strong>Available Themes</strong>, find <strong>theme####</strong> and activate it clicking the
+    <li>Then click <strong>Available Themes</strong>, find <strong>theme####</strong> and activate it by clicking the
         <strong>Activate</strong> button.
     </li>
 </ol>
@@ -51,11 +51,11 @@
 <h4>Install Cherry Plugins</h4>
 
 <p>
-    To make a Cherry based website fully functional, you need to install all the required plugins. Plugins provide
+    To make a Cherry based website fully functional, you need to install all the required plugins. The plugins provide
     additional functionality to the default WordPress engine.
 </p>
 <ol class="index-list">
-    <li>Under <b>Appearance -> Themes</b> you will see a warning saying that your theme requires certain plugins to be installed for its proper working. Click on <b>Begin Installing Plugins</b>.</li>
+    <li>Under <b>Appearance -> Themes</b> you will see a warning notification saying that your theme requires certain plugins to be installed for its proper performance. Click on <b>Begin Installing Plugins</b>.</li>
     <li>Check all the plugins and select Install in the drop-down menu. Click <b>Apply</b>.</li>
     <li>Wait until the installation is complete.</li>
     <li>Activate plugins.</li>
@@ -99,7 +99,7 @@
 <figure class="img-polaroid"><img src="img/cherryframework/sample_data_import_import.jpg" alt=""></figure>
 
 <p>
-    If all files are uploaded, you'll be able to Continue Installation.
+    If all files are uploaded successfully, you'll be able to Continue Installation.
 </p>
 
 <figure class="img-polaroid"><img src="img/cherryframework/sample_data_import_upload.jpg" alt=""></figure>
@@ -115,7 +115,7 @@
 <figure class="img-polaroid"><img src="img/cherryframework/sample_data_import_install.jpg" alt=""></figure>
 
 <p>
-    When the installation process is done, you can view your website. It should be as at the live demo.
+    When the installation process is complete, you can preview your website. It should be as on the live demo.
 </p>
 
 
@@ -134,4 +134,4 @@
     <li>Now you can import this file through <strong>phpMyAdmin</strong> or another database management tool.</li>
 </ol>
 
-<p><strong>Congratulations, now you have completely installed Cherry Theme.</strong></p>
+<p><strong>Congratulations, now you have completely installed the Cherry Theme.</strong></p>

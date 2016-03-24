@@ -13,7 +13,7 @@
 <figure class="img-polaroid"><img src="img/wordpress/cat1.png" alt=""></figure>
 
 <p>
-    You can check detailed information about adding categories at
+    You can check the detailed information about adding categories at
     <a href="http://codex.wordpress.org/Manage_Categories_SubPanel">
         http://codex.wordpress.org/Manage_Categories_SubPanel
     </a>

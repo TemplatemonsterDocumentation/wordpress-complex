@@ -11,7 +11,7 @@
             <img src="img/cherryframework/landing_navigation_anchor.png" alt="" style="opacity: 1;">
         </figure>
     </li>
-    <li>When you are done adding page content, go to <b>Cherry Options</b></li>
+    <li>When you are done with adding page content, go to <b>Cherry Options</b></li>
     <li>
         <p>In <b>General</b> section find <b>Lading Page</b> option. Select your recently created page to serve as
            landing page</p>

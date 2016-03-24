@@ -1,6 +1,6 @@
 <h3>Media</h3>
 
-<h4>Banner</h4>
+<h4>Banners</h4>
 
 <p>Displays banner</p>
 
@@ -34,7 +34,7 @@
     <li><strong>Authors:</strong> – coma-separated list of authors</li>
     <li><strong>Offset:</strong> – indent value</li>
     <li><strong>Order:</strong> – ascending/descending order</li>
-    <li><strong>Order by:</strong> – order by one of parameters</li>
+    <li><strong>Order by:</strong> – order by one of the parameters</li>
     <li><strong>Post parent:</strong> – parent container can be set in this field</li>
     <li><strong>Post status:</strong> – display posts with specific status only</li>
     <li><strong>Ignore sticky:</strong> – defines whether ignore sticky posts or not</li>

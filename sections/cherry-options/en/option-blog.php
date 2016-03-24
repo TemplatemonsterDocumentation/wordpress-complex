@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Content Part length</dt>
             <dd>
-                Specify number of words displayed in blog listing content part. Will not work if post has an excerpt.
+                Specify the number of words displayed in blog listing content part. Will not work if post has an excerpt.
             </dd>
         </dl>
     </li>
@@ -61,7 +61,7 @@
         <dl class="inline-term">
             <dt>More button label</dt>
             <dd>
-                Specify read more button label text.
+                Specify read the "More" button label text.
             </dd>
         </dl>
     </li>
@@ -80,7 +80,7 @@
 <h4>Blog > Layout</h4>
 
 <div class="alert alert-info">
-        Attention, if you want to configure "Blog layout" option, you must have installed plugin - "<a href="index.php?lang=en&section=cherry-plugins#blog-layouts">Cherry Blog Layouts</a>"
+        Attention! If you want to configure "Blog layout" option, you must have the <a href="index.php?lang=en&section=cherry-plugins#blog-layouts">"Cherry Blog Layouts"</a> plugin installed.
 </div>
 
 
@@ -236,7 +236,7 @@
 <h4>Blog > Meta</h4>
 
 <div class="alert alert-info">
-        Attention, if you want to configure "Additional post meta" option, you must have installed plugin - "<a href="index.php?lang=en&section=cherry-plugins#blog-layouts">Cherry Blog Layouts</a>"
+        Attention! If you want to configure "Additional post meta" option, you must have the plugin - <a href="index.php?lang=en&section=cherry-plugins#blog-layouts">"Cherry Blog Layouts"</a> istalled.
 </div>
 
 

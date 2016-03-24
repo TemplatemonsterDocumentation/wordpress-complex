@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+h1 {
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff; }
+
+h2 {
+  color: #3ca4bf;
+  font-family: "Roboto", sans-serif; }
+
+h3 {
+  color: #141414;
+  font-family: "Roboto", sans-serif; }
+
+h4 {
+  color: #3ca4bf; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% top; } }
+
+.rd-mobilepanel {
+  background-color: #2b2b2b;
+  background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px top; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/dailysports/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 50px;
+  font-weight: 400;
+  text-transform: uppercase;
+  top: 136px; }
+
+.tm-title-caption {
+  top: 212px;
+  font-family: "Roboto", sans-serif;
+  color: #3ca4bf;
+  line-height: 36px;
+  width: 481px; }
+
+.rd-mobilemenu .logo {
+  background-color: #141414; }
+
+.toTop {
+  background-color: #141414; }
+  .toTop:hover {
+    background: #474747; }

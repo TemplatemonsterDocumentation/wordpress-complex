@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Content Part length</dt>
             <dd>
-                Specify number of words displayed in blog listing content part. Will not work if post has an excerpt.
+                Specify the number of words displayed in blog listing content part. Will not work if post has an excerpt.
             </dd>
         </dl>
     </li>
@@ -61,7 +61,7 @@
         <dl class="inline-term">
             <dt>More button label</dt>
             <dd>
-                Specify read more button label text. 
+                Specify the "Read More" button label text. 
             </dd>
         </dl>
     </li>
@@ -194,7 +194,7 @@
         <dl class="inline-term">
             <dt>Grid type</dt>
             <dd>
-                Select layout pattern for pages with custom blog layout. Wide layout will fit window width. Boxed layout will have fixed width.
+                Select layout pattern for pages with custom blog layout. Wide layout will fit for window width. Boxed layout will have fixed width.
             </dd>
         </dl>
     </li>

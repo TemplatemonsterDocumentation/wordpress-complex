@@ -1,11 +1,11 @@
 <h2>Introduction</h2>
-<h5>Thank you for purchasing a WordPress template. This documentation consists of several parts and covers the entire process of installing and setting up a WordPress website starting from scratch.</h5>
+<h5>Thank you for purchasing a WordPress template. This documentation consists of several parts and covers the entire process of installing and setting up a WordPress website from scratch.</h5>
 <article id="whatiswordpress">
     <h3>What is WordPress CMS?</h3>
 
     <p>WordPress is a free open-source blogging tool and content management system (CMS) based on PHP and MySQL. With
     its help you can create and administrate websites or powerful on-line applications without possessing any special
-    technical skills or knowledge. Due to its ease of use and flexibility WordPress has become the most popular
+    technical skills. Due to the ease of use and flexibility WordPress has become the most popular
     platform for website development.
     <a href="http://wordpress.org/about/" target="_blank">Learn More</a>
     </p>
@@ -97,6 +97,19 @@
                             </dd>
                         </dl>
                     </li>
+                    <?php if ($project == 'fairystyle') { ?>
+                        <li>
+                            <dl class="inline-term">
+                                <dt>
+                                    <i class="fa fa-folder"></i> <strong>plugins</strong>
+                                </dt>
+                                <dd>
+                                    contains custom plugins from TemplateMonster.
+                                </dd>
+                            </dl>
+                        </li>
+
+                    <?php } ?>
                     <li>
                         <dl class="inline-term">
                             <dt>
@@ -127,21 +140,21 @@
 </article>
 <article id="preparation">
     <h3>Preparation</h3>
-    <h6>Before installing a WordPress website, you need to get fully prepared. We recommend that you get the following aspects covered:</h6>
+    <h6>Before installing a WordPress website, you need to get fully prepared. We recommend you to get the following aspects covered:</h6>
 
     <h4>Software</h4>
-    <p>Before you even start working with the WordPress template, you should download the required software. You can check the required software on the template preview page.<br>
-    Requirements can alter from template to template, so we will list the most important ones:</p>
+    <p>Before you start working with the WordPress template, you should download the required software. You can check the required software on the template preview page.<br>
+    The requirements can alter from template to template, so we will list the most important ones:</p>
     <ol class="index-list">
     	<li>First of all, you will need the right software to extract files from the password protected sources_#########.zip archive. You can use WinZip 9 or a later version (if you have Windows OS) or Stuffit Expander 10 or a later version (if you have Mac OS).</li>
     	<li>You might also need Adobe Photoshop. It is used to edit the source .PSD files in case you need to change the graphic design and images of the template.</li>
-    	<li>To edit the template source code, you can use code editors like Adobe Dreamweaver, Notepad++, Sublime Text, etc.</li>
-    	<li>To upload files to a hosting server, you will need an FTP manager like Total Commander, FileZilla, CuteFTP, etc.</li>
+    	<li>To edit the source code of the template, you can use code editors like Adobe Dreamweaver, Notepad++, Sublime Text, etc.</li>
+    	<li>To upload the files to a hosting server, you will need an FTP manager like Total Commander, FileZilla, CuteFTP, etc.</li>
     </ol>
 
     	<h4>Hosting</h4>
-    	<p>As WordPress CMS is a PHP/MySQL platform, you need to have the hosting server prepared for it.</p>
-    	<p>In case you already have a hosting server, you need to check whether it is compatibile with <a href="http://wordpress.org/about/requirements/" target="_blank"> WordPress hosting requirements </a>, in other words, whether you can host a WordPress website with it.</p>
+    	<p>Since WordPress CMS is a PHP/MySQL platform, you need to have the hosting server prepared for it.</p>
+    	<p>In case you already have a hosting server, you need to check whether it is compatibile with <a href="http://wordpress.org/about/requirements/" target="_blank"> WordPress hosting requirements </a> or not. In other words, whether you can host a WordPress website with it.</p>
 
     	<p>Cherry Framework itself requires Apache or Nginx hosting servers with the following configuration settings:</p>
 
@@ -180,7 +193,7 @@
     		<li>suPHP</li>
     	</ol>
 
-    	<p>You can also install WordPress on your PC or laptop through a local server. You can use the next software to create a local server: <strong>WAMP</strong>, <strong>AppServ</strong>, <strong>MAMP</strong>, etc. All of these support WordPress and can be installed as regular software.</p>
+    	<p>You can also install WordPress on your PC or laptop through a local server. You can use the following software to create a local server: <strong>WAMP</strong>, <strong>AppServ</strong>, <strong>MAMP</strong>, etc. All of these support WordPress and can be installed as regular software.</p>
     	<p>These tutorials will help you set up the local server:</p>
     	<ul class="marked-list">
     		<li><a href="http://www.templatemonster.com/help/how-to-install-appserv-web-development-environment.html" target="_blank">How to install AppServ web development environment</a></li>
