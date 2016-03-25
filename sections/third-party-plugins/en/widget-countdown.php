@@ -3,7 +3,7 @@
 <p>WordPress <a href="https://wordpress.org/plugins/homepage-pop-up/" target="_blank">Countdown plugin</a> is an nice tool to create and insert countdown timers into your posts/pages and widgets. </p>
 
 <p>Our WordPress Countdown plugin allow website owners to create nice and functional Countdown timer just in a few minutes. This is the best way to create beautiful Countdown for your users. You can use our Countdown timer in your posts/pages and widgets. It's very easy to use and there isn't any need of coding knowledge for creating Countdowns.</p>
-	
+
 <h4>Installing WordPress Countdown plugin</h4>
 
 <ol class="index-list">
@@ -34,7 +34,7 @@
 			<dl class="inline-term">
 				<dt>Second field text - Type here Second field text.</dt>
 			</dl>
-		</li>	
+		</li>
 		<li>
 			<dl class="inline-term">
 				<dt>Countdown expire time - Type the Countdown expire time.</dt>
@@ -117,5 +117,5 @@
 
 </ul>
 <figure class="img-polaroid">
-	<img src="img/cherryframework/third-party-plugins/homepage-popup.png" alt="">
+	<img src="img/third-party-plugins/homepage-popup.png" alt="">
 </figure>

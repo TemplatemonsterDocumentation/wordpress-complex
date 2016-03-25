@@ -1,7 +1,7 @@
 <h3>MailChimp for WordPress</h3>
 
 <p><a href="https://wordpress.org/plugins/mailchimp-for-wp/" target="_blank">MailChimp for WordPress</a> plugin helps you add subscribers to your MailChimp lists using various methods. You can create compeling opt-in forms or integrate with any other form on your site, like your comment form or WooCommerce checkout.</p>
-	
+
 <h4>Installing MailChimp for WordPress Lite</h4>
 
 <p>Like other free WordPress plugins, installing the MailChimp for WordPress Lite plugin is quite easy as well. All you need is a MailChimp account and a self-hosted website.</p>
@@ -13,7 +13,7 @@
 	<li><p>Set your <a href="https://login.mailchimp.com/?referrer=%2Faccount%2Fapi%2F" target="_blank">MailChimp API key</a> in the plugin settings.</p></li>
 </ol>
 <figure class="img-polaroid">
-	<img src="img/cherryframework/third-party-plugins/mailchimp-1.png" alt="">
+	<img src="img/third-party-plugins/mailchimp-1.png" alt="">
 </figure>
 
 <h4>Checkbox Settings</h4>
@@ -42,7 +42,7 @@
 			<dl class="inline-term">
 				<dt>Add the checkbox to these forms</dt>
 				<dd>
-					Selecting a form will automatically add the sign-up checkbox to it. 
+					Selecting a form will automatically add the sign-up checkbox to it.
 				</dd>
 			</dl>
 		</li>
@@ -72,7 +72,7 @@
 		</li>
 	</ul>
 	<figure class="img-polaroid">
-		<img src="img/cherryframework/third-party-plugins/mailchimp-2.png" alt="">
+		<img src="img/third-party-plugins/mailchimp-2.png" alt="">
 	</figure>
 
 
@@ -217,5 +217,5 @@
 	</ul>
 
 	<figure class="img-polaroid">
-		<img src="img/cherryframework/third-party-plugins/mailchimp-3.png" alt="">
+		<img src="img/third-party-plugins/mailchimp-3.png" alt="">
 	</figure>

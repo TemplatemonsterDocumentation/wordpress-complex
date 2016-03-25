@@ -145,10 +145,6 @@
 			}
 		],
 		"blogetti": [],
-		"cherryframework4": [],
-		"monstroid": [],
-		"wordpress": [],
-		"woocommerce": [],
 		"fitnesys": [
 			{
 				"id": "cherry-sidebar-manager",
@@ -231,7 +227,7 @@
 					"ru": "WordPress Importer"
 				}
 			}
-		],	
+		],
 		"fairystyle": [
 			{
 				"id": "cherry-sidebar-manager",
@@ -261,7 +257,7 @@
 					"ru": "WordPress Importer"
 				}
 			}
-		],	
+		],
 		"dailysports": [
 			{
 				"id": "cherry-sidebar-manager",

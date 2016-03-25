@@ -23,30 +23,6 @@
 		"titleCaption": "Slow-Cooker Alabamian",
 		"author": ""
 	},
-	"cherryframework4": {
-		"textLogo": "",
-		"title": "Cherry4 ",
-		"titleCaption": "WordPress Framework",
-		"author": ""
-	},
-	"wordpress": {
-		"textLogo": "<span>WordPress</span>",
-		"title": "WordPress",
-		"titleCaption": "Documentation v4-0",
-		"author": ""
-	},
-	"monstroid": {
-		"textLogo": "<span>Monstroid</span><small>premium theme</small>",
-		"title": "Monstroid Premium Theme Documentation",
-		"titleCaption": "",
-		"author": ""
-	},
-	"woocommerce": {
-		"textLogo": "",
-		"title": "WooCommerce Themes Documentation Cherry Framework v4-0",
-		"titleCaption": "",
-		"author": ""
-	},
 	"fitnesys": {
 		"author": "kirk",
 		"textLogo": "",

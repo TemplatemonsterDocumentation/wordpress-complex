@@ -1,12 +1,4 @@
 {
-	"cherryframework4": [
-		"introduction",
-		"posts-categories",
-		"cherry-options",
-		"static-area-builder",
-		"shortcodes",
-		"cherry-plugins"
-	],
 	"wildride": [
 		"introduction",
 		"template-installation",
@@ -51,47 +43,6 @@
 		"basic-configuration",
 		"customizer-settings"
 	],
-	"monstroid": [
-		"introduction",
-		"template-installation",
-		"header",
-		"footer",
-		"pages",
-		"portfolio",
-		"blog",
-		"shop",
-		"posts-categories",
-		"cherry-options",
-		"static-area-builder",
-		"shortcodes",
-		"cherry-plugins",
-		"third-party-plugins",
-		"extras",
-		"tricks"
-	],
-	"wordpress": [
-		"introduction",
-		"template-installation",
-		"posts-categories",
-		"cherry-options",
-		"static-area-builder",
-		"shortcodes",
-		"cherry-plugins",
-		"third-party-plugins",
-		"extras"
-	],
-	"woocommerce": [
-		"introduction",
-		"template-installation",
-		"posts-categories",
-		"cherry-options",
-		"static-area-builder",
-		"shortcodes",
-		"cherry-plugins",
-		"third-party-plugins",
-		"extras",
-		"woocommerce-recommended"
-	],
 	"fitnesys": [
 		"introduction",
 		"template-installation",
@@ -113,7 +64,7 @@
 		"widgets",
 		"plugins",
 		"third-party-plugins",
-		"extras"		
+		"extras"
 	],
 	"kustrix": [
 		"introduction",
@@ -125,7 +76,7 @@
 		"widgets",
 		"plugins",
 		"third-party-plugins",
-		"extras"		
+		"extras"
 	],
 	"fairystyle": [
 		"introduction",

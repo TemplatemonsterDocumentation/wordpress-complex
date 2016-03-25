@@ -1,9 +1,9 @@
 <h2>WPML configuration</h2>
 
 <h5><a href="https://wpml.org/?aid=101280&affiliate_key=xc4iaSr81jkL" target="_blank">WPML</a> consists of several modules. The basic module turns WordPress sites into multilingual. Other modules help with an enhanced translation process, string translation, media translation and other functions.</h5>
-    
+
 <p>You can learn about the different modules on the <a href="http://wpml.org/documentation/wpml-core-and-add-on-plugins/" target="_blank"><strong>WPML Core and Addons</strong></a> page.</p>
-    
+
 <p>After you enable <a href="https://wpml.org/?aid=101280&affiliate_key=xc4iaSr81jkL" target="_blank">WPML</a>, you’ll see a Multilingual Widget in the Admin Dashboard. This widget provides access to the different functions in <a href="https://wpml.org/?aid=101280&affiliate_key=xc4iaSr81jkL" target="_blank">WPML</a>. You can also access them through the <strong><a href="https://wpml.org/?aid=101280&affiliate_key=xc4iaSr81jkL" target="_blank">WPML</a> menu</strong>.</p>
 
 <ul class="marked-list">
@@ -13,19 +13,20 @@
 	<li><a href="http://wpml.org/documentation/getting-started-guide/sticky-links/" target="_blank">Sticky links</a> – This is an essential function for running websites powered by WordPress. It guarantees that the links between pages can will never be broken.</li>
 </ul>
 
-<figure class="img-polaroid"><img src="img/monstroid/wpml-1.jpg" alt=""></figure>
-<figure class="img-polaroid"><img src="img/monstroid/wpml-2.jpg" alt=""></figure>
+<figure class="img-polaroid"><img src="img/third_party_plugins/wpml-1.jpg" alt=""></figure>
+<figure class="img-polaroid"><img src="img/third_party_plugins/wpml-2.jpg" alt=""></figure>
+
 
 <h4>Translating Site Content</h4>
 
 <p><a href="https://wpml.org/?aid=101280&affiliate_key=xc4iaSr81jkL" target="_blank">WPML</a> creates different posts, pages and custom types for translations and connects them together. This means that every page has its own title, body and meta-fields.</p>
-    
+
 <p><a href="https://wpml.org/?aid=101280&affiliate_key=xc4iaSr81jkL" target="_blank">WPML</a> offers two ways for content translation :</p>
 <ul class="marked-list">
 	<li>Manually, by clicking on the + icons</li>
 	<li>Using <a href="https://wpml.org/?aid=101280&affiliate_key=xc4iaSr81jkL" target="_blank">WPML</a>’s Translation Management module</li>
 </ul>
-        
+
 <h4>Translation Dashboard</h4>
 
-<figure class="img-polaroid"><img src="img/monstroid/wpml-dashboard.jpg" alt=""></figure>
+<figure class="img-polaroid"><img src="img/third_party_plugins/wpml-dashboard.jpg" alt=""></figure>

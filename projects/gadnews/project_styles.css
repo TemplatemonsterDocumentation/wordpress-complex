@@ -48,7 +48,6 @@ body:not([data-section="introduction"]) .tm-title-caption {
 .tm-title-caption {
   font-size: 32px;
   top: 210px;
-  font-family: "Merriweather", serif;
   color: #333870;
   line-height: 46px;
   width: 400px;

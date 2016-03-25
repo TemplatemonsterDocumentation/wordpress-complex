@@ -1,7 +1,7 @@
 <h3>Homepage Pop-up</h3>
 
 <p><a href="https://wordpress.org/plugins/homepage-pop-up/" target="_blank">Homepage Pop-up</a> plugin for adding a simple jquery pop-up on the home page. Add a title and an important information on your home page without getting blocked any by A.</p>
-	
+
 <h4>Installing Homepage Pop-up plugin</h4>
 
 <ol class="index-list">
@@ -34,5 +34,5 @@
 		</li>
 </ul>
 <figure class="img-polaroid">
-	<img src="img/cherryframework/third-party-plugins/homepage-popup.png" alt="">
+	<img src="img/third-party-plugins/homepage-popup.png" alt="">
 </figure>

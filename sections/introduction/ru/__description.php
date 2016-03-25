@@ -15,128 +15,125 @@
     <h3>Структура шаблона</h3>
     <p>Приобретенный комплект шаблона состоит из нескольких папок. Проверим содержимое каждой папки:</p>
 
-    <ul class="files_structure">
-    <li>
-        <dl class="inline-term">
-            <dt><i class="fa fa-folder"></i> <strong>documentation</strong></dt>
-            <dd> содержит файлы документации.</dd>
-        </dl>
-        <ul>
-            <li>
-                <dl class="inline-term">
-                    <dt><i class="fa fa-file"></i> <strong>documentation.html</strong></dt>
-                    <dd> основной файл документации. Вы его сейчас читаете :)</dd>
-                </dl>
-            </li>
-        </ul>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt><i class="fa fa-folder"></i> <strong>screenshots</strong></dt>
-            <dd>  содержит скриншоты шаблона. Для работы с шаблоном они не требуются.</dd>
-        </dl>
-    </li>    
-    <li>
-        <dl class="inline-term">
-            <dt><i class="fa fa-folder"></i> <strong>sources.zip</strong></dt>
-            <dd> содержит исходные файлы темы.</dd>
-        </dl>
-        <ul>
-            <li>
-                <dl class="inline-term">
-                    <dt><i class="fa fa-folder"></i> <strong>psd</strong></dt>
-                    <dd> исходные файлы шаблона для Adobe Photoshop(.psd).</dd>
-                </dl>
-            </li>
-        </ul>
-    </li>
+<ul class="files_structure">
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-folder"></i> <strong>screenshots</strong></dt>
+                <dd> contains screen-shots of the template. However, they are not required to edit the template.</dd>
+            </dl>
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-folder"></i> <strong>theme</strong></dt>
+                <dd> contains WordPress theme files.</dd>
+            </dl>
+            <ul>
+                <li>
+                    <dl class="inline-term">
+                        <dt>
+                            <i class="fa fa-folder"></i> <strong>theme-name.zip</strong>
+                        </dt>
+                        <dd>
+                            archive with the theme (child theme). Contains all theme files.
+                            It must be installed through WordPress extension manager.
+                        </dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl class="inline-term">
+                        <dt>
+                            <i class="fa fa-folder"></i> <strong>sample_data</strong>
+                        </dt>
+                        <dd>
+                            contains the files that make the WordPress website look like our live
+                            demo.
+                        </dd>
+                    </dl>
 
-
-    <li>
-        <dl class="inline-term">
-            <dt><i class="fa fa-folder"></i> <strong>theme</strong></dt>
-            <dd> содержит файлы темы WordPress.</dd>
-        </dl>
-        <ul>
-            <li>
-                <dl class="inline-term">
-                    <dt><i class="fa fa-file"></i> <strong>CherryFramework.zip</strong></dt>
-                    <dd> архив с темой Cherry Framework. Включает все файлы темы. Необходимо устанавливать через менеджер расширений WordPress.</dd>
-                </dl>
-            </li>
-            <li>
-                <dl class="inline-term">
-                    <dt><i class="fa fa-file"></i> <strong>theme####.zip</strong></dt>
-                    <dd> архив с темой (дочерняя тема). Содержит все файлы темы. Необходимо устанавливать через менеджер расширений WordPress.</dd>
-                </dl>
-            </li>
-             <li>
-                <dl class="inline-term">
-                    <dt><i class="fa fa-folder"></i> <strong>sample_data</strong></dt>
-                    <dd> включает все демо-данные шаблона (записи, страницы, категории и т.п.).</dd>
-                </dl>
                     <ul>
                         <li>
                             <dl class="inline-term">
-                                <dt><i class="fa fa-file"></i> <strong>sample_data.xml</strong></dt>
-                                <dd> включает все демо-данные шаблона (записи, страницы, категории и т.п.).</dd>
+                                <dt>
+                                    <i class="fa fa-file"></i> <strong>content.xml</strong>
+                                </dt>
+                                <dd>
+                                    contains all template sample data (posts, pages, categories, etc).
+                                </dd>
                             </dl>
                         </li>
                         <li>
                             <dl class="inline-term">
-                                <dt><i class="fa fa-file"></i> <strong>widgets.json</strong></dt>
-                                <dd> файл настроек виджетов.</dd>
-                            </dl>
-                        </li>
-                        <li>
-                            <dl class="inline-term">
-                                <dt><i class="fa fa-file"></i> <strong>различные изображения и другие медиа файлы</strong></dt>
+                                <dt>
+                                    <i class="fa fa-file"></i> <strong>widgets.wie</strong>
+                                </dt>
+                                <dd>
+                                    contains widgets settings.
+                                </dd>
                             </dl>
                         </li>
                     </ul>
-            </li>
-            
-            <li>
-                <dl class="inline-term">
-                    <dt><i class="fa fa-folder"></i> <strong>manuall_install</strong></dt>
-                    <dd> содержит файлы, которые используются для того чтобы сделать сайт WordPress таким же, как наше демо.</dd>
-                </dl>
+                </li>
+                <li class="folder">
+                    <dl class="inline-term">
+                        <dt>
+                            <i class="fa fa-folder"></i> <strong>manual_install</strong>
+                        </dt>
+                        <dd>
+                            contains files that make the WordPress website look like our live demo.
+                        </dd>
+                    </dl>
+
                     <ul>
-                         <li> 
+                        <li>
                             <dl class="inline-term">
-                                <dt><i class="fa fa-folder"></i> <strong>uploads</strong></dt>
-                                    <dd>содержит изображения темы</dd>
+                                <dt>
+                                    <i class="fa fa-folder"></i> <strong>uploads</strong>
+                                </dt>
+                                <dd>
+                                    contains theme images.
+                                </dd>
                             </dl>
                         </li>
-                        <li> 
+                        <?php if ($project == 'fairystyle') { ?>
+                            <li>
+                                <dl class="inline-term">
+                                    <dt>
+                                        <i class="fa fa-folder"></i> <strong>plugins</strong>
+                                    </dt>
+                                    <dd>
+                                        contains custom plugins from TemplateMonster.
+                                    </dd>
+                                </dl>
+                            </li>
+
+                        <?php } ?>
+                        <li>
                             <dl class="inline-term">
-                                <dt><i class="fa fa-file"></i> <strong>theme#####.sql</strong></dt>
-                                    <dd>файл базы данных (вмещает контент темы).</dd>
+                                <dt>
+                                    <i class="fa fa-file"></i> <strong>theme-name.sql</strong>
+                                </dt>
+                                <dd>
+                                    database file (contains theme content).
+                                </dd>
                             </dl>
                         </li>
                     </ul>
-            </li>    
-        </ul>
-    </li>
-    <li> 
-        <dl class="inline-term">
-            <dt><i class="fa fa-file"></i> <strong>license.txt</strong></dt>
-                <dd>файл с информацией о лицензии.</dd>
-           </dl>
-    </li>
-    <li> 
-        <dl class="inline-term">
-            <dt><i class="fa fa-file"></i> <strong>fonts_info.txt</strong></dt>
-                <dd>файл со ссылками на скачку шрифтов, используемых в шаблоне.</dd>
-           </dl>
-    </li>
-    <li> 
-        <dl class="inline-term">
-            <dt><i class="fa fa-file"></i> <strong>info.txt</strong></dt>
-                <dd>инструкции по разархивированию исходных файлов.</dd>
-           </dl>
-    </li>
-</ul>    
+                </li>
+            </ul>
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-file"></i> <strong>documentation.txt</strong></dt>
+                <dd> contains documentation link information.</dd>
+            </dl>
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-file"></i> <strong>info.txt</strong></dt>
+                <dd> instructions on how to extract source files.</dd>
+            </dl>
+        </li>
+    </ul>
 
 
 
@@ -147,7 +144,7 @@
     <h6>Прежде чем перейти к установке веб-сайта WordPress, нужно полностью подготовиться. Рекомендуется выполнить следующие подготовительные шаги:</h6>
 
     <h4>Программное обеспечение</h4>
-    <p>Для полноценной работы с шаблоном WordPress мы рекомендуем скачать все требуемые приложения. Список необходимого программного обеспечения находится на странице предпросмотра шаблона. 
+    <p>Для полноценной работы с шаблоном WordPress мы рекомендуем скачать все требуемые приложения. Список необходимого программного обеспечения находится на странице предпросмотра шаблона.
 Требования для различных шаблонов могут меняться, поэтому мы перечислим самые основные:</p>
     <ol class="index-list">
     	<li>Прежде всего нужны правильные приложения для распаковывания защищенного паролем архива sources_#########.zip. Можно воспользоваться WinZip 9+ (Windows) и Stuffit Expander 10+ (Mac).</li>
@@ -160,7 +157,7 @@
     	<p>Поскольку WordPress CMS является приложением PHP/MySQL, необходимо подготовить хостинг сервер.</p>
     	<p>In case you already have a hosting server, you need to check whether it is compatibile with <a href="http://wordpress.org/about/requirements/" target="_blank"> WordPress hosting requirements </a> or not. In other words, whether you can host a WordPress website with it.</p>
 
-    	<p>Cherry Framework itself requires Apache or Nginx hosting servers with the following configuration settings:</p>
+    	<p>Our Themes itself requires Apache or Nginx hosting servers with the following configuration settings:</p>
 
     	<h5>Recommended Configuration</h5>
 
@@ -185,7 +182,7 @@
 
     	<h5>PHP and MySQL</h5>
 
-    	<p>Minimal required version of PHP is 5.2.4 and MySQL 5. PHP 5.2 is already not safe as contains critical vulnerabilities that can be used to harm your website. Some Cherry Framework extensions will not work with PHP 5.2 and require version 5.4 or later.</p>
+    	<p>Minimal required version of PHP is 5.2.4 and MySQL 5. PHP 5.2 is already not safe as contains critical vulnerabilities that can be used to harm your website. Some theme extensions will not work with PHP 5.2 and require version 5.4 or later.</p>
 
     	<p>Recommended settings are: </p>
 

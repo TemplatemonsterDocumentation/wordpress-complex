@@ -19,123 +19,123 @@
     <p>The template package includes several folders. Let's check what's inside:</p>
 
     <ul class="files_structure">
-    <li>
-    	<dl class="inline-term">
-    		<dt><i class="fa fa-folder"></i> <strong>screenshots</strong></dt>
-    		<dd> contains screen-shots of the template. However, they are not required to edit the template.</dd>
-    	</dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt><i class="fa fa-folder"></i> <strong>theme</strong></dt>
-            <dd> contains WordPress theme files.</dd>
-        </dl>
-        <ul>
-            <li>
-                <dl class="inline-term">
-                    <dt>
-                        <i class="fa fa-folder"></i> <strong>theme-name.zip</strong>
-                    </dt>
-                    <dd>
-                        archive with the theme (child theme). Contains all theme files.
-                        It must be installed through WordPress extension manager.
-                    </dd>
-                </dl>
-            </li>
-            <li>
-                <dl class="inline-term">
-                    <dt>
-                        <i class="fa fa-folder"></i> <strong>sample_data</strong>
-                    </dt>
-                    <dd>
-                        contains the files that make the WordPress website look like our live
-                        demo.
-                    </dd>
-                </dl>
+        <li>
+        	<dl class="inline-term">
+        		<dt><i class="fa fa-folder"></i> <strong>screenshots</strong></dt>
+        		<dd> contains screen-shots of the template. However, they are not required to edit the template.</dd>
+        	</dl>
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-folder"></i> <strong>theme</strong></dt>
+                <dd> contains WordPress theme files.</dd>
+            </dl>
+            <ul>
+                <li>
+                    <dl class="inline-term">
+                        <dt>
+                            <i class="fa fa-folder"></i> <strong>theme-name.zip</strong>
+                        </dt>
+                        <dd>
+                            archive with the theme (child theme). Contains all theme files.
+                            It must be installed through WordPress extension manager.
+                        </dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl class="inline-term">
+                        <dt>
+                            <i class="fa fa-folder"></i> <strong>sample_data</strong>
+                        </dt>
+                        <dd>
+                            contains the files that make the WordPress website look like our live
+                            demo.
+                        </dd>
+                    </dl>
 
-                <ul>
-                    <li>
-                        <dl class="inline-term">
-                            <dt>
-                                <i class="fa fa-file"></i> <strong>content.xml</strong>
-                            </dt>
-                            <dd>
-                                contains all template sample data (posts, pages, categories, etc).
-                            </dd>
-                        </dl>
-                    </li>
-                    <li>
-                        <dl class="inline-term">
-                            <dt>
-                                <i class="fa fa-file"></i> <strong>widgets.wie</strong>
-                            </dt>
-                            <dd>
-                                contains widgets settings.
-                            </dd>
-                        </dl>
-                    </li>
-                </ul>
-            </li>
-            <li class="folder">
-                <dl class="inline-term">
-                    <dt>
-                        <i class="fa fa-folder"></i> <strong>manual_install</strong>
-                    </dt>
-                    <dd>
-                        contains files that make the WordPress website look like our live demo.
-                    </dd>
-                </dl>
-
-                <ul>
-                    <li>
-                        <dl class="inline-term">
-                            <dt>
-                                <i class="fa fa-folder"></i> <strong>uploads</strong>
-                            </dt>
-                            <dd>
-                                contains theme images.
-                            </dd>
-                        </dl>
-                    </li>
-                    <?php if ($project == 'fairystyle') { ?>
+                    <ul>
                         <li>
                             <dl class="inline-term">
                                 <dt>
-                                    <i class="fa fa-folder"></i> <strong>plugins</strong>
+                                    <i class="fa fa-file"></i> <strong>content.xml</strong>
                                 </dt>
                                 <dd>
-                                    contains custom plugins from TemplateMonster.
+                                    contains all template sample data (posts, pages, categories, etc).
                                 </dd>
                             </dl>
                         </li>
+                        <li>
+                            <dl class="inline-term">
+                                <dt>
+                                    <i class="fa fa-file"></i> <strong>widgets.wie</strong>
+                                </dt>
+                                <dd>
+                                    contains widgets settings.
+                                </dd>
+                            </dl>
+                        </li>
+                    </ul>
+                </li>
+                <li class="folder">
+                    <dl class="inline-term">
+                        <dt>
+                            <i class="fa fa-folder"></i> <strong>manual_install</strong>
+                        </dt>
+                        <dd>
+                            contains files that make the WordPress website look like our live demo.
+                        </dd>
+                    </dl>
 
-                    <?php } ?>
-                    <li>
-                        <dl class="inline-term">
-                            <dt>
-                                <i class="fa fa-file"></i> <strong>theme-name.sql</strong>
-                            </dt>
-                            <dd>
-                                database file (contains theme content).
-                            </dd>
-                        </dl>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt><i class="fa fa-file"></i> <strong>documentation.txt</strong></dt>
-            <dd> contains documentation link information.</dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt><i class="fa fa-file"></i> <strong>info.txt</strong></dt>
-            <dd> instructions on how to extract source files.</dd>
-        </dl>
-    </li>
+                    <ul>
+                        <li>
+                            <dl class="inline-term">
+                                <dt>
+                                    <i class="fa fa-folder"></i> <strong>uploads</strong>
+                                </dt>
+                                <dd>
+                                    contains theme images.
+                                </dd>
+                            </dl>
+                        </li>
+                        <?php if ($project == 'fairystyle') { ?>
+                            <li>
+                                <dl class="inline-term">
+                                    <dt>
+                                        <i class="fa fa-folder"></i> <strong>plugins</strong>
+                                    </dt>
+                                    <dd>
+                                        contains custom plugins from TemplateMonster.
+                                    </dd>
+                                </dl>
+                            </li>
+
+                        <?php } ?>
+                        <li>
+                            <dl class="inline-term">
+                                <dt>
+                                    <i class="fa fa-file"></i> <strong>theme-name.sql</strong>
+                                </dt>
+                                <dd>
+                                    database file (contains theme content).
+                                </dd>
+                            </dl>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-file"></i> <strong>documentation.txt</strong></dt>
+                <dd> contains documentation link information.</dd>
+            </dl>
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-file"></i> <strong>info.txt</strong></dt>
+                <dd> instructions on how to extract source files.</dd>
+            </dl>
+        </li>
     </ul>
 </article>
 <article id="preparation">
@@ -156,7 +156,7 @@
     	<p>Since WordPress CMS is a PHP/MySQL platform, you need to have the hosting server prepared for it.</p>
     	<p>In case you already have a hosting server, you need to check whether it is compatibile with <a href="http://wordpress.org/about/requirements/" target="_blank"> WordPress hosting requirements </a> or not. In other words, whether you can host a WordPress website with it.</p>
 
-    	<p>Cherry Framework itself requires Apache or Nginx hosting servers with the following configuration settings:</p>
+    	<p>Our theme itself requires Apache or Nginx hosting servers with the following configuration settings:</p>
 
     	<h5>Recommended Configuration</h5>
 
@@ -181,7 +181,7 @@
 
     	<h5>PHP and MySQL</h5>
 
-    	<p>Minimal required version of PHP is 5.2.4 and MySQL 5. PHP 5.2 is already not safe as contains critical vulnerabilities that can be used to harm your website. Some Cherry Framework extensions will not work with PHP 5.2 and require version 5.4 or later.</p>
+    	<p>Minimal required version of PHP is 5.2.4 and MySQL 5. PHP 5.2 is already not safe as contains critical vulnerabilities that can be used to harm your website. Some Theme extensions will not work with PHP 5.2 and require version 5.4 or later.</p>
 
     	<p>Recommended settings are: </p>
 

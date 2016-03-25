@@ -440,10 +440,6 @@
 				}
 			}
 		],
-		"cherryframework4": [],
-		"monstroid": [],
-		"wordpress": [],
-		"woocommerce": [],
 		"fitnesys": [
 		{
 				"id": "site-identity",
@@ -557,8 +553,8 @@
 					"ru": "Главаная траница"
 				}
 			}
-			],	
-		"stylepark": [
+			],
+			"stylepark": [
 			{
 				"id": "site-identity",
 				"translations": {
@@ -671,7 +667,7 @@
 					"ru": "Главаная траница"
 				}
 			}
-			],	
+			],
 		"kustrix": [
 			{
 				"id": "site-identity",

@@ -7,11 +7,11 @@
 <p>To add a new sidebar, go to the <strong>Appearance > Widgets</strong> section and click Create a new sidebar. </p>
 
 <figure class="img-polaroid">
-    <img src="img/cherryframework/plugins/sidebar_manager_start.png" alt="" style="opacity: 1;">
+    <img src="img/plugins/sidebar_manager_start.png" alt="" style="opacity: 1;">
 </figure>
 
 <figure class="img-polaroid">
-    <img src="img/cherryframework/plugins/sidebar_manager_new.png" alt="" style="opacity: 1;">
+    <img src="img/plugins/sidebar_manager_new.png" alt="" style="opacity: 1;">
 </figure>
 
 <p>
@@ -22,7 +22,7 @@
     <img src="projects/<?php echo $project;?>/img/plugins/sidebar-manager-add.png">
 </figure>
 <figure class="img-polaroid">
-    <img src="img/cherryframework/plugins/sidebar_manager_new_sidebar.png" alt="" style="opacity: 1;">
+    <img src="img/plugins/sidebar_manager_new_sidebar.png" alt="" style="opacity: 1;">
 </figure>
 
 <p>
