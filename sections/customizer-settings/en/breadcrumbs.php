@@ -37,7 +37,7 @@
         <dl class="inline-term">
             <dt>Enable page title in breadcrumbs area</dt>
             <dd>
-                Show page title in breadcrumbs
+                Show page title in breadcrumbs area
             </dd>
         </dl>
     </li>

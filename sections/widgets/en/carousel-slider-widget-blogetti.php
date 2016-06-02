@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Category</dt>
             <dd>
-                This property specifies a category to pull carousel slides from.
+                This property specifies a category to pull carousel slides from
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Tag</dt>
             <dd>
-                This property specifies a tag to pull carousel slides from.
+                This property specifies a tag to pull carousel slides from
             </dd>
         </dl>
     </li>
@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Items per view</dt>
             <dd>
-                This property specifies number of slides are visible at the same time on slider's container.
+                This property specifies the number of slides visible at the same time in the slider's container
             </dd>
         </dl>
     </li>
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Number of words</dt>
             <dd>
-                This property defines excerpt limit by choosing number of words from post's content.
+                This property defines the content words limit
             </dd>
         </dl>
     </li>

@@ -1,0 +1,98 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
+h1 {
+  font-family: "Arimo", sans-serif;
+  color: #000000; }
+
+h2 {
+  color: #9fdd7c; }
+
+h3 {
+  color: #000000; }
+
+h4 {
+  color: #9fdd7c; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #140d18;
+  background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/jewello/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 61px;
+  font-weight: 700;
+  top: 175px;
+  color: #ffffff; }
+
+.tm-title-caption {
+  font-size: 49px;
+  top: 268px;
+  font-family: "Arimo", sans-serif;
+  color: #ffffff;
+  line-height: 36px;
+  width: 500px; }
+
+.rd-mobilemenu .logo {
+  background-color: #ffffff; }
+
+.toTop {
+  background-color: #140d18; }
+  .toTop:hover {
+    background: #4b315a; }
+
+.bold_text {
+  font-weight: 600; }
+
+.it_text {
+  font-weight: 400;
+  font-style: italic; }
+
+@media (max-width: 1439px) {
+  .rd-mobilepanel_title {
+    top: 52px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 158px;
+    text-align: left; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 52px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 158px;
+    text-align: left; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 52px; }
+
+  .tm-title-caption {
+    width: 300px;
+    top: 158px; } }
+@media (max-width: 1900px) and (min-width: 1801px) {
+  .tm-title-caption {
+    width: 300px; } }

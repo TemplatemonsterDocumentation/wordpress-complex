@@ -1,0 +1,11 @@
+{
+	"id": "plugin_installation",
+	"translations": {
+		"en": "Plugin Installation",
+		"ru": "Установка Шаблона"
+	},
+	"articles": {
+		"tm-woocommerce": [
+		]
+	}
+}

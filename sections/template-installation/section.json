@@ -16,8 +16,15 @@
 			{
 				"id": "manual-install-blog-theme",
 				"translations": {
-					"en": "Theme Installation",
-					"ru": "Установка темы"
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
 				}
 			}
 		],
@@ -32,8 +39,15 @@
 			{
 				"id": "manual-install-blog-theme",
 				"translations": {
-					"en": "Theme Installation",
-					"ru": "Установка темы"
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
 				}
 			}
 		],
@@ -48,8 +62,15 @@
 			{
 				"id": "manual-install-blog-theme",
 				"translations": {
-					"en": "Theme Installation",
-					"ru": "Установка темы"
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
 				}
 			}
 		],
@@ -64,8 +85,135 @@
 			{
 				"id": "manual-install-blog-theme",
 				"translations": {
-					"en": "Theme Installation",
-					"ru": "Установка темы"
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"cherryframework4": [
+			{
+				"id": "cherry-wizard",
+				"translations": {
+					"en": "Automatic installation using <br> Cherry Wizard",
+					"ru": "Автоматическая установка через <br> Cherry Wizard"
+				}
+			},
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install",
+				"translations": {
+					"en": "Manual Installation",
+					"ru": "Ручная установка"
+				}
+			},
+			{
+				"id": "update-framework-plugins",
+				"translations": {
+					"en": "How to update Cherry Framework and Cherry Plugins",
+					"ru": "Как обновить Cherry Framework and Cherry плагины"
+				}
+			}
+		],
+		"monstroid": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress installation",
+					"ru": "Установка WordPress"
+				}
+			},
+			{
+				"id": "monstroid-wizard",
+				"translations": {
+					"en": "Automatic installation using <br> Monstroid Wizard",
+					"ru": "Автоматическая установка через <br> Monstroid Wizard"
+				}
+			},
+			{
+				"id": "manual-install",
+				"translations": {
+					"en": "Manual Installation",
+					"ru": "Ручная установка"
+				}
+			},
+			{
+				"id": "update-monstroid",
+				"translations": {
+					"en": "How to update Monstroid",
+					"ru": "Как обновить Monstroid"
+				}
+			}
+		],
+		"wordpress": [
+			{
+				"id": "cherry-wizard",
+				"translations": {
+					"en": "Automatic installation using <br> Cherry Wizard",
+					"ru": "Автоматическая установка через <br> Cherry Wizard"
+				}
+			},
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install",
+				"translations": {
+					"en": "Manual Installation",
+					"ru": "Ручная установка"
+				}
+			},
+			{
+				"id": "update-framework-plugins",
+				"translations": {
+					"en": "How to update Cherry Framework and Cherry Plugins",
+					"ru": "Как обновить Cherry Framework and Cherry плагины"
+				}
+			}
+		],
+		"woocommerce": [
+			{
+				"id": "cherry-wizard",
+				"translations": {
+					"en": "Automatic installation using <br> Cherry Wizard",
+					"ru": "Автоматическая установка через <br> Cherry Wizard"
+				}
+			},
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install",
+				"translations": {
+					"en": "Manual Installation",
+					"ru": "Ручная установка"
+				}
+			},
+			{
+				"id": "update-framework-plugins",
+				"translations": {
+					"en": "How to update Cherry Framework and Cherry Plugins",
+					"ru": "Как обновить Cherry Framework and Cherry плагины"
 				}
 			}
 		],
@@ -80,11 +228,18 @@
 			{
 				"id": "manual-install-blog-theme",
 				"translations": {
-					"en": "Theme Installation",
-					"ru": "Установка темы"
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
 				}
 			}
-		],
+		],	
 		"fitnesys": [
 			{
 				"id": "engine-installation",
@@ -96,8 +251,15 @@
 			{
 				"id": "manual-install-blog-theme",
 				"translations": {
-					"en": "Theme Installation",
-					"ru": "Установка темы"
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
 				}
 			}
 		],
@@ -112,8 +274,15 @@
 			{
 				"id": "manual-install-blog-theme",
 				"translations": {
-					"en": "Theme Installation",
-					"ru": "Установка темы"
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
 				}
 			}
 		],
@@ -128,8 +297,15 @@
 			{
 				"id": "manual-install-blog-theme",
 				"translations": {
-					"en": "Theme Installation",
-					"ru": "Установка темы"
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
 				}
 			}
 		],
@@ -144,8 +320,429 @@
 			{
 				"id": "manual-install-blog-theme",
 				"translations": {
-					"en": "Theme Installation",
-					"ru": "Установка темы"
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"weeklyjournal": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"globera": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"editorso": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"vegetexia": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"travelop": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"triptastic": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"wilson": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"cosmetro": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"bitnews": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"coffeera": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"jewello": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"bedentist": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"stylepark_tf": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"dailysports_tf": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"finestgame": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"sketchfield": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"clubstome": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"neurion": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
 				}
 			}
 		]

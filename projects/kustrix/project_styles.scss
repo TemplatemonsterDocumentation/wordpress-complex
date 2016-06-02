@@ -77,17 +77,27 @@ body:not([data-section="introduction"]) {
  .rd-mobilepanel_title {
 	font-size: 151px;
 	font-weight:400;
+	top:9px;
 }
 
 .tm-title-caption {
-	font-size: 44px;
-	top: 261px;
+	font-size: 40px;
+	top: 200px;
 	font-family: $secondary-font-family;
     color: $primary-color-light;
     line-height: 36px;
     width: 481px;
 }
-
+@media (max-width: 1600px) and (min-width: 1440px){
+	.tm-title-caption {	
+		width:220px;
+	}
+}
+@media (max-width: 1800px) and (min-width: 1601px){
+	.tm-title-caption {	
+		width:300px;
+	}
+}
 .rd-mobilemenu {
 	.logo{
 		background-color: $primary-color;
@@ -95,8 +105,8 @@ body:not([data-section="introduction"]) {
 }
 
 .toTop {
-	background-color: $primary-color;
+	background-color: $primary-color-second;
 	&:hover {
-    	background: lighten($primary-color, 20%);
+    	background: lighten($primary-color-light, 20%);
 	}
 }

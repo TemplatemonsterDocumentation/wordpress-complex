@@ -6,7 +6,7 @@
 <h4>Displaying a Form</h4>
 
 <p>Let’s start with displaying a contact form on your page. First, open the <strong>'Contact -> Contact Forms'</strong> menu in your WordPress administration panel.</p>
-<p>You can manage multiple contact forms there.</p>
+<p>You can manage multiple contact forms from there.</p>
 <figure class="img-polaroid">
     <img alt="" src="img/third-party-plugins/contact-form-0.png">
 </figure>
@@ -34,13 +34,13 @@
 
 <p>Form editing field (<strong>4</strong>). You can customize form content in this section using HTML and <a href="http://contactform7.com/tag-syntax/#form_tag" target="_blank">form-tags</a>. Line breaks and blank lines in this field are automatically formatted with &lt;br/&gt; and &lt;p&gt; HTML tags.</p>
 
-<p>Tag generators (<strong>3</strong>). By using these tag generators, you can generate form-tags without knowledge of them.</p>
+<p>Tag generators (<strong>3</strong>). By using these tag generators, you can generate form-tags without any speciall skills.</p>
 
 <p>For more information about form-tags, see <a href="http://contactform7.com/tag-syntax/"  target="_blank">How Tags Work</a>.</p>
 
 <h5>Mail Tab</h5>
 
-<p>You can edit the mail template for mail which is sent in response to a form submission. You can use <a href="http://contactform7.com/tag-syntax/#mail_tag"  target="_blank">mail-tags</a> in these fields.</p>
+<p>You can edit the mail template for the mail which is sent in response to a form submission. You can use <a href="http://contactform7.com/tag-syntax/#mail_tag"  target="_blank">mail-tags</a> in these fields.</p>
 
 <p>An additional mail template is also available. It is called Mail(2) and its content can differ from the primary Mail template. </p>
 
@@ -48,7 +48,7 @@
 
 <h5>Messages Tab</h5>
 
-<p>You can edit messages that are used for various situations, including “Validation errors occurred,” “Please fill in the required field,” etc.</p>
+<p>You can edit the messages that are used for various situations, including “Validation errors occurred,” “Please fill in the required field,” etc.</p>
 
 <p>Note that only plain text is available here. HTML tags and entities are not allowed in the message fields.</p>
 

@@ -1,6 +1,6 @@
 	<h3>Image Grid Widget</h3>
 
-	<p>This widget is used to display image grid. By default you have to select appropriate category or tags in order to start display</p>
+	<p>This widget is used to display image grid. By default, you have to select an appropriate category or tags in order to display the grid.</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/image-grid-widget.png">
@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Choose taxonomy type</dt>
             <dd>
-                Here you can define items selection source: by Category or Tag
+                Here you can define the items selection source: by Category or Tag
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Select category to show</dt>
             <dd>
-                Exact category to display posts from.
+                Exact category to display posts from
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Select tags to show </dt>
             <dd>
-                Exact tag to display posts from.
+                Exact tag to display posts from
             </dd>
         </dl>
     </li>
@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Post sorted</dt>
             <dd>
-                This property specifies how to sort posts on display
+                This property specifies how to sort out the posts on display
             </dd>
         </dl>
     </li>
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Posts number</dt>
             <dd>
-                Defines number of posts/images displayed
+                Defines the number of posts/images displayed
             </dd>
         </dl>
     </li>
@@ -59,7 +59,7 @@
         <dl class="inline-term">
             <dt>Offset post</dt>
             <dd>
-                This property specifies number of post to displace or pass over.
+                This property specifies the number of post to displace or pass over
             </dd>
         </dl>
     </li>
@@ -67,7 +67,7 @@
         <dl class="inline-term">
             <dt>Title words length</dt>
             <dd>
-                This property sets the number of words limit for post's title. Set 0 to hide title.
+                This property sets the number of words limit for post's title. Set 0 to hide title
             </dd>
         </dl>
     </li>
@@ -75,7 +75,7 @@
         <dl class="inline-term">
             <dt>Columns number</dt>
             <dd>
-                Here you can define number of columns to display images (up to 4). If you want to display widget in sidebar, you can display it only in one column.
+                Here you can define the number of columns to display the images (up to 4). If you want to display the widget in the sidebar, you can display it only in one column
             </dd>
         </dl>
     </li>
@@ -83,7 +83,7 @@
         <dl class="inline-term">
             <dt>Items padding ( size in pixels )</dt>
             <dd>
-                This property specifies distance between category or tag elements in px.
+                This property specifies the distance between the elements in px
             </dd>
         </dl>
     </li>

@@ -10,6 +10,7 @@ $light-theme: (
         menu-item-active-background: #EEE
 );
 
+
 $rd-theme: $light-theme;
 $rd-menu-toggle-preset: "button-lines-arrow-2";
 
@@ -199,6 +200,7 @@ $rd-menu-width-mobile: 250px;
 }
 
 .tm-title-caption {
+
   position: absolute;
   left: 95px;
   margin-left: auto;

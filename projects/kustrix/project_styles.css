@@ -44,20 +44,27 @@ body:not([data-section="introduction"]) .tm-title-caption {
 
 .rd-mobilepanel_title {
   font-size: 151px;
-  font-weight: 400; }
+  font-weight: 400;
+  top: 9px; }
 
 .tm-title-caption {
-  font-size: 44px;
-  top: 261px;
+  font-size: 40px;
+  top: 200px;
   font-family: "Playfair Display", serif;
   color: #3d3a44;
   line-height: 36px;
   width: 481px; }
 
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .tm-title-caption {
+    width: 220px; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .tm-title-caption {
+    width: 300px; } }
 .rd-mobilemenu .logo {
   background-color: #fff; }
 
 .toTop {
-  background-color: #fff; }
+  background-color: #dbeae9; }
   .toTop:hover {
-    background: white; }
+    background: #6e697b; }

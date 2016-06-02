@@ -1,4 +1,4 @@
-	<h3>Carousel Slider</h3>
+	<h3>Carousel</h3>
 
 	<p>Widget is used to display and setup slider carousel on the website.</p>
 
@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Select category</dt>
             <dd>
-                This property specifies a category to pull carousel slides from.
+                Specify a category to pull carousel slides from
             </dd>
         </dl>
     </li>
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Display more button</dt>
             <dd>
-                Hide/Show read more button / link
+                Hide/Show the More button / link
             </dd>
         </dl>
     </li>
@@ -67,7 +67,7 @@
         <dl class="inline-term">
             <dt>Content words trimmed count</dt>
             <dd>
-                This property defines excerpt limit by choosing number of words from post's content.
+                This property defines the content words limit
             </dd>
         </dl>
     </li>
@@ -75,7 +75,7 @@
         <dl class="inline-term">
             <dt>Number of slides per view</dt>
             <dd>
-                This property specifies how many slides are visible at the same time on slider's container.
+                This property specifies how many slides are visible at the same time inside the slider container
             </dd>
         </dl>
     </li>
@@ -83,7 +83,7 @@
         <dl class="inline-term">
             <dt>Number slides per group</dt>
             <dd>
-                This property specifies numbers of slides to define and enable group sliding.
+                This property specifies the numbers of slides to define and enable group sliding
             </dd>
         </dl>
     </li>
@@ -91,7 +91,7 @@
         <dl class="inline-term">
             <dt>Multi Row Slides Layout</dt>
             <dd>
-                This property specifies how many slides display per column, for multirow layout
+                This property specifies how many slides are displayed per column, for multirow layout
             </dd>
         </dl>
     </li>
@@ -99,7 +99,7 @@
         <dl class="inline-term">
             <dt>Width of the space between slides</dt>
             <dd>
-                This property specifies the distance between slides in px.
+                This property specifies the distance between slides in px
             </dd>
         </dl>
     </li>
@@ -107,7 +107,7 @@
         <dl class="inline-term">
             <dt>Duration of transition between slides</dt>
             <dd>
-                This property specifies slides duration (in ms) to trigger swipe to next/previous slide during long swipes
+                This property specifies slides duration (in ms) to trigger swipe to next/previous slide during the long swipes
             </dd>
         </dl>
     </li>
@@ -123,7 +123,7 @@
         <dl class="inline-term">
             <dt>Choose slider navigation position</dt>
             <dd>
-                Here you can define navigation arrows position: inner - inside of the container, outer - outside of the container.
+                Here you can define the navigation arrows position: inner - inside the container, outer - outside the container
             </dd>
         </dl>
     </li>

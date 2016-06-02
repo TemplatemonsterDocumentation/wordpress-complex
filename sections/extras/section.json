@@ -244,6 +244,546 @@
 					"ru": "Google Сервисы"
 				}
 			}
+		],
+		"weeklyjournal": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"globera": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"editorso": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"vegetexia": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"travelop": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"triptastic": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"wilson": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"cosmetro": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"bitnews": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"coffeera": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"jewello": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"bedentist": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"stylepark_tf": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"dailysports_tf": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"finestgame": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"sketchfield": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"clubstome": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"neurion": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
 		]
 	}
 }

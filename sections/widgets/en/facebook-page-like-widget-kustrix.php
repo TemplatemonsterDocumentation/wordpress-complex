@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Facebook page URL</dt>
             <dd>
-                Here you can define the facebook page URL to show this account images on your website.
+                Here you can define the facebook page URL to show this account images on your website
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Show posts from the Page timeline</dt>
             <dd>
-                This property defines show or hide posts from the Page timeline
+                This property defines whether to show or hide posts from the Page timeline
             </dd>
         </dl>
     </li>
@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Show profile photos when friends like this</dt>
             <dd>
-                This property defines show or hide profile photos when friends like this
+                This property defines whether to show or hide the profile photos when the friends like them 
             </dd>
         </dl>
     </li>
@@ -67,7 +67,7 @@
         <dl class="inline-term">
             <dt>Set Width</dt>
             <dd>
-                This property defines width of parent container
+                This property defines width of a parent container
             </dd>
         </dl>
     </li>
@@ -75,7 +75,7 @@
         <dl class="inline-term">
             <dt>Set Height</dt>
             <dd>
-                This property defines height of parent container
+                This property defines height of a parent container
             </dd>
         </dl>
     </li>
@@ -83,7 +83,7 @@
         <dl class="inline-term">
             <dt>Language</dt>
             <dd>
-                Here you can select the languages which available to use
+                Here you can select the languages 
             </dd>
         </dl>
     </li>
@@ -91,7 +91,7 @@
         <dl class="inline-term">
             <dt>Custom Css</dt>
             <dd>
-                extra CSS class
+                Extra CSS class
             </dd>
         </dl>
     </li>

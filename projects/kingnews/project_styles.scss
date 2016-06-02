@@ -39,7 +39,7 @@ h4 {
 		.rd-mobilepanel{
 			background-position: 66% top;
 			@media (max-width: 1440px) {
-    			background-position: 100% top;
+    			background-position: 100% bottom;
 			}
 		}
 	}
@@ -53,7 +53,7 @@ h4 {
 	    transition-delay: 1s;
 		@media (max-width: 1440px) {
 	    	background-size: 60% auto;
-	    	background-position: 600px top;
+	    	background-position: 600px bottom;
 		}
 	}
 
@@ -76,7 +76,7 @@ body:not([data-section="introduction"]) {
 
  .rd-mobilepanel_title {
 	font-size: 82px;
-
+	top:66px;
 }
 
 .tm-title-caption {

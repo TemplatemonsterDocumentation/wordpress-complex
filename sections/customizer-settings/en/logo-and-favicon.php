@@ -32,12 +32,12 @@
 
 <h5>Logo Upload</h5>
 
-<p>Click the Choose Media button to select the logo image from the media library or upload your image.</p>
+<p>Click the "Choose Media" button to select the logo image from the media library or upload your image.</p>
 
 
 <h5>Retina Logo Upload</h5>
 
-<p>Here you can upload logo for retina-ready devices</p>
+<p>Here you can upload the logo for retina-ready devices</p>
 
 
 <h5>Site Icon</h5>

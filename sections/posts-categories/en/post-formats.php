@@ -1,7 +1,7 @@
 <h3>Post Formats</h3>
 
 <p>
-    Post formats are used to customize available post options and markup. You can choose a post format on the post
+    Post formats are used to customize the available post options and markup. You can choose a post format on the post
     editing screen.
 </p>
 
@@ -26,7 +26,7 @@
     <li><strong>Categories</strong> - post category(ies)</li>
     <li><strong>Tags</strong> - post tags</li>
     <li><strong>Featured Image</strong> - post featured image</li>
-    <li>Other fields that can be enabled in <strong>Screen Options</strong> in the top right corner.</li>
+    <li>Other fields that can be enabled in <strong>Screen Options</strong> in the top right corner</li>
 </ul>
 
 <figure class="img-polaroid"><img src="img/wordpress/post_format_standard.png" alt=""></figure>
@@ -35,8 +35,8 @@
 <h4 id="post_format_aside">Aside</h4>
 
 <p>
-    Aside is a simplified standard post format. In other words there is only a content field, so you don't need to enter
-    title and other options.
+    Aside is a simplified standard post format. In other words, there is only a content field, so you don't need to enter
+    the title and other options.
 </p>
 
 <figure class="img-polaroid"><img src="img/wordpress/post_format_standard.png" alt=""></figure>
@@ -87,16 +87,16 @@
 
 <figure class="img-polaroid"><img src="img/wordpress/add_media.png" alt=""></figure>
 
-<p>Drag files or click <strong>Select Files</strong> to add images from local computer.</p>
+<p>Drag files or click <strong>Select Files</strong> to add images from the local computer.</p>
 
 <figure class="img-polaroid"><img src="img/wordpress/insert-media.png" alt=""></figure>
 
-<p>After images are uploaded, you can find them in Media Library. Click <strong>Uploaded to this post</strong> to
+<p>After the images are uploaded, you can find them in Media Library. Click <strong>Uploaded to this post</strong> to
    view the images.</p>
 
 <figure class="img-polaroid"><img src="img/wordpress/uploaded-images.png" alt=""></figure>
 
-<p>After editing you can close the media library. Uploaded images will be added automatically.</p>
+<p>After editing, you can close the media library. The uploaded images will be added automatically.</p>
 
 
 <p>Gallery post format has the same fields that the standard post format has (e.g. title, content, category, etc).</p>
@@ -136,7 +136,7 @@
 
 <h4 id="post_format_quote">Quote</h4>
 
-<p><strong> Quote </strong> post is used to publish statements.</p>
+<p><strong> Quote </strong> post is used to publish the statements.</p>
 
 <figure class="img-polaroid"><img src="img/wordpress/post_format_quote.png" alt=""></figure>
 
@@ -145,7 +145,7 @@
 
 <p>
     <strong> Status </strong>
-    post is a message with content limited to 140 symbols. It is displayed with the author avatar.
+    post is a message with content limited to 140 symbols. It is displayed with the author's avatar.
 </p>
 
 <figure class="img-polaroid"><img src="img/wordpress/post_format_status.png" alt=""></figure>
@@ -157,17 +157,17 @@
 
 <figure class="img-polaroid"><img src="img/wordpress/post_format_video.png" alt=""></figure>
 
-<p>There are two ways to add video into the post:</p>
+<p>There are two ways of adding video into the post:</p>
 
 <ul class="marked-list">
-    <li><strong>Embedded Code</strong> - used to add video from external sources like Youtube, Vimeo, etc.</li>
-    <li>Add video through media library.</li>
+    <li><strong>Embedded Code</strong> - used to add video from the external sources like Youtube, Vimeo, etc</li>
+    <li>Add video through the media library</li>
 </ul>
 
 <p>You can edit the following fields in settings:</p>
 
 <ul class="marked-list">
-    <li><strong>M4V</strong> - direct link to video in m4v format with possibility to delete</li>
+    <li><strong>M4V</strong> - direct link to the video in m4v format with delete function</li>
     <li><strong>Add alternative source for maximum HTML5 playback </strong> - alternative source of various video
                                                                             formats (mp4, ogv, webm)
     </li>

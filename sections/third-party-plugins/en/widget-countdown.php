@@ -2,7 +2,7 @@
 
 <p>WordPress <a href="https://wordpress.org/plugins/homepage-pop-up/" target="_blank">Countdown plugin</a> is an nice tool to create and insert countdown timers into your posts/pages and widgets. </p>
 
-<p>Our WordPress Countdown plugin allow website owners to create nice and functional Countdown timer just in a few minutes. This is the best way to create beautiful Countdown for your users. You can use our Countdown timer in your posts/pages and widgets. It's very easy to use and there isn't any need of coding knowledge for creating Countdowns.</p>
+<p>Our WordPress Countdown plugin allows website owners to create nice and functional Countdown timer just in a few minutes. This is the best way to create beautiful Countdown for your users. You can use our Countdown timer in your posts/pages and widgets. It's very easy to use and no coding skills required to have all the job done.</p>
 
 <h4>Installing WordPress Countdown plugin</h4>
 
@@ -17,22 +17,22 @@
 <ul class="marked-list">
 		<li>
 			<dl class="inline-term">
-				<dt>Day field text - Type here Day field text.</dt>
+				<dt>Day field text - Type in Day field text.</dt>
 			</dl>
 		</li>
 		<li>
 			<dl class="inline-term">
-				<dt>Hour field text - Type here Hour field text.</dt>
+				<dt>Hour field text - Type in Hour field text.</dt>
 			</dl>
 		</li>
 		<li>
 			<dl class="inline-term">
-				<dt>Minute field text - Type here Minute field text.</dt>
+				<dt>Minute field text - Type in Minute field text.</dt>
 			</dl>
 		</li>
 		<li>
 			<dl class="inline-term">
-				<dt>Second field text - Type here Second field text.</dt>
+				<dt>Second field text - Type in Second field text.</dt>
 			</dl>
 		</li>
 		<li>
@@ -111,9 +111,9 @@
 				<dt>Countdown animation type - Choose the Countdown animation type you need.</dt>
 			</dl>
 		</li>
-<p>After installation activate the plugin, then go to your pages, posts and just click on Countdown shortcode button and add Countdown timer for your pages/posts.</p>
+<p>After the installation activate the plugin, then go to your pages, posts and just click on Countdown shortcode button and add Countdown timer for your pages/posts.</p>
 
-<p>After installation activate the plugin, then check your widgets page(Appearance>Widgets) and then drag and drop "WordPress Countdown plugin" widget into your sidebar. After that set your Countdown timer options. That's all.</p>
+<p>After the installation activate the plugin, then check your widgets page(Appearance>Widgets) and then drag and drop "WordPress Countdown plugin" widget into your sidebar. After that set your Countdown timer options. That's all.</p>
 
 </ul>
 <figure class="img-polaroid">

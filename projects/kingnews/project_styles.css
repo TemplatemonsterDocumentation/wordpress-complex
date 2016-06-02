@@ -16,7 +16,7 @@ h4 {
   background-position: 66% top; }
   @media (max-width: 1440px) {
     .page-content.active .rd-mobilepanel {
-      background-position: 100% top; } }
+      background-position: 100% bottom; } }
 
 .rd-mobilepanel {
   background-color: #fff603;
@@ -28,7 +28,7 @@ h4 {
   @media (max-width: 1440px) {
     .rd-mobilepanel {
       background-size: 60% auto;
-      background-position: 600px top; } }
+      background-position: 600px bottom; } }
 
 [data-section="introduction"] .rd-mobilepanel {
   background-image: url("../../projects/kingnews/img/header-bg.png");
@@ -42,7 +42,8 @@ body:not([data-section="introduction"]) .tm-title-caption {
   display: none; }
 
 .rd-mobilepanel_title {
-  font-size: 82px; }
+  font-size: 82px;
+  top: 66px; }
 
 .tm-title-caption {
   font-size: 32px;

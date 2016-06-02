@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Facebook application ID</dt>
             <dd>
-                Here you can define facebook application ID to show this account images on your website.
+                Here you can define the facebook application ID to show the account images on your website.
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Facebook page url</dt>
             <dd>
-                Facebook Widget
+                Specify the url address of the facebook page
             </dd>
         </dl>
     </li>
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Width</dt>
             <dd>
-                This property defines width of parent container
+                This property defines width of a parent container
             </dd>
         </dl>
     </li>
@@ -59,7 +59,7 @@
         <dl class="inline-term">
             <dt>Height</dt>
             <dd>
-                This property defines height of parent container
+                This property defines height of a parent container
             </dd>
         </dl>
     </li>
@@ -67,7 +67,7 @@
         <dl class="inline-term">
             <dt>Small Header</dt>
             <dd>
-                This property defines whether to enable / disable small header for facebook block
+                This property defines whether to enable / disable small header for the facebook block
             </dd>
         </dl>
     </li>
@@ -75,7 +75,7 @@
         <dl class="inline-term">
             <dt>Adaptive width</dt>
             <dd>
-                This property defines whether to enable / disable adaptive width for facebook container
+                This property defines whether to enable / disable adaptive width for the facebook container
             </dd>
         </dl>
     </li>
@@ -83,7 +83,7 @@
         <dl class="inline-term">
             <dt>Hide cover</dt>
             <dd>
-                This property defines whether to display / hide header background image for facebook block
+                This property defines whether to display / hide header background image for the facebook block
             </dd>
         </dl>
     </li>

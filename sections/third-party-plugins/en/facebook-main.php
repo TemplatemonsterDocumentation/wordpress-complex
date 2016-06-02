@@ -1,11 +1,11 @@
-<h3>Facebook Widget</h3>
+<h3>Facebook Page Like Widget</h3>
 
-<p>This <a href="https://wordpress.org/plugins/facebook-pagelike-widget/" target="_blank">Facebook Widget plugin</a> is specially designed  help you display likes from your Facebook account on the WordPress sidebar. It can be customized even by non developers and users wihout coding skills. </p>
+<p>This <a href="https://wordpress.org/plugins/facebook-pagelike-widget/" target="_blank">Facebook Widget plugin</a> is specially designed to  help you display likes from your Facebook account on the WordPress sidebar. It can be customized even by non developers and users wihout coding skills. </p>
 
 <p>The plugin features a variety of tools and options like:  show faces , show Data Stream and Header. The latest version also offers adding the plugin into your posts and pages.</p>
 	
-<figure class="img-pinterest">
-	<img src="img/third_party_plugins/facebook.png" alt="">
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/third-party-plugins/facebook.png">
 </figure>
 <h4>Installing Facebook Widget plugin</h4>
 
@@ -26,3 +26,18 @@ To customize the widget, navigate to the "Widgets" section of our documentation 
 <?php } ?>
 
 </p>
+<?php if ($project == 'globera') { ?>
+
+	<p>
+To customize the widget, navigate to the "Widgets" section of our documentation and find <a href="http://documentation.templatemonster.com/index.php?project=globera&lang=en&section=widgets#facebook-page-like-widget" target="_blank">Facebook Page Like Widget</a>.
+	</p>
+
+<?php } ?>
+
+<?php if ($project == 'editorso') { ?>
+
+	<p>
+To customize the widget, navigate to the "Widgets" section of our documentation and find <a href="http://documentation.templatemonster.com/index.php?project=editorso&lang=en&section=widgets#facebook-page-like-widget" target="_blank">Facebook Page Like Widget</a>.
+	</p>
+
+<?php } ?>

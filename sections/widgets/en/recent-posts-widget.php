@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Excerpt words length</dt>
             <dd>
-                This property specifies the exerpt words length
+                This property specifies the excerpt words length
             </dd>
         </dl>
     </li>

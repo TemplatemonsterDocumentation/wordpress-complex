@@ -35,7 +35,7 @@ h4 {
 		.rd-mobilepanel{
 			background-position: 66% top;
 			@media (max-width: 1440px) {
-    			background-position: 100% top;
+    			background-position: 100% bottom;
 			}
 		}
 	}
@@ -49,7 +49,7 @@ h4 {
 	    transition-delay: 1s;
 		@media (max-width: 1440px) {
 	    	background-size: 60% auto;
-	    	background-position: 600px top;
+	    	background-position: 600px bottom;
 		}
 	}
 
@@ -84,6 +84,22 @@ body:not([data-section="introduction"]) {
     width: 430px;
 }
 
+@media (max-width: 1800px) and (min-width: 1601px){
+	.tm-title-caption {	
+		width:300px;
+	}
+}
+@media (max-width: 1600px) and (min-width: 1440px){
+	.tm-title-caption {	
+		width:185px;
+	}
+}
+
+@media (max-width: 1399px) {
+	.tm-title-caption {	
+		width:383px;
+	}
+}
 .rd-mobilemenu {
 	.logo{
 		background-color: $primary-color;

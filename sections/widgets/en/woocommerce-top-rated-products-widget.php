@@ -23,7 +23,8 @@
             </dd>
         </dl>
     </li>
-    <li>
+<?php if ($project == 'fairystyle') { ?>
+     <li>
         <dl class="inline-term">
             <dt>Show</dt>
             <dd>
@@ -63,4 +64,7 @@
             </dd>
         </dl>
     </li>
+
+<?php } ?>
+    
 </ul>

@@ -48,15 +48,29 @@ body:not([data-section="introduction"]) .tm-title-caption {
   font-size: 50px;
   font-weight: 400;
   text-transform: uppercase;
-  top: 136px; }
+  top: 90px; }
 
 .tm-title-caption {
+  font-size: 32px;
   top: 212px;
   font-family: "Roboto", sans-serif;
   color: #3ca4bf;
   line-height: 36px;
   width: 481px; }
+  @media (max-width: 1700px) {
+    .tm-title-caption {
+      width: 300px; } }
+  @media (max-width: 1600px) {
+    .tm-title-caption {
+      width: 200px; } }
 
+@media (max-width: 1301px) and (min-width: 1068px) {
+  .rd-mobilepanel_title {
+    top: 44px; }
+
+  .tm-title-caption {
+    top: 130px;
+    width: 400px; } }
 .rd-mobilemenu .logo {
   background-color: #141414; }
 

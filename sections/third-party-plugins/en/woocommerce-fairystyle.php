@@ -5,7 +5,7 @@
 </p>
 
 <p>
-	About 30% of all modern stores are powered by this plugin. It can be used for selling physical or digital products and even affiliate goods. It gives you access to hundreds of free and premium extensions that will help you optimize our business. Choose a proper extension to create bookings, memberships, recruiting subscriptions, various shipping and payment options and much more. 
+	About 30% of all modern stores are powered by this plugin. It can be used for selling physical or digital products and even affiliate goods. It gives you access to hundreds of free and premium extensions that will help you optimize your business. Choose a proper extension to create bookings, memberships, recruiting subscriptions, various shipping and payment options and much more. 
 	This WooCommerce plugin gives you full controll of the store from managing taxes and customer accounts to changing the design.  
 </p>
 <figure class="img-polaroid"><img src="img/woocommerce/woocommerce.png" alt=""></figure>

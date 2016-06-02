@@ -9,7 +9,7 @@
 	<ul class="marked-list">
     <li>
         <dl class="inline-term">
-            <dt>Widget Title</dt>
+            <dt> Title</dt>
             <dd>
 				This property specifies the widget title
             </dd>
@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Category</dt>
             <dd>
-                Select category to use for posts display.
+                Select the category from which the posts will be displayed
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Tags </dt>
             <dd>
-                Select tag to use for posts display.
+                Select tags from which the posts will be displayed
             </dd>
         </dl>
     </li>
@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Choose taxonomy type</dt>
             <dd>
-                Here you can define items selection source: by Category or Tag
+                Here you can define the items selection source: by Category or Tag
             </dd>
         </dl>
     </li>
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Title length</dt>
             <dd>
-                This property sets the number of words symbols for title description.
+                This property sets the title length of the post
             </dd>
         </dl>
     </li>
@@ -59,7 +59,7 @@
         <dl class="inline-term">
             <dt>Excerpt length</dt>
             <dd>
-                This property sets the number of symbols limit for excerpt.
+                This property sets the excerpt length of the post
             </dd>
         </dl>
     </li>
@@ -75,7 +75,7 @@
         <dl class="inline-term">
             <dt>Show date</dt>
             <dd>
-                Here you can define whether to Hide/Show date.
+                Here you can define whether to Hide/Show the date
             </dd>
         </dl>
     </li>
@@ -83,7 +83,7 @@
         <dl class="inline-term">
             <dt>Show comments</dt>
             <dd>
-                Here you can define whether to Hide/Show comments.
+                Here you can define whether to Hide/Show the comments
             </dd>
         </dl>
     </li>

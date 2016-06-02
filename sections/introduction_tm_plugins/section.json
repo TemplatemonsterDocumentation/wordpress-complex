@@ -1,0 +1,11 @@
+{
+	"id": "introduction_tm_plugins",
+	"translations": {
+		"en": "Introduction",
+		"ru": "Введение"
+	},
+	"articles": {
+		"tm-woocommerce": []
+	}
+}
+

@@ -5,15 +5,6 @@
 		"ru": "Сторонние плагины"
 	},
 	"articles": {
-		"wildride": [
-			{
-				"id": "mailchimp-for-wordpress",
-				"translations": {
-					"en": "MailChimp for WordPress",
-					"ru": "MailChimp for WordPress"
-				}
-			}
-		],
 		"kingnews": [
 			{
 				"id": "mailchimp-for-wordpress",
@@ -60,7 +51,7 @@
 				}
 			},
 			{
-				"id": "facebook",
+				"id": "facebook-main",
 				"translations": {
 					"en": "Facebook Page Like Widget",
 					"ru": "Facebook Page Like Widget"
@@ -83,10 +74,17 @@
 				}
 			},
 			{
-				"id": "facebook-fairystyle",
+				"id": "facebook-main",
 				"translations": {
-					"en": "Easy Facebook Likebox Widget",
-					"ru": "Виджет Easy Facebook Likebox"
+					"en": " Facebook Page Like",
+					"ru": "Виджет Facebook "
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
 				}
 			},
 			{
@@ -109,6 +107,13 @@
 					"en": "WooCommerce",
 					"ru": "WooCommerce"
 				}
+			},  
+			{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+				}
 			},
 			{
 				"id": "yith-woocommerce-wishlist",
@@ -130,13 +135,19 @@
 					"en": "TM WooCommerce Package",
 					"ru": "TM WooCommerce Package"
 				}
+			},  {
+				"id": "booster-for-woocommerce",
+				"translations": {
+					"en": "Booster for WooCommerce ",
+					"ru": "Booster for WooCommerce"
+				}
 			}
 		],
 		"dailysports": [
 			{
 				"id": "facebook-main",
 				"translations": {
-					"en": " Facebook Widget",
+					"en": " Facebook Page Like",
 					"ru": "Виджет Facebook "
 				}
 			},
@@ -147,7 +158,550 @@
 					"ru": "Easy Twitter Widget"
 				}
 			}
+		],
+		"weeklyjournal": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			}
 
+		],
+		"globera": [
+			{
+				"id": "facebook-main",
+				"translations": {
+					"en": " Facebook Page Like",
+					"ru": "Виджет Facebook "
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			}
+		],
+		"editorso": [
+			{
+				"id": "facebook-main",
+				"translations": {
+					"en": " Facebook Page Like",
+					"ru": "Виджет Facebook "
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "tiny-grid",
+				"translations": {
+					"en": "Tiny Grid",
+					"ru": "Tiny Grid"
+				}
+			}, {
+				"id": "tm-youtube",
+				"translations": {
+					"en": "TM Youtube Subscribe Widget",
+					"ru": "TM Youtube Subscribe Widget"
+				}
+			}
+		],
+		"vegetexia": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter",
+					"ru": "Easy Twitter"
+				}
+			}
+		],
+		"travelop": [
+			{
+				"id": "facebook-plus",
+				"translations": {
+					"en": " Facebook Plus",
+					"ru": "Виджет Facebook Plus "
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter",
+					"ru": "Easy Twitter"
+				}
+			},
+			{
+				"id": "wp-user-avatar",
+				"translations": {
+					"en": "WP User Avatar",
+					"ru": "WP User Avatar"
+				}
+			},  {
+				"id": "regenerate-thumbnails",
+				"translations": {
+					"en": "Regenerate Thumbnails",
+					"ru": "Regenerate Thumbnails"
+				}
+			}
+		],
+		"triptastic": [
+			{
+				"id": "facebook-main",
+				"translations": {
+					"en": " Facebook Page Like",
+					"ru": "Виджет Facebook Page Like "
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter",
+					"ru": "Easy Twitter"
+				}
+			}
+		],
+		"wilson": [
+			
+			{
+				"id": "facebook-likebox",
+				"translations": {
+					"en": "Easy Facebook Likebox Widget",
+					"ru": "Виджет Easy Facebook Likebox"
+				}
+			},
+			{
+				"id": "motopress-slider",
+				"translations": {
+					"en": "MotoPress Slider",
+					"ru": "Слайдер MotoPress"
+				}
+			},
+			{
+				"id": "woocommerce-fairystyle",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+				}
+			},
+			{
+				"id": "woocommerce-currency-switcher",
+				"translations": {
+					"en": "WooCommerce Currency Switcher",
+					"ru": "WooCommerce Currency Switcher"
+				}
+			},
+			{
+				"id": "woocommerce-compare-list",
+				"translations": {
+					"en": "WooCommerce Compare List",
+					"ru": "WooCommerce Compare List"
+				}
+			},{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+				}
+			},
+			{
+				"id": "yith-woocommerce-wishlist",
+				"translations": {
+					"en": "YITH WooCommerce Wishlist",
+					"ru": "YITH WooCommerce Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			} 
+		],
+		"cosmetro": [
+			{
+				"id": "booster-for-woocommerce",
+				"translations": {
+					"en": "Booster for WooCommerce ",
+					"ru": "Booster for WooCommerce"
+				}
+			},
+			{
+				"id": "facebook-main",
+				"translations": {
+					"en": " Facebook Page Like",
+					"ru": "Виджет Facebook "
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},  {
+				"id": "mailchimp-for-wp",
+				"translations": {
+					"en": "MailChimp for WordPress",
+					"ru": "MailChimp for WordPress"
+				}
+			},
+			{
+				"id": "motopress-slider",
+				"translations": {
+					"en": "MotoPress Slider",
+					"ru": "Слайдер MotoPress"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+				}
+			},
+			{
+				"id": "tiny-grid",
+				"translations": {
+					"en": "Tiny Grid",
+					"ru": "Tiny Grid"
+				}
+			},  {
+				"id": "yith-woocommerce-wishlist",
+				"translations": {
+					"en": "YITH WooCommerce Wishlist",
+					"ru": "YITH WooCommerce Wishlist"
+				}
+			},{
+				"id": "yith-woocommerce-compare",
+				"translations": {
+					"en": "YITH WooCommerce Compare",
+					"ru": "YITH WooCommerce Compare"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			},
+			{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+				}
+			}
+		],
+		"bitnews": [
+			{
+				"id": "facebook-main",
+				"translations": {
+					"en": " Facebook Page Like",
+					"ru": "Виджет Facebook "
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "columns-for-bootstrap",
+				"translations": {
+					"en": "Colums for Bootstrap",
+					"ru": "Colums for Bootstrap"
+				}
+			},
+			{
+				"id": "spacer",
+				"translations": {
+					"en": "Spacer",
+					"ru": "Spacer"
+				}
+			}
+		],
+		"coffeera": [
+			
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},  
+			{
+				"id": "bne-testimonials-plugin",
+				"translations": {
+					"en": "BNE Testimonials",
+					"ru": "Виджет Testimonials"
+				}
+			}, 
+			{
+				"id": "motopress-slider",
+				"translations": {
+					"en": "MotoPress Slider",
+					"ru": "Слайдер MotoPress"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+				}
+			},
+			{
+				"id": "woocommerce-compare-list",
+				"translations": {
+					"en": "WooCommerce Compare List",
+					"ru": "WooCommerce Compare List"
+				}
+			},{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+				}
+			},
+			{
+				"id": "yith-woocommerce-wishlist",
+				"translations": {
+					"en": "YITH WooCommerce Wishlist",
+					"ru": "YITH WooCommerce Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			} 
+		],
+		"jewello": [
+			{
+				"id": "booster-for-woocommerce",
+				"translations": {
+					"en": "Booster for WooCommerce ",
+					"ru": "Booster for WooCommerce"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+				}
+			},
+			{
+				"id": "tiny-grid",
+				"translations": {
+					"en": "Tiny Grid",
+					"ru": "Tiny Grid"
+				}
+			},  {
+				"id": "yith-woocommerce-wishlist",
+				"translations": {
+					"en": "YITH WooCommerce Wishlist",
+					"ru": "YITH WooCommerce Wishlist"
+				}
+			},{
+				"id": "yith-woocommerce-compare",
+				"translations": {
+					"en": "YITH WooCommerce Compare",
+					"ru": "YITH WooCommerce Compare"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			},
+			{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+				}
+			}
+		],
+		"bedentist": [
+			{
+				"id": "facebook-likebox",
+				"translations": {
+					"en": " Facebook",
+					"ru": "Виджет Facebook "
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter",
+					"ru": "Easy Twitter"
+				}
+			},
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "akismet",
+				"translations": {
+					"en": "Akismet",
+					"ru": "Akismet"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "TM Builder Integrator",
+					"ru": "TM Builder Integrator"
+				}
+			}
+		],
+		"stylepark_tf": [
+			{
+				"id": "tm-youtube",
+				"translations": {
+					"en": "TM Youtube Subscribe Widget",
+					"ru": "TM Youtube Subscribe Widget"
+				}
+			},  {
+				"id": "twitter-stylepark",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},  {
+				"id": "facebook-stylepark",
+				"translations": {
+					"en": "Facebook Page Like Widget",
+					"ru": "Facebook Page Like Widget"
+				}
+			}
+		],
+		"dailysports_tf": [
+			{
+				"id": "facebook-main",
+				"translations": {
+					"en": " Facebook Page Like",
+					"ru": "Виджет Facebook "
+				}
+			},
+			{
+				"id": "twitter-dailysports",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			}
+		],
+		"finestgame": [
+			{
+				"id": "facebook-by-weblizar",
+				"translations": {
+					"en": "Facebook By WebLizar",
+					"ru": "Facebook By WebLizar"
+				}
+			},
+			{
+				"id": "akismet",
+				"translations": {
+					"en": "Akismet",
+					"ru": "Akismet"
+				}
+			},
+			{
+				"id": "regenerate-thumbnails",
+				"translations": {
+					"en": "Regenerate Thumbnails",
+					"ru": "Regenerate Thumbnails"
+				}
+			},
+			{
+				"id": "trending-posts",
+				"translations": {
+					"en": "Trending Posts",
+					"ru": "Trending Posts"
+				}
+			}
+		],
+		"sketchfield": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter",
+					"ru": "Easy Twitter"
+				}
+			},
+			{
+				"id": "pinterest",
+				"translations": {
+					"en": "Pinterest Widgets",
+					"ru": "Pinterest Widgets"
+				}
+			},{
+				"id": "tiny-grid",
+				"translations": {
+					"en": "Tiny Grid",
+					"ru": "Tiny Grid"
+				}
+			}, {
+				"id": "tm-youtube",
+				"translations": {
+					"en": "TM Youtube Subscribe Widget",
+					"ru": "TM Youtube Subscribe Widget"
+				}
+			}
+		],
+		"clubstome": [
+			{
+				"id": "facebook-main",
+				"translations": {
+					"en": " Facebook Page Like",
+					"ru": "Виджет Facebook "
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			}
+		],
+		"neurion": [
+			{
+				"id": "tiny-grid",
+				"translations": {
+					"en": "Tiny Grid",
+					"ru": "Tiny Grid"
+				}
+			}
 		]
 	}
 }

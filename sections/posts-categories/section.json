@@ -211,6 +211,420 @@
 					"ru": "Форматы постов"
 				}
 			}
+		],
+		"weeklyjournal": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		], 
+		"globera": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		], 
+		"editorso": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		], 
+		"vegetexia": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		], 
+		"travelop": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		], 
+		"triptastic": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		], 
+		"wilson": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		], 
+		"cosmetro": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		], 
+		"bitnews": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		], 
+		"coffeera": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		], 
+		"jewello": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		], 
+		"bedentist": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"stylepark_tf": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category-stylepark",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"dailysports_tf": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"finestgame": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"sketchfield": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"clubstome": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"neurion": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
 		]
 	}
 }

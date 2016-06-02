@@ -1,4 +1,4 @@
-	<h3>WooCommerce New Products</h3>
+	<h3>WooCommerce Products</h3>
 
 	<p>This widget displays the list of new products available on your site.</p>
 

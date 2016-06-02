@@ -43,7 +43,8 @@
 	},
 	"fairystyle": {
 		"textLogo": "",
-		"title": "Retailer <span class=bold_text>Fairy</span><span class=it_text>style:</span>",
+
+		"title": "Retailer FairyStyle:",
 		"titleCaption": "Brand Store.",
 		"author": ""
 	},
@@ -51,6 +52,120 @@
 		"textLogo": "",
 		"title": "Daily Sports",
 		"titleCaption": "The latest sports news",
+		"author": ""
+	},
+	"weeklyjournal": {
+		"textLogo": "",
+		"title": "Weekly Journal",
+		"titleCaption": "Financial Magazine",
+		"author": ""
+	},
+	"globera": {
+		"textLogo": "",
+		"title": "Globera",
+		"titleCaption": "Science for the curious!",
+		"author": ""
+	},
+	"editorso": {
+		"textLogo": "",
+		"title": "Editorso",
+		"titleCaption": "Writer's Blog",
+		"author": ""
+	},
+	"vegetexia": {
+		"textLogo": "",
+		"title": "Vegetexia",
+		"titleCaption": "That's a way to go for any good vegan venue!",
+		"author": ""
+	},
+	"travelop": {
+		"textLogo": "",
+		"title": "Travelop",
+		"titleCaption": "traveling blog",
+		"author": ""
+	},
+	"triptastic": {
+		"textLogo": "",
+		"title": "The Trip Planning",
+		"titleCaption": "Latest post",
+		"author": ""
+	},
+	"wilson": {
+		"textLogo": "",
+		"title": "Wilson&Smith",
+		"titleCaption": "Premium WooCommerce theme",
+		"author": ""
+	},
+	"cosmetro": {
+		"textLogo": "",
+		"title": "Cosmetro",
+		"titleCaption": "Woocommerce Theme",
+		"author": ""
+	},
+	"bitnews": {
+		"textLogo": "",
+		"title": "Bit News",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"coffeera": {
+		"textLogo": "",
+		"title": "Coffeera",
+		"titleCaption": "Coffee Store",
+		"author": ""
+	},
+	"jewello": {
+		"textLogo": "",
+		"title": "Jewello ",
+		"titleCaption": "Woocommerce Theme",
+		"author": ""
+	},
+	"bedentist": {
+		"textLogo": "",
+		"title": "BeDENTIST ",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"stylepark_tf": {
+		"author": "",
+		"textLogo": "",
+		"title": "Style Park",
+		"titleCaption": "Wordpress Theme"
+	},
+	"dailysports_tf": {
+		"textLogo": "",
+		"title": "Daily Sports",
+		"titleCaption": "The latest sports news",
+		"author": ""
+	},
+	"finestgame": {
+		"textLogo": "",
+		"title": "Finest Game",
+		"titleCaption": "Welcome to the world of gaming news!",
+		"author": ""
+	},
+	"sketchfield": {
+		"textLogo": "",
+		"title": "Sketchfield",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"clubstome": {
+		"textLogo": "",
+		"title": "Clubstome",
+		"titleCaption": "Motorbike news",
+		"author": ""
+	},
+	"neurion": {
+		"textLogo": "",
+		"title": "Neurion",
+		"titleCaption": "a science blog",
+		"author": ""
+	},
+	"tm-woocommerce": {
+		"textLogo": "",
+		"title": "TM WooCommerce Package",
+		"titleCaption": "multiple functional widgets",
 		"author": ""
 	}
 }

@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+h1 {
+  font-family: "Ubuntu", sans-serif;
+  color: #ffffff; }
+
+h2 {
+  color: #e6575c; }
+
+h3 {
+  color: #312f44; }
+
+h4 {
+  color: #e6575c; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #e6575c;
+  background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+.rd-mobilepanel.fixed .rd-mobilepanel_title {
+  top: -57px; }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/triptastic/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 65px;
+  top: 182px;
+  width: 400px;
+  line-height: 75px; }
+
+.tm-title-caption {
+  font-size: 20px;
+  font-weight: 300;
+  top: 351px;
+  font-family: "Ubuntu", sans-serif;
+  color: #ffffff;
+  line-height: 36px;
+  width: 324px;
+  text-align: left; }
+
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 28px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 188px;
+    text-align: left; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 90px; }
+
+  .tm-title-caption {
+    width: 300px;
+    top: 154px; } }
+.rd-mobilemenu .logo {
+  background-color: #ffffff; }
+
+.rd-mobilemenu_ul ul a.focus {
+  color: #e6575c; }
+
+.toTop {
+  background-color: #e6575c;
+  color: #f; }
+  .toTop:hover {
+    background-color: #fdff5b;
+    color: #000000; }

@@ -1,0 +1,94 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Serif:700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+h1 {
+  font-family: "Noto Serif", serif;
+  color: #292929; }
+
+h2 {
+  color: #50a9e1; }
+
+h3 {
+  color: #292929; }
+
+h4 {
+  color: #50a9e1; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #f3f3f3;
+  background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/travelop/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_toggle span {
+  background-color: #000000; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #000000; }
+
+.rd-mobilepanel_title {
+  font-size: 75px;
+  top: 182px;
+  width: 400px;
+  line-height: 45px; }
+  .rd-mobilepanel_title:first-letter {
+    color: #50a9e1; }
+
+.tm-title-caption {
+  font-size: 26px;
+  font-weight: 300;
+  top: 249px;
+  font-family: "Roboto", sans-serif;
+  color: #626262;
+  line-height: 36px;
+  width: 324px;
+  text-align: center; }
+
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 90px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 154px;
+    text-align: left; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 90px; }
+
+  .tm-title-caption {
+    width: 300px;
+    top: 154px; } }
+.rd-mobilemenu .logo {
+  background-color: #ffffff; }
+
+.rd-mobilemenu_ul ul a.focus {
+  color: #50a9e1; }
+
+.toTop {
+  background-color: #50a9e1;
+  color: #000; }
+  .toTop:hover {
+    background-color: #f3f3f3;
+    color: #000000; }

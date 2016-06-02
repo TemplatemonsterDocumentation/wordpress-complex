@@ -5,14 +5,36 @@
 		"ru": "Введение"
 	},
 	"articles": {
+		"cherryframework4": [],
 		"wildride": [],
 		"kingnews": [],
 		"gadnews": [],
 		"blogetti": [],
+		"monstroid": [],
+		"wordpress": [],
+		"woocommerce": [],
 		"fitnesys": [],
 		"stylepark": [],
 		"kustrix": [],
 		"fairystyle": [],
-		"dailysports": []
+		"dailysports": [],
+		"weeklyjournal": [],
+		"globera": [],
+		"editorso": [],
+		"vegetexia": [],
+		"travelop": [],
+		"triptastic": [],
+		"wilson": [],
+		"cosmetro": [],
+		"bitnews": [],
+		"coffeera": [],
+		"jewello": [],
+		"bedentist": [],
+		"stylepark_tf": [],
+		"dailysports_tf": [],
+		"finestgame": [],
+		"sketchfield": [],
+		"clubstome": [],
+		"neurion": []
 	}
 }

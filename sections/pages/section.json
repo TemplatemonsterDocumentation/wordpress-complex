@@ -76,6 +76,168 @@
 					"ru": "Настройки страницы"
 				}
 			}
+		],
+		"weeklyjournal": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"globera": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"editorso": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"vegetexia": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"travelop": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"triptastic": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"wilson": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"cosmetro": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"bitnews": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"coffeera": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"jewello": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"bedentist": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"stylepark_tf": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"dailysports_tf": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"finestgame": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"sketchfield": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"clubstome": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"neurion": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
 		]
 	}
 }

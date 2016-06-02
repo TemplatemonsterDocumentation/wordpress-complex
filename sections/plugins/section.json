@@ -287,6 +287,148 @@
 					"ru": "WordPress Importer"
 				}
 			}
+		],
+		"weeklyjournal": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		], 
+		"globera": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		], 
+		"editorso": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		], 
+		"vegetexia": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"stylepark_tf": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"dailysports_tf": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "widget-importer-exporter",
+				"translations": {
+					"en": "Widget Importer & Exporter",
+					"ru": "Widget Importer & Exporter"
+				}
+			},
+			{
+				"id": "wordpress-importer",
+				"translations": {
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
+				}
+			}
+		],
+		"clubstome": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"neurion": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
 		]
 	}
 }

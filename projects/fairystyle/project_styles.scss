@@ -95,9 +95,9 @@ body:not([data-section="introduction"]) {
 }
 
 .toTop {
-	background-color: $primary-color;
+	background-color: $primary-color-second;
 	&:hover {
-    	background: lighten($primary-color, 20%);
+    	background: lighten($primary-color-second, 20%);
 	}
 }
 .bold_text{

@@ -2,46 +2,46 @@
 	"wildride": [
 		"introduction",
 		"template-installation",
+		"basic-configuration",
 		"posts-categories",
 		"pages",
-		"basic-configuration",
+		"customizer-settings",
 		"widgets",
 		"plugins",
-		"customizer-settings",
-		"third-party-plugins",
 		"extras"
 	],
 	"kingnews": [
 		"introduction",
 		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
 		"posts-categories",
 		"pages",
-		"basic-configuration",
 		"widgets",
 		"plugins",
-		"customizer-settings",
 		"third-party-plugins",
 		"extras"
 	],
 	"gadnews": [
 		"introduction",
 		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
 		"posts-categories",
 		"pages",
-		"basic-configuration",
 		"widgets",
 		"plugins",
-		"customizer-settings",
 		"extras"
 	],
 	"blogetti": [
 		"introduction",
 		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
 		"posts-categories",
 		"pages",
 		"widgets",
-		"basic-configuration",
-		"customizer-settings"
+		"extras"
 	],
 	"fitnesys": [
 		"introduction",
@@ -86,6 +86,7 @@
 		"posts-categories",
 		"widgets",
 		"third-party-plugins",
+		"woocommerce-integration",
 		"extras"
 	],
 	"dailysports": [
@@ -97,6 +98,203 @@
 		"widgets",
 		"third-party-plugins",
 		"extras"
+	],
+	"weeklyjournal": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"extras"
+	],
+	"globera": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"extras"
+	],
+	"editorso": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"extras"
+	],
+	"vegetexia": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"third-party-plugins",
+		"extras"
+	],
+	"travelop": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"third-party-plugins",
+		"extras"
+	],
+	"triptastic": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"third-party-plugins",
+		"extras"
+	],
+	"wilson": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"woocommerce-integration",
+		"third-party-plugins",
+		"extras"
+	],
+	"cosmetro": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"woocommerce-integration",
+		"third-party-plugins",
+		"extras"
+	],
+	"bitnews": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"third-party-plugins",
+		"extras"
+	],
+	"coffeera": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"woocommerce-integration",
+		"third-party-plugins",
+		"extras"
+	],
+	"jewello": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"woocommerce-integration",
+		"third-party-plugins",
+		"extras"
+	],
+	"bedentist": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"stylepark_tf": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"extras"
+	],
+	"dailysports_tf": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"third-party-plugins",
+		"extras"
+	],
+	"finestgame": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"third-party-plugins",
+		"extras"
+	],
+	"sketchfield": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"third-party-plugins",
+		"extras"
+	],
+	"clubstome": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"extras"
+	],
+	"neurion": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"extras"
+	],
+	"tm-woocommerce": [
+		"introduction_tm_plugins",
+		"plugins_options"
 	]
-
 }

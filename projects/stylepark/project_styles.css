@@ -16,7 +16,7 @@ h4 {
   background-position: 66% top; }
   @media (max-width: 1440px) {
     .page-content.active .rd-mobilepanel {
-      background-position: 100% top; } }
+      background-position: 100% bottom; } }
 
 .rd-mobilepanel {
   background-color: #323137;
@@ -28,7 +28,7 @@ h4 {
   @media (max-width: 1440px) {
     .rd-mobilepanel {
       background-size: 60% auto;
-      background-position: 600px top; } }
+      background-position: 600px bottom; } }
 
 [data-section="introduction"] .rd-mobilepanel {
   background-image: url("../../projects/stylepark/img/header-bg.png");
@@ -52,6 +52,18 @@ body:not([data-section="introduction"]) .tm-title-caption {
   line-height: 36px;
   width: 430px; }
 
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .tm-title-caption {
+    width: 300px; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .tm-title-caption {
+    width: 185px; } }
+@media (max-width: 1439px) and (min-width: 1400px) {
+  .tm-title-caption {
+    width: 375px; } }
+@media (max-width: 1399px) {
+  .tm-title-caption {
+    width: 383px; } }
 .rd-mobilemenu .logo {
   background-color: #7d16ee; }
 

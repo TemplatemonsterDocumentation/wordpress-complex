@@ -36,7 +36,7 @@ h4 {
 		.rd-mobilepanel{
 			background-position: 66% top;
 			@media (max-width: 1440px) {
-    			background-position: 100% top;
+    			background-position: 100% bottom;
 			}
 		}
 	}
@@ -50,7 +50,7 @@ h4 {
 	    transition-delay: 1s;
 		@media (max-width: 1440px) {
 	    	background-size: 60% auto;
-	    	background-position: 600px top;
+	    	background-position: 600px bottom;
 		}
 	}
 
@@ -73,17 +73,31 @@ body:not([data-section="introduction"]) {
 
  .rd-mobilepanel_title {
 	font-size: 82px;
+	    @media (max-width: 1700px) {
+	    	top:18px;
+		}
+		@media (max-width: 1440px){
+			top:18px;
 
+		}
 }
 
+
 .tm-title-caption {
-	font-size: 32px;
+	font-size: 30px;
 	font-weight: 700;
 	top: 200px;
 	font-family: $primary-font-family;
     color: $primary-color-light;
     line-height: 36px;
     width: 430px;
+    @media (max-width: 1700px) {
+	    	width:200px;
+	    	top:145px;
+		}
+		@media (max-width: 1440px){
+		    width:400px;
+		}
 }
 
 .rd-mobilemenu {

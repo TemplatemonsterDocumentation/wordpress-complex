@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Username</dt>
             <dd>
-                Here you can define your Instagram username to show your account images on the website.
+                Here you can define your Instagram username to show your account images on the website
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Number of photos </dt>
             <dd>
-                This property defines number of images to show
+                This property defines the number of images to show
             </dd>
         </dl>
     </li>
@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Open link in</dt>
             <dd>
-                This option allows you to choose in which window to open the link
+                This option allows you to choose in which window the link will be opened 
             </dd>
         </dl>
     </li>
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Link text</dt>
             <dd>
-                This property defines the text of the link
+                Specify the link text
             </dd>
         </dl>
     </li>

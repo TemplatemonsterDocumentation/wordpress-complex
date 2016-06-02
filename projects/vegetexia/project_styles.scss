@@ -1,0 +1,133 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #eff2bc;
+$primary-color-second: #ffd884;
+$primary-color-light: #626262;
+$primary-color-dark: #1b1b1b;
+$primary-color-titles-primary: #89ad12;
+$header-background-image: '../../projects/vegetexia/img/header-bg.png';
+
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+$primary-font-family: 'Playfair Display', serif;
+
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: $primary-color-dark;
+
+}
+h2 {
+	color: $primary-color-titles-primary;
+	//font-family: $primary-font-family;
+}
+h3 {
+	color: $primary-color-dark;
+	//font-family: $primary-font-family;
+}
+h4 {
+	color: $primary-color-titles-primary;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+			@media (max-width: 1440px) {
+    			background-position: 100% bottom;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color-second;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}
+}
+.rd-mobilepanel_toggle {
+	span{
+		background-color: #000000;
+		&:before, &:after{
+			background-color: #000000;
+		}
+	}
+	
+}
+
+.rd-mobilepanel_title {
+	font-size: 60px;
+	font-weight:400;
+	top:115px;
+	width: 400px;
+	line-height: 45px;
+}
+
+.tm-title-caption {
+	font-size: 18px;
+	top: 213px;
+	font-family: $primary-font-family;
+    color: $primary-color-light;
+    line-height: 36px;
+    width: 481px;
+}
+@media (max-width: 1600px) and (min-width: 1440px){
+	.tm-title-caption {	
+		width:198px;
+	}
+}
+@media (max-width: 1800px) and (min-width: 1601px){
+	.tm-title-caption {	
+		width:300px;
+	}
+}
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color;
+	}
+}
+.rd-mobilemenu_ul{
+	ul{
+		a{
+			&.focus{
+				color: $primary-color-titles-primary;
+			}
+		}
+	}
+}  
+
+.toTop {
+	background-color: $primary-color-second;
+	color: #000;
+	&:hover {
+    	background-color:$primary-color-titles-primary;
+	}
+}

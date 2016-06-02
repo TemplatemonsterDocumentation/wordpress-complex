@@ -220,39 +220,46 @@
                 p = $('.rd-mobilepanel'),
                 st_before = 0,
                 fz = parseInt($('.rd-mobilepanel_title').css('font-size'), 10);
+                fzc = parseInt($('.tm-title-caption').css('font-size'), 10);
 
                 console.log(p.innerHeight());
 
-            function resizePanel() {
+            function resizePanel( animate ) {
                 var p = $('.rd-mobilepanel'),
                     t = $('.rd-mobilepanel_title'),
                     tc = $('.tm-title-caption'),
                     st = $(document).scrollTop();
 
-                    console.log();
+                animate = !( ! animate ) || false;
 
+				function css_props( props ) {
+					if ( ! animate ) {
+						props.transform = null;
+					}
+					return props;
+				}
 
                 function resize() {
                     p.removeClass('fixed');
                     $('body').removeClass('navbar-stickup').removeClass('navbar-fixed');
                     if (st > st_before && !p.hasClass('fixed')) {
-                        t.css({
+                        t.css( css_props( {
                             "transform": "translateY(" + (st / 4) + "px)",
                             "font-size": fz/* - st / 6.7*/
-                        });
-                        tc.css({
+                        } ) );
+                        tc.css( css_props( {
                             "transform": "translateY(" + (st / 8) + "px)",
-                            "font-size": 32 /*- st / 25*/
-                        });
+                            "font-size": fzc /*- st / 25*/
+                        } ) );
                     } else {
-                        t.css({
+                        t.css( css_props( {
                             "transform": "translateY(" + (st / 4) + "px)",
                             "font-size": fz - st / 6.7
-                        });
-                        tc.css({
+                        } ) );
+                        tc.css( css_props( {
                             "transform": "translateY(" + (st / 4) + "px)",
-                            "font-size": 32 - st / 25
-                        });
+                            "font-size": fzc - st / 25
+                        } ) );
                     }
                 }
 
@@ -261,18 +268,18 @@
                     p.addClass('fixed');
                     //p.addClass('fixed').slideUp(500);
 
-                    t.css({
+                    t.css( css_props( {
                         "transform": "translateY(50.25px)",
                         "font-size": 24
-                    });
+                    } ) );
 
-                    tc.css({
+                    tc.css( css_props( {
                         "transform": "translateY(50.25px)"
-                    });
+                    } ) );
                     //p.addClass('fixed').css({"transition": "height 0.1s ease-out 0.1s"});
                 }
 
-            if ($(window).width() > 1067) {
+            	if ($(window).width() > 1067) {
                      if (st < 546 && 'introduction' === $('body').data('section')) {
                          resize();
                      } else {
@@ -287,9 +294,13 @@
                 st_before = st;
             }
 
-            $(window).on('scroll', resizePanel);
-            $(window).on('resize', resizePanel);
-            resizePanel();
+			function handler() {
+				resizePanel( true );
+			}
+
+            $(window).on('scroll', handler);
+            $(window).on('resize', handler);
+            resizePanel( false );
         },
 
         createItemScrollListener: function () {

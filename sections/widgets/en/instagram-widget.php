@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Client ID</dt>
             <dd>
-                Here you can define Client ID to show this account images on your website.
+                Here you can define the Client ID to show the account images on your website
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Hashtag (enter without `#` symbol)</dt>
             <dd>
-                Here you can set a hashtag to display images, selected by this property
+                Here you can set a hashtag to display the images, selected by this property
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Number of photos </dt>
             <dd>
-                This property defines number of images to show
+                This property defines the number of images to show
             </dd>
         </dl>
     </li>

@@ -16,7 +16,7 @@ h4 {
   background-position: 66% top; }
   @media (max-width: 1440px) {
     .page-content.active .rd-mobilepanel {
-      background-position: 100% top; } }
+      background-position: 100% bottom; } }
 
 .rd-mobilepanel {
   background-color: #f6f8f7;
@@ -28,7 +28,7 @@ h4 {
   @media (max-width: 1440px) {
     .rd-mobilepanel {
       background-size: 60% auto;
-      background-position: 600px top; } }
+      background-position: 600px bottom; } }
 
 [data-section="introduction"] .rd-mobilepanel {
   background-image: url("../../projects/gadnews/img/header-bg.png");
@@ -53,6 +53,9 @@ body:not([data-section="introduction"]) .tm-title-caption {
   width: 400px;
   font-family: "Merriweather", serif; }
 
+@media (max-width: 1600px) and (min-width: 1400px) {
+  .tm-title-caption {
+    width: 200px; } }
 .rd-mobilemenu .logo {
   background-color: #FFFFFF; }
 

@@ -1,10 +1,10 @@
 <h3>Create products</h3>
 
 <ul class="index-list">
-    <li>Click on the Products sidebar menu and click on “Add Product” button. Enter a name for
+    <li>Open the Products sidebar menu and click the “Add Product” button. Enter a name for
         your product at the top of the page.
     </li>
-    <li>Enter the product description text into the post content field, this will be all the
+    <li>Enter the product description text into the post content field, it should contain all the
         product information.
     </li>
     <li>The “Product Data” box is where you enter all the product details (price, SKU,

@@ -10,21 +10,21 @@
 <figure class="img-polaroid">
     <img alt="" src="img/third_party_plugins/contact-form-0.png">
 </figure>
-third_party_plugins
 
-<p>Just after installing the Contact Form 7 plugin, you’ll see a default form named <strong>“Contact form 1″</strong> and a code like this:</p>
+
+<p>Just after installing the Contact Form 7 plugin, you’ll see a default form - <strong>“Contact form 1″</strong> and a code like this:</p>
 <pre class="prettyprint">[contact-form-7 id="1234" title="Contact form 1"]</pre>
 
-<p>Copy this code. Then open the edit menu (<strong>'Pages -> Edit'</strong>) of the page where you wish to place the contact form. A popular practice is creating a page named 'Contact' for the contact form page. Paste the code you copied into the contents of the page.</p>
+<p>Copy this code. Then open (<strong>'Pages -> Edit'</strong>) of the page where you wish to place the contact form. A popular practice is creating a page named 'Contact' for the contact form page. Paste the code you've copied into the contents of the page.</p>
 
 <p>Now your contact form setup is complete. Your site visitors can now find the form and start submitting messages to you.</p>
 
 <p>Next, let’s see how you can customize your form and mail content.</p>
 
 <h4>Customizing a Form</h4>
-<p>Title for this contact form(<strong>1</strong>). This title is just a label for a contact form and is used only for administrative purposes. You can use any title you like, e.g. “Job Application Form,” “Form for Event 2016/01/01″ and so on.</p>
+<p>Title for this contact form is (<strong>1</strong>) which is just a label for a contact form and is used for administrative purposes only. You can use any title you like, e.g. “Job Application Form,” “Form for Event 2016/01/01″ and so on.</p>
 
-<p>Shortcode for this contact form (<strong>2</strong>). Copy this code and paste it into your post, page or text widget where you want to place this contact form.</p>
+<p>Shortcode for this contact form is(<strong>2</strong>). Copy this code and paste it into your post, page or text widget where you want to place this contact form.</p>
 <figure class="img-polaroid">
     <img alt="" src="img/third_party_plugins/contact-form-1.png">
 </figure>
@@ -40,7 +40,7 @@ third_party_plugins
 
 <h5>Mail Tab</h5>
 
-<p>You can edit the mail template for mail which is sent in response to a form submission. You can use <a href="http://contactform7.com/tag-syntax/#mail_tag"  target="_blank">mail-tags</a> in these fields.</p>
+<p>You can edit the mail template for the mail which is sent in response to a form submission. You can use <a href="http://contactform7.com/tag-syntax/#mail_tag"  target="_blank">mail-tags</a> in these fields.</p>
 
 <p>An additional mail template is also available. It is called Mail(2) and its content can differ from the primary Mail template. </p>
 
@@ -48,9 +48,9 @@ third_party_plugins
 
 <h5>Messages Tab</h5>
 
-<p>You can edit messages that are used for various situations, including “Validation errors occurred,” “Please fill in the required field,” etc.</p>
+<p>You can edit various kinds of messages, including “Validation errors occurred,” “Please fill in the required field,” etc.</p>
 
-<p>Note that only plain text is available here. HTML tags and entities are not allowed in the message fields.</p>
+<p>Make sure that only plain text is available here. HTML tags and entities are not allowed in the message fields.</p>
 
 <h5>Additional Settings Tab</h5>
-<p>You can add customization code snippets here. For details, see <a href="http://contactform7.com/additional-settings/"  target="_blank">Additional Settings</a>.</p>
+<p>You can add customization code snippets here. For more details, see <a href="http://contactform7.com/additional-settings/"  target="_blank">Additional Settings</a>.</p>

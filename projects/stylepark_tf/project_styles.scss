@@ -1,0 +1,119 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #7d16ee;
+$primary-color-second: #323137;
+$primary-color-light: #FFFFFF;
+$header-background-image: '../../projects/stylepark_tf/img/header-bg.png';
+
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,700);
+$primary-font-family: 'Poppins', sans-serif;
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: $primary-color-light;
+
+}
+h2 {
+	color: $primary-color;
+	//font-family: $primary-font-family;
+}
+h3 {
+	color: $primary-color-second;
+	//font-family: $primary-font-family;
+}
+h4 {
+	color: $primary-color;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+			@media (max-width: 1440px) {
+    			background-position: 100% bottom;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color-second;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}
+}
+
+ .rd-mobilepanel_title {
+	font-size: 70px;
+
+}
+
+.tm-title-caption {
+	font-size: 30px;
+	top: 166px;
+	font-family: $primary-font-family;
+    color: $primary-color-light;
+    line-height: 36px;
+    width: 430px;
+}
+
+@media (max-width: 1800px) and (min-width: 1601px){
+	.tm-title-caption {	
+		width:300px;
+	}
+}
+@media (max-width: 1600px) and (min-width: 1440px){
+	.tm-title-caption {	
+		width:185px;
+	}
+}
+@media (max-width: 1439px) and (min-width: 1400px) {
+	.tm-title-caption {	
+		width:375px;
+	}
+}
+@media (max-width: 1399px) {
+	.tm-title-caption {	
+		width:383px;
+	}
+}
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color;
+	}
+}
+
+.toTop {
+	background-color: $primary-color;
+	&:hover {
+    	background: lighten($primary-color, 20%);
+	}
+}

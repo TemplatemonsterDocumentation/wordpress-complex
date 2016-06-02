@@ -16,7 +16,7 @@ h4 {
   background-position: 66% top; }
   @media (max-width: 1440px) {
     .page-content.active .rd-mobilepanel {
-      background-position: 100% top; } }
+      background-position: 100% bottom; } }
 
 .rd-mobilepanel {
   background-color: #fe7646;
@@ -28,7 +28,7 @@ h4 {
   @media (max-width: 1440px) {
     .rd-mobilepanel {
       background-size: 60% auto;
-      background-position: 600px top; } }
+      background-position: 600px bottom; } }
 
 [data-section="introduction"] .rd-mobilepanel {
   background-image: url("../../projects/blogetti/img/header-bg.png");
@@ -43,15 +43,28 @@ body:not([data-section="introduction"]) .tm-title-caption {
 
 .rd-mobilepanel_title {
   font-size: 82px; }
+  @media (max-width: 1700px) {
+    .rd-mobilepanel_title {
+      top: 18px; } }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel_title {
+      top: 18px; } }
 
 .tm-title-caption {
-  font-size: 32px;
+  font-size: 30px;
   font-weight: 700;
   top: 200px;
   font-family: "Noto Serif", serif;
   color: #FFFFFF;
   line-height: 36px;
   width: 430px; }
+  @media (max-width: 1700px) {
+    .tm-title-caption {
+      width: 200px;
+      top: 145px; } }
+  @media (max-width: 1440px) {
+    .tm-title-caption {
+      width: 400px; } }
 
 .rd-mobilemenu .logo {
   background-color: #312f44; }

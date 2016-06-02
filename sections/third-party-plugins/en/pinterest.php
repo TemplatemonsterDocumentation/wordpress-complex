@@ -1,26 +1,27 @@
 <h3>Pinterest Widgets</h3>
 
-<p>WordPress <a href="https://wordpress.org/plugins/pinterest-widgets/" target="_blank">Pinterest Widgets plugin</a> is an nice tool to create and display multiple pinterest widget on your Wordpress Websites </p>
+<p>WordPress <a href="https://wordpress.org/plugins/pinterest-widgets/" target="_blank">Pinterest Widgets plugin</a> is an nice tool to create and display multiple pinterest widget on your Wordpress Websites. </p>
 
-<p>This Pinterest Widgets plugin allows website owners to create nice and functional Pinterest widgets just in a few minutes.  It's very easy to use and no coding skills required to have the job done.</p>
+<p>This Pinterest Widgets plugin allows website owners to create nice and functional Pinterest widgets just in a few minutes. No coding skills required to have the job done.</p>
 	
 <figure class="img-pinterest">
-	<img src="img/third_party_plugins/pinterest.png" alt="">
+	<img src="img/pinterest/pinterest.png" alt="">
 </figure>
+
 <h4>Installing Pinterest plugin</h4>
 
 <ol class="index-list">
 	<li><p> First install our plugin. Make sure you have activated it</p></li>
-	<li><p> Pinterest Widget Plus is a widget so you have to get in to widget area and Drag and Drop it on your widget positions.</p></li>
-	<li><p> Then click "Add new" then type the Pinterest Widgets in the search field</p></li>
+	<li><p> Pinterest Widget Plus is a widget, so you have to get in to widget area and Drag and Drop it on your widget positions</p></li>
+	<li><p> Then click "Add new" and type the Pinterest Widgets in the search field</p></li>
 	<li><p> Install and activate our Pinterest Widgets plugin</p></li>
-	<li><p> To make the widget work perfectly you need to know some informations:</p></li>
+	<li><p> To make the widget work perfectly you need to fill out some fields:</p></li>
 	<ul class="marked-list">
 	<li>
 		Title: Title of your widget. It can be anything you wish
 	</li>
 	<li>
-		Pinterest Username: Pinterest Username - If your pinterest profile url is- <a href="http://www.pinterest.com/BritneySpears" target="_blank"></a> then your pinterest username will be : BritneySpears so pattern is : <a href="http://www.pinterests.com/YOUR_PINTEREST_USERNAME" target="_blank"></a>
+		Pinterest Username: Pinterest Username - If your pinterest profile url is- <a href="http://www.pinterest.com/BritneySpears" target="_blank">Britney Spears</a> then your pinterest username will be : BritneySpears so pattern is : <strong>http://www.pinterests.com/YOUR_PINTEREST_USERNAME</strong>
 	</li>
 	<li>	
 		Image Width: Image scale width of Pinterest Pins images showing on site. Height will scaled auto

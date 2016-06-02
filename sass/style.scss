@@ -253,6 +253,9 @@ b, strong {
   padding-right: 5px;
   font-weight: 700;
 }
+.italic{
+  font-style: italic;
+}
 
 /*=======================================================
                         Components
@@ -287,6 +290,28 @@ b, strong {
   > li {
     position: relative;
     padding-left: 20px;
+    &:before{
+      content: '';
+      position: absolute;
+      top: 10px;
+      left: 2px;
+      width: 4px;
+      height: 4px;
+      border: 1px solid #000;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      border-radius: 50%;
+    }
+  }
+
+  & + li { margin-top: 10px; }
+}
+/*===============  Marked List Bold ==================*/
+.marked-list_bold{
+  > li {
+    position: relative;
+    padding-left: 20px;
+    font-weight: bold;
     &:before{
       content: '';
       position: absolute;
@@ -484,3 +509,18 @@ footer {
 .copyright {
   margin: 0;
 }
+
+/*========================================================
+                     CODEBOX  Styles
+=========================================================*/
+.codebox{
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.1), 0 5px 5px 0 rgba(0, 0, 0, 0.1);
+      font-size: 17px;
+      background-color:#f4f4f4;
+      padding: 30px;
+      line-height: 31px;
+        span {
+          display:block;
+          padding-left: 40px;
+        }
+  }

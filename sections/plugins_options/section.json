@@ -1,0 +1,60 @@
+{
+	"id": "plugins_options",
+	"translations": {
+		"en": "Options",
+		"ru": "Плагины"
+	},
+	"articles": {
+		"tm-woocommerce": [
+			{
+				"id": "orders",
+				"translations": {
+					"en": "Orders",
+					"ru": "Orders"
+				}
+			},
+			{
+				"id": "coupons",
+				"translations": {
+					"en": "Coupons",
+					"ru": "Coupons"
+				}
+			},
+			{
+				"id": "reports",
+				"translations": {
+					"en": "Reports",
+					"ru": "Reports"
+				}
+			},
+			{
+				"id": "settings",
+				"translations": {
+					"en": "Settings",
+					"ru": "Settings"
+				}
+			},
+			{
+				"id": "system-status",
+				"translations": {
+					"en": "System Status",
+					"ru": "System Status"
+				}
+			},
+			{
+				"id": "addons",
+				"translations": {
+					"en": "Add ons",
+					"ru": "Add ons"
+				}
+			},
+			{
+				"id": "booster-tools",
+				"translations": {
+					"en": "Booster Tools",
+					"ru": "Booster Tools"
+				}
+			}
+		]
+	}
+}

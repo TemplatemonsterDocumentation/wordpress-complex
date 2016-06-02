@@ -40,7 +40,7 @@
         <dl class="inline-term">
             <dt>Social</dt>
             <dd>
-                Select navigation menu, that will be used for social networks.
+                Select navigation menu, that will be used for social networks
             </dd>
         </dl>
     </li>

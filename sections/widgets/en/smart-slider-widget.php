@@ -17,6 +17,14 @@
     </li>
     <li>
         <dl class="inline-term">
+            <dt>Choose taxonomy type</dt>
+            <dd>
+                Select taxonomy type of the slides
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
             <dt>Select category</dt>
             <dd>
                 Here you can select a category to pull slides from
@@ -25,9 +33,17 @@
     </li>
     <li>
         <dl class="inline-term">
+            <dt>Select tags</dt>
+            <dd>
+                Here you can select tags to pull slides from
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
             <dt>Posts count</dt>
             <dd>
-                This property defines number of posts / slides to display
+                This property defines the number of posts / slides to display
             </dd>
         </dl>
     </li>
@@ -67,7 +83,7 @@
         <dl class="inline-term">
             <dt>Content words trimmed count</dt>
             <dd>
-                This property defines excerpt limit by choosing number of words from post's content.
+                This property defines the excerpt words limit by choosing the number of words from post's content
             </dd>
         </dl>
     </li>
@@ -75,7 +91,7 @@
         <dl class="inline-term">
             <dt>Slider width</dt>
             <dd>
-                This property defines slider width
+                This property defines the slider width
             </dd>
         </dl>
     </li>
@@ -83,7 +99,7 @@
         <dl class="inline-term">
             <dt>Slider height</dt>
             <dd>
-                This property defines slider height
+                This property defines the slider height
             </dd>
         </dl>
     </li>
@@ -99,7 +115,7 @@
         <dl class="inline-term">
             <dt>Slide distance(px)</dt>
             <dd>
-                This property specifies distance between slides in px.
+                This property specifies distance between slides in px
             </dd>
         </dl>
     </li>
@@ -131,7 +147,7 @@
         <dl class="inline-term">
             <dt>Indicates whether the arrows will fade in only on hover</dt>
             <dd>
-                This property specifies whether the arrows will fade in only on hover.
+                This property specifies whether the arrows will fade in only on hover
             </dd>
         </dl>
     </li>
@@ -163,7 +179,7 @@
         <dl class="inline-term">
             <dt>Indicates if the slides will be shuffled</dt>
             <dd>
-                This property specifies whether to shuffle slides randomly, is disabled by default.
+                This property specifies whether to shuffle slides randomly, is disabled by default
             </dd>
         </dl>
     </li>
@@ -171,7 +187,7 @@
         <dl class="inline-term">
             <dt>Use infinite scrolling?</dt>
             <dd>
-                This property specifies whether to enable/disable infinite scrolling on sliding.
+                This property specifies whether to enable/disable infinite scrolling on sliding
             </dd>
         </dl>
     </li>
@@ -179,7 +195,7 @@
         <dl class="inline-term">
             <dt>Display thumbnails?</dt>
             <dd>
-                Here you can define whether to Hide/Show slide thumbnails below the slider.
+                Here you can define whether to Hide/Show slide thumbnails below the slider
             </dd>
         </dl>
     </li>
@@ -195,7 +211,7 @@
         <dl class="inline-term">
             <dt>Sets the position of the thumbnail scroller</dt>
             <dd>
-                This property sets the position of the thumbnail scroller. By default it is set to bottom.
+                This property sets the position of the thumbnail scroller. It is set to bottom by default
             </dd>
         </dl>
     </li>

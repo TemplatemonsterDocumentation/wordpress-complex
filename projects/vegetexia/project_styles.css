@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+h1 {
+  font-family: "Playfair Display", serif;
+  color: #1b1b1b; }
+
+h2 {
+  color: #89ad12; }
+
+h3 {
+  color: #1b1b1b; }
+
+h4 {
+  color: #89ad12; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #ffd884;
+  background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/vegetexia/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_toggle span {
+  background-color: #000000; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #000000; }
+
+.rd-mobilepanel_title {
+  font-size: 60px;
+  font-weight: 400;
+  top: 115px;
+  width: 400px;
+  line-height: 45px; }
+
+.tm-title-caption {
+  font-size: 18px;
+  top: 213px;
+  font-family: "Playfair Display", serif;
+  color: #626262;
+  line-height: 36px;
+  width: 481px; }
+
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .tm-title-caption {
+    width: 198px; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .tm-title-caption {
+    width: 300px; } }
+.rd-mobilemenu .logo {
+  background-color: #eff2bc; }
+
+.rd-mobilemenu_ul ul a.focus {
+  color: #89ad12; }
+
+.toTop {
+  background-color: #ffd884;
+  color: #000; }
+  .toTop:hover {
+    background-color: #89ad12; }

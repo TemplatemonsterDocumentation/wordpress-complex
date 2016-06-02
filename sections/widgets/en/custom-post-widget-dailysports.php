@@ -9,7 +9,7 @@
     <ul class="marked-list">
     <li>
         <dl class="inline-term">
-            <dt>Widget Title</dt>
+            <dt> Title</dt>
             <dd>
                 This property specifies the widget title
             </dd>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Select Category</dt>
             <dd>
-                Select category to use for posts display.
+                Select category to pull the posts from
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Select post format</dt>
             <dd>
-                Select a proper post format from the dropdown list. 
+                Select a proper post format from the dropdown list 
             </dd>
         </dl>
     </li>
@@ -52,7 +52,7 @@
         <dl class="inline-term">
             <dt>Offset post </dt>
             <dd>
-                This property specifies number of post to displace or pass over.
+                This property specifies the number of posts to displace or pass over
             </dd>
         </dl>
     </li>
@@ -60,7 +60,7 @@
         <dl class="inline-term">
             <dt>Title words length </dt>
             <dd>
-                This property sets the number of words limit for post's title. Set 0 to hide title.
+                This property sets the number of words limit for the post's title. Set 0 to hide the title
             </dd>
         </dl>
     </li>
@@ -69,7 +69,7 @@
         <dl class="inline-term">
             <dt>Excerpt words length</dt>
             <dd>
-                This property sets the number of words limit for excerpt.
+                This property sets the excerpt words limit 
             </dd>
         </dl>
     </li>

@@ -5,14 +5,14 @@
 
     <p>WordPress is a free open-source blogging tool and content management system (CMS) based on PHP and MySQL. With
     its help you can create and administrate websites or powerful on-line applications without possessing any special
-    technical skills. Due to the ease of use and flexibility WordPress has become the most popular
+    technical skills. Due to the ease of use and flexibility, WordPress has become the most popular
     platform for website development.
     <a href="http://wordpress.org/about/" target="_blank">Learn More</a>
     </p>
 </article>
 <article id="whatistemplate">
     <h3>What is a WordPress Template?</h3>
-    <p>A WordPress template is a theme for the WordPress CMS platform. You can easily change your website appearance by installing a new WordPress template in a few easy steps. Despite its simplicity, a WordPress template contains all the necessary source files that can be altered the way you need.</p>
+    <p>WordPress template is a theme for the WordPress CMS platform. You can easily change your website appearance by installing a new WordPress template in a few easy steps. Despite its simplicity, a WordPress template contains all the necessary source files that can be altered the way you need.</p>
 </article>
 <article id="structure">
     <h3>Template Structure</h3>
@@ -38,7 +38,7 @@
                         </dt>
                         <dd>
                             archive with the theme (child theme). Contains all theme files.
-                            It must be installed through WordPress extension manager.
+                            It must be installed through the WordPress extension manager.
                         </dd>
                     </dl>
                 </li>
@@ -48,7 +48,7 @@
                             <i class="fa fa-folder"></i> <strong>sample_data</strong>
                         </dt>
                         <dd>
-                            contains the files that make the WordPress website look like our live
+                            contains the files that make the WordPress website look like on our live
                             demo.
                         </dd>
                     </dl>
@@ -82,7 +82,7 @@
                             <i class="fa fa-folder"></i> <strong>manual_install</strong>
                         </dt>
                         <dd>
-                            contains files that make the WordPress website look like our live demo.
+                            contains files that make the WordPress website look like on our live demo.
                         </dd>
                     </dl>
 
@@ -193,7 +193,7 @@
     		<li>suPHP</li>
     	</ol>
 
-    	<p>You can also install WordPress on your PC or laptop through a local server. You can use the following software to create a local server: <strong>WAMP</strong>, <strong>AppServ</strong>, <strong>MAMP</strong>, etc. All of these support WordPress and can be installed as regular software.</p>
+    	<p>You can also install WordPress on your PC or laptop through a local server. You can use the following software to create a local server: <strong>WAMP</strong>, <strong>AppServ</strong>, <strong>MAMP</strong>, etc. All of these support WordPress and can be installed as a regular software.</p>
     	<p>These tutorials will help you set up the local server:</p>
     	<ul class="marked-list">
     		<li><a href="http://www.templatemonster.com/help/how-to-install-appserv-web-development-environment.html" target="_blank">How to install AppServ web development environment</a></li>

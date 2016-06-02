@@ -1,7 +1,9 @@
 <h3>Booked - Appointment Booking</h3>
 
 <p>Booked is a powerful and easy-to-use appointment booking plugin for WordPress.</p>
-
+<figure class="img-polaroid">
+        <img src="projects/bedentist/img/third-party-plugins/booked.png">
+</figure>
 
 <h4>Create a Profile Page</h4>
 
@@ -90,7 +92,7 @@
 		If this is a new customer, you can quickly add them as a new user by using the registration fields. The first name and email are the only required fields.		
 	</li>
 	<li>
-		When the appointment is booked, the user will get an email welcoming them to the site (with a username/password) as well as a appointment confirmation email. These emails can be customized/turned off from the Booked Settings panel.		
+		When the appointment is booked, the user will get an email welcoming them to the site (with a username/password) as well as an appointment confirmation email. These emails can be customized/turned off from the Booked Settings panel.		
 	</li>
 </ol>
 
@@ -106,7 +108,7 @@
 
 <h4>Default Time Slots</h4>
 
-<p>Setting your default time slots is at the heart of the Booked plugin. Each day is given default time slots. For example, if your business is open Monday – Friday from 8:00am – 4:00pm and you have 2 employees available every hour, you would create 2 times slots every hour from 8–4, Monday – Friday.</p>
+<p>Setting your default time slots is at the heart of the Booked plugin. Each day is assigned to default time slots. For example, if your business is open on Monday – Friday from 8:00am – 4:00pm and you have 2 employees available every hour, you would create 2 times slots every hour from 8–4, Monday – Friday.</p>
 
 <h5>BULK TIME SLOT ENTRY</h5>
 
@@ -132,7 +134,7 @@
 		Choose "2 time slots" as the last option, and then click "Add".
 	</li>
 	<li>
-		Your available time slots for that day will then be added and your customers can start booking appointments!
+		Your available time slots for that day will then be added and your customers can start booking the appointments!
 	</li>
 </ol>
 
@@ -182,7 +184,7 @@
 	</li>
 </ol>
 
-<p>For more information, please visit <a href="https://www.youtube.com/watch?v=bD-BcS7p4vQ" target="blank">videotutorial</a></p>
+<p>For more information, please visit <a href="https://www.youtube.com/watch?v=bD-BcS7p4vQ" target="blank">video tutorial</a></p>
 
 <h4>Adding Vacation/Closed Dates</h4>
 

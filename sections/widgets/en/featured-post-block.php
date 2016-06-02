@@ -9,7 +9,7 @@
 
 
 
-<?php if ($project == 'gadnews' OR $project == 'kingnews') { ?>
+<?php if ($project == 'gadnews' OR $project == 'kingnews' OR $project == 'weeklyjournal' OR $project == 'globera') { ?>
 
 	<h5>Layout</h5>
 

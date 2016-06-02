@@ -23,7 +23,7 @@
         <dl class="inline-term">
             <dt>Full Width</dt>
             <dd>
-            	Wide layout will fit window width.
+            	Wide layout will fit window width
             </dd>
         </dl>
     </li>

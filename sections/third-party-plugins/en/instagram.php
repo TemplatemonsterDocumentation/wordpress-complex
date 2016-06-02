@@ -1,6 +1,6 @@
 <h3>WP Instagram</h3>
 
-<p>Showcase your latest Instagram photos to a wider audience this <a href="https://wordpress.org/plugins/wp-instagram-widget/" target="_blank">WP Instagram Widget plugin</a>. There is no need to dign in via oAuth or specify your login details. </p>
+<p>Showcase your latest Instagram photos to a wider audience with this <a href="https://wordpress.org/plugins/wp-instagram-widget/" target="_blank">WP Instagram Widget plugin</a>. There is no need to sign in via oAuth or specify your login details. </p>
 
 <figure class="img-pinterest">
 	<img src="img/third_party_plugins/instagram_widget.png" alt="">
@@ -18,7 +18,7 @@
 <ol class="index-list">
 	<li><p> Navigate to the "Plugins" section on the left navigation panel </p></li>
 	<li><p> Click the "Add New" button at the top</p></li>
-	<li><p> Type WP Instagram Widget i9n the search field </p></li>
+	<li><p> Type WP Instagram Widget in the search field </p></li>
 	<li><p> Click "Install now" </p></li>
 </ol>	
 <p>

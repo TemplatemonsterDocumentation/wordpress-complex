@@ -45,3 +45,15 @@
         </dl>
     </li>
 </ul>
+<?php if ($project == 'bitnews') { ?>
+    <ul class="marked-list">
+        <li>
+            <dl class="inline-term">
+                <dt>Show primary or secondary sidebars at homepage/frontpage </dt>
+                <dd>
+                    Hide/Show sidebars on the homepage
+                </dd>
+            </dl>
+        </li>
+    </ul>
+<?php } ?>

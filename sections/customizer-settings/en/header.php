@@ -31,7 +31,7 @@
         <dl class="inline-term">
             <dt>Background Repeat</dt>
             <dd>
-                This property sets if a background image will be repeated, or not. By default, a background-image is repeated both vertically and horizontally.
+                This property sets if a background image will be repeated, or not. By default, a background-image is repeated both vertically and horizontally
             </dd>
         </dl>
     </li>
@@ -39,7 +39,7 @@
         <dl class="inline-term">
             <dt>Background Position</dt>
             <dd>
-                This property sets the starting position of a background image. By default, a background-image is placed at the top-left corner.
+                This property sets the starting position of a background image. By default, a background-image is placed at the top-left corner
             </dd>
         </dl>
     </li>
@@ -48,7 +48,7 @@
         <dl class="inline-term">
             <dt>Background Attachment</dt>
             <dd>
-                This property sets whether a background image is fixed or scrolls with the rest of the page. By default, a background attachment is scroll.
+                This property sets whether a background image is fixed or scrolls with the rest of the page. By default, a background attachment is scroll
             </dd>
         </dl>
     </li>
@@ -92,6 +92,16 @@
             </dd>
         </dl>
     </li>
+    <?php if ($project == 'bitnews') { ?>
+        <li>
+            <dl class="inline-term">
+                <dt>Display Top Panel</dt>
+                <dd>
+                    Show/hide top panel
+                </dd>
+            </dl>
+        </li>
+    <?php } ?>
 </ul>
 
 <h5>Main Menu</h5>
@@ -103,7 +113,7 @@
         <dl class="inline-term">
             <dt>Enable sticky menu </dt>
             <dd>
-                Enable\disable fixed stick-to-top main menu.
+                Enable\disable fixed stick-to-top main menu
             </dd>
         </dl>
     </li>

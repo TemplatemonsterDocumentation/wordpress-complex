@@ -1,0 +1,115 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #1f93f5;
+$primary-color-headlines: #141414;
+$primary-color-light: #FFFFFF;
+$primary-color-dark: #000000;
+$header-background-image: '../../projects/weeklyjournal/img/header-bg.png';
+
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+
+$primary-font-family: 'Libre Baskerville', serif;
+
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: $primary-color-light;
+}
+h2 {
+	color: $primary-color-headlines;
+	//font-family: $primary-font-family;
+	color: $primary-color;
+}
+h3 {
+	color: $primary-color-dark;
+	//font-family: $primary-font-family;
+}
+h4 {
+	color: $primary-color-dark;
+	color: $primary-color;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+			@media (max-width: 1440px) {
+    			background-position: 100% bottom;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+		font-size: 20px;
+	}
+}
+
+ .rd-mobilepanel_title {
+	font-size: 55px;
+	top: 86px;
+}
+
+.tm-title-caption {
+	font-size: 28px;
+	top: 182px;
+    color: $primary-color-light;
+    line-height: 46px;
+    font-family: $primary-font-family;
+}
+
+
+@media (max-width: 1600px) and (min-width: 1440px){
+	.tm-title-caption {	
+		width:185px;
+	}
+}
+
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color-dark;
+	}
+}
+.toTop {
+	background-color: $primary-color;
+	&:hover {
+    	background: lighten($primary-color-headlines, 20%);
+	}
+}
+
+.rd-mobilepanel_toggle span::after,
+.rd-mobilepanel_toggle span::before,
+.rd-mobilepanel_toggle span {
+	background-color: $primary-color-light;
+}

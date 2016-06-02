@@ -38,23 +38,23 @@
 				Adds button to the section
             </dd>
         </dl>
-        <ul class="marked-list">
-            <li>
-                <dl class="inline-term">
-                    <dt>Button Url </dt>
-                    <dd>
-                    Specify the URL address of the button
-                    </dd>
-                </dl>    
-            </li>
-            <li>
-                <dl class="inline-term">
-                    <dt>Button Text </dt>
-                    <dd>
-                    Specify the button text
-                    </dd>
-                </dl>    
-            </li>
-        </ul>
+    </li>    
+    <li>
+        <dl class="inline-term">
+            <dt>Button Url </dt>
+            <dd>
+            Specify the URL address of the button
+            </dd>
+        </dl>    
     </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Button Text </dt>
+            <dd>
+            Specify the button text
+            </dd>
+        </dl>    
+    </li>
+
+
 </ul>

@@ -29,6 +29,8 @@
         </dl>
     </li>
 
+
+<?php if ($project == 'dailysports') { ?>
     <li>
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
@@ -36,7 +38,97 @@
                 Third version of the main theme color
             </dd>
         </dl>
+    </li> 
+
+     <li>
+        <dl class="inline-term">
+            <dt>Accent color (4)</dt>
+            <dd>
+                Fourth version of the main theme color
+            </dd>
+        </dl>
     </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (5)</dt>
+            <dd>
+                Fifth version of the main theme color
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (6)</dt>
+            <dd>
+                Sixth version of the main theme color
+            </dd>
+        </dl>
+    </li>
+
+<?php } ?>
+
+<?php if ($project == 'wilson' OR $project == 'coffeera' OR $project == 'jewello') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (3)</dt>
+            <dd>
+                Third version of the main theme color
+            </dd>
+        </dl>
+    </li> 
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (4)</dt>
+            <dd>
+                Fourth version of the main theme color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (5)</dt>
+            <dd>
+                Fifth version of the main theme color
+            </dd>
+        </dl>
+    </li>
+
+<?php } ?>
+
+
+
+
+<?php if ($project == 'cosmetro' OR $project == 'kustrix' ) { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (3)</dt>
+            <dd>
+                Third version of the main theme color
+            </dd>
+        </dl>
+    </li> 
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (4)</dt>
+            <dd>
+                Fourth version of the main theme color
+            </dd>
+        </dl>
+    </li>
+<?php } ?>
+
+<?php if ($project == 'finestgame' or $project == 'sketchfield' or $project == 'clubstome' or $project == 'blogetti' or $project == 'neurion') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (3)</dt>
+            <dd>
+                Third version of the main theme color
+            </dd>
+        </dl>
+    </li> 
+<?php } ?>
+
 
     <li>
         <dl class="inline-term">
@@ -141,6 +233,8 @@
         </dl>
     </li>
 
+
+<?php if ( $project == 'wilson' OR $project == 'coffeera' OR $project == 'jewello') { ?>
     <li>
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
@@ -149,7 +243,90 @@
             </dd>
         </dl>
     </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (4)</dt>
+            <dd>
+                Fourth version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (5)</dt>
+            <dd>
+                Fifth version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
 
+<?php } ?>
+<?php if ( $project == 'dailysports') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (3)</dt>
+            <dd>
+                The third version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (4)</dt>
+            <dd>
+                Fourth version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (5)</dt>
+            <dd>
+                Fifth version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (6)</dt>
+            <dd>
+                Sixth version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+
+<?php } ?>
+
+
+<?php if ($project == 'finestgame' or $project == 'sketchfield' or $project == 'blogetti' or $project == 'neurion') { ?>
+     <li>
+        <dl class="inline-term">
+            <dt>Accent color (3)</dt>
+            <dd>
+                The third version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+<?php } ?>
+<?php if ( $project == 'cosmetro' OR $project == 'kustrix' ) { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (3)</dt>
+            <dd>
+                The third version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (4)</dt>
+            <dd>
+                Fourth version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+
+<?php } ?>
     <li>
         <dl class="inline-term">
             <dt>Text color</dt>

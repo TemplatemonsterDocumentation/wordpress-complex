@@ -4,7 +4,7 @@
 	
 <h4>Installing MailChimp for WordPress</h4>
 
-<p>Like other free WordPress plugins, installing the MailChimp for WordPress plugin is quite easy-going. All you need is a MailChimp account and a self-hosted website.</p>
+<p>Like other free WordPress plugins, installing the MailChimp for WordPress is quite an easy procedure. All you need is a MailChimp account and a self-hosted website.</p>
 
 <ol class="index-list">
 	<li><p>In your WordPress admin panel, go to <strong>Plugins > New Plugin</strong>, search for MailChimp for WordPress and click "<strong>Install now</strong>"</p></li>
@@ -13,7 +13,7 @@
 	<li><p>Set your <a href="https://login.mailchimp.com/?referrer=%2Faccount%2Fapi%2F" target="_blank">MailChimp API key</a> in the plugin settings.</p></li>
 </ol>
 <figure class="img-polaroid">
-	<img src="img/third_party_plugins/mailchimp-wp-1.png" alt="">
+        <img src="projects/<?php echo $project;?>/img/third-party-plugins/mailchimp-wp-1.png">
 </figure>
 
 
@@ -75,8 +75,8 @@
 		</li>
 	</ul>	
 <figure class="img-polaroid">
-	<img src="img/third_party_plugins/mailchimp-wp-2.png" alt="">
-</figure>	
+        <img src="projects/<?php echo $project;?>/img/third-party-plugins/mailchimp-wp-2.png">
+</figure>
 
 <h5>Form Messages</h5>
 <ul class="marked-list">
@@ -147,5 +147,5 @@
 	</ul>
 
 <figure class="img-polaroid">
-	<img src="img/third_party_plugins/mailchimp-wp-3.png" alt="">
-</figure>	
+        <img src="projects/<?php echo $project;?>/img/third-party-plugins/mailchimp-wp-3.png">
+</figure>

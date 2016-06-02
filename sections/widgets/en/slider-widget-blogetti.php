@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Category</dt>
             <dd>
-                Here you can select a category to pull slides from
+                Here you can select categories to pull slides from
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Tag</dt>
             <dd>
-                Here you can select a tag to pull slides from
+                Here you can select tags to pull slides from
             </dd>
         </dl>
     </li>
@@ -59,7 +59,7 @@
         <dl class="inline-term">
             <dt>Show arrows</dt>
             <dd>
-                Here you can define whether to Hide/Show navigation arrows
+                Here you can define whether to Hide/Show the navigation arrows
             </dd>
         </dl>
     </li>
@@ -68,7 +68,7 @@
         <dl class="inline-term">
             <dt>Show bullets</dt>
             <dd>
-                Here you can define whether to Hide/Show bullet dots
+                Here you can define whether to Hide/Show the bullet dots
             </dd>
         </dl>
     </li>
@@ -84,7 +84,7 @@
         <dl class="inline-term">
             <dt>Autoplay</dt>
             <dd>
-                This property specifies enable / disable autoplaying for slides
+                This property specifies whether enable / disable autoplaying for slides
             </dd>
         </dl>
     </li>

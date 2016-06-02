@@ -1,6 +1,6 @@
 <h3>Creating a Blog Post</h3>
 
-<p>To add a blog post you need to do the following:</p>
+<p>To add a blog post, you need to do the following:</p>
 
 <ol class="index-list">
     <li>Open the <strong>Posts</strong> tab.</li>

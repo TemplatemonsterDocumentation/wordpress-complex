@@ -1,6 +1,6 @@
 <h3>WordPress Importer</h3>
 <p>
-	The WordPress Importer will import the following content from a WordPress export file:
+	<a href="https://wordpress.org/plugins/wordpress-importer/"> WordPress Importer</a> will import the following content from a WordPress export file:
 </p>
 
 <ul>

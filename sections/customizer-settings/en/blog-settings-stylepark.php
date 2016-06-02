@@ -12,7 +12,7 @@
         <dl class="inline-term">
             <dt>Layout</dt>
             <dd>
-                Select grid layout pattern for pages with custom blog layout.
+                Select the grid layout pattern for pages with custom blog layout.
             </dd>
         </dl>
     </li>
@@ -21,7 +21,7 @@
         <dl class="inline-term">
             <dt>Featured Post Label</dt>
             <dd>
-            	This setting specify the featured Post Label
+            	This setting specifies the featured Post Label
             </dd>
         </dl>
     </li>
@@ -37,7 +37,7 @@
         <dl class="inline-term">
             <dt>Read More button text</dt>
             <dd>
-                This setting specify read more button label text.
+                This setting specifies the Read More button label text.
             </dd>
         </dl>
     </li>

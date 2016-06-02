@@ -1,4 +1,4 @@
-	<h3>Twitter</h3>
+	<h3>Easy Twitter Feed</h3>
 
 	<p>This widget is used to setup and display twitter timeline on the website.</p>
 

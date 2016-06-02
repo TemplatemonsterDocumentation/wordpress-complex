@@ -17,9 +17,9 @@
         </li>
         <li>
             <dl class="inline-term">
-                <dt>Number of posts to show</dt>
+                <dt>Number of comments to show</dt>
                 <dd>
-                    This property allows you to change the number of the displayed posts
+                    This property allows you to change the number of the displayed comments
                 </dd>
             </dl>
         </li>

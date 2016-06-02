@@ -17,9 +17,9 @@
     </li>
     <li>
         <dl class="inline-term">
-            <dt>Hashtag</dt>
+            <dt>User name</dt>
             <dd>
-                Here you can set a hashtag to display images, selected by this property (enter without `#` symbol).
+                Specify the user name of your Instagram account
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Number of photos </dt>
             <dd>
-                This property defines number of images to show
+                This property defines the number of images to show
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Client ID</dt>
             <dd>
-                Here you can define Client ID to show this account images on your website.
+                Here you can define the Client ID to show this account images on your website
             </dd>
         </dl>
     </li>

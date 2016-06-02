@@ -59,9 +59,9 @@ body:not([data-section="introduction"]) .tm-title-caption {
   background-color: #ffffff; }
 
 .toTop {
-  background-color: #141414; }
+  background-color: #ff4747; }
   .toTop:hover {
-    background: #474747; }
+    background: #ffadad; }
 
 .bold_text {
   font-weight: 600; }

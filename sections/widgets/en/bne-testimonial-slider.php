@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Order direction</dt>
             <dd>
-               This option allows you to switch between descendin and ascending order. NOTE: if the testimonial order is set to random this function disables automatically 
+               This option allows you to switch between descending and ascending order. NOTE: if the testimonial order is set to random this function is disabled automatically 
             </dd>
         </dl>
     </li>
@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Select Testimonial category</dt>
             <dd>
-                This property specifies a category to pull carousel slides from.
+                This property specifies a category to pull carousel slides from
             </dd>
         </dl>
     </li>
@@ -91,7 +91,7 @@
         <dl class="inline-term">
             <dt>Duration per Slide</dt>
             <dd>
-                Time each slide is displayed.  1000 is equivalent to 1 second
+                Duration of each displayed slide.  1000 is equivalent to 1 second
             </dd>
         </dl>
     </li>
@@ -131,7 +131,7 @@
         <dl class="inline-term">
             <dt>Featured Image Lightbox</dt>
             <dd>
-                Adds featured image lightbox. The image should use the "rel" attribute on the anchor tag. 
+                Adds featured image lightbox. The image should use the "rel" attribute on the anchor tag 
             </dd>
         </dl>
     </li>

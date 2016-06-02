@@ -21,7 +21,7 @@
 
 <?php } ?>
 
-
+	<h5>Post meta</h5>
 	<ul class="marked-list">
 	    <li>
 			Show post title

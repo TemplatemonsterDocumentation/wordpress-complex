@@ -11,7 +11,7 @@
         <dl class="inline-term">
             <dt>Title</dt>
             <dd>
-				Widget's text title (Leave blank to hide the widget title)
+				Widget text title (Leave blank to hide the widget title)
             </dd>
         </dl>
     </li>
@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Give Form</dt>
             <dd>
-                Select a Give Form from dropdown list to embed in this widget.
+                Select Give Form from the dropdown list to embed it in the widget
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Floating Labels (optional):</dt>
             <dd>
-                Override the floating labels setting for this Give form.
+                Override the floating labels setting for this Give form
             </dd>
         </dl>
     </li>
