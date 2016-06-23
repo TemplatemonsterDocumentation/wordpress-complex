@@ -167,5 +167,23 @@
 		"title": "TM WooCommerce Package",
 		"titleCaption": "multiple functional widgets",
 		"author": ""
+	},
+	"waylard": {
+		"textLogo": "",
+		"title": "Waylard",
+		"titleCaption": "Fashion blog",
+		"author": ""
+	},
+	"pristine": {
+		"textLogo": "",
+		"title": "Pristine",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"samson": {
+		"textLogo": "",
+		"title": "Samson",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
 	}
 }
