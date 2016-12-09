@@ -1,6 +1,6 @@
 	<h3>Track Kickstarter Project</h3>
 
-	<p>This widget is used to display your kickstarter project stats</p>
+	<p>This widget is used to display your Kickstarter project stats</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/track-kickstarter-project-widget.png">
@@ -11,7 +11,7 @@
         <dl class="inline-term">
             <dt>Title</dt>
             <dd>
-				Widget's text title
+				Enter the widget title
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Project link text</dt>
             <dd>
-				Here you can set a link text. Leave empty to hide link
+				Here you can set a link text. Leave empty to hide the link
             </dd>
         </dl>
     </li>

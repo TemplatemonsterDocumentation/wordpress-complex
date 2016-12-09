@@ -18,6 +18,6 @@
 	    <span>'ids' => ''</span>
 	 )
  </div>
- <h5 class="italic"> The `number` field is used to display the number of products and the `ids` field is to tell the shortcode which categories to display.</h5>
+ <h5 class="italic"> The `number` field is used to display the number of products and the `IDs` field is to tell the shortcode which categories to display.</h5>
 
  <p>Set the parent paramater to 0 to only display top level categories. Set IDs to a comma separated list of category IDs to only show those.</p>

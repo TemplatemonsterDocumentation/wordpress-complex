@@ -1,0 +1,11 @@
+{
+	"id": "woo-ajax-main-options",
+	"translations": {
+		"en": "Main Options",
+		"ru": "Основные опции"
+	},
+	"articles": {
+		"woo-ajax": []
+	}
+}
+

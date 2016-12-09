@@ -1,0 +1,10 @@
+{
+	"id": "woo-ajax-intro",
+	"translations": {
+		"en": "Introduction",
+		"ru": "Введение"
+	},
+	"articles": {
+		"woo-ajax": []
+	}
+}

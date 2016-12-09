@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Custom image </dt>
             <dd>
-				Here you can choose and upload the custom author avatar image
+				Here you can choose and upload a custom author avatar image
             </dd>
         </dl>
     </li>

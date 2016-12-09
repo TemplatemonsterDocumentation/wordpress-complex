@@ -21,6 +21,4 @@
 	<li><p> Type WP Instagram Widget in the search field </p></li>
 	<li><p> Click "Install now" </p></li>
 </ol>	
-<p>
-	To customize the widget, navigate to the "Widgets" section of our documentation and find <a href="http://documentation.templatemonster.com/index.php?project=kustrix&lang=en&section=widgets#instagram-widget-kustrix" target="_blank">Instagram Widget</a>.
-</p>
+

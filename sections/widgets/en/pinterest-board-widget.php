@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Board Size</dt>
             <dd>
-                This property defines size of the Pinterest board
+                This property defines the size of the Pinterest board
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Image Width </dt>
             <dd>
-                Defines width of the images. This value is used with a "Custom" board size only
+                Defines the width of the images. This value is used with a "Custom" board size only
             </dd>
         </dl>
     </li>
@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Board Height</dt>
             <dd>
-                 Defines height of the Pinterst board. This value is used with a "Custom" board size only
+                 Defines the height of the Pinterst board. This value is used with a "Custom" board size only
             </dd>
         </dl>
     </li>
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Board Width</dt>
             <dd>
-                 Defines width of the Pinterst board. This value is used with a "Custom" board size only
+                 Defines the width of the Pinterst board. This value is used with a "Custom" board size only
             </dd>
         </dl>
     </li>

@@ -1,6 +1,6 @@
 	<h3>YITH WooCommerce Compare Widget</h3>
 
-	<p>The widget shows the list of products added in the compare table</p>
+	<p>The widget shows the list of products added in the compare table.</p>
 
 	<figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/yith-compare.png">

@@ -57,4 +57,3 @@
     </li>
 </ul>
 
-Find more info on <a href="http://www.templatemonster.com/help/wordpress-how-to-create-and-display-rss-feeds.html" target="_blank">how to create and display RSS feed</a>

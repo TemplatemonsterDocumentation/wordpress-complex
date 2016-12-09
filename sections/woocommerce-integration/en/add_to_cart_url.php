@@ -1,6 +1,6 @@
 <h3>Add to Cart URL</h3>
 <p>
-	Echo the URL on the add to cart button of a single product by ID.
+	Echo the URL on the Add to Cart button of a single product by ID.
 </p>
 
 <h4>[add_to_cart_url id="99"]</h4>

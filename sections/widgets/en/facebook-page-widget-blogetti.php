@@ -1,6 +1,6 @@
 	<h3>Facebook page widget</h3>
 
-	<p>This widget is used to setup and display facebook feed on the website.</p>
+	<p>This widget is used to setup and display Facebook feed on the website.</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/facebook-page-widget.png">
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Facebook page title</dt>
             <dd>
-                This property specifies the facebook page title
+                This property specifies the Facebook page title
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Facebook page url</dt>
             <dd>
-                Specify the url address of the facebook page
+                Specify the url address of the Facebook page
             </dd>
         </dl>
     </li>
@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Tabs</dt>
             <dd>
-                This property defines which type of facebook container will be used.
+                This property defines which type of Facebook container will be used.
             </dd>
         </dl>
     </li>
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Width</dt>
             <dd>
-                This property defines width of a parent container
+                This property defines the width of a parent container
             </dd>
         </dl>
     </li>
@@ -59,7 +59,7 @@
         <dl class="inline-term">
             <dt>Height</dt>
             <dd>
-                This property defines height of a parent container
+                This property defines the height of a parent container
             </dd>
         </dl>
     </li>
@@ -67,7 +67,7 @@
         <dl class="inline-term">
             <dt>Small Header</dt>
             <dd>
-                This property defines whether to enable / disable small header for the facebook block
+                This property defines whether to enable / disable small header for the Facebook block
             </dd>
         </dl>
     </li>
@@ -75,7 +75,7 @@
         <dl class="inline-term">
             <dt>Adaptive width</dt>
             <dd>
-                This property defines whether to enable / disable adaptive width for the facebook container
+                This property defines whether to enable / disable adaptive width for the Facebook container
             </dd>
         </dl>
     </li>
@@ -83,7 +83,7 @@
         <dl class="inline-term">
             <dt>Hide cover</dt>
             <dd>
-                This property defines whether to display / hide header background image for the facebook block
+                This property defines whether to display / hide header background image for the Facebook block
             </dd>
         </dl>
     </li>

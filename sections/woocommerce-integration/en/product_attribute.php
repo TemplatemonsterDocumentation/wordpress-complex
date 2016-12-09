@@ -1,6 +1,6 @@
 <h3>Product Attribute</h3>
 <p>
-	List products with an attribute shortcode.
+	Lists the products with an attribute shortcode.
 </p>
 
 <h4>[product_attribute attribute='color' filter='black']</h4>

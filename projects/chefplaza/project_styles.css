@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+h1 {
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff; }
+
+h2 {
+  color: #000000; }
+
+h3 {
+  color: #000000; }
+
+h4 {
+  color: #000000; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #702538;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/chefplaza/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 55px;
+  font-weight: 700;
+  top: 175px;
+  text-transform: uppercase; }
+
+.tm-title-caption {
+  font-size: 15px;
+  top: 271px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 48px;
+  width: 500px;
+  color: #ffffff;
+  text-transform: uppercase; }
+
+.rd-mobilemenu .logo {
+  background-color: #ffffff; }
+
+.toTop {
+  background-color: #702538; }
+  .toTop:hover {
+    background: #8a1f3a; }
+
+.bold_text {
+  font-weight: 600; }
+
+.it_text {
+  font-weight: 400;
+  font-style: italic; }
+
+@media (max-width: 1439px) {
+  .rd-mobilepanel_title {
+    top: 87px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 158px;
+    text-align: left; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 52px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 122px;
+    text-align: left; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 82px; }
+
+  .tm-title-caption {
+    width: 300px;
+    top: 158px; } }
+@media (max-width: 1900px) and (min-width: 1801px) {
+  .tm-title-caption {
+    width: 300px; } }

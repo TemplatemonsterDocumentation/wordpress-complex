@@ -1,0 +1,10 @@
+{
+	"id": "tm-gallery-intro",
+	"translations": {
+		"en": "Introduction",
+		"ru": "Введение"
+	},
+	"articles": {
+		"tm-gallery": []
+	}
+}

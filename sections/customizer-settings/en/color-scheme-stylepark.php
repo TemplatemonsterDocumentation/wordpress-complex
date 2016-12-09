@@ -249,3 +249,80 @@
         </dl>
     </li>
 </ul>
+
+<h5>WooCommerce elements</h5>
+
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>Badge color</dt>
+            <dd>
+                Here you can choose a badge color
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>New badge background</dt>
+            <dd>
+                Here you can choose a background color of the new badge
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Sale badge background</dt>
+            <dd>
+                Here you can choose a background color of the sale badge 
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Featured badge background</dt>
+            <dd>
+                Here you can choose a background color of the featured badge 
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Star rating color primary</dt>
+            <dd>
+                Here you can choose a star rating primary color  
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Star rating color secondary</dt>
+            <dd>
+                Here you can choose a star rating secondary color 
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Price color primary</dt>
+            <dd>
+                Here you can choose a primary price color
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Price color secondary</dt>
+            <dd>
+                Here you can choose a secondaryprice color
+            </dd>
+        </dl>
+    </li>
+
+    

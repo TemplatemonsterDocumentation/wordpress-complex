@@ -1,6 +1,6 @@
 	<h3>Pinterest Profile Widget</h3>
 
-	<p>This Pinterest widget add your Pinterest profile to any area of the website.</p>
+	<p>This Pinterest widget adds your Pinterest profile to any area of the website.</p>
 
         <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/pinterest_profile.png">

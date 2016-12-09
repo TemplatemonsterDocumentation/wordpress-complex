@@ -2,7 +2,9 @@
 <p>
     The System Status section gives you a full system report about your store. Here you will find full information about the CMS, server, database, plugins, settings, etc.  
 </p>
-
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/images/system-status.png"> 
+</figure>
 <h4>Tools</h4>
 <p>
 	An assortment of tools will help you manage the store more quickly and easily. 

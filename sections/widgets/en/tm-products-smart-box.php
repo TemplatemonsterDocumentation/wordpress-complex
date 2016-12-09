@@ -1,6 +1,6 @@
 	<h3>TM Products Smart Box </h3>
 
-	<p>This widget displays featured products from the particular categories offering the customers some extra products they might want to purchase as well</p>
+	<p>This widget displays the featured products from the particular categories offering the customers some extra products they might want to purchase as well</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/tm-smartbox.png">
@@ -27,7 +27,7 @@
             <dl class="inline-term">
                 <dt>Order by</dt>
                 <dd>
-                    Specify the way you want to order the products inside the widget
+                    Specify the way you want the products inside the widget to be ordered
                 </dd>
             </dl>
         </li>

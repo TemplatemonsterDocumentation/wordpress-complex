@@ -19,7 +19,7 @@
             <dl class="inline-term">
                 <dt>Sort by</dt>
                 <dd>
-                    This option allows to sort he pages by page title, page order or page ID
+                    This option allows to sort the pages by page title, page order or page ID
                 </dd>
             </dl>
         </li>
@@ -27,7 +27,7 @@
             <dl class="inline-term">
                 <dt>Exclude</dt>
                 <dd>
-                    Specify IDs of the pages you want to exclude
+                    Specify the IDs of the pages you want to exclude
                 </dd>
             </dl>
         </li>

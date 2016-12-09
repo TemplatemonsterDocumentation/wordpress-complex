@@ -1,6 +1,6 @@
 	<h3>News Smart Box</h3>
 
-	<p>This widget is used to setup and display news box.</p>
+	<p>This widget is used to setup and display the news box.</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/news-smart-box.png">
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Main Color</dt>
             <dd>
-                Here you can define the text color for news block
+                Here you can define the text color for the news block
             </dd>
         </dl>
     </li>
@@ -67,7 +67,7 @@
         <dl class="inline-term">
             <dt>Content words trimmed count</dt>
             <dd>
-                This property defines the excerpt limit by choosing the number of words from post's content
+                Specify the content words limit
             </dd>
         </dl>
     </li>

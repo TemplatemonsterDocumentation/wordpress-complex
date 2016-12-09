@@ -1,6 +1,9 @@
 
 <h3>Settings </h3>
 <h4>General </h4>
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/images/general.png"> 
+</figure>
 <ul class="marked-list">
     <li>    
         <dl class="inline-term">
@@ -108,7 +111,9 @@
 <p>
     In this section you can customize information about the products you offer.
 </p>
-
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/images/products.png"> 
+</figure>
 <h4>General</h4>
 <ul class="marked-list"> 
     <li>    
@@ -366,7 +371,9 @@
 <p>
     Here you will find all options to customize the Tax settings. 
 </p>
-
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/images/tax.png"> 
+</figure>
 <h4>Tax Options</h4>
 <ul class="marked-list"> 
     <li>    
@@ -488,7 +495,9 @@
 </p>
 
 <h3>Checkout</h3>
-
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/images/checkout.png"> 
+</figure>
 <h5>Checkout Process</h5>
 <ul class="marked-list"> 
     <li>    
@@ -954,7 +963,9 @@
 
 
 <h3>Shipping</h3>
-
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/images/shipping.png"> 
+</figure>
 <h4>Shipping Options</h4>
 <ul class="marked-list"> 
     <li>    
@@ -1370,6 +1381,9 @@
 
 
 <h3>Accounts</h3>
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/images/accounts.png"> 
+</figure>
 <p>
     These pages need to be set so that WooCommerce knows where to send users to access account related functionality.
 </p>
@@ -1472,6 +1486,9 @@
 <p>
     Email notifications sent from WooCommerce are listed below. Click on an email to configure it.
 </p>
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/images/emails.png"> 
+</figure>
 <h4>Email Sender Options</h4>
 <ul class="marked-list"> 
     <li>    
@@ -1565,7 +1582,9 @@
 
 
 <h3>API</h3>
-
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/images/api.png"> 
+</figure>
 <h4>Settings</h4>
 <ul class="marked-list"> 
     <li>    
@@ -1674,7 +1693,9 @@
 </ul>  
 
 <h3>Booster</h3>
-
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/images/booster.png"> 
+</figure>
 <p>
     This dashboard lets you enable/disable any Booster's module. Each checkbox comes with short module's description. Please visit <a href="">http://booster.io</a> for detailed info on each feature.
 </p>

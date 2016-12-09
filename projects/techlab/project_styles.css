@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+h1 {
+  color: #ffffff; }
+
+h2 {
+  color: #ec4e4e; }
+
+h3 {
+  color: #303030; }
+
+h4 {
+  color: #ec4e4e; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #ec4e4e;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/techlab/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 77px;
+  width: 410px;
+  height: 20px;
+  top: 200px;
+  letter-spacing: 12px;
+  text-transform: uppercase; }
+
+.tm-title-caption {
+  font-size: 25px;
+  top: 321px;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  line-height: 36px;
+  width: 430px; }
+
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 68px; }
+
+  .tm-title-caption {
+    width: 300px;
+    top: 170px; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 47px; }
+
+  .tm-title-caption {
+    width: 185px;
+    top: 153px; } }
+@media (max-width: 1399px) {
+  .tm-title-caption {
+    width: 383px; } }
+.rd-mobilemenu .logo {
+  background-color: #ffffff; }
+
+.toTop {
+  background-color: #ec4e4e; }
+  .toTop:hover {
+    background: #bf1515; }

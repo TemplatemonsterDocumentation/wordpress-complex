@@ -73,14 +73,6 @@
     </li>
     <li>
         <dl class="inline-term">
-            <dt>More button text</dt>
-            <dd>
-                Read more button / link label
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
             <dt>Content words trimmed count</dt>
             <dd>
                 This property defines content words limit

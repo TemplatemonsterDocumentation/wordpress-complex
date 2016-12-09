@@ -11,7 +11,7 @@
         <dl class="inline-term">
             <dt>Title</dt>
             <dd>
-                Enter title of the widget
+                Enter the title of the widget
             </dd>
         </dl>
     </li>

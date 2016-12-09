@@ -1,0 +1,11 @@
+{
+	"id": "cherry-tm-post",
+	"translations": {
+		"en": "Adding Posts",
+		"ru": "Adding Posts"
+	},
+	"articles": {
+		"cherry_timeline": []
+	}
+}
+

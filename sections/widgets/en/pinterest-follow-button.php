@@ -1,6 +1,6 @@
 	<h3>Pinterest Follow Button</h3>
 
-	<p>This Pinterest widget allows adding Pinterest Follow Button.</p>
+	<p>This Pinterest widget allows adding the Pinterest Follow Button.</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/pinterest_follow_button.png">
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Button Label </dt>
             <dd>
-                Specify the Button text for the widget
+                Enter the Button text for the widget
             </dd>
         </dl>
     </li>

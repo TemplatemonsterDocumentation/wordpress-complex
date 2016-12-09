@@ -1,0 +1,128 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #ffffff;
+$primary-color-second: #1a1919;
+$primary-color-light: #fe9ec7;
+$header-background-image: '../../projects/cosmetro_tf/img/header-bg.png';
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+$primary-font-family:  'Montserrat', sans-serif;
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: $primary-color-second;
+
+}
+h2 {
+	color: $primary-color-light;
+	//font-family: $primary-font-family;
+}
+h3 {
+	color: $primary-color-second;
+	//font-family: $primary-font-family;
+}
+h4 {
+	color: $primary-color-light;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+			@media (max-width: 1440px) {
+    			background-position: 100% bottom;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color-second;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}
+}
+
+ .rd-mobilepanel_title {
+	font-size: 90px;
+	font-weight: 400;
+	top:51px;
+	color: $primary-color;
+}
+
+.tm-title-caption {
+	font-size: 33px;
+	top: 171px;
+	font-family: $primary-font-family;
+    color: $primary-color-light;
+    line-height: 36px;
+    width: 430px;
+}
+
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color;
+	}
+}
+
+.toTop {
+	background-color: $primary-color-second;
+	&:hover {
+    	background: lighten($primary-color-second, 20%);
+	}
+}
+.bold_text{
+font-weight: 600;
+}
+.it_text{
+font-weight: 400;
+font-style: italic;
+}
+
+@media (max-width: 1600px) and (min-width: 1440px){
+	.rd-mobilepanel_title {
+		top:5px;
+	}
+	.tm-title-caption {	
+		width:259px;
+		top:125px;
+		text-align: left;
+	}
+}
+@media (max-width: 1800px) and (min-width: 1601px){
+	.rd-mobilepanel_title {
+
+	}
+	.tm-title-caption {	
+		width:300px;
+
+	}
+}

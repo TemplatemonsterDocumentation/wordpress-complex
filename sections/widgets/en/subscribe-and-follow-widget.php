@@ -23,7 +23,7 @@
         <dl class="inline-term">
             <dt>Enable Subscribe Box</dt>
             <dd>
-                Here you can define to Hide/Show the subscribe box
+                Enable/disable the subscribe box
             </dd>
         </dl>
     </li>
@@ -55,7 +55,7 @@
         <dl class="inline-term">
             <dt>Subscribe submit label</dt>
             <dd>
-                This property specifies a placeholder text “Submit” in the subscribe button of the Subscribe Box.
+                This property specifies a placeholder text “Submit” in the subscribe button of the Subscribe Box
             </dd>
         </dl>
     </li>
@@ -97,6 +97,16 @@
                 <dt>Custom background image</dt>
                 <dd>
                     Select the background image for the widget
+                </dd>
+            </dl>
+        </li>
+<?php } ?>
+<?php if ($project == 'waylard') { ?>
+        <li>
+            <dl class="inline-term">
+                <dt>Enable Custom Background</dt>
+                <dd>
+                    Enable/disable custom background
                 </dd>
             </dl>
         </li>

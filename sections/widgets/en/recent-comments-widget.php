@@ -1,6 +1,6 @@
 	<h3>Recent Comments</h3>
 
-	<p>This widget is used to display recent comments to the posts on the homepage.</p>
+	<p>This widget is used to display the recent comments to the posts on the homepage.</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/recent-comments-widget.png">

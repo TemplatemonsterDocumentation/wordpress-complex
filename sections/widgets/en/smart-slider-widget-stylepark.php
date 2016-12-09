@@ -1,6 +1,6 @@
 	<h3>Smart Slider</h3>
 
-	<p>This widget is used to setup and display slider on the website.</p>
+	<p>This widget is used to setup and display Smart Slider on the website.</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/smart-slider-widget.png">
@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Choose taxonomy type</dt>
             <dd>
-               Here you can define items selection source: by Category or Tag
+               Here you can define the items selection source: by Category or Tag
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Posts count</dt>
             <dd>
-                This property defines number of posts / slides to display
+                This property defines the  number of posts / slides to display
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Display title </dt>
             <dd>
-                Here you can define whether to Hide/Show post's title in a slide
+                Here you can define whether to Hide/Show post title in a slide
             </dd>
         </dl>
     </li>
@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Display post date</dt>
             <dd>
-                Here you can define whether to display post's date in a slide body
+                Here you can define whether to display post date in a slide body
             </dd>
         </dl>
     </li>
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Display content</dt>
             <dd>
-                Here you can define whether to Hide/Show post's content in a slide body
+                Here you can define whether to Hide/Show post content in a slide body
             </dd>
         </dl>
     </li>
@@ -59,7 +59,7 @@
         <dl class="inline-term">
             <dt>Display more button</dt>
             <dd>
-                Here you can define whether to Hide/Show read more button
+                Here you can define whether to Hide/Show the Read More button
             </dd>
         </dl>
     </li>
@@ -67,7 +67,7 @@
         <dl class="inline-term">
             <dt>More button text</dt>
             <dd>
-                Read more button label
+                Read More button label
             </dd>
         </dl>
     </li>
@@ -75,7 +75,7 @@
         <dl class="inline-term">
             <dt>Content words trimmed count</dt>
             <dd>
-                This property defines excerpt limit by choosing number of words from post's content.
+                Specify the content words limit
             </dd>
         </dl>
     </li>
@@ -83,7 +83,7 @@
         <dl class="inline-term">
             <dt>Slider width</dt>
             <dd>
-                This property defines slider width
+                This property defines the slider width
             </dd>
         </dl>
     </li>
@@ -91,7 +91,7 @@
         <dl class="inline-term">
             <dt>Slider height</dt>
             <dd>
-                This property defines slider height
+                This property defines the slider height
             </dd>
         </dl>
     </li>
@@ -99,7 +99,7 @@
         <dl class="inline-term">
             <dt>Slider orientation</dt>
             <dd>
-                This property specifies the slider orientation. Smart slider slides are automatically set up in Horizontal / Landscape slide orientation, but you can change the slide orientation to Portrait / Vertical Portrait slide orientation.
+                This property specifies the slider orientation. The Smart Slider slides are automatically set up in Horizontal / Landscape slide orientation, but you can change the slide orientation to Portrait / Vertical Portrait slide orientation
             </dd>
         </dl>
     </li>
@@ -107,7 +107,7 @@
         <dl class="inline-term">
             <dt>Slide distance(px)</dt>
             <dd>
-                This property specifies distance between slides in px.
+                This property specifies the distance between the slides in px
             </dd>
         </dl>
     </li>
@@ -115,7 +115,7 @@
         <dl class="inline-term">
             <dt>Slide duration(ms)</dt>
             <dd>
-                This property specifies slides duration (in ms) to trigger swipe to next/previous slide during long swipes
+                This property specifies the slides duration (in ms) to trigger swipe to next/previous slide during long swipes
             </dd>
         </dl>
     </li>
@@ -139,7 +139,7 @@
         <dl class="inline-term">
             <dt>Next button label</dt>
             <dd>
-                This property defines which text will be placed on the "Next" button
+                This property defines which text will be added to the "Next" button
             </dd>
         </dl>
     </li>
@@ -147,7 +147,7 @@
         <dl class="inline-term">
             <dt>Prev button label</dt>
             <dd>
-                This property defines which text will be placed on the "Prev" button
+                This property defines which text will be added to the "Prev" button
             </dd>
         </dl>
     </li>
@@ -155,7 +155,7 @@
         <dl class="inline-term">
             <dt>Indicates whether the arrows will fade in only on hover</dt>
             <dd>
-                This property specifies whether the arrows will fade in only on hover.
+                This property specifies whether the arrows will fade in only on hover
             </dd>
         </dl>
     </li>
@@ -163,7 +163,7 @@
         <dl class="inline-term">
             <dt>Use pagination?</dt>
             <dd>
-                Here you can define whether to Hide/Show bullet navigation on slides
+                Here you can define whether to Hide/Show the bullet navigation on slides
             </dd>
         </dl>
     </li>
@@ -171,7 +171,7 @@
         <dl class="inline-term">
             <dt>Use autoplay?</dt>
             <dd>
-                This property specifies enable / disable autoplaying for slides
+                Enable/disable autoplaying for slides
             </dd>
         </dl>
     </li>
@@ -179,7 +179,7 @@
         <dl class="inline-term">
             <dt>Display fullScreen button?</dt>
             <dd>
-                Here you can define whether to Hide/Show full screen button to display slider in full screen mode. It is not available in WordPress customizer preview.
+               Show/hide the fullscreen button. It is not available in WordPress customizer preview
             </dd>
         </dl>
     </li>
@@ -187,7 +187,7 @@
         <dl class="inline-term">
             <dt>Indicates if the slides will be shuffled</dt>
             <dd>
-                This property specifies whether to shuffle slides randomly, is disabled by default.
+                This property specifies whether to shuffle the slides randomly. The option is disabled by default
             </dd>
         </dl>
     </li>
@@ -195,7 +195,7 @@
         <dl class="inline-term">
             <dt>Use infinite scrolling?</dt>
             <dd>
-                This property specifies whether to enable/disable infinite scrolling on sliding.
+                This property specifies whether to enable/disable the infinite scrolling on sliding
             </dd>
         </dl>
     </li>
@@ -203,7 +203,7 @@
         <dl class="inline-term">
             <dt>Display thumbnails?</dt>
             <dd>
-                Here you can define whether to Hide/Show slide thumbnails below the slider.
+                Here you can define whether to Hide/Show slide thumbnails below the slider
             </dd>
         </dl>
     </li>
@@ -211,7 +211,7 @@
         <dl class="inline-term">
             <dt>Display thumbnails arrows?</dt>
             <dd>
-                Here you can define whether to Hide/Show arrows navigation for thumbnails
+                Show/hide thumbnails arrows
             </dd>
         </dl>
     </li>
@@ -219,7 +219,7 @@
         <dl class="inline-term">
             <dt>Sets the position of the thumbnail scroller</dt>
             <dd>
-                This property sets the position of the thumbnail scroller. By default it is set to bottom.
+                This property sets the position of the thumbnail scroller. By default it is set to bottom
             </dd>
         </dl>
     </li>

@@ -13,11 +13,11 @@
 
 	<h5>Layout</h5>
 
-	<p>Here you can select appropriate layout type</p>
+	<p>Here you can select the appropriate layout type</p>
 
 	<h5>Posts IDs (Optional)</h5>
 
-	<p>Here you can select appropriate post IDs for display</p>
+	<p>Here you can select the appropriate post IDs for display</p>
 
 <?php } ?>
 

@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Choose taxonomy type</dt>
             <dd>
-                Here you can define items selection source: by Category or Tag
+                Here you can define the items selection source: by Category or Tag
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Category</dt>
             <dd>
-                Here you can select categories to pull slides from
+                Here you can select the categories to pull slides from
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Tag</dt>
             <dd>
-                Here you can select tags to pull slides from
+                Here you can select the tags to pull slides from
             </dd>
         </dl>
     </li>
@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Posts count</dt>
             <dd>
-                This property defines number of posts / slides to display
+                This property defines the number of posts / slides to display
             </dd>
         </dl>
     </li>
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Slider width</dt>
             <dd>
-                Specify slider width
+                Specify the slider width
             </dd>
         </dl>
     </li>
@@ -59,7 +59,7 @@
         <dl class="inline-term">
             <dt>Slider heigh</dt>
             <dd>
-                Specify slider heigh
+                Specify the slider heigh
             </dd>
         </dl>
     </li>
@@ -83,7 +83,7 @@
         <dl class="inline-term">
             <dt>Title words length</dt>
             <dd>
-                Specify title length
+                Specify the title length
             </dd>
         </dl>
     </li>
@@ -92,7 +92,7 @@
         <dl class="inline-term">
             <dt>Display post meta data</dt>
             <dd>
-                Specify the title post meta data you want to display
+                Specify the post meta data you want to display
             </dd>
         </dl>
     </li>

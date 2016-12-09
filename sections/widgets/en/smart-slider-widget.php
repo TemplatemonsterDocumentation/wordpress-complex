@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Select category</dt>
             <dd>
-                Here you can select a category to pull slides from
+                Here you can select category to pull the slides from
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Select tags</dt>
             <dd>
-                Here you can select tags to pull slides from
+                Here you can select tags to pull the slides from
             </dd>
         </dl>
     </li>
@@ -67,7 +67,7 @@
         <dl class="inline-term">
             <dt>Display more button</dt>
             <dd>
-                Here you can define whether to Hide/Show read more button
+                Here you can define whether to Hide/Show the Read More button
             </dd>
         </dl>
     </li>
@@ -115,7 +115,7 @@
         <dl class="inline-term">
             <dt>Slide distance(px)</dt>
             <dd>
-                This property specifies distance between slides in px
+                This property specifies the distance between slides in px
             </dd>
         </dl>
     </li>
@@ -123,7 +123,7 @@
         <dl class="inline-term">
             <dt>Slide duration(ms)</dt>
             <dd>
-                This property specifies slides duration (in ms) to trigger swipe to next/previous slide during long swipes
+                This property specifies slides duration (in ms) to trigger swipe to the next/previous slide during long swipes
             </dd>
         </dl>
     </li>
@@ -139,7 +139,7 @@
         <dl class="inline-term">
             <dt>Use navigation?</dt>
             <dd>
-                Here you can define whether to Hide/Show navigation arrows
+                Here you can define whether to Hide/Show the navigation arrows
             </dd>
         </dl>
     </li>
@@ -163,7 +163,7 @@
         <dl class="inline-term">
             <dt>Use autoplay?</dt>
             <dd>
-                This property specifies enable / disable autoplaying for slides
+                This property specifies whether to enable / disable autoplaying for slides
             </dd>
         </dl>
     </li>
@@ -179,7 +179,7 @@
         <dl class="inline-term">
             <dt>Indicates if the slides will be shuffled</dt>
             <dd>
-                This property specifies whether to shuffle slides randomly, is disabled by default
+                This property specifies whether to shuffle slides randomly. Disabled by default
             </dd>
         </dl>
     </li>

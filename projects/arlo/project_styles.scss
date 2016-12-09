@@ -1,0 +1,137 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #ffffff;
+$primary-color-second: #a89078;
+$header-background-image: '../../projects/arlo/img/header-bg.png';
+
+@import 'https://fonts.googleapis.com/css?family=Teko';
+$primary-font-family: 'Teko', sans-serif;
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: $primary-color;
+
+}
+h2 {
+	color:$primary-color-second;
+	//font-family: $primary-font-family;
+}
+h3 {
+	color: $primary-color;
+	//font-family: $primary-font-family;
+}
+h4 {
+	color:$primary-color-second;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+			@media (max-width: 1440px) {
+    			background-position: 100% bottom;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color-second;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+.rd-mobilepanel.fixed{
+	.rd-mobilepanel_title{
+		top:-57px;
+	}
+} 
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}
+}
+
+.rd-mobilepanel_title {
+	font-size: 120px;
+	top:182px;
+	width: 400px;
+	line-height: 75px;
+	text-transform: uppercase;
+	font-weight: 400;
+}
+
+.tm-title-caption {
+	font-size: 29px;
+	top: 265px;
+	font-family: $primary-font-family;
+    color: $primary-color;
+    line-height: 36px;
+    width: 324px;
+    text-align: left;
+}
+@media (max-width: 1600px) and (min-width: 1440px){
+	.rd-mobilepanel_title {
+		top: 86px;
+	}
+	.tm-title-caption {	
+		width:259px;
+		top: 176px;
+		text-align: left;
+	}
+}
+@media (max-width: 1800px) and (min-width: 1601px){
+	.rd-mobilepanel_title {
+		top: 86px;
+	}
+	.tm-title-caption {	
+		width:300px;
+		top: 176px;
+	}
+}
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color;
+	}
+}
+.rd-mobilemenu_ul{
+	ul{
+		a{
+			&.focus{
+				color: $primary-color;
+			}
+		}
+	}
+}  
+
+.toTop {
+	background-color: $primary-color-second;
+	color: #000000;
+	&:hover {
+    	background-color:darken($primary-color-second, 20%);
+    	color: #ffffff;
+	}
+}
+

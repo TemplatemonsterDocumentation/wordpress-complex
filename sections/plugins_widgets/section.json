@@ -1,0 +1,53 @@
+{
+	"id": "plugins_widgets",
+	"translations": {
+		"en": "Widgets",
+		"ru": ""
+	},
+	"articles": {
+		"tm-woocommerce": [
+			{
+				"id": "about-store",
+				"translations": {
+					"en": "TM About Store",
+					"ru": "TM About Store"
+				}
+			},
+			{
+				"id": "banners-grid",
+				"translations": {
+					"en": "TM Banners Grid",
+					"ru": "TM Banners Grid"
+				}
+			},
+			{
+				"id": "custom-menu",
+				"translations": {
+					"en": "TM Custom Menu with Background",
+					"ru": "TM Custom Menu with Background"
+				}
+			},
+			{
+				"id": "product-categories",
+				"translations": {
+					"en": "TM Product Categories with Thumbnails",
+					"ru": "TM Product Categories with Thumbnails"
+				}
+			},
+			{
+				"id": "product-carousel",
+				"translations": {
+					"en": "TM Product Carousel",
+					"ru": "TM Product Carousel"
+				}
+			},
+			{
+				"id": "smartbox",
+				"translations": {
+					"en": "TM Products Smart Box",
+					"ru": "TM Products Smart Box"
+				}
+			}
+		]
+	}
+}

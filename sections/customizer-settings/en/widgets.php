@@ -12,12 +12,14 @@
 <h5>Widget creating</h5>
 
 <p>In order to add a widget to template page you should first decide where will it be displayed on the website by selecting one of the Widgets Areas available. Next press the "+ Add a Widget" button on the list of widgets that appears. After doing this you can define the order of widgets appearance by pressing "Reorder" button.</p>
-
+<?php if ($project != 'bettaso' && $project != 'bedentist' && $project != 'pristine' && $project != 'samson' && $project != 'advisto' && $project != 'ironmass' && $project != 'mechanna' && $project != 'fiona' && $project != 'cleaningpro' && $project != 'confucius'  && $project != 'plumberpro' && $project != 'madeleine' && $project != 'fenimore' && $project != 'focussity'  && $project != 'durand' && $project != 'chateau' && $project != 'shanti' && $project != 'nolan' && $project != 'jorden' && $project != 'fuel' && $project != 'neuton' && $project != 'proedge' && $project != 'chromix' && $project != 'artwork' && $project != 'safedrive' && $project != 'sensei' && $project != 'legacy' &&  $project != 'lawpress' && $project != 'limittax' && $project != 'cookery' && $project != 'duval' && $project != 'keypress' && $project != 'crystalica' && $project != 'penn'  && $project != 'porto' && $project != 'odyssey' && $project != 'masterchef' && $project != 'chopchop' && $project != 'whitewhale' && $project != 'tanaka' && $project != 'addison' && $project != 'ecolife' && $project != 'hidalgo' && $project != 'happylearning' && $project != 'mizrahi' && $project != 'redhotgrill' && $project != 'inmotion' && $project != 'machinist' && $project != 'cascade' && $project != 'paintelle' && $project != 'sportlabs' && $project != 'homepro' && $project != 'roadway' && $project != 'tradex' && $project != 'italica' && $project != 'mohican' && $project != 'gutenberg' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'transit' && $project != 'jericho' && $project != 'walden' && $project != 'chefplaza') { ?>
 <h5>Registered widgets areas</h5>
 
 <figure class="img-polaroid">
     <img src="img/blog-theme/widgets/widget-areas.png" alt="" >
 </figure>
+
+<?php } ?>
 <!--
 <ul class="marked-list">
     <li>
@@ -94,4 +96,3 @@
     </li>
 </ul>
 -->
-<p>More info on widgets is available <a href="">here</a>.</p>

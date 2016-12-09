@@ -138,6 +138,24 @@
 		"titleCaption": "The latest sports news",
 		"author": ""
 	},
+	"sketchfield_tf": {
+		"textLogo": "",
+		"title": "Sketchfield",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"neurion_tf": {
+		"textLogo": "",
+		"title": "Neurion",
+		"titleCaption": "a science blog",
+		"author": ""
+	},
+	"cosmetro_tf": {
+		"textLogo": "",
+		"title": "Cosmetro",
+		"titleCaption": "Woocommerce Theme",
+		"author": ""
+	},
 	"finestgame": {
 		"textLogo": "",
 		"title": "Finest Game",
@@ -185,5 +203,597 @@
 		"title": "Samson",
 		"titleCaption": "Wordpress Theme",
 		"author": ""
+	},
+	"ironmass": {
+		"textLogo": "",
+		"title": "IronMass",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"bettaso": {
+		"textLogo": "",
+		"title": "Bettaso",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"mechanna": {
+		"textLogo": "",
+		"title": "Locksmith company",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"advisto": {
+		"textLogo": "",
+		"title": ".advisto",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"fiona": {
+		"textLogo": "",
+		"title": "Fiona",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"cleaningpro": {
+		"textLogo": "",
+		"title": "Cleaning.Pro",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"posh": {
+		"textLogo": "",
+		"title": "Posh",
+		"titleCaption": "WooCommerce Theme",
+		"author": ""
+	},
+	"confucius": {
+		"textLogo": "",
+		"title": "Confucius",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"plumberpro": {
+		"textLogo": "",
+		"title": "PlumberPro",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"smarthouse": {
+		"textLogo": "",
+		"title": "SmartHouse",
+		"titleCaption": "WooCommerce Theme",
+		"author": ""
+	},
+	"madeleine": {
+		"textLogo": "",
+		"title": "Madeleine",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"fenimore": {
+		"textLogo": "",
+		"title": "Fenimore",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"focussity": {
+		"textLogo": "",
+		"title": "Focussity",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"durand": {
+		"textLogo": "",
+		"title": "Durand",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"grannali": {
+		"textLogo": "",
+		"title": "GrannaLi",
+		"titleCaption": "shoes store",
+		"author": ""
+	},
+	"chateau": {
+		"textLogo": "",
+		"title": "Chateau",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"bellatoi": {
+		"textLogo": "",
+		"title": "Bellatoi",
+		"titleCaption": "WooCommerce Theme",
+		"author": ""
+	},
+	"shanti": {
+		"textLogo": "",
+		"title": "Shanti",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"nolan": {
+		"textLogo": "",
+		"title": "Nolan",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"fuel": {
+		"textLogo": "",
+		"title": "Bodyfuel",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"bellaina": {
+		"textLogo": "",
+		"title": "Bellaina",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"pokemania": {
+		"textLogo": "",
+		"title": "Pokemania",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"teddy": {
+		"textLogo": "",
+		"title": "Teddy",
+		"titleCaption": "WooCommerce Theme",
+		"author": ""
+	},
+	"builderry": {
+		"textLogo": "",
+		"title": "Builderry",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"neuton": {
+		"textLogo": "",
+		"title": "Neuton",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"proedge": {
+		"textLogo": "",
+		"title": "ProEdge",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"chromix": {
+		"textLogo": "",
+		"title": "Chromix",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"artwork": {
+		"textLogo": "",
+		"title": "Artwork",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"safedrive": {
+		"textLogo": "",
+		"title": "SafeDrive",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"sensei": {
+		"textLogo": "",
+		"title": "Sensei",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"legacy": {
+		"textLogo": "",
+		"title": "Legacy",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"lawpress": {
+		"textLogo": "",
+		"title": "LawPress",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"talisman": {
+		"textLogo": "",
+		"title": "Talisman",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"timberline": {
+		"textLogo": "",
+		"title": "TimberLine",
+		"titleCaption": "WooCommerce Theme",
+		"author": ""
+	},
+	"pettown": {
+		"textLogo": "",
+		"title": "PetTown",
+		"titleCaption": "WooCommerce Theme",
+		"author": ""
+	},
+	"limittax": {
+		"textLogo": "",
+		"title": "LimitTax",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"greenville": {
+		"textLogo": "",
+		"title": "Greenville",
+		"titleCaption": "WooCommerce Theme",
+		"author": ""
+	},
+	"cookery": {
+		"textLogo": "",
+		"title": "Cookery",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"duval": {
+		"textLogo": "",
+		"title": "Duval",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"keypress": {
+		"textLogo": "",
+		"title": "KeyPress",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"crystalica": {
+		"textLogo": "",
+		"title": "Crystalica",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"penn": {
+		"textLogo": "",
+		"title": "Translation company",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"leonardo": {
+		"textLogo": "",
+		"title": "Leonardo",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"porto": {
+		"textLogo": "",
+		"title": "Porto",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"odyssey": {
+		"textLogo": "",
+		"title": "Odyssey",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"masterchef": {
+		"textLogo": "",
+		"title": "Master Chef",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"chopchop": {
+		"textLogo": "",
+		"title": "Chop-Chop",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"whitewhale": {
+		"textLogo": "",
+		"title": "White Whale",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"arden": {
+		"textLogo": "",
+		"title": "Arden",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"burgerpalace": {
+		"textLogo": "",
+		"title": "Burger Palace",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"tanaka": {
+		"textLogo": "",
+		"title": "Tanaka",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"addison": {
+		"textLogo": "",
+		"title": "Addison",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"ecolife": {
+		"textLogo":"",
+		"title": "Ecolife",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"hidalgo": {
+		"textLogo":"",
+		"title": "Hidalgo",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"mizrahi": {
+		"textLogo":"",
+		"title": "Mizrahi",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"redhotgrill": {
+		"textLogo":"",
+		"title": "Red Hot Grill",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"happylearning": {
+		"textLogo":"",
+		"title": "Happy Learning",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"inmotion": {
+		"textLogo":"",
+		"title": "InMotion",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"mohican": {
+		"textLogo":"",
+		"title": "Mohican",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"tm-gallery": {
+		"textLogo":"",
+		"title": "TM Photo Gallery",
+		"titleCaption": "WordPress Plugin",
+		"author": ""
+	},
+	"gutenberg": {
+		"textLogo":"",
+		"title": "Gutenberg",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"tm-comparewishlist": {
+		"textLogo": "",
+		"title": "TM WooCommerce Compare & Wishlist",
+		"titleCaption": "WooCommerce Plugin",
+		"author": ""
+	},
+	"arlo": {
+		"textLogo": "",
+		"title": "Arlo",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"machinist": {
+		"textLogo": "",
+		"title": "Machinist",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"cascade": {
+		"textLogo": "",
+		"title": "Cascade",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"paintelle": {
+		"textLogo": "",
+		"title": "Paintelle",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"helios": {
+		"textLogo": "",
+		"title": "Helios",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"sportlabs": {
+		"textLogo": "",
+		"title": "Sportlabs",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"woo-ajax": {
+		"textLogo": "WooCommerce Ajax Filters",
+		"title": "WooCommerce Ajax Filters",
+		"titleCaption": "WordPress Plugin",
+		"author": ""
+	},
+	"fleek": {
+		"textLogo": "",
+		"title": "Fleek",
+		"titleCaption": "WoooCommerce Theme",
+		"author": ""
+	},
+	"homepro": {
+		"textLogo": "",
+		"title": "HomePro",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"cherry-re": {
+		"textLogo": "",
+		"title": "Cherry Real Estate",
+		"titleCaption": "WordPress Plugin",
+		"author": ""
+	},
+	"salvatoro": {
+		"textLogo": "",
+		"title": "Salvatoro",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"callum": {
+		"textLogo": "",
+		"title": "Callum",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"roadway": {
+		"textLogo": "",
+		"title": "Roadway",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"tradex": {
+		"textLogo": "",
+		"title": "Tradex",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"italica": {
+		"textLogo":"",
+		"title": "Italica",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"knox": {
+		"textLogo": "",
+		"title": "Knox",
+		"titleCaption": "WooCommerce Theme",
+		"author": ""
+	},
+	"gaze": {
+		"textLogo":"",
+		"title": "Fashion Gaze",
+		"titleCaption": "Woocommerce Theme",
+		"author": ""
+	},
+	"cherry_popups": {
+		"textLogo": "",
+		"title": "Cherry Popups",
+		"titleCaption": "WordPress Plugin",
+		"author": ""
+	},
+	"techlab": {
+		"textLogo": "",
+		"title": "Techlab",
+		"titleCaption": "WooCommerce Theme",
+		"author": ""
+	},
+	"organica": {
+		"textLogo": "",
+		"title": "Organica",
+		"titleCaption": "Woocommerce Theme",
+		"author": ""
+	},
+	"cherry_testimonials": {
+		"textLogo": "",
+		"title": "Cherry Testimonials",
+		"titleCaption": "WordPress Plugin",
+		"author": ""
+	},
+	"infobyte": {
+		"textLogo": "",
+		"title": "InfoByte",
+		"titleCaption": "WooCommerce Theme",
+		"author": ""
+	},
+	"transit": {
+		"textLogo": "",
+		"title": "Transit",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	
+	},
+	"cherry_popups": {
+  		"textLogo": "",
+  		"title": "Cherry Popups",
+  		"titleCaption": "WordPress Plugin",
+ 		 "author": ""
+
+ 	}, 
+ 	"cherry_testimonials": {
+  		"textLogo": "",
+  		"title": "Cherry Testimonials",
+  		"titleCaption": "WordPress Plugin",
+  		"author": ""
+ 
+ 	}, 
+ 	"cherry_projects": {
+  		"textLogo": "",
+  		"title": "Cherry Projects",
+  		"titleCaption": "WordPress Plugin",
+  		"author": ""
+ 	
+ 	}, 
+ 	"cherry_sidebars": {
+  		"textLogo": "",
+ 		"title": "Cherry Sidebars",
+  		"titleCaption": "WordPress Plugin",
+  		"author": ""
+ 	
+ 	},
+ 	"cherry_timeline": {
+  		"textLogo": "",
+  		"title": "Cherry Timeline",
+  		"titleCaption": "WordPress Plugin",
+  		"author": ""
+ 	
+ 	}, 
+ 	"cherry_team": {
+  		"textLogo": "",
+  		"title": "Cherry Team Members",
+  		"titleCaption": "WordPress Plugin",
+  		"author": ""
+ 
+ 	},
+ 	"cherry_services": {
+  		"textLogo": "",
+  		"title": "Cherry Services",
+  		"titleCaption": "WordPress Plugin",
+  		"author": ""
+ 
+	},
+ 	"cherry_installer": {
+  		"textLogo": "",
+  		"title": "Cherry Installer",
+  		"titleCaption": "WordPress Plugin",
+  		"author": ""
+ 
+ 	},
+ 	"cherry_trending_posts": {
+  		"textLogo": "",
+  		"title": "Cherry Trending Posts",
+  		"titleCaption": "WordPress Plugin",
+  		"author": ""
+ 	},
+  	"cherry_search": {
+    	"textLogo": "",
+    	"title": "Cherry Search",
+    	"titleCaption": "WordPress Plugin",
+    	"author": ""
+  	},
+	"walden": {
+		"textLogo": "",
+		"title": "Walden",
+		"titleCaption": "Woocommerce Theme",
+		"author": ""
+	},
+	"chefplaza": {
+		"textLogo":"",
+		"title": "CHEF PLAZA",
+		"titleCaption": "Woocommerce Theme",
+		"author": ""
 	}
+
 }

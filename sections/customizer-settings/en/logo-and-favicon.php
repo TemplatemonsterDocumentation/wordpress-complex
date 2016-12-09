@@ -8,7 +8,7 @@
 </figure>
 -->
 
-<h5>Type of logo</h5>
+<h5>Logo Type</h5>
 
 <ul class="marked-list">
     <li>
@@ -38,6 +38,20 @@
 <h5>Retina Logo Upload</h5>
 
 <p>Here you can upload the logo for retina-ready devices</p>
+
+
+<?php if ($project != 'roadway' &&  $project != 'tradex' &&  $project != 'italica' &&  $project != 'mohican' &&  $project != 'gutenberg' &&  $project != 'knox' &&  $project != 'gaze' &&  $project != 'techlab' &&  $project != 'organica' &&  $project != 'infobyte' &&  $project != 'transit' &&  $project != 'jericho' &&  $project != 'walden' &&  $project != 'chefplaza') { ?>
+<h5>Retina Invert Logo Upload</h5>
+
+<p> Upload invert logo for retina-ready devices. Displays only at style 1 header layout. </p>
+<?php } ?>
+
+<?php if ($project == 'bellaina') { ?>
+    <h5>Invert Logo Upload</h5>
+
+<p>Upload invert logo image. Displays only at style 1 header layout.</p>
+
+<?php } ?>
 
 
 <h5>Site Icon</h5>

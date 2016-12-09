@@ -1,6 +1,6 @@
 	<h3>Search</h3>
 
-	<p>This widget add a search field to the page</p>
+	<p>This widget adds a search field to the page</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/search.png">
@@ -12,7 +12,7 @@
         <dl class="inline-term">
             <dt> Title</dt>
             <dd>
-                This property specifies the widget title
+                Specify the widget title
             </dd>
         </dl>
     </li>

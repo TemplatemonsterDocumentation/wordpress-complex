@@ -1,0 +1,127 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #fff;
+$primary-color-second: #ff6025;
+$primary-color-dark: #141414;
+$header-background-image: '../../projects/neurion_tf/img/header-bg.png';
+
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:400,700);
+$primary-font-family: 'Roboto Mono', ;
+
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: $primary-color;
+
+}
+h2 {
+	color: $primary-color-second;
+	//font-family: $primary-font-family;
+}
+h3 {
+	color: $primary-color-dark;
+	//font-family: $primary-font-family;
+}
+h4 {
+	color: $primary-color-second;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+			@media (max-width: 1440px) {
+    			background-position: 100% bottom;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color-second;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}
+}
+
+ .rd-mobilepanel_title {
+	font-size: 78px;
+	font-weight:800;
+	top:115px;
+}
+
+.tm-title-caption {
+	font-size: 28px;
+	top: 219px;
+	font-family: $primary-font-family;
+    color: $primary-color;
+    line-height: 36px;
+    width: 481px;
+}
+
+@media (max-width: 1439px){
+	.rd-mobilepanel_title{
+		top:60px
+	}
+	.tm-title-caption {	
+		top:180px;
+	}
+}
+@media (max-width: 1600px) and (min-width: 1440px){
+	.rd-mobilepanel_title{
+		top:60px
+	}
+	.tm-title-caption {	
+		top:180px;
+		width:198px;
+	}
+}
+@media (max-width: 1900px) and (min-width: 1601px){
+	.rd-mobilepanel_title{
+		top:60px
+	}
+	.tm-title-caption {	
+		top:180px;
+		width:300px;
+	}
+}
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color;
+	}
+}
+
+.toTop {
+	background-color: $primary-color-second;
+	&:hover {
+    	background: lighten($primary-color-dark, 20%);
+	}
+}

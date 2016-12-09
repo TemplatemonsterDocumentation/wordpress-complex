@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Category</dt>
             <dd>
-                Here you can select categories to pull slides from
+                Here you can select categories to pull the slides from
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Tag</dt>
             <dd>
-                Here you can select tags to pull slides from
+                Here you can select tags to pull the slides from
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Posts count</dt>
             <dd>
-                This property defines number of posts / slides to display
+                This property defines the number of posts / slides to display
             </dd>
         </dl>
     </li>
@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Show button</dt>
             <dd>
-                Here you can define whether to Hide/Show read more button
+                Here you can define whether to Hide/Show the Read More button
             </dd>
         </dl>
     </li>
@@ -76,7 +76,7 @@
         <dl class="inline-term">
             <dt>Show thumb</dt>
             <dd>
-                Here you can define whether to Hide/Show slide thumbnails below the slider.
+                Here you can define whether to Hide/Show slide thumbnails below the slider
             </dd>
         </dl>
     </li>
@@ -84,7 +84,7 @@
         <dl class="inline-term">
             <dt>Autoplay</dt>
             <dd>
-                This property specifies whether enable / disable autoplaying for slides
+                This property specifies whether to enable / disable autoplaying for slides
             </dd>
         </dl>
     </li>

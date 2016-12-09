@@ -1,0 +1,11 @@
+{
+	"id": "cherry-popups-plugin-opt",
+	"translations": {
+		"en": "Plugin Options",
+		"ru": "Опции Плагина"
+	},
+	"articles": {
+		"cherry_popups": []
+	}
+}
+

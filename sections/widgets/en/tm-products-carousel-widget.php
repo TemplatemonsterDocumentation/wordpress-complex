@@ -100,7 +100,7 @@
             <dl class="inline-term">
                 <dt>Navigation </dt>
                 <dd>
-                    This feature allows you to display navigation arrows and pagination
+                    This feature allows you to display the navigation arrows and pagination
                 </dd>
             </dl>
         </li>

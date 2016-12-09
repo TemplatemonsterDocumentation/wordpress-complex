@@ -67,7 +67,7 @@
         <dl class="inline-term">
             <dt>Adapt To Plugin Container Width</dt>
             <dd>
-                This property defines whether to enable / disable adaptive width for the facebook container
+                This property defines whether to enable / disable the adaptive width for the facebook container
             </dd>
         </dl>
     </li>
@@ -75,7 +75,7 @@
         <dl class="inline-term">
             <dt>Set Width</dt>
             <dd>
-                This property defines width of a parent container
+                This property defines the width of a parent container
             </dd>
         </dl>
     </li>
@@ -83,7 +83,7 @@
         <dl class="inline-term">
             <dt>Set Height</dt>
             <dd>
-                This property defines height of a parent container
+                This property defines the height of a parent container
             </dd>
         </dl>
     </li>

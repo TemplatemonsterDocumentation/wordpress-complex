@@ -1,6 +1,6 @@
 	<h3>Instagram</h3>
 
-	<p>This widget is used to setup and display instagram feed on the website.</p>
+	<p>This widget is used to setup and display Instagram feed on the website.</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/instagram-widget.png">

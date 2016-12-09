@@ -1,0 +1,94 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700);
+h1 {
+  font-family: "Playfair Display", serif;
+  color: #282828; }
+
+h2 {
+  color: #282828; }
+
+h3 {
+  color: #282828; }
+
+h4 {
+  color: #282828; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #f2f2f2;
+  background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+.rd-mobilepanel.fixed .rd-mobilepanel_title {
+  top: -57px; }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/waylard/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 70px;
+  top: 182px;
+  width: 400px;
+  line-height: 75px;
+  text-transform: uppercase; }
+
+.tm-title-caption {
+  font-size: 29px;
+  top: 265px;
+  font-family: "Playfair Display", serif;
+  color: #282828;
+  line-height: 36px;
+  width: 324px;
+  text-align: left; }
+
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 86px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 176px;
+    text-align: left; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 86px; }
+
+  .tm-title-caption {
+    width: 300px;
+    top: 176px; } }
+.rd-mobilemenu .logo {
+  background-color: #ffffff; }
+
+.rd-mobilemenu_ul ul a.focus {
+  color: #282828; }
+
+.toTop {
+  background-color: #f2f2f2;
+  color: #000000; }
+  .toTop:hover {
+    background-color: #282828;
+    color: #ffffff; }
+
+.rd-mobilepanel_toggle span {
+  background-color: #000; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #000; }

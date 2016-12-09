@@ -1,0 +1,15 @@
+{
+	"id": "cherry-intro",
+	"translations": {
+		"en": "Introduction",
+		"ru": "Введение"
+	},
+	"articles": {
+		"cherry_team": [],
+		"cherry_services": [],
+		"cherry_installer": [],
+		"cherry_trending_posts": [],
+		"cherry_search": []
+	}
+}
+

@@ -26,7 +26,7 @@
 </figure>
 
 <p>
-	You can arrange your widgets set in your sidebar by adding new ones, changing the order of widgets and removing the unused ones.
+	You can arrange your widgets set in your sidebar by adding the new ones, changing the order of widgets and removing the unused ones.
 </p>
 
 <h5>Avaliable Post sidebar areas</h5>

@@ -1,6 +1,6 @@
 	<h3>Image Grid Widget</h3>
 
-	<p>This widget is used to display image grid. By default, you have to select an appropriate category or tags in order to display the grid.</p>
+	<p>This widget is used to display the image grid. By default, you have to select an appropriate category or tags in order to display the grid.</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/image-grid-widget.png">

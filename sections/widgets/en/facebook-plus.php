@@ -1,6 +1,6 @@
 	<h3>Facebook Widget Plus</h3>
 
-	<p>This widget is used to setup and display facebook feed on the website.</p>
+	<p>This widget is used to setup and display Facebook feed on the website.</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/facebook-page-like-widget.png">
@@ -20,7 +20,7 @@
         <dl class="inline-term">
             <dt>Facebook Page URL</dt>
             <dd>
-                Specify the url address of the facebook page
+                Specify the url address of the Facebook page
             </dd>
         </dl>
     </li>
@@ -65,7 +65,7 @@
         <dl class="inline-term">
             <dt>Widget Header Size</dt>
             <dd>
-                Specify size of the header widget
+                Specify the size of the header widget
             </dd>
         </dl>
     </li>
@@ -110,7 +110,7 @@
         <dl class="inline-term">
             <dt>Border CSS</dt>
             <dd>
-                Specify color and type of the border
+                Specify the color and type of the border
             </dd>
         </dl>
     </li>
@@ -119,7 +119,7 @@
         <dl class="inline-term">
             <dt>Box Shadow</dt>
             <dd>
-                Specify box shadow
+                Specify the box shadow
             </dd>
         </dl>
     </li>

@@ -1,0 +1,10 @@
+{
+	"id": "tm-gallery-edit",
+	"translations": {
+		"en": "Gallery Edit",
+		"ru": ""
+	},
+	"articles": {
+		"tm-gallery": []
+	}
+}

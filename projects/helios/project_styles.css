@@ -1,0 +1,94 @@
+@import "https://fonts.googleapis.com/css?family=Montserrat";
+h1 {
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff; }
+
+h2 {
+  color: #333135; }
+
+h4 {
+  color: #333135; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #333135;
+  background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/helios/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 74px;
+  font-weight: 400;
+  top: 175px;
+  color: #fff; }
+
+.tm-title-caption {
+  font-size: 30px;
+  top: 268px;
+  color: #fff;
+  line-height: 48px;
+  width: 500px; }
+
+.rd-mobilemenu .logo {
+  background-color: #ffffff; }
+
+.toTop {
+  background-color: #333135; }
+  .toTop:hover {
+    background: #66626a; }
+
+.bold_text {
+  font-weight: 600; }
+
+.it_text {
+  font-weight: 400;
+  font-style: italic; }
+
+@media (max-width: 1439px) {
+  .rd-mobilepanel_title {
+    top: 52px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 158px;
+    text-align: left; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 52px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 158px;
+    text-align: left; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 52px; }
+
+  .tm-title-caption {
+    width: 300px;
+    top: 158px; } }
+@media (max-width: 1900px) and (min-width: 1801px) {
+  .tm-title-caption {
+    width: 300px; } }

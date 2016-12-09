@@ -57,13 +57,14 @@
                         <li>
                             <dl class="inline-term">
                                 <dt>
-                                    <i class="fa fa-file"></i> <strong>content.xml</strong>
+                                    <i class="fa fa-file"></i> <strong>sample_data.xml</strong>
                                 </dt>
                                 <dd>
                                     contains all template sample data (posts, pages, categories, etc).
                                 </dd>
                             </dl>
                         </li>
+                    <?php if ($project != 'bellaina' && $project != 'homepro' && $project != 'gutenberg' && $project != 'addison' && $project != 'ecolife' && $project != 'duval' && $project != 'builderry' && $project != 'neuton' && $project != 'focussity'  && $project != 'legacy') { ?> 
                         <li>
                             <dl class="inline-term">
                                 <dt>
@@ -74,6 +75,7 @@
                                 </dd>
                             </dl>
                         </li>
+                    <?php } ?>    
                     </ul>
                 </li>
                 <li class="folder">
@@ -145,13 +147,15 @@
     <h4>Software</h4>
     <p>Before you start working with the WordPress template, you should download the required software. You can check the required software on the template preview page.<br>
     The requirements can alter from template to template, so we will list the most important ones:</p>
-    <ol class="index-list">
-    	<li>First of all, you will need the right software to extract files from the password protected sources_#########.zip archive. You can use WinZip 9 or a later version (if you have Windows OS) or Stuffit Expander 10 or a later version (if you have Mac OS).</li>
-    	<li>You might also need Adobe Photoshop. It is used to edit the source .PSD files in case you need to change the graphic design and images of the template.</li>
-    	<li>To edit the source code of the template, you can use code editors like Adobe Dreamweaver, Notepad++, Sublime Text, etc.</li>
-    	<li>To upload the files to a hosting server, you will need an FTP manager like Total Commander, FileZilla, CuteFTP, etc.</li>
-    </ol>
-
+ <?php if ($project != 'bettaso' && $project != 'bedentist' && $project != 'pristine' && $project != 'samson' && $project != 'advisto' && $project != 'ironmass' && $project != 'mechanna' && $project != 'fiona' && $project != 'cleaningpro' && $project != 'confucius'  && $project != 'plumberpro' && $project != 'madeleine' && $project != 'fenimore' && $project != 'focussity'  && $project != 'durand' && $project != 'chateau' && $project != 'shanti' && $project != 'nolan' && $project != 'jorden' && $project != 'fuel' && $project != 'neuton' && $project != 'proedge' && $project != 'chromix' && $project != 'artwork' && $project != 'safedrive' && $project != 'sensei' && $project != 'legacy' &&  $project != 'lawpress' && $project != 'limittax' && $project != 'cookery' && $project != 'duval' && $project != 'keypress' && $project != 'crystalica' && $project != 'penn'  && $project != 'porto' && $project != 'odyssey' && $project != 'masterchef' && $project != 'chopchop' && $project != 'whitewhale' && $project != 'tanaka' && $project != 'addison' && $project != 'ecolife' && $project != 'hidalgo' && $project != 'happylearning' && $project != 'mizrahi' && $project != 'redhotgrill' && $project != 'inmotion' && $project != 'machinist' && $project != 'cascade' && $project != 'paintelle' ) { ?>
+ 
+        <ol class="index-list">
+        	<li>First of all, you will need the right software to extract files from the password protected sources_#########.zip archive. You can use WinZip 9 or a later version (if you have Windows OS) or Stuffit Expander 10 or a later version (if you have Mac OS).</li>
+        	<li>You might also need Adobe Photoshop. It is used to edit the source .PSD files in case you need to change the graphic design and images of the template.</li>
+        	<li>To edit the source code of the template, you can use code editors like Adobe Dreamweaver, Notepad++, Sublime Text, etc.</li>
+        	<li>To upload the files to a hosting server, you will need an FTP manager like Total Commander, FileZilla, CuteFTP, etc.</li>
+        </ol>
+<?php } ?>
     	<h4>Hosting</h4>
     	<p>Since WordPress CMS is a PHP/MySQL platform, you need to have the hosting server prepared for it.</p>
     	<p>In case you already have a hosting server, you need to check whether it is compatibile with <a href="http://wordpress.org/about/requirements/" target="_blank"> WordPress hosting requirements </a> or not. In other words, whether you can host a WordPress website with it.</p>

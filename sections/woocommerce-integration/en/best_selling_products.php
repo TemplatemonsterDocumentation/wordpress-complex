@@ -1,6 +1,6 @@
 <h3>Best-Selling Products</h3>
 <p>
-	List best-selling products on sale.
+	List the best-selling products on sale.
 </p>
 
 <h4>[best_selling_products per_page="12"]</h4>

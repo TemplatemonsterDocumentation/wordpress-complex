@@ -1,6 +1,6 @@
 	<h3>Facebook page like widget</h3>
 
-	<p>This widget is used to setup and display facebook feed on the website.</p>
+	<p>This widget is used to setup and display Facebook feed on the website.</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/facebook-widget.png">
@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Facebook application ID</dt>
             <dd>
-                Here you can define the facebook application ID to show the account images on your website
+                Here you can define the Facebook application ID to show the account images on your website
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Facebook page url</dt>
             <dd>
-                Specify the url address of the facebook page
+                Specify the url address of the Facebook page
             </dd>
         </dl>
     </li>
@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Hide cover</dt>
             <dd>
-                This property defines whether to display / hide header background image for facebook block
+                This property defines whether to display / hide header background image for Facebook block
             </dd>
         </dl>
     </li>
@@ -59,7 +59,7 @@
         <dl class="inline-term">
             <dt>Show Small Header</dt>
             <dd>
-                This property defines whether to enable / disable small header for facebook block
+                This property defines whether to enable / disable small header for Facebook block
             </dd>
         </dl>
     </li>
@@ -67,7 +67,7 @@
         <dl class="inline-term">
             <dt>Adapt To Plugin Container Width</dt>
             <dd>
-                This property defines whether to enable / disable adaptive width for facebook container
+                This property defines whether to enable / disable adaptive width for Facebook container
             </dd>
         </dl>
     </li>
@@ -75,7 +75,7 @@
         <dl class="inline-term">
             <dt>Set Width</dt>
             <dd>
-                This property defines width of a parent container
+                This property defines the width of a parent container
             </dd>
         </dl>
     </li>
@@ -83,7 +83,7 @@
         <dl class="inline-term">
             <dt>Set Height</dt>
             <dd>
-                This property defines height of parent container
+                This property defines the height of a parent container
             </dd>
         </dl>
     </li>

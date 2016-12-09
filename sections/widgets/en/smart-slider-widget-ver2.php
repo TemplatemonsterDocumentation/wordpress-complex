@@ -1,6 +1,6 @@
 	<h3>Smart Slider</h3>
 
-	<p>This widget is used to setup and display slider on the website.</p>
+	<p>This widget is used to setup and display Smart Slider on the website.</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/smart-slider-widget.png">
@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Choose taxonomy type</dt>
             <dd>
-                Select taxonomy type of the slides
+                Select the taxonomy type of the slides
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Select category</dt>
             <dd>
-                Here you can select a category to pull slides from
+                Here you can select a category to pull the slides from
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Select tags</dt>
             <dd>
-                Here you can select tags to pull slides from
+                Here you can select tags to pull the slides from
             </dd>
         </dl>
     </li>
@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Posts count</dt>
             <dd>
-                This property defines number of posts / slides to display
+                This property defines a number of posts / slides to display
             </dd>
         </dl>
     </li>
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Display title </dt>
             <dd>
-                Here you can define whether to Hide/Show post's title in a slide
+                Here you can define whether to Hide/Show the post's title in a slide
             </dd>
         </dl>
     </li>
@@ -59,7 +59,7 @@
         <dl class="inline-term">
             <dt>Display content</dt>
             <dd>
-                Here you can define whether to Hide/Show post's content in a slide body
+                Here you can define whether to Hide/Show the post's content in a slide body
             </dd>
         </dl>
     </li>
@@ -67,7 +67,7 @@
         <dl class="inline-term">
             <dt>Display more button</dt>
             <dd>
-                Here you can define whether to Hide/Show read more button
+                Here you can define whether to Hide/Show the Read More button
             </dd>
         </dl>
     </li>
@@ -75,7 +75,7 @@
         <dl class="inline-term">
             <dt>More button text</dt>
             <dd>
-                Read more button label
+                Add the Read More button label
             </dd>
         </dl>
     </li>
@@ -83,7 +83,7 @@
         <dl class="inline-term">
             <dt>Content words trimmed count</dt>
             <dd>
-                This property defines excerpt limit by choosing number of words from post's content
+                Specify the count of the content words
             </dd>
         </dl>
     </li>
@@ -99,7 +99,7 @@
         <dl class="inline-term">
             <dt>Slider height</dt>
             <dd>
-                This property defines slider height
+                This property defines the slider height
             </dd>
         </dl>
     </li>
@@ -107,7 +107,7 @@
         <dl class="inline-term">
             <dt>Slider orientation</dt>
             <dd>
-                This property specifies the slider orientation. Smart slider slides are automatically set up in Horizontal / Landscape slide orientation, but you can change the slide orientation to Portrait / Vertical Portrait slide orientation.
+                This property specifies the slider orientation. The Smart Slider slides are automatically set up in Horizontal / Landscape slide orientation, but you can change the slide orientation to Portrait / Vertical Portrait slide orientation
             </dd>
         </dl>
     </li>
@@ -115,7 +115,7 @@
         <dl class="inline-term">
             <dt>Slide distance(px)</dt>
             <dd>
-                This property specifies distance between slides in px
+                This property specifies the distance between the slides in px
             </dd>
         </dl>
     </li>
@@ -139,7 +139,7 @@
         <dl class="inline-term">
             <dt>Use navigation?</dt>
             <dd>
-                Here you can define whether to Hide/Show navigation arrows
+                Here you can define whether to Hide/Show the navigation arrows
             </dd>
         </dl>
     </li>
@@ -163,7 +163,7 @@
         <dl class="inline-term">
             <dt>Use autoplay?</dt>
             <dd>
-                This property specifies enable / disable autoplaying for slides
+                Enable/disable autoplaying for slides
             </dd>
         </dl>
     </li>
@@ -171,7 +171,7 @@
         <dl class="inline-term">
             <dt>Display fullScreen button?</dt>
             <dd>
-                Here you can define whether to Hide/Show full screen button to display slider in full screen mode. It is not available in WordPress customizer preview.
+                Here you can define whether to Hide/Show full screen button to display slider in full screen mode. It is not available in WordPress customizer preview
             </dd>
         </dl>
     </li>
@@ -179,7 +179,7 @@
         <dl class="inline-term">
             <dt>Indicates if the slides will be shuffled</dt>
             <dd>
-                This property specifies whether to shuffle slides randomly, is disabled by default
+                This property specifies whether to shuffle the slides randomly. The option is disabled by default
             </dd>
         </dl>
     </li>
@@ -195,7 +195,7 @@
         <dl class="inline-term">
             <dt>Display thumbnails?</dt>
             <dd>
-                Here you can define whether to Hide/Show slide thumbnails below the slider
+                Here you can define whether to Hide/Show slide the thumbnails below the slider
             </dd>
         </dl>
     </li>

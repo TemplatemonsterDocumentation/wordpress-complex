@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:400,700);
+h1 {
+  color: #ffffff; }
+
+h2 {
+  color: #e24c57; }
+
+h3 {
+  color: #4f6273; }
+
+h4 {
+  color: #e24c57; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #e24c57;
+  background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/posh/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 90px;
+  width: 410px;
+  height: 20px;
+  top: 200px;
+  text-transform: uppercase; }
+
+.tm-title-caption {
+  font-size: 25px;
+  top: 321px;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  line-height: 36px;
+  width: 430px; }
+
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .tm-title-caption {
+    width: 300px; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 47px; }
+
+  .tm-title-caption {
+    width: 185px;
+    top: 153px; } }
+@media (max-width: 1399px) {
+  .tm-title-caption {
+    width: 383px; } }
+.rd-mobilemenu .logo {
+  background-color: #4f6273; }
+
+.toTop {
+  background-color: #4f6273; }
+  .toTop:hover {
+    background: #8095a8; }

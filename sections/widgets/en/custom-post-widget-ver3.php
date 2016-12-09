@@ -71,7 +71,7 @@
             </dd>
         </dl>
     </li>
-    <?php if ($project == 'vegetexia'OR $project == 'travelop') { ?>
+<?php if ($project == 'vegetexia'OR $project == 'travelop') { ?>
      <li>
         <dl class="inline-term">
             <dt>Display thumbnails</dt>
@@ -80,8 +80,7 @@
             </dd>
         </dl>
     </li>
-
-    <?php } ?>
+<?php } ?>
     <li>
         <dl class="inline-term">
             <dt>Title words length </dt>
@@ -115,4 +114,14 @@
             </dd>
         </dl>
     </li>
+<?php if ($project == 'waylard') { ?>
+     <li>
+        <dl class="inline-term">
+            <dt>Show image post</dt>
+            <dd>
+                Show/hide image post
+            </dd>
+        </dl>
+    </li>
+<?php } ?>
 </ul>

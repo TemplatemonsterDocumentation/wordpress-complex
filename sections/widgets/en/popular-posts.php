@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Title words length</dt>
             <dd>
-                Specify the length of the title
+                Specify the title length
             </dd>
         </dl>
     </li>
@@ -43,7 +43,7 @@
         <dl class="inline-term">
             <dt>Display post meta data</dt>
             <dd>
-                Specify meta data you want to add 
+                Specify the post meta data you want to add 
             </dd>
         </dl>
     </li>

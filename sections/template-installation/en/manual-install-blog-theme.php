@@ -7,7 +7,9 @@
     <figure class="img-polaroid">
         <img src="img/blog-theme/installation/add-theme-dashboard.png" alt="" >
     </figure>
-
+<?php if ($project == 'bellaina') { ?>
+    <h4>Note: You should install the theme on a clean WordPress, and there should be no users except for Admin. </h4>
+<?php } ?>
     <p>Navigate to the <strong>Appearance > Themes</strong> section at the admin panel of the site and open  the  <strong>"theme"</strong> folder</p>
     <p>Locate the archive named as theme-name.zip and install the theme by pressing "Install Now".</p>
 
@@ -29,10 +31,17 @@
         Then press on "Begin installing plugins" at the top of the website to start  installation of the recommended plugins.
     </p>
 
+<?php if ($project != 'cosmetro_tf' && $project != 'neurion_tf' && $project != 'sketchfield_tf') { ?> 
     <figure class="img-polaroid">
         <img src="img/blog-theme/installation/themes-panel.png" alt="" >
     </figure>
+<?php } ?>
 
+<?php if ($project == 'cosmetro_tf' or $project == 'neurion_tf' or $project == 'sketchfield_tf') { ?> 
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/tmpl-installation/themes-panel.png">
+</figure>
+<?php } ?>
     <p>
         Select all the plugins, choose 'install' mode and confirm the action by pressing "Apply"
     </p>
@@ -44,7 +53,16 @@
     <p>
         Then you'll be redirected to the plugins activation page. Select "Return to the Dashboard" when it is completed.
     </p>
+<?php if ($project == 'bellaina' or $project == 'homepro' or $project == 'gutenberg' or $project == 'addison' or  $project == 'ecolife' or  $project == 'duval' or  $project == 'builderry' or  $project == 'legacy' or $project == 'neuton' or  $project == 'focussity' or $project == 'focussity') { ?>
+<h4>Automatic Installation Using Cherry Installer </h4>
+<p>
+    The theme comes with a pre installed Cherry Data Importer plugin that will help you upload the information quickly and easily.
+    <a href="http://documentation.templatemonster.com/index.php?project=bellaina&lang=en&section=plugins#cherry-data-importer">Check a step by step guide here </a>
+</p>
+<?php } ?>
 
+
+<?php if ($project != 'bellaina' && $project != 'homepro' && $project != 'gutenberg' && $project != 'addison' &&  $project != 'ecolife' &&  $project != 'duval' &&  $project != 'builderry' &&  $project != 'legacy' &&  $project != 'neuton' &&  $project != 'focussity') { ?> 
     <h4>In order to install theme sample data</h4>
 
     <p>Navigate to <strong>Tools > Import</strong></p>
@@ -93,6 +111,7 @@
     </div>
 
 
+
     <h4>In order to import widget settings</h4>
 
     <p>
@@ -117,6 +136,7 @@
 
 
     <p>After the successful installation, all widgets settings will be applied.</p>
+<?php } ?>
 
     <div class="alert alert-info">
     If there are problems with installing the theme via the admin panel, here's an alternative way to do it.

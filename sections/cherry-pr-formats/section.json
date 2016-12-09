@@ -1,0 +1,40 @@
+{
+	"id": "cherry-pr-formats",
+	"translations": {
+		"en": "Format types",
+		"ru": "Введение"
+	},
+	"articles": {
+		"cherry_projects": [
+			{
+				"id": "image-format",
+				"translations": {
+					"en": "Image Format",
+					"ru": "Image Format"
+				}
+			},
+			{
+				"id": "gallery-format",
+				"translations": {
+					"en": "Gallery Format",
+					"ru": "Gallery Format"
+				}
+			},
+			{
+				"id": "audio-format",
+				"translations": {
+					"en": "Audio Format",
+					"ru": "Audio Format"
+				}
+			},
+			{
+				"id": "video-format",
+				"translations": {
+					"en": "Video Format",
+					"ru": "Video Format"
+				}
+			}
+		]
+	}
+}
+

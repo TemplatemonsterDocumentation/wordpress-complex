@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Choose layout type</dt>
             <dd>
-                Here you can select the layout pattern for the page with custom news box layout
+                Here you can select the layout pattern for the page with a custom news box layout
             </dd>
         </dl>
     </li>
@@ -59,7 +59,7 @@
         <dl class="inline-term">
             <dt>Title words trimmed count</dt>
             <dd>
-                This property defines the title words limit in  
+                This property defines the title words limit 
             </dd>
         </dl>
     </li>
@@ -75,7 +75,7 @@
         <dl class="inline-term">
             <dt>Display date</dt>
             <dd>
-                Here you can define whether to display post's date 
+                Here you can define whether to display post's date or not
             </dd>
         </dl>
     </li>
@@ -83,7 +83,7 @@
         <dl class="inline-term">
             <dt>Display author</dt>
             <dd>
-                Here you can define whether to display author's name 
+                Show/hide author name 
             </dd>
         </dl>
     </li>
@@ -91,7 +91,7 @@
         <dl class="inline-term">
             <dt>Display comments</dt>
             <dd>
-                Here you can define whether to display comments or not
+                Show/hide comments 
             </dd>
         </dl>
     </li>

@@ -1,4 +1,3 @@
-
 <h3>Color Scheme</h3>
 <p>Here you can set up site color scheme.</p>
 
@@ -8,9 +7,11 @@
 </figure>
 -->
 
+
 <h5>Regular scheme</h5>
 
 <ul class="marked-list">
+<?php if ($project != 'addison' && $project != 'arlo' && $project != 'salvatoro'  && $project != 'callum') { ?>
     <li>
         <dl class="inline-term">
             <dt>Accent color (1)</dt>
@@ -28,9 +29,15 @@
             </dd>
         </dl>
     </li>
+<?php } ?>
+
+<!------------------------------------  
+3- 6
+---------------------------------------->
 
 
-<?php if ($project == 'dailysports') { ?>
+
+<?php if ($project == 'dailysports' or $project == 'organica' or $project == 'chefplaza') { ?>
     <li>
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
@@ -68,7 +75,84 @@
 
 <?php } ?>
 
-<?php if ($project == 'wilson' OR $project == 'coffeera' OR $project == 'jewello') { ?>
+
+<!------------------------------------  
+3- 9
+---------------------------------------->
+
+
+
+<?php if ($project == 'grannali') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (3)</dt>
+            <dd>
+                Third version of the main theme color
+            </dd>
+        </dl>
+    </li> 
+
+     <li>
+        <dl class="inline-term">
+            <dt>Accent color (4)</dt>
+            <dd>
+                Fourth version of the main theme color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (5)</dt>
+            <dd>
+                Fifth version of the main theme color
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (6)</dt>
+            <dd>
+                Sixth version of the main theme color
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (7)</dt>
+            <dd>
+                Seventh version of the main theme color
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (8)</dt>
+            <dd>
+                Eighth version of the main theme color
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (9)</dt>
+            <dd>
+                Ninth version of the main theme color
+            </dd>
+        </dl>
+    </li>
+
+<?php } ?>
+
+
+<!------------------------------------  
+3- 5
+---------------------------------------->
+
+<?php if ($project == 'wilson' OR $project == 'coffeera' OR $project == 'jewello' OR $project == 'posh' OR $project == 'smarthouse' OR $project == 'durand' or $project == 'bellatoi' or $project == 'teddy' or $project == 'timberline' or $project == 'pettown' or $project == 'greenville'  or $project == 'mohican'  or $project == 'arden'  or $project == 'mohican' or $project == 'helios' or $project == 'sportlabs' or $project == 'fleek' or $project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'infobyte' or $project == 'walden') { ?>
     <li>
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
@@ -97,9 +181,12 @@
 <?php } ?>
 
 
+<!------------------------------------  
+3- 4
+---------------------------------------->
 
 
-<?php if ($project == 'cosmetro' OR $project == 'kustrix' ) { ?>
+<?php if ($project == 'cosmetro' OR $project == 'kustrix' OR $project == 'cleaningpro' OR $project == 'focussity' or $project == 'shanti' or $project == 'pokemania' or $project == 'talisman' or $project == 'jericho') { ?>
     <li>
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
@@ -118,7 +205,11 @@
     </li>
 <?php } ?>
 
-<?php if ($project == 'finestgame' or $project == 'sketchfield' or $project == 'clubstome' or $project == 'blogetti' or $project == 'neurion') { ?>
+<!------------------------------------  
+3
+---------------------------------------->
+
+<?php if ($project == 'finestgame' or $project == 'sketchfield' or $project == 'clubstome' or $project == 'blogetti' or $project == 'neurion' or $project == 'ironmass' or $project == 'bettaso' or $project == ' nna' or $project == 'confucius' or $project == 'fenimore' or $project == 'jorden' or $project == 'fuel' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei'  or $project == 'legacy' or $project == 'bellaina' or $project == 'limittax' or $project == 'cookery' or $project == 'duval' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'masterchef' or $project == 'chopchop' or $project == 'whitewhale' or $project == 'tanaka' or $project == 'hidalgo' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'inmotion' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gutenberg' or $project == 'transit') { ?>
     <li>
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
@@ -213,7 +304,7 @@
 </ul>
 
 <h5>Invert scheme</h5>
-
+<?php if ($project != 'addison' && $project != 'arlo' && $project != 'salvatoro'  && $project != 'callum') { ?>
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
@@ -232,9 +323,11 @@
             </dd>
         </dl>
     </li>
-
-
-<?php if ( $project == 'wilson' OR $project == 'coffeera' OR $project == 'jewello') { ?>
+<?php } ?>
+<!------------------------------------  
+3- 5
+---------------------------------------->
+<?php if ( $project == 'wilson' OR $project == 'coffeera' OR $project == 'jewello' OR $project == 'posh' OR $project == 'smarthouse' OR $project == 'durand' or $project == 'bellatoi' or $project == 'teddy' or $project == 'timberline' or $project == 'pettown' or $project == 'greenville' or $project == 'helios' or $project == 'sportlabs' or $project == 'fleek') { ?>
     <li>
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
@@ -261,6 +354,12 @@
     </li>
 
 <?php } ?>
+
+<!------------------------------------  
+3- 6
+---------------------------------------->
+
+
 <?php if ( $project == 'dailysports') { ?>
     <li>
         <dl class="inline-term">
@@ -297,9 +396,78 @@
 
 <?php } ?>
 
+<!------------------------------------  
+3- 9
+---------------------------------------->
 
-<?php if ($project == 'finestgame' or $project == 'sketchfield' or $project == 'blogetti' or $project == 'neurion') { ?>
-     <li>
+<?php if ( $project == 'grannali') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (3)</dt>
+            <dd>
+                The third version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (4)</dt>
+            <dd>
+                Fourth version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (5)</dt>
+            <dd>
+                Fifth version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (6)</dt>
+            <dd>
+                Sixth version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (7)</dt>
+            <dd>
+                Seventh version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (8)</dt>
+            <dd>
+                Eighth version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Accent color (9)</dt>
+            <dd>
+                Ninth version of the main inverted theme color
+            </dd>
+        </dl>
+    </li>
+
+<?php } ?>
+
+<!------------------------------------  
+3
+---------------------------------------->
+<?php if ($project == 'finestgame' or $project == 'sketchfield' or $project == 'blogetti' or $project == 'neurion' or $project == 'ironmass' or $project == 'bettaso'  or $project == 'mechanna' or $project == 'confucius' or $project == 'fenimore' or $project == 'jorden' or $project == 'fuel' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei'  or $project == 'legacy' or $project == 'bellaina'or $project == 'limittax' or $project == 'cookery' or $project == 'duval' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'chopchop' or $project == 'whitewhale' or $project == 'tanaka' or $project == 'hidalgo' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'inmotion' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'mohican' or $project == 'gutenberg' or $project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza'){ ?>
+     <li> 
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
             <dd>
@@ -308,7 +476,13 @@
         </dl>
     </li>
 <?php } ?>
-<?php if ( $project == 'cosmetro' OR $project == 'kustrix' ) { ?>
+
+<!------------------------------------  
+3- 4
+---------------------------------------->
+
+
+<?php if ( $project == 'cosmetro' OR $project == 'kustrix' OR $project == 'cleaningpro' OR $project == 'focussity' or $project == 'shanti' or $project == 'pokemania' ) { ?>
     <li>
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
@@ -408,3 +582,119 @@
         </dl>
     </li>
 </ul>
+
+
+<?php if ($project =='gaze') { ?>
+ 
+<h5>Badge scheme</h5>
+<p>
+    Here you can change the product badges color in accordance with the style of your theme
+</p>
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>New color</dt>
+            <dd>
+                Select the color for new products
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Sale Color</dt>
+            <dd>
+                Select the color for products on sale
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Featured color</dt>
+            <dd>
+                Select the color for featured products
+            </dd>
+        </dl>
+    </li>
+</ul>    
+
+<?php } ?>
+
+<?php if ($project =='walden') { ?>
+ 
+<h5>WooCommerce elements</h5>
+<p>
+    Here you can change the product badges color in accordance with the style of your theme
+</p>
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>Badge color</dt>
+            <dd>
+                Here you can choose a badge color
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>New badge background</dt>
+            <dd>
+                Here you can choose a background color of the new badge
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Sale badge background</dt>
+            <dd>
+                Here you can choose a background color of the sale badge 
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Featured badge background</dt>
+            <dd>
+                Here you can choose a background color of the featured badge 
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Star rating color primary</dt>
+            <dd>
+                Here you can choose a star rating primary color  
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Star rating color secondary</dt>
+            <dd>
+                Here you can choose a star rating secondary color 
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Price color primary</dt>
+            <dd>
+                Here you can choose a primary price color
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Price color secondary</dt>
+            <dd>
+                Here you can choose a secondaryprice color
+            </dd>
+        </dl>
+    </li>
+<?php } ?>

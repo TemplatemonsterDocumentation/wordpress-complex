@@ -1,6 +1,6 @@
 	<h3>Give - Donation Form</h3>
 
-	<p>This widget is used to display and set up donation form</p>
+	<p>This widget is used to display and set up a donation form</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/give-donation-form-widget.png">

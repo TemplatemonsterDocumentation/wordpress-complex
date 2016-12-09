@@ -32,7 +32,7 @@
 
 <h5>Form Tab</h5>
 
-<p>Form editing field (<strong>4</strong>). You can customize form content here using HTML and <a href="http://contactform7.com/tag-syntax/#form_tag" target="_blank">form-tags</a>. Line breaks and blank lines in this field are automatically formatted with &lt;br/&gt; and &lt;p&gt; HTML tags.</p>
+<p>Form editing the field (<strong>4</strong>). You can customize the form content here using HTML and <a href="http://contactform7.com/tag-syntax/#form_tag" target="_blank">form-tags</a>. Line breaks and blank lines in this field are automatically formatted with &lt;br/&gt; and &lt;p&gt; HTML tags.</p>
 
 <p>Tag generators (<strong>3</strong>). By using these tag generators, you can generate form-tags without knowledge of them.</p>
 

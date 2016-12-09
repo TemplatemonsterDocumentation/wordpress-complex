@@ -19,7 +19,7 @@
             <dl class="inline-term">
                 <dt>Currencies excluding from view</dt>
                 <dd>
-                    List the currencies you want to exclude from view
+                    Specify the currencies you want to exclude from view
                 </dd>
             </dl>
         </li>

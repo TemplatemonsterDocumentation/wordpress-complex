@@ -1,6 +1,6 @@
 	<h3>News Smart Box</h3>
 
-	<p>This widget is used to setup and display news box.</p>
+	<p>This widget is used to setup and display the news box.</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/news-smart-box.png">
@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Choose layout type</dt>
             <dd>
-                 Here you can select the layout pattern for page with custom news box layout
+                Specify the layout type to display the items
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Select category</dt>
             <dd>
-                Exact category to use for news items display
+                Select category to use for news items display
             </dd>
         </dl>
     </li>
@@ -75,7 +75,7 @@
         <dl class="inline-term">
             <dt>Display date</dt>
             <dd>
-                Here you can define whether to display post's date 
+                Here you can define whether to display the post date or not
             </dd>
         </dl>
     </li>
@@ -83,7 +83,7 @@
         <dl class="inline-term">
             <dt>Display author</dt>
             <dd>
-                Here you can define whether to display author's name  
+               Show/hide author name  
             </dd>
         </dl>
     </li>

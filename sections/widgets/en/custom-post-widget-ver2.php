@@ -97,6 +97,7 @@
             </dd>
         </dl>
     </li>
+<?php if ($project != 'bettaso') { ?>    
     <li>
         <dl class="inline-term">
             <dt>Custom CSS Class</dt>
@@ -105,4 +106,5 @@
             </dd>
         </dl>
     </li>
+<?php } ?> 
 </ul>

@@ -54,7 +54,7 @@
 
 <p>[products skus=”foo, bar, baz” <strong>orderby=”date”</strong> order=”desc”].</p>
 
-<p>But you can also sort products by custom meta fields using the code below (in this example we order product by price):</p>
+<p>But you can also sort the products by custom meta fields using the code below (in this example we order product by price):</p>
 
 
 <div class="codebox">

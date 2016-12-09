@@ -1,6 +1,6 @@
 	<h3>TM Banners Grid Widget</h3>
 
-	<p>This widget is designed to create banners grid on the website</p>
+	<p>This widget is designed to create the banners grid on the website</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/tm-banners-grid-widget.png">
@@ -11,7 +11,7 @@
         <dl class="inline-term">
             <dt>Title</dt>
             <dd>
-                Enter title of the widget
+                Enter the title of the widget
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Layout</dt>
             <dd>
-                Under the image thumbnails in the customizer are you can switch between several layout types
+                Under the image thumbnails in the customizer you can switch between several layout types
 
             </dd>
         </dl>

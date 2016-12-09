@@ -12,7 +12,7 @@
         <dl class="inline-term">
             <dt>Enable Subscribe Box</dt>
             <dd>
-                Here you can define whether to Hide/Show subscribe box.
+                Here you can define whether to Hide/Show subscribe box
             </dd>
         </dl>
     </li>
@@ -36,7 +36,7 @@
         <dl class="inline-term">
             <dt>Subscribe text message</dt>
             <dd>
-                Here you can add text description for the subscribe form.
+                Here you can add text description for the subscribe form
             </dd>
         </dl>
     </li>
@@ -44,7 +44,7 @@
         <dl class="inline-term">
             <dt>Subscribe input placeholder</dt>
             <dd>
-                This property specifies a placeholder text “Enter Your Email Here” in the input area of the Subscribe Box.
+                This property specifies a placeholder text “Enter Your Email Here” in the input area of the Subscribe Box
             </dd>
         </dl>
     </li>
@@ -52,7 +52,7 @@
         <dl class="inline-term">
             <dt>Subscribe submit label</dt>
             <dd>
-                This property specifies a placeholder text “Submit” in the subscribe button of the Subscribe Box.
+                This property specifies a placeholder text “Submit” in the subscribe button of the Subscribe Box
             </dd>
         </dl>
     </li>
@@ -60,7 +60,7 @@
         <dl class="inline-term">
             <dt>Subscribe success</dt>
             <dd>
-                This property specifies a success message text “You are successfully subscribed” in the subscribe area of the Subscribe Box.
+                This property specifies a success message text “You are successfully subscribed” in the subscribe area of the Subscribe Box
             </dd>
         </dl>
     </li>
@@ -92,7 +92,7 @@
         <dl class="inline-term">
             <dt>Follow text message</dt>
             <dd>
-                Here you can add text description for the Follow block.
+                Here you can add text description for the Follow block
             </dd>
         </dl>
     </li>

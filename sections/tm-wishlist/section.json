@@ -1,0 +1,11 @@
+{
+	"id": "tm-wishlist",
+	"translations": {
+		"en": "Wishlist",
+		"ru": "Введение"
+	},
+	"articles": {
+		"tm-comparewishlist": []
+	}
+}
+

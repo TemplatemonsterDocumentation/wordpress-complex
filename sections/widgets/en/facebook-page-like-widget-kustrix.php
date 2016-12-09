@@ -19,7 +19,7 @@
         <dl class="inline-term">
             <dt>Facebook page URL</dt>
             <dd>
-                Here you can define the facebook page URL to show this account images on your website
+                Here you can define the Facebook page URL to show this account images on your website
             </dd>
         </dl>
     </li>
@@ -27,7 +27,7 @@
         <dl class="inline-term">
             <dt>Show posts from the Page timeline</dt>
             <dd>
-                This property defines whether to show or hide posts from the Page timeline
+                This property defines whether to show or hide the posts from the Page timeline
             </dd>
         </dl>
     </li>
@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Hide cover</dt>
             <dd>
-                This property defines whether to display / hide header background image for facebook block
+                This property defines whether to display / hide header background image for Facebook block
             </dd>
         </dl>
     </li>
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Show Small Header</dt>
             <dd>
-                This property defines whether to enable / disable small header for facebook block
+                This property defines whether to enable / disable the small header for Facebook block
             </dd>
         </dl>
     </li>
@@ -59,7 +59,7 @@
         <dl class="inline-term">
             <dt>Adapt To Plugin Container Width</dt>
             <dd>
-                This property defines whether to enable / disable adaptive width for facebook container
+                This property defines whether to enable / disable the adaptive width for Facebook container
             </dd>
         </dl>
     </li>
@@ -67,7 +67,7 @@
         <dl class="inline-term">
             <dt>Set Width</dt>
             <dd>
-                This property defines width of a parent container
+                This property defines the width of a parent container
             </dd>
         </dl>
     </li>
@@ -75,7 +75,7 @@
         <dl class="inline-term">
             <dt>Set Height</dt>
             <dd>
-                This property defines height of a parent container
+                This property defines the height of a parent container
             </dd>
         </dl>
     </li>

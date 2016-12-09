@@ -1,0 +1,145 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #ffffff;
+$primary-color-second: #c95943;
+$primary-color-dark: #303030;
+$header-background-image: '../../projects/jorden/img/header-bg.png';
+
+@import url(https://fonts.googleapis.com/css?family=Cinzel);
+$primary-font-family:  'Cinzel', serif;
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: $primary-color;
+
+}
+h2 {
+	color: $primary-color-second;
+	//font-family: $primary-font-family;
+}
+h3 {
+	color: $primary-color-dark;
+	//font-family: $primary-font-family;
+}
+h4 {
+	color: $primary-color-second;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+			@media (max-width: 1440px) {
+    			background-position: 100% bottom;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color-second;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}
+}
+.rd-mobilepanel_toggle {
+	span{
+		background-color: #ffffff;
+		&:before, &:after{
+			background-color: #ffffff;
+		}
+	}
+	
+}
+
+.rd-mobilepanel_title {
+	font-size: 80px;
+	font-weight:300;
+	top:213px;
+	width: 400px;
+	line-height: 45px;
+}
+
+.tm-title-caption {
+	font-size: 30px;
+	top: 294px;
+    color: $primary-color;
+    line-height: 36px;
+    width: 481px;
+}
+@media (max-width: 1439px){
+	.rd-mobilepanel_title{
+		top:100px
+	}
+	.tm-title-caption {	
+		top:180px;
+	}
+}
+@media (max-width: 1600px) and (min-width: 1440px){
+	.rd-mobilepanel_title{
+		top:100px
+	}
+	.tm-title-caption {	
+		top:180px;
+		width:198px;
+	}
+}
+@media (max-width: 1800px) and (min-width: 1601px){
+	.rd-mobilepanel_title{
+		top:100px
+	}
+	.tm-title-caption {	
+		top:180px;
+		width:300px;
+	}
+}
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color;
+	}
+}
+.rd-mobilemenu_ul{
+	ul{
+		a{
+			&.focus{
+				color: $primary-color-second;
+			}
+		}
+	}
+}  
+
+.toTop {
+	background-color: $primary-color-second;
+	color: #ffffff;
+	&:hover {
+    	background-color:$primary-color-dark;
+	}
+}

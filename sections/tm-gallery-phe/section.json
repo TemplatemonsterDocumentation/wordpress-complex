@@ -1,0 +1,10 @@
+{
+	"id": "tm-gallery-phe",
+	"translations": {
+		"en": "Photo Editor",
+		"ru": ""
+	},
+	"articles": {
+		"tm-gallery": []
+	}
+}

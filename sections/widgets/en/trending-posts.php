@@ -35,7 +35,7 @@
         <dl class="inline-term">
             <dt>Show from</dt>
             <dd>
-                Specify the category or tag the posts will be pulled from
+                Specify category or tag the posts will be pulled from
             </dd>
         </dl>
     </li>
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Select Tags </dt>
             <dd>
-                Select tags from which the posts will be displayed
+                Select the tags from which the posts will be displayed
             </dd>
         </dl>
     </li>

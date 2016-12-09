@@ -33,7 +33,7 @@
         </dl>
     </li>
 <?php } ?>
-<?php if ($project == 'travelop') { ?>
+<?php if ($project == 'travelop' or $project == 'waylard') { ?>
     <li>
         <dl class="inline-term">
             <dt> Title</dt>

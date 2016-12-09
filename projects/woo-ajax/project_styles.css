@@ -1,0 +1,79 @@
+h1 {
+  font-family: "Myriad Pro", serif;
+  color: #fff; }
+
+h2 {
+  color: #29b6f6; }
+
+h3 {
+  color: #29272a; }
+
+h4 {
+  color: #29b6f6; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #29272a;
+  background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/tm-woocommerce/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 68px;
+  font-weight: 800;
+  top: 115px; }
+
+.tm-title-caption {
+  font-size: 30px;
+  top: 226px;
+  font-family: "Myriad Pro", serif;
+  color: #29272a;
+  line-height: 36px;
+  width: 481px; }
+
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 85px; }
+
+  .tm-title-caption {
+    width: 220px;
+    top: 196px; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .tm-title-caption {
+    width: 300px; } }
+.rd-mobilemenu .logo {
+  background-color: #fff; }
+  .rd-mobilemenu .logo img {
+    display: none; }
+  .rd-mobilemenu .logo a {
+    color: #29272a;
+    font-family: "Myriad Pro", serif;
+    font-size: 20px;
+    font-weight: 800; }
+
+.toTop {
+  background-color: #29b6f6; }
+  .toTop:hover {
+    background: #5d585f; }

@@ -1,4 +1,4 @@
-<h3>Easy Twitter Feed Widget plugin</h3>
+<h3>Easy Twitter Feed</h3>
 
 <p>Display tweets on your site without creating an API. With the help of this advanced <a href="https://wordpress.org/plugins/easy-twitter-feed-widget/" target="_blank">Easy Twitter Feed Widget plugin</a>. In this way, you can add tweets quickly and worry-free.</p>
 
@@ -6,13 +6,13 @@
 <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/third-party-plugins/twitter.png">
 </figure>	
-<h4>Installing Easy Twitter Feed Widget plugin</h4>
+<h4>Installing Easy Twitter Feed  plugin</h4>
 
 <ol class="index-list">
 	<li><p> Upload the easy-twitter-feed-widget folder to the /wp-content/plugins/ directory</p></li>
-	<li><p> Activate the Easy Twitter Feed Widget plugin through the 'Plugins' menu in WordPress</p></li>
-	<li><p> Configure the plugin by going to the Settings > Easy Twitter Feed Widget Options</p></li>
-	<li><p> Use the Easy Twitter Feed Widget by going to the Appearance > Widgets</p></li>
+	<li><p> Activate the Easy Twitter Feed  plugin through the 'Plugins' menu in WordPress</p></li>
+	<li><p> Configure the plugin by going to the Settings > Easy Twitter Feed  Options</p></li>
+	<li><p> Use the Easy Twitter Feed  by going to the Appearance > Widgets</p></li>
 </ol>
 <p><strong>Next you need to get Twitter Widget ID. Follow the steps listed below: </strong></p>
 <ol class="index-list">

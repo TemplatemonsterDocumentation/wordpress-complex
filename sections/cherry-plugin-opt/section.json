@@ -1,0 +1,27 @@
+{
+	"id": "cherry-plugin-opt",
+	"translations": {
+		"en": "Plugin Settings",
+		"ru": "Plugin Settings"
+	},
+	"articles": {
+		"cherry_team": [],
+		"cherry_services": [
+			{
+				"id": "plugin-options",
+				"translations": {
+					"en": "Cherry Services Options",
+					"ru": "Cherry Services Options"
+				}
+			},
+			{
+				"id": "shortcodes",
+				"translations": {
+					"en": "Shortcodes",
+					"ru": "Shortcodes"
+				}
+			}
+		]
+	}
+}
+

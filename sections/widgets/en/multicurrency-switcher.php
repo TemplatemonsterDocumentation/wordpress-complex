@@ -24,3 +24,7 @@
             </dl>
         </li>
     </ul>
+
+<p>
+    Find more information <a href="https://wordpress.org/plugins/woocommerce-jetpack/">here</a>
+</p>

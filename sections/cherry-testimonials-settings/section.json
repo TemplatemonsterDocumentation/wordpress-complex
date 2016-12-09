@@ -1,0 +1,11 @@
+{
+	"id": "cherry-testimonials-settings",
+	"translations": {
+		"en": "Plugin Settings",
+		"ru": "Опции Попапа"
+	},
+	"articles": {
+		"cherry_testimonials": []
+	}
+}
+

@@ -111,12 +111,6 @@
 
 <figure class="img-polaroid"><img src="img/wordpress/post_format_image_editor.png" alt=""></figure>
 
-<p>
-    Having selected this format, you can turn off the lightbox by uncheking the <strong>Enable Lightbox</strong> option.
-</p>
-
-<figure class="img-polaroid"><img src="img/wordpress/post_format_image.png" alt=""></figure>
-
 
 <h4 id="post_format_link">Link</h4>
 

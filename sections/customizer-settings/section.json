@@ -105,13 +105,6 @@
 				}
 			},
 			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
-				}
-			},
-			{
 				"id": "static-front-page",
 				"translations": {
 					"en": "Static Front Page",
@@ -768,13 +761,6 @@
 				}
 			},
 			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
-				}
-			},
-			{
 				"id": "static-front-page",
 				"translations": {
 					"en": "Static Front Page",
@@ -879,13 +865,6 @@
 				"translations": {
 					"en": "Footer",
 					"ru": "Футер"
-				}
-			},
-			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
 				}
 			},
 			{
@@ -996,13 +975,6 @@
 				}
 			},
 			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
-				}
-			},
-			{
 				"id": "static-front-page",
 				"translations": {
 					"en": "Static Front Page",
@@ -1107,13 +1079,6 @@
 				"translations": {
 					"en": "Footer",
 					"ru": "Футер"
-				}
-			},
-			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
 				}
 			},
 			{
@@ -1224,13 +1189,6 @@
 				}
 			},
 			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
-				}
-			},
-			{
 				"id": "static-front-page",
 				"translations": {
 					"en": "Static Front Page",
@@ -1335,13 +1293,6 @@
 				"translations": {
 					"en": "Footer",
 					"ru": "Футер"
-				}
-			},
-			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
 				}
 			},
 			{
@@ -1452,13 +1403,6 @@
 				}
 			},
 			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
-				}
-			},
-			{
 				"id": "static-front-page",
 				"translations": {
 					"en": "Static Front Page",
@@ -1563,13 +1507,6 @@
 				"translations": {
 					"en": "Footer",
 					"ru": "Футер"
-				}
-			},
-			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
 				}
 			},
 			{
@@ -1680,13 +1617,6 @@
 				}
 			},
 			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
-				}
-			},
-			{
 				"id": "static-front-page",
 				"translations": {
 					"en": "Static Front Page",
@@ -1791,13 +1721,6 @@
 				"translations": {
 					"en": "Footer",
 					"ru": "Футер"
-				}
-			},
-			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
 				}
 			},
 			{
@@ -1908,13 +1831,6 @@
 				}
 			},
 			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
-				}
-			},
-			{
 				"id": "static-front-page",
 				"translations": {
 					"en": "Static Front Page",
@@ -2019,13 +1935,6 @@
 				"translations": {
 					"en": "Footer",
 					"ru": "Футер"
-				}
-			},
-			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
 				}
 			},
 			{
@@ -2136,13 +2045,6 @@
 				}
 			},
 			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
-				}
-			},
-			{
 				"id": "static-front-page",
 				"translations": {
 					"en": "Static Front Page",
@@ -2250,13 +2152,6 @@
 				}
 			},
 			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
-				}
-			},
-			{
 				"id": "static-front-page",
 				"translations": {
 					"en": "Static Front Page",
@@ -2287,6 +2182,13 @@
 				}
 			},
 			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
 				"id": "color-scheme",
 				"translations": {
 					"en": "Color scheme",
@@ -2305,13 +2207,6 @@
 				"translations": {
 					"en": "Typography",
 					"ru": "Типография"
-				}
-			},
-			{
-				"id": "social-links",
-				"translations": {
-					"en": "Social links",
-					"ru": "Социальные сети"
 				}
 			},
 			{
@@ -2361,13 +2256,6 @@
 				"translations": {
 					"en": "Footer",
 					"ru": "Футер"
-				}
-			},
-			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
 				}
 			},
 			{
@@ -2478,13 +2366,6 @@
 				}
 			},
 			{
-				"id": "blog-settings-stylepark",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
-				}
-			},
-			{
 				"id": "static-front-page",
 				"translations": {
 					"en": "Static Front Page",
@@ -2592,10 +2473,110 @@
 				}
 			},
 			{
-				"id": "blog-settings",
+				"id": "static-front-page",
 				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+			],
+		"neurion_tf": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
 				}
 			},
 			{
@@ -2605,7 +2586,221 @@
 					"ru": "Главаная траница"
 				}
 			}
-			],
+		],
+		"sketchfield_tf": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"cosmetro_tf": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
 		"finestgame": [
 			{
 				"id": "site-identity",
@@ -2703,13 +2898,6 @@
 				"translations": {
 					"en": "Footer",
 					"ru": "Футер"
-				}
-			},
-			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
 				}
 			},
 			{
@@ -2820,13 +3008,6 @@
 				}
 			},
 			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
-				}
-			},
-			{
 				"id": "static-front-page",
 				"translations": {
 					"en": "Static Front Page",
@@ -2931,13 +3112,6 @@
 				"translations": {
 					"en": "Footer",
 					"ru": "Футер"
-				}
-			},
-			{
-				"id": "blog-settings",
-				"translations": {
-					"en": "Blog Settings",
-					"ru": "Настройки блога"
 				}
 			},
 			{
@@ -3048,6 +3222,2935 @@
 				}
 			},
 			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"waylard": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon-main",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"pristine": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"samson": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"ironmass": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"bettaso": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "404",
+				"translations": {
+					"en": "404",
+					"ru": "404"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"mechanna": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"advisto": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"fiona": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"cleaningpro": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"posh": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+	"confucius": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "404",
+				"translations": {
+					"en": "404",
+					"ru": "404"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+	"plumberpro": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"smarthouse": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"madeleine": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"fenimore": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"focussity": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "404",
+				"translations": {
+					"en": "404",
+					"ru": "404"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"durand": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"grannali": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"chateau": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"bellatoi": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"shanti": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"nolan": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"jorden": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "404",
+				"translations": {
+					"en": "404",
+					"ru": "404"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"fuel": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"bellaina": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"pokemania": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
 				"id": "blog-settings",
 				"translations": {
 					"en": "Blog Settings",
@@ -3061,6 +6164,6981 @@
 					"ru": "Главаная траница"
 				}
 			}
-		]			
+		],
+		"teddy": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "blog-settings",
+				"translations": {
+					"en": "Blog Settings",
+					"ru": "Настройки блога"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "Woocommerce",
+					"ru": "Woocommerce"
+				}
+			}
+		],
+		"builderry": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"neuton": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"proedge": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"chromix": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"artwork": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"safedrive": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"sensei": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"legacy": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"lawpress": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"talisman": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"timberline": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "Woocommerce",
+					"ru": "Woocommerce"
+				}
+			}
+		],
+		"pettown": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "Woocommerce",
+					"ru": "Woocommerce"
+				}
+			}
+		],
+		"limittax": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"greenville": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "Woocommerce",
+					"ru": "Woocommerce"
+				}
+			}
+		],
+		"cookery": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"duval": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "404",
+				"translations": {
+					"en": "404",
+					"ru": "404"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"keypress": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"crystalica": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"penn": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"leonardo": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"porto": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"odyssey": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"masterchef": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"chopchop": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"whitewhale": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "404",
+				"translations": {
+					"en": "404",
+					"ru": "404"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"arden": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "Woocommerce",
+					"ru": "Woocommerce"
+				}
+			}
+		],
+		"burgerpalace": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "Woocommerce",
+					"ru": "Woocommerce"
+				}
+			}
+		],
+		"tanaka": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "404",
+				"translations": {
+					"en": "404",
+					"ru": "404"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"addison": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon-main",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"ecolife": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon-main",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"hidalgo": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "404",
+				"translations": {
+					"en": "404",
+					"ru": "404"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"mizrahi": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "404",
+				"translations": {
+					"en": "404",
+					"ru": "404"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"redhotgrill": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "404",
+				"translations": {
+					"en": "404",
+					"ru": "404"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"happylearning": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"inmotion": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"mohican": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"gutenberg": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+				},
+			{
+				"id": "blog-settings",
+				"translations": {
+					"en": "Blog Settings",
+					"ru": "Настройки блога"
+				}
+			},
+			{
+				"id": "404",
+				"translations": {
+					"en": "404",
+					"ru": "404"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"arlo": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon-main",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"machinist": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"cascade": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"paintelle": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"helios": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "Woocommerce",
+					"ru": "Woocommerce"
+				}
+			}
+		],
+		"sportlabs": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "Woocommerce",
+					"ru": "Woocommerce"
+				}
+			}
+		],
+		"fleek": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "Woocommerce",
+					"ru": "Woocommerce"
+				}
+			}
+		],
+		"homepro": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"salvatoro": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"callum": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"roadway": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"tradex": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"italica": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "404",
+				"translations": {
+					"en": "404",
+					"ru": "404"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"knox": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"gaze": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"techlab": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"organica": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"infobyte": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"transit": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"jericho": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "404",
+				"translations": {
+					"en": "404",
+					"ru": "404"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная cтраница"
+				}
+			}
+		],
+		"jericho": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "social-links-main",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "ads-management",
+				"translations": {
+					"en": "Ads Management",
+					"ru": "Ads Management"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "404",
+				"translations": {
+					"en": "404",
+					"ru": "404"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"walden": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "page-background",
+				"translations": {
+					"en": "Page Background",
+					"ru": "Page Background"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar-main",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		],
+		"chefplaza": [
+			{
+				"id": "site-identity",
+				"translations": {
+					"en": "Site Identity",
+					"ru": "Айдентика сайта"
+				}
+			},
+			{
+				"id": "logo-and-favicon",
+				"translations": {
+					"en": "Logo & Favicon",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "breadcrumbs",
+				"translations": {
+					"en": "Breadcrumbs",
+					"ru": "Навигационная цепочка"
+				}
+			},
+			{
+				"id": "color-scheme",
+				"translations": {
+					"en": "Color scheme",
+					"ru": "Цветовая схема"
+				}
+			},
+			{
+				"id": "color",
+				"translations": {
+					"en": "Color",
+					"ru": "Цвета"
+				}
+			},
+			{
+				"id": "typography",
+				"translations": {
+					"en": "Typography",
+					"ru": "Типография"
+				}
+			},
+			{
+				"id": "social-links",
+				"translations": {
+					"en": "Social links",
+					"ru": "Социальные сети"
+				}
+			},
+			{
+				"id": "page-layout",
+				"translations": {
+					"en": "Page Layout",
+					"ru": "Настройки страницы"
+				}
+			},
+			{
+				"id": "header",
+				"translations": {
+					"en": "Header",
+					"ru": "Хедер"
+				}
+			},
+			{
+				"id": "menu-locations-main",
+				"translations": {
+					"en": "Menu Locations",
+					"ru": "Расположение меню"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Сайдбар"
+				}
+			},
+			{
+				"id": "mailchimp",
+				"translations": {
+					"en": "Mailchimp",
+					"ru": "Мейлчимп"
+				}
+			},
+			{
+				"id": "widgets",
+				"translations": {
+					"en": "Widgets",
+					"ru": "Виджеты"
+				}
+			},
+			{
+				"id": "footer",
+				"translations": {
+					"en": "Footer",
+					"ru": "Футер"
+				}
+			},
+			{
+				"id": "static-front-page",
+				"translations": {
+					"en": "Static Front Page",
+					"ru": "Главаная траница"
+				}
+			}
+		]
 	}
 }

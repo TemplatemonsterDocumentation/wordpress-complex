@@ -43,7 +43,7 @@
             <dl class="inline-term">
                 <dt>Drop-down options text type</dt>
                 <dd>
-                    Specify the type of text displayed in the widget
+                    Specify the type of the text displayed in the widget
                 </dd>
             </dl>
         </li>

@@ -1,6 +1,6 @@
 	<h3>WooCommerce Product Categories</h3>
 
-	<p>This widget is used to display a list of your products on your site.</p>
+	<p>This widget is used to display a list of products on your site.</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/woocommerce-product-categories.png">
@@ -51,7 +51,7 @@
             <dl class="inline-term">
                 <dt>Only show children of the current category</dt>
                 <dd>
-                    Display cild products of the current category only
+                    Display child products of the current category only
                 </dd>
             </dl>
         </li>

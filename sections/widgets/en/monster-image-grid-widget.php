@@ -1,6 +1,6 @@
 	<h3>Image Grid Widget</h3>
 
-	<p>This widget is used to display image grid. By default, you have to select appropriate category or tags in order to start display</p>
+	<p>This widget is used to display the image grid. By default, you have to select an appropriate category or tags in order to start display</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/tm-image-grid-widget.png">
@@ -51,7 +51,7 @@
         <dl class="inline-term">
             <dt>Offset posts</dt>
             <dd>
-                This property specifies the number of post to displace or pass over
+                This property specifies the number of posts to displace or pass over
             </dd>
         </dl>
     </li>
@@ -59,7 +59,7 @@
         <dl class="inline-term">
             <dt>Title length</dt>
             <dd>
-                This property sets the number of words limit for post's title. Set 0 to hide the title
+                This property sets the number of words limit for the post title. Set 0 to hide the title
             </dd>
         </dl>
     </li>

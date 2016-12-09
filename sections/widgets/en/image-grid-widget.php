@@ -1,6 +1,6 @@
 	<h3>Image Grid Widget</h3>
 
-	<p>This widget is used to display image grid. By default, you have to select appropriate category or tags in order to start display</p>
+	<p>This widget is used to display the image grid. By default, you have to select an appropriate category or tags in order to start display</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/image-grid-widget.png">
@@ -15,6 +15,7 @@
             </dd>
         </dl>
     </li>
+<?php if ($project != 'bellaina') { ?>
     <li>
         <dl class="inline-term">
             <dt>Choose taxonomy type</dt>
@@ -39,11 +40,32 @@
             </dd>
         </dl>
     </li>
+<?php } ?>
+
+<?php if ($project == 'bellaina') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Choose post type to display</dt>
+            <dd>
+                Select a proper post type for display
+            </dd>
+        </dl>
+    </li>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Select property tags</dt>
+            <dd>
+                Here you can select tags to pull the slides from
+            </dd>
+        </dl>
+    </li>
+<?php } ?>
     <li>
         <dl class="inline-term">
             <dt>Post sorted</dt>
             <dd>
-                This property specifies how to sort out posts on display
+                This property specifies how to sort out the posts on display
             </dd>
         </dl>
     </li>

@@ -1,6 +1,6 @@
 	<h3>Text</h3>
 
-	<p>The widget allows you to display various text blocks, you can also use it to insert shortcodes.</p>
+	<p>The widget allows you to display various text blocks, you can also use it to insert the shortcodes.</p>
 
 	<figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/text.png">

@@ -1,6 +1,6 @@
 	<h3>WooCommerce Layered Nav Filters</h3>
 
-	<p>This widget shows layered nav filters</p>
+	<p>This widget shows the layered nav filters</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/woocommerce-layered-nav-filters.png">

@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css?family=Righteous");
+h1 {
+  color: #ffffff; }
+
+h2 {
+  color: #2e2c2f; }
+
+h3 {
+  color: #252326; }
+
+h4 {
+  color: #2e2c2f; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #2e2c2f;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/knox/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 126px;
+  width: 410px;
+  height: 20px;
+  top: 200px;
+  text-transform: uppercase; }
+
+.tm-title-caption {
+  font-size: 25px;
+  top: 360px;
+  font-family: "Righteous", cursive;
+  color: #ffffff;
+  line-height: 36px;
+  width: 430px; }
+
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .tm-title-caption {
+    width: 300px; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 19px; }
+
+  .tm-title-caption {
+    width: 185px;
+    top: 200px; } }
+@media (max-width: 1399px) {
+  .tm-title-caption {
+    width: 383px; } }
+.rd-mobilemenu .logo {
+  background-color: #252326; }
+
+.toTop {
+  background-color: #252326; }
+  .toTop:hover {
+    background: #59545b; }

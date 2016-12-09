@@ -1,0 +1,11 @@
+{
+	"id": "cherry-pr-settings",
+	"translations": {
+		"en": "Plugin Settings",
+		"ru": "Plugin Settings"
+	},
+	"articles": {
+		"cherry_projects": []
+	}
+}
+

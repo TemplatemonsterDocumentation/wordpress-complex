@@ -1,0 +1,90 @@
+@import "https://fonts.googleapis.com/css?family=Teko";
+h1 {
+  font-family: "Teko", sans-serif;
+  color: #ffffff; }
+
+h2 {
+  color: #feb5d0; }
+
+h3 {
+  color: #242424; }
+
+h4 {
+  color: #feb5d0; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #feb5d0;
+  background-position: right top;
+  transition-property: height;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+.rd-mobilepanel.fixed .rd-mobilepanel_title {
+  top: -57px; }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/addison/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 120px;
+  top: 182px;
+  width: 400px;
+  line-height: 75px;
+  text-transform: uppercase;
+  font-weight: 400; }
+
+.tm-title-caption {
+  font-size: 29px;
+  top: 265px;
+  font-family: "Teko", sans-serif;
+  color: #ffffff;
+  line-height: 36px;
+  width: 324px;
+  text-align: left; }
+
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 86px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 176px;
+    text-align: left; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 86px; }
+
+  .tm-title-caption {
+    width: 300px;
+    top: 176px; } }
+.rd-mobilemenu .logo {
+  background-color: #242424; }
+
+.rd-mobilemenu_ul ul a.focus {
+  color: #242424; }
+
+.toTop {
+  background-color: #feb5d0;
+  color: #000000; }
+  .toTop:hover {
+    background-color: #fd5090;
+    color: #ffffff; }

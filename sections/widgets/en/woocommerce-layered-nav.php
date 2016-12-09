@@ -1,6 +1,6 @@
 	<h3>WooCommerce Layered Nav</h3>
 
-	<p>This widget shows a custom attribute that allows to narrow down the list of products when viewing product categories</p>
+	<p>This widget shows a custom attribute that allows to narrow down the list of products when viewing the product categories.</p>
 
     <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/widgets/woocommerce-layered-nav.png">
