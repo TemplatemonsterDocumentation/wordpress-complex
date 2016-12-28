@@ -1,4 +1,4 @@
-
+<?php if ($project != 'monstroid_2') { ?>
 <h3>Blog Settings</h3>
 <p>You can set your blog settings here</p>
 
@@ -7,6 +7,7 @@
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
 -->
+
 <ul class="marked-list">
 <?php if ($project == 'bitnews') { ?>
     <li>
@@ -141,3 +142,5 @@
     </li>
 <?php } ?>
 </ul>
+
+<?php } ?>

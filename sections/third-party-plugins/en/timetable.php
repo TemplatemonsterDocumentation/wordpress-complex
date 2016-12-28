@@ -4,7 +4,7 @@
 
 </p>
 
-<figure class="img-pinterest">
+<figure class="img-polaroid">
 	<img src="projects/<?php echo $project;?>/img/third-party-plugins/timetable.png">
 </figure>
 

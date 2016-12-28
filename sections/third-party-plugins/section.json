@@ -532,13 +532,6 @@
 		],
 		"bedentist": [
 			{
-				"id": "facebook-likebox",
-				"translations": {
-					"en": " Facebook",
-					"ru": "Виджет Facebook "
-				}
-			},
-			{
 				"id": "twitter",
 				"translations": {
 					"en": "Easy Twitter",
@@ -550,6 +543,15 @@
 				"translations": {
 					"en": "Booked",
 					"ru": "Booked"
+
+
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
 				}
 			}
 		],
@@ -1571,6 +1573,7 @@
 			},
 			
 			{
+
 				"id": "tiny-grid",
 				"translations": {
 					"en": "Tiny Grid",
@@ -2368,6 +2371,116 @@
 				"translations": {
 					"en": "Woocommerce Social Media Share Buttons",
 					"ru": "Woocommerce Social Media Share Buttons"
+				}
+			}
+		],
+		"agrilloc": [
+			
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+			
+				}
+			},
+			{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+
+				}
+			},
+			{
+				"id": "tiny-grid",
+				"translations": {
+					"en": "Tiny Grid",
+					"ru": "Tiny Grid"
+
+				}
+			},
+			{
+				"id": "mailchimp-for-wp",
+				"translations": {
+					"en": "MailChimp for WordPress",
+					"ru": "MailChimp for WordPress"
+				
+				}
+			}
+		],
+		"monstroid_2": [
+			
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+			
+				}
+			},
+			{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+
+				}
+			},
+			{
+				"id": "woocommerce-currency-switcher",
+				"translations": {
+					"en": "WooCommerce Currency Switcher",
+					"ru": "WooCommerce Currency Switcher"
+
+				}
+			},
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked Appointments",
+					"ru": "Booked Appointments"
+
+				}
+			},
+			{
+				"id": "restaurant-menu",
+				"translations": {
+					"en": "Restaurant Menu",
+					"ru": "Restaurant Menu"
+
+				}
+			},
+			{
+				"id": "bbpress",
+				"translations": {
+					"en": "BB Press",
+					"ru": "BB Press"
+				
+				}
+			},
+			{
+				"id": "buddypress",
+				"translations": {
+					"en": "BuddyPress",
+					"ru": "BuddyPress"
+				
+				}
+			},
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable and Event Schedule",
+					"ru": "Timetable and Event Schedule"
+				
 				}
 			}
 		]

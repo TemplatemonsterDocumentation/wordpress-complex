@@ -87,13 +87,26 @@
 
 <?php } ?>
 
-<?php if ($project == 'mechanna' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'happylearning' or $project == 'arlo'  or $project == 'callum' or $project == 'roadway' or $project == 'gutenberg' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza') { ?>
+<?php if ($project == 'mechanna' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'happylearning' or $project == 'arlo'  or $project == 'callum' or $project == 'roadway' or $project == 'gutenberg' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza' or $project == 'monstroid_2') { ?>
 
     <li>
         <dl class="inline-term">
             <dt>Breadcrumbs</dt>
             <dd>
                 Breadcrumbs font settings
+             </dd>
+        </dl>
+    </li>
+
+<?php } ?>
+
+<?php if ($project == 'monstroid_2') { ?>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Entry meta</dt>
+            <dd>
+                Website text typography options
              </dd>
         </dl>
     </li>
@@ -136,7 +149,7 @@
 
 
 
-<?php if ($project == 'sketchfield') { ?>
+<?php if ($project == 'sketchfield' or $project == 'agrilloc') { ?>
 
     <li>
         <dl class="inline-term">
@@ -359,3 +372,4 @@
 <h5>Text Align</h5>
 
 <p>This property specifies the horizontal text alignment inside the element</p>
+

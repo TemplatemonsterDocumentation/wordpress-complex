@@ -1,4 +1,4 @@
-<h3>Cherry Installer</h3>
+<h3>Cherry Data Importer</h3>
 
 <p>
 	This plugin will help you export posts, comments, widgets, settings etc., from one site to another. With a single click of a button the plugin generates an XML file that can be imported to another website. 

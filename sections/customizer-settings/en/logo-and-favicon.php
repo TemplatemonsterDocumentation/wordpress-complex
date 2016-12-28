@@ -35,12 +35,23 @@
 <p>Click the "Choose Media" button to select the logo image from the media library or upload your image.</p>
 
 
+<?php if ($project == 'monstroid_2') { ?>
+<h5>Invert Logo Upload</h5>
+
+<p> Upload invert logo. Displays only at style 1 header layout. </p>
+<?php } ?>
+
 <h5>Retina Logo Upload</h5>
 
 <p>Here you can upload the logo for retina-ready devices</p>
 
+<?php if ($project == 'monstroid_2') { ?>
+<h5> Invert Retina Logo Upload</h5>
 
-<?php if ($project != 'roadway' &&  $project != 'tradex' &&  $project != 'italica' &&  $project != 'mohican' &&  $project != 'gutenberg' &&  $project != 'knox' &&  $project != 'gaze' &&  $project != 'techlab' &&  $project != 'organica' &&  $project != 'infobyte' &&  $project != 'transit' &&  $project != 'jericho' &&  $project != 'walden' &&  $project != 'chefplaza') { ?>
+<p> Upload invert logo for retina-ready devices. Displays only at style 1 header layout. </p>
+<?php } ?>
+
+<?php if ($project != 'roadway' &&  $project != 'tradex' &&  $project != 'italica' &&  $project != 'mohican' &&  $project != 'gutenberg' &&  $project != 'knox' &&  $project != 'gaze' &&  $project != 'techlab' &&  $project != 'organica' &&  $project != 'infobyte' &&  $project != 'transit' &&  $project != 'jericho' &&  $project != 'walden' &&  $project != 'chefplaza' &&  $project != 'agrilloc' &&  $project != 'monstroid_2') { ?>
 <h5>Retina Invert Logo Upload</h5>
 
 <p> Upload invert logo for retina-ready devices. Displays only at style 1 header layout. </p>

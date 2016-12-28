@@ -27,7 +27,7 @@
         </dl>
     </li>
 </ul>
-<?php if ($project == 'ironmass' or $project == 'mechanna' or $project == 'advisto' or $project == 'cleaningpro' or $project == 'posh' or $project == 'confucius' or $project == 'madeleine' or $project == 'fenimore' or $project == 'bellatoi' or $project == 'shanti' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'mohican' or $project == 'gutenberg' or $project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza') { ?> 
+<?php if ($project == 'ironmass' or $project == 'mechanna' or $project == 'advisto' or $project == 'cleaningpro' or $project == 'posh' or $project == 'confucius' or $project == 'madeleine' or $project == 'fenimore' or $project == 'bellatoi' or $project == 'shanti' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'mohican' or $project == 'gutenberg' or $project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'monstroid_2') { ?> 
 <ul class="marked-list">
     <li>
         <dl class="inline-term">

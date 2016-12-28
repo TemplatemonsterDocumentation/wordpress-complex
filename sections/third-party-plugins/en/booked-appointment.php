@@ -1,8 +1,8 @@
 <h3>Booked - Appointment Booking</h3>
 
-<p>Booked is a powerful and easy-to-use appointment booking plugin for WordPress.</p>
+<p>Booked <a href="https://getbooked.io/" target="_blank"> booked </a> is a powerful and easy-to-use appointment booking plugin for WordPress.</p>
 <figure class="img-polaroid">
-        <img src="projects/bedentist/img/third-party-plugins/booked.png">
+        <img src="projects/monstroid_2/img/third-party-plugins/booked.png">
 </figure>
 
 <h4>Create a Profile Page</h4>

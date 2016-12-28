@@ -1,6 +1,6 @@
 
 <h3>Footer</h3>
-<p>Settings for the website footer section.</p>
+<p>Settings for the website footer section</p>
 
 <!--
 <figure class="img-polaroid">
@@ -8,7 +8,7 @@
 </figure>
 -->
 
-
+<h5>Footer Styles</h5>
 <ul class="marked-list">
 <?php if ($project != 'smarthouse' && $project != 'knox') { ?>
     <li>
@@ -70,6 +70,8 @@
             </dd>
         </dl>
     </li>
+
+<?php if ($project != 'monstroid_2') { ?>
     <li>
         <dl class="inline-term">
             <dt>Footer Widgets Area color</dt>
@@ -78,6 +80,8 @@
             </dd>
         </dl>
     </li>
+<?php } ?> 
+    
     <li>
         <dl class="inline-term">
             <dt>Footer Background color</dt>
@@ -86,7 +90,43 @@
             </dd>
         </dl>
     </li>
-    
+ 
+
+<?php if ($project == 'monstroid_2') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Footer Widgets Area Background color</dt>
+            <dd>
+                Here you can define the Widget Area background color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show footer widgets area</dt>
+            <dd>
+                Show/hide footer widgets area
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show footer logo</dt>
+            <dd>
+                Show/hide footer logo
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show footer menu</dt>
+            <dd>
+                Show/hide footer menu
+            </dd>
+        </dl>
+    </li>
+<?php } ?>     
+
 <?php if ($project == 'builderry') { ?>
     <li>
         <dl class="inline-term">
@@ -138,6 +178,72 @@
                 Set background attachment for footer image
             </dd>
         </dl>
+    </li>
+<?php } ?>  
+</ul>
+
+
+<h5>Footer Contact Block</h5>
+<ul class="marked-list">
+
+<?php if ($project == 'monstroid_2') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Show footer conract block</dt>
+            <dd>
+                Show/hide footer contact block
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Contact item 1</dt>
+            <dd>
+                Here you can set a contact icon and contact information
+            </dd>
+        </dl>
+        <ul class="marked-list">
+            <li>
+                <strong>Label</strong> – Contact name
+            </li>
+            <li>
+                <strong>Value</strong> – Contact content
+            </li>
+        </ul>
+    </li>
+    
+    <li>
+        <dl class="inline-term">
+            <dt>Contact item 1</dt>
+            <dd>
+                Here you can set a contact icon and contact information
+            </dd>
+        </dl>
+        <ul class="marked-list">
+            <li>
+                <strong>Label</strong> – Contact name
+            </li>
+            <li>
+                <strong>Value</strong> – Contact content
+            </li>
+        </ul>
+    </li>
+
+   <li>
+        <dl class="inline-term">
+            <dt>Contact item 1</dt>
+            <dd>
+                Here you can set a contact icon and contact information
+            </dd>
+        </dl>
+        <ul class="marked-list">
+            <li>
+                <strong>Label</strong> – Contact name
+            </li>
+            <li>
+                <strong>Value</strong> – Contact content
+            </li>
+        </ul>
     </li>
 <?php } ?>  
 </ul>

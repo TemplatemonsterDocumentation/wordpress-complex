@@ -1030,6 +1030,24 @@
 					"ru": "Настройки страницы"
 				}
 			}
+		],
+		"agrilloc": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"monstroid_2": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
 		]
 	}
 }

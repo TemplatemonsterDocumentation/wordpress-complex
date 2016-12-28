@@ -13,9 +13,9 @@
 		<img src="projects/<?php echo $project;?>/img/customizer/customizer.png">
 	</figure>
 
-<a href="index.php?project=tm&lang=ru&section=customizer-settings">link</a>
+
 -->
 
-
-
-
+<p>
+	For More Information see full documentation on <a href="http://documentation.templatemonster.com/index.php?project=tm-gallery">Gallery plugin</a>
+</p>

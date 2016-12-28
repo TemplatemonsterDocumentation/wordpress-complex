@@ -1,7 +1,7 @@
 <h3>Cherry Projects</h3>
 
 <p>
-	If you need to create various kinds of projects and display information about them on the website this plugin is exactly what you need. The plugin offers a full set of options and settings that will help you to adjust the project in accordance with the specifications of your business. 
+	If you need to create various kinds of projects and display information about them on the website this plugin is exactly what you need. The plugin <a href="https://wordpress.org/plugins/cherry-projects/" target="_blank"> Cherry Projects</a> offers a full set of options and settings that will help you to adjust the project in accordance with the specifications of your business. 
 
 </p>
 
@@ -86,6 +86,11 @@
 </ul>
 
 <h4>Image Format options </h4>
+
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/plugins/image-format.png">
+    </figure>
+
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
@@ -122,6 +127,11 @@
 </ul>
 
 <h4>Gallery Format Options </h4>
+
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/plugins/gallery-format.png">
+    </figure>
+
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
@@ -158,6 +168,11 @@
 </ul>
 
 <h4>Audio Format Options </h4>
+
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/plugins/audio-format.png">
+    </figure>
+
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
@@ -170,6 +185,11 @@
 </ul>
 
 <h4>Video Format Options</h4>
+
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/plugins/video-format.png">
+    </figure>
+
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
@@ -226,6 +246,11 @@
 </ul>
 
 <h4>Settings</h4>
+
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/plugins/settings.png">
+    </figure>
+
 <p>
 	In this section you can find all the plugin settings
 </p>

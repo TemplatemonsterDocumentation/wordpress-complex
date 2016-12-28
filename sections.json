@@ -1556,5 +1556,31 @@
 		"plugins",
 		"third-party-plugins",
 		"extras"
+	],
+	"agrilloc": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"woocommerce-integration",
+		"plugins",
+		"third-party-plugins",
+		"extras"
+	],
+	"monstroid_2": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"woocommerce-integration",
+		"plugins",
+		"third-party-plugins",
+		"extras"
 	]
 }

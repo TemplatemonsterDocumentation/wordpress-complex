@@ -13,11 +13,11 @@
 -->
 <?php if ($project != 'addison') { ?>
 
-<?php if ($project != 'roadway' && $project != 'tradex' && $project != 'italica' && $project != 'gutenberg' && $project != 'transit' && $project != 'jericho') { ?>
+<?php if ($project != 'roadway' && $project != 'tradex' && $project != 'italica' && $project != 'gutenberg' && $project != 'transit' && $project != 'jericho' && $project != 'monstroid_2') { ?>
 <h5>Layout type</h5>
 <?php } ?>
 
-<?php if ($project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gutenberg' or $project == 'transit' or $project == 'jericho') { ?>
+<?php if ($project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gutenberg' or $project == 'transit' or $project == 'jericho' or $project == 'monstroid_2') { ?>
 <h5>Header type</h5>
 <?php } ?>
 
@@ -94,13 +94,16 @@
 
 <?php if ($project != 'chefplaza') { ?>
 <h5>Container Background Color (px)</h5>
-<?php } ?>
 
 <p>Here you can select the background color. </p>
+<?php } ?>
 
+
+<?php if ($project != 'monstroid_2') { ?>
 <h5>Container width (px)</h5>
 
 <p>The width of main website container in pixels. </p>
+<?php } ?>
 
 <h5>Sidebar width</h5>
 

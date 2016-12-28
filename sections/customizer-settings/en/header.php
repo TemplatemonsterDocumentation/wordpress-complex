@@ -11,6 +11,39 @@
 <h5>Header Styles</h5>
 
 <ul class="marked-list">
+
+
+<?php if ($project == 'monstroid_2' ) { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Layout</dt>
+            <dd>
+                Here you can select site style layout
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Header Overlay</dt>
+            <dd>
+                Enable/disable header overlay
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Enable invert color scheme</dt>
+            <dd>
+                Enable/disable invert color scheme
+            </dd>
+        </dl>
+    </li>
+
+<?php } ?> 
+
+
     <li>
         <dl class="inline-term">
             <dt>Background Color</dt>
@@ -53,14 +86,7 @@
         </dl>
     </li>
 
-    <li>
-        <dl class="inline-term">
-            <dt>Layout</dt>
-            <dd>
-                You can define header layout type here
-            </dd>
-        </dl>
-    </li>
+
 <!-------------------------------------
 On/Off Currency
 ---------------------------------------->
@@ -99,7 +125,7 @@ On/Off Currency
 search  Disclaimer
 ---------------------------------------->
 
-<?php if ($project != 'mechanna' && $project != 'advisto' && $project != 'cleaningpro' && $project != 'posh' && $project != 'confucius' && $project != 'plumberpro' && $project != 'madeleine' && $project != 'grannali' && $project != 'chateau' && $project != 'bellatoi' && $project != 'shanti' && $project != 'jorden'  && $project != 'teddy' &&  $project != 'lawpress' && $project != 'talisman' && $project != 'timberline' && $project != 'pettown' && $project != 'greenville' && $project != 'duval' && $project != 'keypress' && $project != 'crystalica' && $project != 'penn' && $project != 'leonardo' && $project != 'porto' && $project != 'odyssey' && $project != 'ecolife' && $project != 'hidalgo' && $project != 'happylearning'  && $project != 'mohican' && $project != 'helios' && $project != 'sportlabs' && $project != 'fleek' && $project != 'roadway' && $project != 'tradex'  && $project != 'italica' && $project != 'gutenberg' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'transit' && $project != 'jericho' && $project != 'walden' && $project != 'chefplaza') { ?>
+<?php if ($project != 'mechanna' && $project != 'advisto' && $project != 'cleaningpro' && $project != 'posh' && $project != 'confucius' && $project != 'plumberpro' && $project != 'madeleine' && $project != 'grannali' && $project != 'chateau' && $project != 'bellatoi' && $project != 'shanti' && $project != 'jorden'  && $project != 'teddy' &&  $project != 'lawpress' && $project != 'talisman' && $project != 'timberline' && $project != 'pettown' && $project != 'greenville' && $project != 'duval' && $project != 'keypress' && $project != 'crystalica' && $project != 'penn' && $project != 'leonardo' && $project != 'porto' && $project != 'odyssey' && $project != 'ecolife' && $project != 'hidalgo' && $project != 'happylearning'  && $project != 'mohican' && $project != 'helios' && $project != 'sportlabs' && $project != 'fleek' && $project != 'roadway' && $project != 'tradex'  && $project != 'italica' && $project != 'gutenberg' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'transit' && $project != 'jericho' && $project != 'walden' && $project != 'chefplaza' && $project != 'agrilloc' && $project != 'monstroid_2') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable search</dt>
@@ -118,7 +144,7 @@ search  Disclaimer
     </li>
 <?php } ?>
 
-<?php if ($project == 'walden') { ?>
+<?php if ($project == 'walden' or $project == 'monstroid_2') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable search</dt>
@@ -127,7 +153,38 @@ search  Disclaimer
             </dd>
         </dl>
     </li>
+<?php } ?>
+
+
+<?php if ($project == 'monstroid_2') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Show woocommerce elements</dt>
+            <dd>
+                Show/hide woocommerce elements
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Header call to action button</dt>
+            <dd>
+                Here you can set header call to action button text and url 
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Show header call to action button</dt>
+            <dd>
+                Show/hide header call to action button
+            </dd>
+        </dl>
+    </li>
 <?php } ?>  
+
 
 <!-------------------------------------
 Phone  Time
@@ -159,6 +216,17 @@ TOP PANEL START
 <h5>Top Panel</h5>
 <p> You can set header top panel here.</p>
 
+
+<?php if ( $project == 'monstroid_2') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Enable top panel</dt>
+            <dd>
+                Enable/disable top panel
+            </dd>
+        </dl>
+    </li>
+<?php } ?>  
 
 
 <?php if ($project =='walden') { ?>
@@ -243,7 +311,7 @@ TOP PANEL START
 Disclaimer
 ---------------------------------------->
 
-<?php if ( $project != 'advisto' && $project != 'fenimore' && $project != 'nolan' &&  $project != 'lawpress' && $project != 'ecolife' && $project != 'tradex' && $project != 'walden' ) { ?>
+<?php if ( $project != 'advisto' && $project != 'fenimore' && $project != 'nolan' &&  $project != 'lawpress' && $project != 'ecolife' && $project != 'tradex' && $project != 'walden') { ?>
     <li>
         <dl class="inline-term">
             <dt>Disclaimer Text</dt>
@@ -259,7 +327,7 @@ Disclaimer
 Enable search
 ---------------------------------------->
 
-<?php if ($project == 'wildride' or $project == 'bettaso' or $project == 'mechanna' or $project == 'advisto' or $project == 'confucious' or $project == 'fenimore' or $project == 'durand' or $project == 'shanti' or $project == 'nolan' or $project == 'jorden' or $project == 'fuel' or $project == 'pokemania' or $project == 'legacy' or  $project == 'lawpress' or  $project == 'talisman' or $project == 'duval' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'chopchop' or $project == 'tanaka' or $project == 'ecolife' or $project == 'hidalgo' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'mohican' or $project == 'gutenberg' or $project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit') { ?>
+<?php if ($project == 'wildride' or $project == 'bettaso' or $project == 'mechanna' or $project == 'advisto' or $project == 'confucious' or $project == 'fenimore' or $project == 'durand' or $project == 'shanti' or $project == 'nolan' or $project == 'jorden' or $project == 'fuel' or $project == 'pokemania' or $project == 'legacy' or  $project == 'lawpress' or  $project == 'talisman' or $project == 'duval' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'chopchop' or $project == 'tanaka' or $project == 'ecolife' or $project == 'hidalgo' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'mohican' or $project == 'gutenberg' or $project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'agrilloc') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable search</dt>
@@ -317,6 +385,22 @@ Background color
             <dt> Enable login form </dt>
                 <dd>
                     Enable/disable login form
+                </dd>
+        </dl>
+    </li>
+<?php } ?> 
+
+
+<!-------------------------------------
+Enable Top Menu
+---------------------------------------->
+
+<?php if ( $project == 'monstroid_2' ) { ?>
+    <li>
+        <dl class="inline-term">
+            <dt> Enable top menu </dt>
+                <dd>
+                    Enable/disable top menu
                 </dd>
         </dl>
     </li>
@@ -562,13 +646,79 @@ TOP PANEL END
 <?php } ?>
 
 
+<h5>Header Contact Block</h5>
+<ul class="marked-list">
+
+<?php if ($project == 'monstroid_2') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Show header conract block</dt>
+            <dd>
+                Show/hide footer contact block
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Contact item 1</dt>
+            <dd>
+                Here you can set a contact icon and contact information
+            </dd>
+        </dl>
+        <ul class="marked-list">
+            <li>
+                <strong>Label</strong> – Contact name
+            </li>
+            <li>
+                <strong>Value</strong> – Contact content
+            </li>
+        </ul>
+    </li>
+    
+    <li>
+        <dl class="inline-term">
+            <dt>Contact item 1</dt>
+            <dd>
+                Here you can set a contact icon and contact information
+            </dd>
+        </dl>
+        <ul class="marked-list">
+            <li>
+                <strong>Label</strong> – Contact name
+            </li>
+            <li>
+                <strong>Value</strong> – Contact content
+            </li>
+        </ul>
+    </li>
+
+   <li>
+        <dl class="inline-term">
+            <dt>Contact item 1</dt>
+            <dd>
+                Here you can set a contact icon and contact information
+            </dd>
+        </dl>
+        <ul class="marked-list">
+            <li>
+                <strong>Label</strong> – Contact name
+            </li>
+            <li>
+                <strong>Value</strong> – Contact content
+            </li>
+        </ul>
+    </li>
+<?php } ?>  
+</ul>
+
+
 <h5>Main Menu</h5>
 
 <p>You can configure main navigation menu here.</p>
 
 <ul class="marked-list">
 
-<?php if ($project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza') { ?>
+<?php if ($project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'monstroid_2') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable sticky menu </dt>
@@ -580,7 +730,7 @@ TOP PANEL END
 <?php } ?> 
 
 
-<?php if ($project == 'confucius' or $project == 'hidalgo' or $project == 'italica' or $project == 'gutenberg') { ?>
+<?php if ($project == 'confucius' or $project == 'hidalgo' or $project == 'italica' or $project == 'gutenberg' or $project == 'monstroid_2') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable item description</dt>
@@ -604,7 +754,7 @@ TOP PANEL END
 <?php } ?> 
 
 
-<?php if ($project != 'confucius' && $project != 'hidalgo' && $project != 'italica' && $project != 'gutenberg' && $project != 'knox') { ?>
+<?php if ($project != 'confucius' && $project != 'hidalgo' && $project != 'italica' && $project != 'gutenberg' && $project != 'knox' && $project != 'monstroid_2') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable title attributes</dt>
@@ -616,7 +766,28 @@ TOP PANEL END
 <?php } ?> 
 
 
-<?php if ($project == 'neurion' or  $project == 'waylard' or  $project == 'bettaso' or  $project == 'mechanna' or  $project == 'advisto' or  $project == 'confucius' or  $project == 'fenimore' or $project == 'builderry' or  $project == 'lawpress' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'ecolife' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'arlo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'salvatoro'  or $project == 'callum' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza') { ?>
+<?php if ($project == 'monstroid_2') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>More menu button type</dt>
+            <dd>
+                Here you can select button type
+            </dd>
+        </dl>
+    </li>
+
+     <li>
+        <dl class="inline-term">
+            <dt>More menu button text</dt>
+            <dd>
+                Here you can type menu button text
+            </dd>
+        </dl>
+    </li>
+<?php } ?> 
+
+
+<?php if ($project == 'neurion' or  $project == 'waylard' or  $project == 'bettaso' or  $project == 'mechanna' or  $project == 'advisto' or  $project == 'confucius' or  $project == 'fenimore' or $project == 'builderry' or  $project == 'lawpress' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'ecolife' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'arlo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'salvatoro'  or $project == 'callum' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza' or $project == 'agrilloc') { ?>
     <li>
         <dl class="inline-term">
             <dt>Hidden menu items title</dt>
