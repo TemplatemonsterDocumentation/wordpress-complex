@@ -1,0 +1,71 @@
+#tm_builder_outer_content {
+	.mti-event {
+		&__participant {
+			&-item {
+				img {
+					border-radius: 50%;
+				}
+			}
+			&-title {
+				font-weight: 600;
+			}
+			&-position {
+				@include font-size(14/16);
+			}
+		}
+		&__schedule {
+			@include font-size(14/16);
+
+			&-timeslot {
+				&:before {
+					content: '\E8B5';
+					font-family:'Material Icons';
+					@include font-size(16/16);
+					line-height: 1;
+					margin-right: 8px;
+
+					position: relative;
+					top: 2px;
+				}
+			}
+
+			&-item {
+				@media (max-width: 1200px) {
+					display: block;
+					margin-bottom: 15px;
+				}
+			}
+
+			&-column {
+				@media (max-width: 1200px) {
+					width: 100%;
+					border: none;
+				}
+				@media (min-width: 1201px) {
+					width: 45%;
+				}
+				@media (min-width: 1450px) {
+					width: 35%;;
+				}
+			}
+			&-timeslot {
+				@media (max-width: 1200px) {
+					width: 100%;
+					padding-left: 0;
+				}
+				@media (min-width: 1201px) {
+					width: 55%;
+				}
+				@media (min-width: 1450px) {
+					width: 65%;
+				}
+			}
+		}
+		&__participants {
+			@media (max-width: 1200px) {
+				padding-left: 20px;
+				padding-right: 20px;
+			}
+		}
+	}
+}

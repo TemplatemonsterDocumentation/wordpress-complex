@@ -1,0 +1,285 @@
+/**
+ *
+ * IMPORT STYLES and VARIABLES FOR WOOPAGES(cart, checkout, my-account)
+ *
+ */
+@import "variables-wootheme";
+@import "woocommerce-pages";
+
+/**
+ * Woo-elements
+ * WooButtons
+ *
+ */
+.woocommerce {
+	#respond input#submit,
+	a.button,
+	button.button,
+	input.button,
+	#respond input#submit.alt,
+	a.button.alt,
+	button.button.alt,
+	input.button.alt,
+	input.button:disabled,
+	input.button:disabled[disabled],
+	a.button.loading {
+		text-transform: none;
+	}
+
+	#respond input#submit.loading,
+	a.button.loading,
+	button.button.loading,
+	input.button.loading {
+		opacity: .7;
+	}
+}
+
+.product_type_variable:not(.add_to_cart_button):after {
+	display: none;
+}
+
+/**
+ * Woo-elements
+ * Product Category
+ *
+ */
+.products .product-category,
+.tm-categories-carousel-widget-container .tm-categories-carousel-widget-wrapper {
+	> a {
+		@include media-breakpoint-up(sm) {
+			margin-bottom: 19px;
+		}
+	}
+
+	.title_count_block {
+		@include flexbox;
+		@include flex-direction(column-reverse);
+		@include align-items(center);
+
+		a > span {
+			transition: 0s;
+		}
+	}
+
+	&.product-list {
+		.title_count_block {
+			@include align-items(flex-start);
+		}
+	}
+}
+
+/**
+ * Woo-elements
+ * Product
+ *
+ */
+.products .product,
+.products .product-category .title_count_block,
+.tm-categories-carousel-widget-container {
+	h3 {
+		margin-bottom: 3px;
+	}
+
+	.price {
+		margin-bottom: 11px;
+	}
+}
+
+#tm_builder_outer_content .tm_pb_section {
+	.products:not(.swiper-wrapper) {
+		.product {
+			margin-bottom: 26px;
+		}
+	}
+}
+
+.products .product:not(.product-list) {
+	.block_product_content {
+		.woocommerce-LoopProduct-link {
+			overflow: hidden;
+			white-space: nowrap;
+			text-overflow: ellipsis;
+			display: block;
+		}
+	}
+
+	.new,
+	.onsale,
+	.featured,
+	.star-rating,
+	.wishlist_compare_button_block {
+		opacity: 0;
+		visibility: hidden;
+		transition: all .3s ease;
+	}
+
+	.new,
+	.onsale,
+	.featured {
+		@include transform(translateX(-100%));
+	}
+
+	.star-rating {
+		@include transform(translateY(100%));
+	}
+
+	.wishlist_compare_button_block {
+		@include transform(translateX(100%));
+	}
+
+	&:hover {
+		.new,
+		.onsale,
+		.featured,
+		.star-rating,
+		.wishlist_compare_button_block {
+			opacity: 1;
+			visibility: visible;
+			@include transform(translate(0));
+		}
+	}
+}
+
+/*
+ * Woo-elements
+ * Grid Widget
+ *
+ */
+.__tm_banners_grid_widget {
+	.tm_banners_grid_widget_banner {
+		margin-bottom: 10px;
+
+		@include media-breakpoint-up(sm) {
+			margin-bottom: 0;
+		}
+	}
+
+	.col-xs-12 {
+		@include flexbox;
+		@include flex-direction(column);
+		@include justify-content(space-between);
+	}
+
+	.home & {
+		margin-bottom: 0;
+	}
+
+	img {
+		transition: all .3s ease;
+		box-shadow: 8px 8px 0 0 rgba(0, 0, 0, 0);
+	}
+
+	.tm_banners_grid_widget_banner_link {
+		display: block;
+
+		&:hover {
+			img {
+				box-shadow: 8px 8px 30px 0 rgba(0, 0, 0, 0.15);
+			}
+		}
+	}
+}
+
+#tm_builder_outer_content .tm_pb_module {
+	.__tm_banners_grid_widget {
+		.tm_banners_grid_widget_banner_link {
+			&:hover {
+				img {
+					box-shadow: 8px 8px 30px 0 rgba(0, 0, 0, 0.15);
+				}
+			}
+		}
+	}
+}
+
+/*
+ * Woo-elements
+ * SmartBox Widget
+ *
+ */
+#tm_builder_outer_content .tm_pb_module.tm_pb_widget_area .widget.tm_products_smart_box_widget ul li + li {
+	margin-top: 1px;
+}
+
+.widget.tm_products_smart_box_widget {
+	.rd-material-tabs__list {
+		margin-top: -9px;
+
+		.rd-material-tab a:before {
+			display: none;
+		}
+	}
+
+	.tm-products-smart-box-widget__rd-material-tabs > .row > .col-lg-3 {
+		min-height: 0;
+	}
+}
+
+/**
+ * Woo-elements
+ * Styles for Carousel
+ *
+ */
+.tm_products_carousel_widget .swiper-button-next,
+.tm_products_carousel_widget .swiper-button-prev,
+.widget_product_categories_image .swiper-button-next,
+.widget_product_categories_image .swiper-button-prev,
+.related .swiper-button-next, .related .swiper-button-prev {
+	top: 20px;
+}
+
+/**
+ * Woo-elements
+ * Styles MyAccount
+ *
+ */
+.woocommerce-account.logged-in .woocommerce-MyAccount-navigation a {
+	text-decoration: none;
+}
+
+/*
+ * Woo-elements
+ * Styles for Product Categories in Footer
+ *
+ */
+.footer-area .widget.widget_product_categories {
+	ul {
+		padding: 3px;
+		li {
+			display: block;
+			padding: 0;
+			text-transform: uppercase;
+			@include font-size(.75);
+			letter-spacing: 1.2px;
+
+			&:after {
+				display: none;
+			}
+
+			+ li {
+				margin-top: 14px;
+			}
+		}
+	}
+}
+
+/**
+ * Woo-elements
+ * Header Cart DropDown
+ *
+ */
+.site-header-cart .cart-contents {
+	.count {
+		display: none;
+	}
+
+	i {
+		transition: all .3s ease;
+	}
+}
+
+.woocommerce-currency-switcher-form .dd-container .dd-options {
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
+}

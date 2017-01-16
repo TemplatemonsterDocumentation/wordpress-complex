@@ -1,0 +1,36 @@
+.swiper,
+.swiper-container.swiper-container-horizontal .swiper{
+	&-button-next,
+	&-button-prev {
+		width: 44px;
+		height: 44px;
+		margin: -22px 0 0 0;
+		transition: .3s;
+		i {
+			line-height: 44px;
+		}
+		&:not(.swiper-button-disabled):hover {
+			box-shadow: 0 0 0 0;
+		}
+	}
+	&-button-next {
+		.format-gallery & {
+			right: 15px;
+		}
+
+		@include border-left-radius($border__radius);
+		&:not(.swiper-button-disabled):hover {
+			transform: translateX(-2px) translateY(3px) translateZ(0);
+		}
+	}
+	&-button-prev {
+		.format-gallery & {
+			left: 15px;
+		}
+
+		@include border-right-radius($border__radius);
+		&:not(.swiper-button-disabled):hover {
+			transform: translateX(2px) translateY(3px) translateZ(0);
+		}
+	}
+}

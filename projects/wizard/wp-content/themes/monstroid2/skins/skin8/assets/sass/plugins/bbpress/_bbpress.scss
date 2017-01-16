@@ -1,0 +1,18 @@
+#buddypress #members-dir-search #search-members-form #members_search, #buddypress #members-dir-search #search-members-form #groups_search, #buddypress #members-dir-search #search-groups-form #members_search, #buddypress #members-dir-search #search-groups-form #groups_search, #buddypress #group-dir-search #search-members-form #members_search, #buddypress #group-dir-search #search-members-form #groups_search, #buddypress #group-dir-search #search-groups-form #members_search, #buddypress #group-dir-search #search-groups-form #groups_search{
+	height: 100%;
+}
+
+#buddypress div#subnav.item-list-tabs ul li{
+	margin: 27px 0;
+}
+
+.buddypress #buddypress #whats-new-form #whats-new-textarea textarea{
+	padding: 20px;
+}
+
+#buddypress .comment-reply-link, #buddypress .generic-button a,
+#buddypress .standard-form button, #buddypress a.button,
+#buddypress input[type=button], #buddypress input[type=reset],
+#buddypress input[type=submit], #buddypress ul.button-nav li a, a.bp-title-button{
+	background: transparent;
+}

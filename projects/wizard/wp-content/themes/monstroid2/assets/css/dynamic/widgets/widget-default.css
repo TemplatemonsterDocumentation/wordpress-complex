@@ -1,0 +1,66 @@
+/* #Widget Calendar */
+.widget_calendar caption {
+	color: $regular_accent_color_2;
+}
+.invert .widget_calendar caption {
+	color: $invert_text_color;
+}
+.widget_calendar tbody td:not(.pad),
+#tm_builder_outer_content .tm_pb_widget_area .widget_calendar table tbody td:not(.pad) {
+	background-color: $regular_accent_color_3;
+	color: $regular_text_color;
+}
+.invert .widget_calendar tbody td:not(.pad),
+#tm_builder_outer_content .invert .tm_pb_widget_area .widget_calendar table tbody td:not(.pad) {
+	background-color: @darken($regular_accent_color_3, 10%);
+	color: $regular_text_color;
+}
+.widget_calendar tbody td a,
+#tm_builder_outer_content .tm_pb_widget_area .widget_calendar table tbody td a {
+	border: 1px solid $regular_accent_color_3;
+	background-color: $invert_accent_color_1;
+	color: $regular_text_color;
+}
+
+.widget_calendar tbody td a:hover,
+#tm_builder_outer_content .tm_pb_widget_area .widget_calendar table tbody td a:hover {
+	background-color: $regular_accent_color_1;
+	color: $invert_text_color;
+	border-color: $regular_accent_color_1;
+}
+.widget_calendar tbody td#today,
+#tm_builder_outer_content .tm_pb_widget_area .widget_calendar table tbody td#today {
+	background-color: $regular_accent_color_1;
+	color: $invert_text_color;
+}
+
+/* #Widget Tag Cloud */
+.tagcloud a {
+	color: $regular_text_color;
+	background-color: $regular_accent_color_3;
+	border-color: $regular_accent_color_3;
+}
+
+/* #Widget Recent Posts - Comments, Archive */
+.widget_recent_entries a,
+.widget_recent_comments a,
+.widget_archive a{
+	color: $regular_link_hover_color;
+}
+.invert .widget_recent_entries a,
+.invert .widget_recent_comments a,
+.invert .widget_archive a {
+	color: $invert_link_color;
+}
+.widget_recent_entries a:hover,
+.widget_recent_comments a:hover,
+.widget_archive a:hover {
+	color: $regular_link_color;
+}
+
+.widget_recent_entries .post-date {
+	color: $regular_accent_color_1;
+}
+.invert .widget_recent_entries .post-date {
+	color: $invert_accent_color_1;
+}

@@ -1,0 +1,23 @@
+.site-header.style-7 {
+	.site-branding {
+		text-align: center;
+	}
+
+	.main-navigation {
+		margin: 0;
+	}
+
+	.header-btn-wrap {
+		text-align: center;
+		@include media-breakpoint-up(md) {
+			text-align: right;
+		}
+	}
+
+	.header-btn {
+		margin-top: 25px;
+		@include media-breakpoint-up(md) {
+			margin-top: 0;
+		}
+	}
+}

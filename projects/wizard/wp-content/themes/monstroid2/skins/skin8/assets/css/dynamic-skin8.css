@@ -1,0 +1,860 @@
+/*Builder slider*/
+#tm_builder_outer_content .tm_pb_slider .tm-pb-controllers a{
+	background-color: @alpha($regular_accent_color_3, 20);
+}
+
+#tm_builder_outer_content .tm_pb_slider .tm-pb-controllers a:hover,
+#tm_builder_outer_content .tm_pb_slider .tm-pb-controllers a.tm-pb-active-control{
+	background-color: $regular_accent_color_3;
+}
+
+@media(min-width: 992px){
+	#tm_builder_outer_content .tm_pb_slider .tm_pb_slide_description .tm_pb_slide_title{
+		font-size: $h1_font_size{px};
+		font-weight: $h1_font_weight;
+		line-height: $h1_line_height;
+	}
+}
+
+#tm_builder_outer_content .tm_pb_slider .tm_pb_slide_title:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+
+/*Blurb*/
+#tm_builder_outer_content .tm_pb_blurb.tm_pb_module h4{
+	font-size: $h4_font_size{px};
+	font-weight: $h4_font_weight;
+	line-height: $h4_line_height;
+}
+
+#tm_builder_outer_content .tm_pb_blurb.tm_pb_module .tm_pb_button{
+	color: $invert_text_color;
+}
+
+/*Cherry Services*/
+.template-media-icon-skin8 .services-item .service-icon{
+	color: $regular_accent_color_2;
+}
+
+.template-media-icon-skin8 .services-item:hover .service-icon{
+	color: $invert_text_color;
+}
+
+.template-media-icon-skin8 .services-item .service-icon{
+	 border-color: $regular_accent_color_1;
+ }
+
+.template-media-icon-skin8 .services-item:hover .service-icon{
+	border-color: transparent;
+}
+
+.template-media-icon-skin8 .services-item .service-icon:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+.template-media-icon-skin8 .services-item .title_wrap a{
+	font-size: $h4_font_size{px};
+	font-weight: $h4_font_weight;
+	line-height: $h4_line_height;
+	color: $regular_h4_color;
+}
+
+.template-media-icon-skin8 .services-item .title_wrap a:hover{
+	color: $regular_link_color;
+}
+
+.services-heading_title:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+.services-listing h5{
+	font-size: $h4_font_size{px};
+	font-weight: $h4_font_weight;
+	line-height: $h4_line_height;
+}
+
+.services-single-item .title_wrap h3:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+.service-cta_title{
+	font-size: $h2_font_size{px};
+	font-weight: $h2_font_weight;
+	line-height: $h2_line_height;
+}
+
+.services-single-item .cta_wrap .service-cta.cta-type-button:before,
+.services-single-item .cta_wrap .service-cta:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+.service-cta_title:before{
+	background: $invert_text_color;
+}
+
+.cta-button.btn{
+	border-color: $invert_text_color;
+}
+
+.cta-button.btn:hover{
+	border-color: $regular_accent_color_2;
+	background: $regular_accent_color_2;
+}
+
+.service-cta_title{
+	color: $invert_text_color;
+}
+
+/*Typography*/
+.tm_pb_text h3:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+/*Buttons*/
+#tm_builder_outer_content .tm_pb_module .tm_pb_button,
+.btn-primary,
+.btn-default,
+.btn{
+	background: transparent;
+	border-color:transparent;
+}
+
+.btn-default{
+	color: $invert_text_color;
+}
+
+.btn:hover,
+.btn-primary:hover,
+.btn-default:hover,
+.btn:hover,
+.error-404 .btn-secondary:hover{
+	border-color:transparent;
+	background: transparent;
+}
+
+.invert .btn-primary:hover,
+.invert .btn-secondary:hover,
+.invert .btn-default:hover{
+	color: $invert_text_color;
+}
+
+#tm_builder_outer_content .tm_pb_module .tm_pb_button:before,
+.btn-default:before,
+.btn-secondary:before,
+.btn-primary:before,
+.btn:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 50%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 50%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 50%, $gradient_color_2 100%);
+}
+
+.link{
+	color: $regular_accent_color_3;
+}
+
+.link:hover{
+	color: $regular_accent_color_1;
+}
+
+/*Cherry Team*/
+.team-socials_link,
+.team-socials_link:hover{
+	color: $regular_accent_color_2;
+}
+
+.team-socials_link:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+.team-single-item .team-name:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+.team-heading_title:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+
+/*Gradient text color*/
+@supports (-webkit-background-clip: text) and (-webkit-text-fill-color: transparent){
+	.team-meta_item,  .team-socials_icon:before, .contact-block__icon:before{
+		background: $regular_accent_color_1;
+		background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+}
+
+.team-socials_link:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+.team-meta_item,
+.contact-block__icon:before{
+	color: $regular_accent_color_1;
+}
+
+.team-socials_link:before{
+	color: $regular_accent_color_1;
+}
+
+.template-default_skin8 .team-listing_photo:before{
+	background: linear-gradient(to top, $invert_text_color 25%, transparent 100%);
+}
+
+.template-default_skin8 .team-listing_photo:after{
+	background: linear-gradient(to top, $regular_accent_color_3 35%, transparent 100%);
+}
+
+
+.template-default_skin8 .team-item_content:hover,
+.template-default_skin8 .team-item_content:hover .team-listing_name{
+	color: $invert_text_color;
+}
+
+/*Builder Call to Action*/
+
+#tm_builder_outer_content .tm_pb_promo h2{
+	font-weight: $h2_font_weight;
+	font-size: $h2_font_size{px};
+	line-height: $h2_line_height;
+}
+
+#tm_builder_outer_content .tm_pb_promo h2:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+#tm_builder_outer_content .invert.tm_pb_promo h2:before{
+	background: $invert_text_color;
+}
+
+/*Elements*/
+.single-post .post > .entry-content > p:first-of-type:first-letter,
+.dropcaps {
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	color: $invert_text_color;
+}
+
+/*Cherry Team*/
+.swiper-pagination-bullet{
+	background-color: @alpha($regular_accent_color_3, 20);
+}
+
+.swiper-pagination-bullet-active,
+.swiper-pagination-bullet:hover{
+	background-color: $regular_accent_color_3;
+}
+
+.tm-testi__title-main:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+/*Post and Pages*/
+.entry-title:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+.posted-by a,
+.post__comments a,
+.post__tags a,
+.post__cats a{
+	color: $regular_accent_color_2;
+}
+
+.posted-by a:hover,
+.post__comments a:hover,
+.post__tags a:hover,
+.post__cats a:hover{
+	color: $regular_accent_color_1;
+}
+
+.comment-date__time{
+	color: $regular_accent_color_1;
+}
+
+.comment-date__time:hover {
+	color: $regular_accent_color_2;
+}
+
+@supports (-webkit-background-clip: text) and (-webkit-text-fill-color: transparent){
+	.share-btns__link i:before{
+		background: $regular_accent_color_1;
+		background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+}
+
+.share-btns__link i:before{
+	color: $regular_accent_color_1;
+}
+
+.share-btns__link:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+.nav-next a,
+.nav-previous a{
+	color: $regular_accent_color_3;
+}
+
+.nav-next:hover a,
+.nav-previous:hover a{
+	color: $regular_accent_color_1;
+}
+
+.nav-next a:after,
+.nav-previous a:before{
+	color: $regular_accent_color_1;
+}
+
+.comment-content-wrap{
+	background-color: transparent;
+}
+
+.comment-reply-link,
+#cancel-comment-reply-link {
+	font-size: @font_size($meta_font_size, multiple, ceil, 1.23)px
+}
+
+.comment-reply-link,
+#cancel-comment-reply-link{
+	color: $regular_accent_color_3;
+}
+
+.comment-reply-link:hover,
+#cancel-comment-reply-link:hover{
+	color: $regular_accent_color_1;
+}
+
+.fn{
+	color: $regular_accent_color_2;
+	font-size: $meta_font_size;
+}
+
+.comments-title,
+.comment-reply-title,
+.related-posts .entry-title,
+.post-author__title{
+	font-weight: $h4_font_weight;
+	font-size: $h4_font_size{px};
+	line-height: $h4_line_height;
+}
+
+.sticky__label{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+.format-link .post-featured-content{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+blockquote.post-format-quote{
+	color: $invert_text_color;
+}
+
+
+/*Blockquote*/
+blockquote {
+	font-weight: $h4_font_weight;
+	font-size: $h4_font_size{px};
+	line-height: $h4_line_height;
+	color: $regular_h4_color;
+}
+
+@supports (-webkit-background-clip: text) and (-webkit-text-fill-color: transparent){
+	blockquote cite, blockquote:before{
+		background: $regular_accent_color_1;
+		background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+}
+
+
+blockquote cite,
+blockquote:before{
+	color:$regular_accent_color_2;
+}
+
+
+.single .format-quote .entry-content blockquote p{
+	color: $invert_text_color;
+}
+/*Cherry Testi*/
+.tm-testi blockquote cite{
+	background: transparent;
+	-webkit-text-fill-color:inherit;
+}
+
+/*Widgets*/
+.widget_recent_entries a,
+.widget_recent_comments a,
+.widget_archive a{
+	color: $regular_accent_color_3;
+}
+
+.widget_recent_entries a:hover,
+.widget_recent_comments a:hover,
+.widget_archive a:hover{
+	color: $regular_accent_color_2;
+}
+
+.comment-author-link{
+	color: $regular_accent_color_2;
+}
+
+.tagcloud a {
+	background: transparent;
+}
+
+.tagcloud a:hover {
+	color: $regular_accent_color_2;
+}
+
+.widget_archive a{
+	color: $regular_accent_color_1;
+}
+
+.widget_archive a:hover{
+	color: $regular_accent_color_2;
+}
+
+/*Widget Calendar*/
+.widget_calendar tbody td:not(.pad),
+#tm_builder_outer_content .tm_pb_widget_area .widget_calendar table tbody td:not(.pad){
+	background: $invert_accent_color_1;
+}
+
+.widget_calendar tbody td a,
+#tm_builder_outer_content .tm_pb_widget_area .widget_calendar table tbody td a{
+	background: $invert_text_color;
+	border-color: $regular_accent_color_1;
+}
+
+.widget_calendar tbody td#today,
+#tm_builder_outer_content .tm_pb_widget_area .widget_calendar table tbody td#today{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+.widget_calendar table thead th,
+#tm_builder_outer_content .tm_pb_widget_area .widget_calendar table thead th{
+	color: $invert_text_color;
+	background-color: $regular_accent_color_3;
+}
+
+.widget_calendar caption,
+#tm_builder_outer_content .tm_pb_widget_area .widget_calendar caption{
+	color: $regular_accent_color_1;
+}
+
+/*Widget Subscribe and Follow*/
+.social-list__items .menu-item:before{
+	background: $regular_accent_color_1;
+	background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+	background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+}
+
+@supports (-webkit-background-clip: text) and (-webkit-text-fill-color: transparent){
+	.social-list__items .menu-item a:before{
+		background: $regular_accent_color_1;
+		background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+}
+
+.social-list__items .menu-item a:before{
+	color: $regular_accent_color_1;
+}
+
+/*Paginations*/
+.site-content .page-links a,
+.site-content .page-numbers,
+#tm_builder_outer_content .pagination .page-numbers{
+	background-color: $invert_text_color;
+	color: $regular_text_color;
+	border-color: transparent;
+}
+
+.site-content a.page-numbers:not(.next):not(.prev):hover,
+.site-content .page-numbers.current,
+#tm_builder_outer_content .pagination a.page-numbers:not(.next):not(.prev):hover,
+#tm_builder_outer_content .pagination .page-numbers.current{
+	background-color: $regular_accent_color_3;
+	color: $invert_text_color;
+}
+
+/*Builder Posts Module*/
+.tm-posts_item_title{
+	font-size: $h4_font_size{px};
+	font-weight: $h4_font_weight;
+	line-height: $h4_line_height;
+}
+
+.tm-posts_layout-3 .invert .tm-posts_item_title a{
+	color: $regular_accent_color_3;
+}
+
+.tm-posts_layout-3 .tm-posts_item:hover .invert .tm-posts_item_title a{
+	color: $invert_text_color;
+}
+
+.tm-posts_layout-3 .tm-posts_item:hover .invert .tm-posts_item_title a:hover{
+	color: $regular_accent_color_1;
+}
+
+#tm_builder_outer_content .tm_pb_posts .tm-posts_layout-3 .tm-posts_item_content{
+	background: transparent;
+}
+
+.tm-posts_layout-3 .tm-posts_item:before{
+	background: linear-gradient(to top, $invert_text_color 25%, transparent 100%);
+}
+
+.tm-posts_layout-3 .tm-posts_item:after{
+	background: linear-gradient(to top, $regular_accent_color_3 25%, transparent 100%);
+}
+
+.tm-posts_layout-3 .invert .posted-by a{
+	color: $regular_accent_color_2;
+}
+
+.tm-posts_layout-3 .invert .posted-by a:hover{
+	color: $regular_accent_color_1;
+}
+
+.tm-posts_layout-3 .invert .posted-by{
+	color: $regular_text_color;
+}
+
+
+.tm-posts_layout-3 .tm-posts_item:hover h5{
+	color: $invert_text_color;
+}
+
+.tm-posts_layout-3 a.tm-posts_more-btn{
+	color: $invert_text_color;
+}
+
+.tm-posts_layout-3 a.tm-posts_more-btn:hover{
+	color: $regular_accent_color_1;
+}
+
+/*Footer Area*/
+.footer-area.widget-area{
+	 color: $invert_accent_color_2;
+ }
+
+.footer-area.widget-area a{
+	color: $regular_accent_color_1;
+}
+
+.footer-area.widget-area a:hover{
+	color: $regular_accent_color_2;
+}
+
+.footer-area.widget-area .widget_recent_entries a{
+	color: $regular_accent_color_2;
+}
+
+.footer-area.widget-area .widget_recent_entries a:hover{
+	color: $regular_accent_color_1;
+}
+
+.footer-container.invert{
+	color: $invert_accent_color_2;
+}
+
+.footer-container a{
+	color: $regular_accent_color_1;
+}
+
+.footer-container a:hover{
+	color: $regular_accent_color_2;
+}
+
+.invert .footer-menu__items li a{
+	color: $invert_accent_color_2;
+}
+
+.invert .footer-menu__items li a{
+	color: $invert_accent_color_2;
+}
+
+/*Main Menu*/
+.main-navigation .menu > li > a,
+.invert .main-navigation.vertical-menu .menu > li > a,
+.invert .main-navigation .menu.isStuck > li > a,
+.invert .main-navigation.mobile-menu .menu > li > a{
+	color: $regular_accent_color_3;
+}
+
+.main-navigation:not(.vertical-menu) .sub-menu,
+.main-navigation.mobile-menu {
+	background:$header_bg_color;
+}
+
+.main-navigation ul ul a{
+	color: $regular_accent_color_3;
+}
+
+/*Top Panel*/
+.top-panel.invert,
+.top-panel.invert a:not(.button){
+	color: $invert_accent_color_2;
+}
+
+.top-panel.invert a:not(.button):hover{
+	color: $regular_accent_color_1;
+}
+
+.invert .search-form__toggle,
+.invert .search-form__close{
+	color: $invert_accent_color_2;
+}
+
+.top-panel.invert .search-form__field{
+	color: $invert_accent_color_2;
+}
+
+.invert .search-form__submit{
+	color: $invert_accent_color_2;
+}
+
+.top-panel.invert .search-form__field::-webkit-input-placeholder { color: $invert_accent_color_2 }
+.top-panel.invert .search-form__field::-moz-placeholder { color: $invert_accent_color_2 }
+.top-panel.invert .search-form__field:-moz-placeholder { color: $invert_accent_color_2 }
+.top-panel.invert .search-form__field:-ms-input-placeholder { color: $invert_accent_color_2 }
+
+/*Breadcrumbs*/
+.breadcrumbs {
+	background: transparent;
+}
+
+.breadcrumbs__item a{
+	color: $regular_text_color;
+}
+
+.breadcrumbs__item a:hover{
+	color: $regular_accent_color_1;
+}
+
+.breadcrumbs__item-target{
+	color: $regular_accent_color_3;
+}
+
+/*404 Page*/
+.error404 .breadcrumbs__item-target{
+	color: $invert_text_color;
+}
+
+.error404 .breadcrumbs__item a{
+	color: $invert_text_color;
+}
+
+.error404 .breadcrumbs__item a:hover{
+	color: $regular_accent_color_1;
+}
+
+.error404 .breadcrumbs__item-sep{
+	color: $invert_text_color;
+}
+
+/*Booked Appointment*/
+body .booked-calendar-shortcode-wrap .booked-calendar thead{
+	background: transparent !important;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td .date{
+	background: $invert_text_color !important;
+}
+
+body table.booked-calendar td.prev-date .date,
+body table.booked-calendar td.prev-date:hover .date,
+body table.booked-calendar td.prev-date:hover .date span{
+	background: $regular_text_color !important;
+	color: $invert_text_color !important;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td.prev-date .date .number{
+	color: $invert_text_color !important;
+}
+
+body .booked-modal .bm-window .condition-block .field input[type^='text'],
+body .booked-modal .bm-window .condition-block .field input[type^='email'],
+body .booked-modal .bm-window .condition-block .field input[type^='password']{
+	background-color: $invert_accent_color_1;
+}
+
+/*Widget contact information*/
+
+@supports (-webkit-background-clip: text) and (-webkit-text-fill-color: transparent){
+	.contact-information-widget .icon:before{
+		background: $regular_accent_color_1;
+		background: -moz-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		background: -webkit-linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		background: linear-gradient(to right, $gradient_color_1 0%, $gradient_color_2 100%);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+}
+
+
+/*Builder Tabs*/
+#tm_builder_outer_content .tm_pb_all_tabs{
+	background: transparent;
+}
+
+/*Elements*/
+.entry-content ol >li:before,
+.entry-content ul:not([class]) > li:before{
+	color: $regular_text_color;
+}
+
+code{
+	background-color: $invert_accent_color_3;
+	border-color:$invert_accent_color_3;
+}
+
+/*Calendar*/
+
+#tribe-events #tribe-bar-form .tribe-bar-filters .tribe-bar-filters-inner #tribe-bar-date,
+#tribe-events #tribe-bar-form .tribe-bar-filters .tribe-bar-filters-inner #tribe-bar-search{
+	background: transparent;
+	border-color: @alpha($regular_accent_color_3, 50);
+}
+
+#tribe-events #tribe-events-content .tribe-events-calendar tbody tr td > div:first-child,
+#tribe-events #tribe-events-content .tribe-events-calendar tbody tr td > div:first-child a{
+	background: $invert_text_color;
+}
+
+#tribe-events #tribe-events-content .tribe-events-calendar tbody tr td.tribe-events-othermonth > div:first-child, #tribe-events #tribe-events-content .tribe-events-calendar tbody tr td.tribe-events-othermonth > div:first-child a,
+#tribe-events #tribe-events-content .tribe-events-calendar tbody tr td.tribe-events-othermonth:hover > div:first-child,
+#tribe-events #tribe-events-content .tribe-events-calendar tbody tr td.tribe-events-othermonth:hover > div:first-child a{
+	background: $invert_accent_color_1;
+}
+
+#tribe-events #tribe-bar-form #tribe-bar-views .tribe-bar-views-inner .tribe-bar-views-list{
+	background: transparent;
+}
+
+.buddypress.members #buddypress #members-dir-search #search-members-form #members_search,
+.buddypress #buddypress #group-dir-search #search-groups-form #groups_search{
+	background: transparent;
+}
+
+.buddypress #buddypress div.item-list-tabs#subnav{
+	background: @alpha($regular_accent_color_3, 1);
+}
+
+.buddypress #buddypress #whats-new-form #whats-new-textarea textarea{
+	background: @alpha($regular_accent_color_3, 1);
+}
+
+.tm_timeline:hover .tm_timeline__control{
+	background-color: transparent;
+}
+
+.woocommerce button.button.btn{
+	color: $invert_text_color;
+	border-color:transparent;
+}
+
+
+
+.widget-fpblock__item-inner{
+	background: @alpha($regular_accent_color_3, 50%);
+	background: -webkit-linear-gradient(to bottom, @alpha($regular_accent_color_3, 0%), @alpha($regular_accent_color_3, 100%));
+	background: -moz-linear-gradient(to bottom, @alpha($regular_accent_color_3, 0%), @alpha($regular_accent_color_3, 100%));
+	background: linear-gradient(to bottom, @alpha($regular_accent_color_3, 0%), @alpha($regular_accent_color_3, 100%));
+}
+
+.full-width-header-area .news-smart-box__instance.layout_type_2 .full-type .news-smart-box__item-content, .after-content-full-width-area .news-smart-box__instance.layout_type_2 .full-type .news-smart-box__item-content, .before-content-area .news-smart-box__instance.layout_type_2 .full-type .news-smart-box__item-content, .after-content-area .news-smart-box__instance.layout_type_2 .full-type .news-smart-box__item-content, .tm_pb_column_4_4 .news-smart-box__instance.layout_type_2 .full-type .news-smart-box__item-content{
+	background: @alpha($regular_accent_color_3, 50%);
+	background: -webkit-linear-gradient(to bottom, @alpha($regular_accent_color_3, 0%), @alpha($regular_accent_color_3, 80%));
+	background: -moz-linear-gradient(to bottom, @alpha($regular_accent_color_3, 0%), @alpha($regular_accent_color_3, 80%));
+	background: linear-gradient(to bottom, @alpha($regular_accent_color_3, 0%), @alpha($regular_accent_color_3, 80%));
+}
+
+.widget-playlist-slider .sp-slide--content-visible .sp-layer{
+	background: @alpha($regular_accent_color_3, 50%);
+	background: -webkit-linear-gradient(to bottom, @alpha($regular_accent_color_3, 0%), @alpha($regular_accent_color_3, 80%));
+	background: -moz-linear-gradient(to bottom, @alpha($regular_accent_color_3, 0%), @alpha($regular_accent_color_3, 80%));
+	background: linear-gradient(to bottom, @alpha($regular_accent_color_3, 0%), @alpha($regular_accent_color_3, 80%));
+}
+
+
+.widget-playlist-slider .sp-right-thumbnails .sp-thumbnail-container:hover .sp-thumbnail-title{
+	color:$invert_text_color;
+}
+
+.woocommerce table.shop_table thead tr{
+	background: $regular_accent_color_1;
+}

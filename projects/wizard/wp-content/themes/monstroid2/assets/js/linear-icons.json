@@ -1,0 +1,9022 @@
+{
+  "icons": [
+    {
+      "id": "home",
+      "unicode": "e600",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "home2",
+      "unicode": "e601",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "home3",
+      "unicode": "e602",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "home4",
+      "unicode": "e603",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "home5",
+      "unicode": "e604",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "home6",
+      "unicode": "e605",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bathtub",
+      "unicode": "e606",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "toothbrush",
+      "unicode": "e607",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bed",
+      "unicode": "e608",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "couch",
+      "unicode": "e609",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chair",
+      "unicode": "e60a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "city",
+      "unicode": "e60b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "apartment",
+      "unicode": "e60c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pencil",
+      "unicode": "e60d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pencil2",
+      "unicode": "e60e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pen",
+      "unicode": "e60f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pencil3",
+      "unicode": "e610",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "eraser",
+      "unicode": "e611",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pencil4",
+      "unicode": "e612",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pencil5",
+      "unicode": "e613",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "feather",
+      "unicode": "e614",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "feather2",
+      "unicode": "e615",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "feather3",
+      "unicode": "e616",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pen2",
+      "unicode": "e617",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pen-add",
+      "unicode": "e618",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pen-remove",
+      "unicode": "e619",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "vector",
+      "unicode": "e61a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pen3",
+      "unicode": "e61b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "blog",
+      "unicode": "e61c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "brush",
+      "unicode": "e61d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "brush2",
+      "unicode": "e61e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "spray",
+      "unicode": "e61f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "paint-roller",
+      "unicode": "e620",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "stamp",
+      "unicode": "e621",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tape",
+      "unicode": "e622",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "desk-tape",
+      "unicode": "e623",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "texture",
+      "unicode": "e624",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "eye-dropper",
+      "unicode": "e625",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "palette",
+      "unicode": "e626",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "color-sampler",
+      "unicode": "e627",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bucket",
+      "unicode": "e628",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "gradient",
+      "unicode": "e629",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "gradient2",
+      "unicode": "e62a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "magic-wand",
+      "unicode": "e62b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "magnet",
+      "unicode": "e62c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pencil-ruler",
+      "unicode": "e62d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pencil-ruler2",
+      "unicode": "e62e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "compass",
+      "unicode": "e62f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "aim",
+      "unicode": "e630",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "gun",
+      "unicode": "e631",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bottle",
+      "unicode": "e632",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "drop",
+      "unicode": "e633",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "drop-crossed",
+      "unicode": "e634",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "drop2",
+      "unicode": "e635",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "snow",
+      "unicode": "e636",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "snow2",
+      "unicode": "e637",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fire",
+      "unicode": "e638",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "lighter",
+      "unicode": "e639",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "knife",
+      "unicode": "e63a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "dagger",
+      "unicode": "e63b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tissue",
+      "unicode": "e63c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "toilet-paper",
+      "unicode": "e63d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "poop",
+      "unicode": "e63e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "umbrella",
+      "unicode": "e63f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "umbrella2",
+      "unicode": "e640",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "rain",
+      "unicode": "e641",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tornado",
+      "unicode": "e642",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wind",
+      "unicode": "e643",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fan",
+      "unicode": "e644",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "contrast",
+      "unicode": "e645",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sun-small",
+      "unicode": "e646",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sun",
+      "unicode": "e647",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sun2",
+      "unicode": "e648",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "moon",
+      "unicode": "e649",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud",
+      "unicode": "e64a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-upload",
+      "unicode": "e64b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-download",
+      "unicode": "e64c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-rain",
+      "unicode": "e64d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-hailstones",
+      "unicode": "e64e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-snow",
+      "unicode": "e64f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-windy",
+      "unicode": "e650",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sun-wind",
+      "unicode": "e651",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-fog",
+      "unicode": "e652",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-sun",
+      "unicode": "e653",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-lightning",
+      "unicode": "e654",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-sync",
+      "unicode": "e655",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-lock",
+      "unicode": "e656",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-gear",
+      "unicode": "e657",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-alert",
+      "unicode": "e658",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-check",
+      "unicode": "e659",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-cross",
+      "unicode": "e65a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-crossed",
+      "unicode": "e65b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cloud-database",
+      "unicode": "e65c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "database",
+      "unicode": "e65d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "database-add",
+      "unicode": "e65e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "database-remove",
+      "unicode": "e65f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "database-lock",
+      "unicode": "e660",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "database-refresh",
+      "unicode": "e661",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "database-check",
+      "unicode": "e662",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "database-history",
+      "unicode": "e663",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "database-upload",
+      "unicode": "e664",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "database-download",
+      "unicode": "e665",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "server",
+      "unicode": "e666",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shield",
+      "unicode": "e667",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shield-check",
+      "unicode": "e668",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shield-alert",
+      "unicode": "e669",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shield-cross",
+      "unicode": "e66a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "lock",
+      "unicode": "e66b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "rotation-lock",
+      "unicode": "e66c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "unlock",
+      "unicode": "e66d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "key",
+      "unicode": "e66e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "key-hole",
+      "unicode": "e66f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "toggle-off",
+      "unicode": "e670",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "toggle-on",
+      "unicode": "e671",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cog",
+      "unicode": "e672",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cog2",
+      "unicode": "e673",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wrench",
+      "unicode": "e674",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "screwdriver",
+      "unicode": "e675",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hammer-wrench",
+      "unicode": "e676",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hammer",
+      "unicode": "e677",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "saw",
+      "unicode": "e678",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "axe",
+      "unicode": "e679",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "axe2",
+      "unicode": "e67a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shovel",
+      "unicode": "e67b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pickaxe",
+      "unicode": "e67c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "factory",
+      "unicode": "e67d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "factory2",
+      "unicode": "e67e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "recycle",
+      "unicode": "e67f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "trash",
+      "unicode": "e680",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "trash2",
+      "unicode": "e681",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "trash3",
+      "unicode": "e682",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "broom",
+      "unicode": "e683",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "game",
+      "unicode": "e684",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "gamepad",
+      "unicode": "e685",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "joystick",
+      "unicode": "e686",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "dice",
+      "unicode": "e687",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "spades",
+      "unicode": "e688",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "diamonds",
+      "unicode": "e689",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "clubs",
+      "unicode": "e68a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hearts",
+      "unicode": "e68b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "heart",
+      "unicode": "e68c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "star",
+      "unicode": "e68d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "star-half",
+      "unicode": "e68e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "star-empty",
+      "unicode": "e68f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "flag",
+      "unicode": "e690",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "flag2",
+      "unicode": "e691",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "flag3",
+      "unicode": "e692",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "mailbox-full",
+      "unicode": "e693",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "mailbox-empty",
+      "unicode": "e694",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "at-sign",
+      "unicode": "e695",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "envelope",
+      "unicode": "e696",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "envelope-open",
+      "unicode": "e697",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "paperclip",
+      "unicode": "e698",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "paper-plane",
+      "unicode": "e699",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "reply",
+      "unicode": "e69a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "reply-all",
+      "unicode": "e69b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "inbox",
+      "unicode": "e69c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "inbox2",
+      "unicode": "e69d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "outbox",
+      "unicode": "e69e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "box",
+      "unicode": "e69f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "archive",
+      "unicode": "e6a0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "archive2",
+      "unicode": "e6a1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "drawers",
+      "unicode": "e6a2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "drawers2",
+      "unicode": "e6a3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "drawers3",
+      "unicode": "e6a4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "eye",
+      "unicode": "e6a5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "eye-crossed",
+      "unicode": "e6a6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "eye-plus",
+      "unicode": "e6a7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "eye-minus",
+      "unicode": "e6a8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "binoculars",
+      "unicode": "e6a9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "binoculars2",
+      "unicode": "e6aa",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hdd",
+      "unicode": "e6ab",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hdd-down",
+      "unicode": "e6ac",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hdd-up",
+      "unicode": "e6ad",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "floppy-disk",
+      "unicode": "e6ae",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "disc",
+      "unicode": "e6af",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tape2",
+      "unicode": "e6b0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "printer",
+      "unicode": "e6b1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shredder",
+      "unicode": "e6b2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "file-empty",
+      "unicode": "e6b3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "file-add",
+      "unicode": "e6b4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "file-check",
+      "unicode": "e6b5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "file-lock",
+      "unicode": "e6b6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "files",
+      "unicode": "e6b7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "copy",
+      "unicode": "e6b8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "compare",
+      "unicode": "e6b9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "folder",
+      "unicode": "e6ba",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "folder-search",
+      "unicode": "e6bb",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "folder-plus",
+      "unicode": "e6bc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "folder-minus",
+      "unicode": "e6bd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "folder-download",
+      "unicode": "e6be",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "folder-upload",
+      "unicode": "e6bf",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "folder-star",
+      "unicode": "e6c0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "folder-heart",
+      "unicode": "e6c1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "folder-user",
+      "unicode": "e6c2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "folder-shared",
+      "unicode": "e6c3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "folder-music",
+      "unicode": "e6c4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "folder-picture",
+      "unicode": "e6c5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "folder-film",
+      "unicode": "e6c6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "scissors",
+      "unicode": "e6c7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "paste",
+      "unicode": "e6c8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "clipboard-empty",
+      "unicode": "e6c9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "clipboard-pencil",
+      "unicode": "e6ca",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "clipboard-text",
+      "unicode": "e6cb",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "clipboard-check",
+      "unicode": "e6cc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "clipboard-down",
+      "unicode": "e6cd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "clipboard-left",
+      "unicode": "e6ce",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "clipboard-alert",
+      "unicode": "e6cf",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "clipboard-user",
+      "unicode": "e6d0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "register",
+      "unicode": "e6d1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "enter",
+      "unicode": "e6d2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "exit",
+      "unicode": "e6d3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "papers",
+      "unicode": "e6d4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "news",
+      "unicode": "e6d5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "reading",
+      "unicode": "e6d6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "typewriter",
+      "unicode": "e6d7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "document",
+      "unicode": "e6d8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "document2",
+      "unicode": "e6d9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "graduation-hat",
+      "unicode": "e6da",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "license",
+      "unicode": "e6db",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "license2",
+      "unicode": "e6dc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "medal-empty",
+      "unicode": "e6dd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "medal-first",
+      "unicode": "e6de",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "medal-second",
+      "unicode": "e6df",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "medal-third",
+      "unicode": "e6e0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "podium",
+      "unicode": "e6e1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "trophy",
+      "unicode": "e6e2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "trophy2",
+      "unicode": "e6e3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "music-note",
+      "unicode": "e6e4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "music-note2",
+      "unicode": "e6e5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "music-note3",
+      "unicode": "e6e6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "playlist",
+      "unicode": "e6e7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "playlist-add",
+      "unicode": "e6e8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "guitar",
+      "unicode": "e6e9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "trumpet",
+      "unicode": "e6ea",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "album",
+      "unicode": "e6eb",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shuffle",
+      "unicode": "e6ec",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "repeat-one",
+      "unicode": "e6ed",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "repeat",
+      "unicode": "e6ee",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "headphones",
+      "unicode": "e6ef",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "headset",
+      "unicode": "e6f0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "loudspeaker",
+      "unicode": "e6f1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "equalizer",
+      "unicode": "e6f2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "theater",
+      "unicode": "e6f3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "3d-glasses",
+      "unicode": "e6f4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "ticket",
+      "unicode": "e6f5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "presentation",
+      "unicode": "e6f6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "play",
+      "unicode": "e6f7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "film-play",
+      "unicode": "e6f8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "clapboard-play",
+      "unicode": "e6f9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "media",
+      "unicode": "e6fa",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "film",
+      "unicode": "e6fb",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "film2",
+      "unicode": "e6fc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "surveillance",
+      "unicode": "e6fd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "surveillance2",
+      "unicode": "e6fe",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "camera",
+      "unicode": "e6ff",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "camera-crossed",
+      "unicode": "e700",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "camera-play",
+      "unicode": "e701",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "time-lapse",
+      "unicode": "e702",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "record",
+      "unicode": "e703",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "camera2",
+      "unicode": "e704",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "camera-flip",
+      "unicode": "e705",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "panorama",
+      "unicode": "e706",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "time-lapse2",
+      "unicode": "e707",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shutter",
+      "unicode": "e708",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shutter2",
+      "unicode": "e709",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "face-detection",
+      "unicode": "e70a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "flare",
+      "unicode": "e70b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "convex",
+      "unicode": "e70c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "concave",
+      "unicode": "e70d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "picture",
+      "unicode": "e70e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "picture2",
+      "unicode": "e70f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "picture3",
+      "unicode": "e710",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pictures",
+      "unicode": "e711",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "book",
+      "unicode": "e712",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "audio-book",
+      "unicode": "e713",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "book2",
+      "unicode": "e714",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bookmark",
+      "unicode": "e715",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bookmark2",
+      "unicode": "e716",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "label",
+      "unicode": "e717",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "library",
+      "unicode": "e718",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "library2",
+      "unicode": "e719",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "contacts",
+      "unicode": "e71a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "profile",
+      "unicode": "e71b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "portrait",
+      "unicode": "e71c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "portrait2",
+      "unicode": "e71d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "user",
+      "unicode": "e71e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "user-plus",
+      "unicode": "e71f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "user-minus",
+      "unicode": "e720",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "user-lock",
+      "unicode": "e721",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "users",
+      "unicode": "e722",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "users2",
+      "unicode": "e723",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "users-plus",
+      "unicode": "e724",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "users-minus",
+      "unicode": "e725",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "group-work",
+      "unicode": "e726",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "woman",
+      "unicode": "e727",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "man",
+      "unicode": "e728",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "baby",
+      "unicode": "e729",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "baby2",
+      "unicode": "e72a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "baby3",
+      "unicode": "e72b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "baby-bottle",
+      "unicode": "e72c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "walk",
+      "unicode": "e72d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hand-waving",
+      "unicode": "e72e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "jump",
+      "unicode": "e72f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "run",
+      "unicode": "e730",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "woman2",
+      "unicode": "e731",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "man2",
+      "unicode": "e732",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "man-woman",
+      "unicode": "e733",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "height",
+      "unicode": "e734",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "weight",
+      "unicode": "e735",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "scale",
+      "unicode": "e736",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "button",
+      "unicode": "e737",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bow-tie",
+      "unicode": "e738",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tie",
+      "unicode": "e739",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "socks",
+      "unicode": "e73a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shoe",
+      "unicode": "e73b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shoes",
+      "unicode": "e73c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hat",
+      "unicode": "e73d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pants",
+      "unicode": "e73e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shorts",
+      "unicode": "e73f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "flip-flops",
+      "unicode": "e740",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shirt",
+      "unicode": "e741",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hanger",
+      "unicode": "e742",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "laundry",
+      "unicode": "e743",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "store",
+      "unicode": "e744",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "haircut",
+      "unicode": "e745",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "store-24",
+      "unicode": "e746",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "barcode",
+      "unicode": "e747",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "barcode2",
+      "unicode": "e748",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "barcode3",
+      "unicode": "e749",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cashier",
+      "unicode": "e74a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bag",
+      "unicode": "e74b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bag2",
+      "unicode": "e74c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cart",
+      "unicode": "e74d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cart-empty",
+      "unicode": "e74e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cart-full",
+      "unicode": "e74f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cart-plus",
+      "unicode": "e750",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cart-plus2",
+      "unicode": "e751",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cart-add",
+      "unicode": "e752",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cart-remove",
+      "unicode": "e753",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cart-exchange",
+      "unicode": "e754",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tag",
+      "unicode": "e755",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tags",
+      "unicode": "e756",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "receipt",
+      "unicode": "e757",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wallet",
+      "unicode": "e758",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "credit-card",
+      "unicode": "e759",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cash-dollar",
+      "unicode": "e75a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cash-euro",
+      "unicode": "e75b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cash-pound",
+      "unicode": "e75c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cash-yen",
+      "unicode": "e75d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bag-dollar",
+      "unicode": "e75e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bag-euro",
+      "unicode": "e75f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bag-pound",
+      "unicode": "e760",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bag-yen",
+      "unicode": "e761",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "coin-dollar",
+      "unicode": "e762",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "coin-euro",
+      "unicode": "e763",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "coin-pound",
+      "unicode": "e764",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "coin-yen",
+      "unicode": "e765",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "calculator",
+      "unicode": "e766",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "calculator2",
+      "unicode": "e767",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "abacus",
+      "unicode": "e768",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "vault",
+      "unicode": "e769",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "telephone",
+      "unicode": "e76a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "phone-lock",
+      "unicode": "e76b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "phone-wave",
+      "unicode": "e76c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "phone-pause",
+      "unicode": "e76d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "phone-outgoing",
+      "unicode": "e76e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "phone-incoming",
+      "unicode": "e76f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "phone-in-out",
+      "unicode": "e770",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "phone-error",
+      "unicode": "e771",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "phone-sip",
+      "unicode": "e772",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "phone-plus",
+      "unicode": "e773",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "phone-minus",
+      "unicode": "e774",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "voicemail",
+      "unicode": "e775",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "dial",
+      "unicode": "e776",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "telephone2",
+      "unicode": "e777",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pushpin",
+      "unicode": "e778",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pushpin2",
+      "unicode": "e779",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "map-marker",
+      "unicode": "e77a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "map-marker-user",
+      "unicode": "e77b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "map-marker-down",
+      "unicode": "e77c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "map-marker-check",
+      "unicode": "e77d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "map-marker-crossed",
+      "unicode": "e77e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "radar",
+      "unicode": "e77f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "compass2",
+      "unicode": "e780",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "map",
+      "unicode": "e781",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "map2",
+      "unicode": "e782",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "location",
+      "unicode": "e783",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "road-sign",
+      "unicode": "e784",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "calendar-empty",
+      "unicode": "e785",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "calendar-check",
+      "unicode": "e786",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "calendar-cross",
+      "unicode": "e787",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "calendar-31",
+      "unicode": "e788",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "calendar-full",
+      "unicode": "e789",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "calendar-insert",
+      "unicode": "e78a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "calendar-text",
+      "unicode": "e78b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "calendar-user",
+      "unicode": "e78c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "mouse",
+      "unicode": "e78d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "mouse-left",
+      "unicode": "e78e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "mouse-right",
+      "unicode": "e78f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "mouse-both",
+      "unicode": "e790",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "keyboard",
+      "unicode": "e791",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "keyboard-up",
+      "unicode": "e792",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "keyboard-down",
+      "unicode": "e793",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "delete",
+      "unicode": "e794",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "spell-check",
+      "unicode": "e795",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "escape",
+      "unicode": "e796",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "enter2",
+      "unicode": "e797",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "screen",
+      "unicode": "e798",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "aspect-ratio",
+      "unicode": "e799",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "signal",
+      "unicode": "e79a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "signal-lock",
+      "unicode": "e79b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "signal-80",
+      "unicode": "e79c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "signal-60",
+      "unicode": "e79d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "signal-40",
+      "unicode": "e79e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "signal-20",
+      "unicode": "e79f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "signal-0",
+      "unicode": "e7a0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "signal-blocked",
+      "unicode": "e7a1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sim",
+      "unicode": "e7a2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "flash-memory",
+      "unicode": "e7a3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "usb-drive",
+      "unicode": "e7a4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "phone",
+      "unicode": "e7a5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "smartphone",
+      "unicode": "e7a6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "smartphone-notification",
+      "unicode": "e7a7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "smartphone-vibration",
+      "unicode": "e7a8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "smartphone-embed",
+      "unicode": "e7a9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "smartphone-waves",
+      "unicode": "e7aa",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tablet",
+      "unicode": "e7ab",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tablet2",
+      "unicode": "e7ac",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "laptop",
+      "unicode": "e7ad",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "laptop-phone",
+      "unicode": "e7ae",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "desktop",
+      "unicode": "e7af",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "launch",
+      "unicode": "e7b0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "new-tab",
+      "unicode": "e7b1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "window",
+      "unicode": "e7b2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cable",
+      "unicode": "e7b3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cable2",
+      "unicode": "e7b4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tv",
+      "unicode": "e7b5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "radio",
+      "unicode": "e7b6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "remote-control",
+      "unicode": "e7b7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "power-switch",
+      "unicode": "e7b8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "power",
+      "unicode": "e7b9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "power-crossed",
+      "unicode": "e7ba",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "flash-auto",
+      "unicode": "e7bb",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "lamp",
+      "unicode": "e7bc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "flashlight",
+      "unicode": "e7bd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "lampshade",
+      "unicode": "e7be",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cord",
+      "unicode": "e7bf",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "outlet",
+      "unicode": "e7c0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-power",
+      "unicode": "e7c1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-empty",
+      "unicode": "e7c2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-alert",
+      "unicode": "e7c3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-error",
+      "unicode": "e7c4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-low1",
+      "unicode": "e7c5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-low2",
+      "unicode": "e7c6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-low3",
+      "unicode": "e7c7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-mid1",
+      "unicode": "e7c8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-mid2",
+      "unicode": "e7c9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-mid3",
+      "unicode": "e7ca",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-full",
+      "unicode": "e7cb",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-charging",
+      "unicode": "e7cc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-charging2",
+      "unicode": "e7cd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-charging3",
+      "unicode": "e7ce",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-charging4",
+      "unicode": "e7cf",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-charging5",
+      "unicode": "e7d0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-charging6",
+      "unicode": "e7d1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "battery-charging7",
+      "unicode": "e7d2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chip",
+      "unicode": "e7d3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chip-x64",
+      "unicode": "e7d4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chip-x86",
+      "unicode": "e7d5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bubble",
+      "unicode": "e7d6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bubbles",
+      "unicode": "e7d7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bubble-dots",
+      "unicode": "e7d8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bubble-alert",
+      "unicode": "e7d9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bubble-question",
+      "unicode": "e7da",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bubble-text",
+      "unicode": "e7db",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bubble-pencil",
+      "unicode": "e7dc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bubble-picture",
+      "unicode": "e7dd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bubble-video",
+      "unicode": "e7de",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bubble-user",
+      "unicode": "e7df",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bubble-quote",
+      "unicode": "e7e0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bubble-heart",
+      "unicode": "e7e1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bubble-emoticon",
+      "unicode": "e7e2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bubble-attachment",
+      "unicode": "e7e3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "phone-bubble",
+      "unicode": "e7e4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "quote-open",
+      "unicode": "e7e5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "quote-close",
+      "unicode": "e7e6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "dna",
+      "unicode": "e7e7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "heart-pulse",
+      "unicode": "e7e8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pulse",
+      "unicode": "e7e9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "syringe",
+      "unicode": "e7ea",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pills",
+      "unicode": "e7eb",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "first-aid",
+      "unicode": "e7ec",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "lifebuoy",
+      "unicode": "e7ed",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bandage",
+      "unicode": "e7ee",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bandages",
+      "unicode": "e7ef",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "thermometer",
+      "unicode": "e7f0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "microscope",
+      "unicode": "e7f1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "brain",
+      "unicode": "e7f2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "beaker",
+      "unicode": "e7f3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "skull",
+      "unicode": "e7f4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bone",
+      "unicode": "e7f5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "construction",
+      "unicode": "e7f6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "construction-cone",
+      "unicode": "e7f7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pie-chart",
+      "unicode": "e7f8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pie-chart2",
+      "unicode": "e7f9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "graph",
+      "unicode": "e7fa",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chart-growth",
+      "unicode": "e7fb",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chart-bars",
+      "unicode": "e7fc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chart-settings",
+      "unicode": "e7fd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cake",
+      "unicode": "e7fe",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "gift",
+      "unicode": "e7ff",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "balloon",
+      "unicode": "e800",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "rank",
+      "unicode": "e801",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "rank2",
+      "unicode": "e802",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "rank3",
+      "unicode": "e803",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "crown",
+      "unicode": "e804",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "lotus",
+      "unicode": "e805",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "diamond",
+      "unicode": "e806",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "diamond2",
+      "unicode": "e807",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "diamond3",
+      "unicode": "e808",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "diamond4",
+      "unicode": "e809",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "linearicons",
+      "unicode": "e80a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "teacup",
+      "unicode": "e80b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "teapot",
+      "unicode": "e80c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "glass",
+      "unicode": "e80d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bottle2",
+      "unicode": "e80e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "glass-cocktail",
+      "unicode": "e80f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "glass2",
+      "unicode": "e810",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "dinner",
+      "unicode": "e811",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "dinner2",
+      "unicode": "e812",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chef",
+      "unicode": "e813",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "scale2",
+      "unicode": "e814",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "egg",
+      "unicode": "e815",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "egg2",
+      "unicode": "e816",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "eggs",
+      "unicode": "e817",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "platter",
+      "unicode": "e818",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "steak",
+      "unicode": "e819",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hamburger",
+      "unicode": "e81a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hotdog",
+      "unicode": "e81b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pizza",
+      "unicode": "e81c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sausage",
+      "unicode": "e81d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chicken",
+      "unicode": "e81e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fish",
+      "unicode": "e81f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "carrot",
+      "unicode": "e820",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cheese",
+      "unicode": "e821",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bread",
+      "unicode": "e822",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "ice-cream",
+      "unicode": "e823",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "ice-cream2",
+      "unicode": "e824",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "candy",
+      "unicode": "e825",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "lollipop",
+      "unicode": "e826",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "coffee-bean",
+      "unicode": "e827",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "coffee-cup",
+      "unicode": "e828",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cherry",
+      "unicode": "e829",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "grapes",
+      "unicode": "e82a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "citrus",
+      "unicode": "e82b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "apple",
+      "unicode": "e82c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "leaf",
+      "unicode": "e82d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "landscape",
+      "unicode": "e82e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pine-tree",
+      "unicode": "e82f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tree",
+      "unicode": "e830",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cactus",
+      "unicode": "e831",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "paw",
+      "unicode": "e832",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "footprint",
+      "unicode": "e833",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "speed-slow",
+      "unicode": "e834",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "speed-medium",
+      "unicode": "e835",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "speed-fast",
+      "unicode": "e836",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "rocket",
+      "unicode": "e837",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hammer2",
+      "unicode": "e838",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "balance",
+      "unicode": "e839",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "briefcase",
+      "unicode": "e83a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "luggage-weight",
+      "unicode": "e83b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "dolly",
+      "unicode": "e83c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "plane",
+      "unicode": "e83d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "plane-crossed",
+      "unicode": "e83e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "helicopter",
+      "unicode": "e83f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "traffic-lights",
+      "unicode": "e840",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "siren",
+      "unicode": "e841",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "road",
+      "unicode": "e842",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "engine",
+      "unicode": "e843",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "oil-pressure",
+      "unicode": "e844",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "coolant-temperature",
+      "unicode": "e845",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "car-battery",
+      "unicode": "e846",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "gas",
+      "unicode": "e847",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "gallon",
+      "unicode": "e848",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "transmission",
+      "unicode": "e849",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "car",
+      "unicode": "e84a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "car-wash",
+      "unicode": "e84b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "car-wash2",
+      "unicode": "e84c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bus",
+      "unicode": "e84d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bus2",
+      "unicode": "e84e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "car2",
+      "unicode": "e84f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "parking",
+      "unicode": "e850",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "car-lock",
+      "unicode": "e851",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "taxi",
+      "unicode": "e852",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "car-siren",
+      "unicode": "e853",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "car-wash3",
+      "unicode": "e854",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "car-wash4",
+      "unicode": "e855",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "ambulance",
+      "unicode": "e856",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "truck",
+      "unicode": "e857",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "trailer",
+      "unicode": "e858",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "scale-truck",
+      "unicode": "e859",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "train",
+      "unicode": "e85a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "ship",
+      "unicode": "e85b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "ship2",
+      "unicode": "e85c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "anchor",
+      "unicode": "e85d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "boat",
+      "unicode": "e85e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bicycle",
+      "unicode": "e85f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bicycle2",
+      "unicode": "e860",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "dumbbell",
+      "unicode": "e861",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bench-press",
+      "unicode": "e862",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "swim",
+      "unicode": "e863",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "football",
+      "unicode": "e864",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "baseball-bat",
+      "unicode": "e865",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "baseball",
+      "unicode": "e866",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tennis",
+      "unicode": "e867",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tennis2",
+      "unicode": "e868",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "ping-pong",
+      "unicode": "e869",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hockey",
+      "unicode": "e86a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "8ball",
+      "unicode": "e86b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bowling",
+      "unicode": "e86c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bowling-pins",
+      "unicode": "e86d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "golf",
+      "unicode": "e86e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "golf2",
+      "unicode": "e86f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "archery",
+      "unicode": "e870",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "slingshot",
+      "unicode": "e871",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "soccer",
+      "unicode": "e872",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "basketball",
+      "unicode": "e873",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cube",
+      "unicode": "e874",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "3d-rotate",
+      "unicode": "e875",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "puzzle",
+      "unicode": "e876",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "glasses",
+      "unicode": "e877",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "glasses2",
+      "unicode": "e878",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "accessibility",
+      "unicode": "e879",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wheelchair",
+      "unicode": "e87a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wall",
+      "unicode": "e87b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fence",
+      "unicode": "e87c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wall2",
+      "unicode": "e87d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "icons",
+      "unicode": "e87e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "resize-handle",
+      "unicode": "e87f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "icons2",
+      "unicode": "e880",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "select",
+      "unicode": "e881",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "select2",
+      "unicode": "e882",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "site-map",
+      "unicode": "e883",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "earth",
+      "unicode": "e884",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "earth-lock",
+      "unicode": "e885",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "network",
+      "unicode": "e886",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "network-lock",
+      "unicode": "e887",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "planet",
+      "unicode": "e888",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "happy",
+      "unicode": "e889",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "smile",
+      "unicode": "e88a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "grin",
+      "unicode": "e88b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tongue",
+      "unicode": "e88c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sad",
+      "unicode": "e88d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wink",
+      "unicode": "e88e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "dream",
+      "unicode": "e88f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shocked",
+      "unicode": "e890",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "shocked2",
+      "unicode": "e891",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tongue2",
+      "unicode": "e892",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "neutral",
+      "unicode": "e893",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "happy-grin",
+      "unicode": "e894",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cool",
+      "unicode": "e895",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "mad",
+      "unicode": "e896",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "grin-evil",
+      "unicode": "e897",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "evil",
+      "unicode": "e898",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wow",
+      "unicode": "e899",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "annoyed",
+      "unicode": "e89a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wondering",
+      "unicode": "e89b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "confused",
+      "unicode": "e89c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "zipped",
+      "unicode": "e89d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "grumpy",
+      "unicode": "e89e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "mustache",
+      "unicode": "e89f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tombstone-hipster",
+      "unicode": "e8a0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tombstone",
+      "unicode": "e8a1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "ghost",
+      "unicode": "e8a2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "ghost-hipster",
+      "unicode": "e8a3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "halloween",
+      "unicode": "e8a4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "christmas",
+      "unicode": "e8a5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "easter-egg",
+      "unicode": "e8a6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "mustache2",
+      "unicode": "e8a7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "mustache-glasses",
+      "unicode": "e8a8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pipe",
+      "unicode": "e8a9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "alarm",
+      "unicode": "e8aa",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "alarm-add",
+      "unicode": "e8ab",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "alarm-snooze",
+      "unicode": "e8ac",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "alarm-ringing",
+      "unicode": "e8ad",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bullhorn",
+      "unicode": "e8ae",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hearing",
+      "unicode": "e8af",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "volume-high",
+      "unicode": "e8b0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "volume-medium",
+      "unicode": "e8b1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "volume-low",
+      "unicode": "e8b2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "volume",
+      "unicode": "e8b3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "mute",
+      "unicode": "e8b4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "lan",
+      "unicode": "e8b5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "lan2",
+      "unicode": "e8b6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wifi",
+      "unicode": "e8b7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wifi-lock",
+      "unicode": "e8b8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wifi-blocked",
+      "unicode": "e8b9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wifi-mid",
+      "unicode": "e8ba",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wifi-low",
+      "unicode": "e8bb",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wifi-low2",
+      "unicode": "e8bc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wifi-alert",
+      "unicode": "e8bd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wifi-alert-mid",
+      "unicode": "e8be",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wifi-alert-low",
+      "unicode": "e8bf",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "wifi-alert-low2",
+      "unicode": "e8c0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "stream",
+      "unicode": "e8c1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "stream-check",
+      "unicode": "e8c2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "stream-error",
+      "unicode": "e8c3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "stream-alert",
+      "unicode": "e8c4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "communication",
+      "unicode": "e8c5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "communication-crossed",
+      "unicode": "e8c6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "broadcast",
+      "unicode": "e8c7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "antenna",
+      "unicode": "e8c8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "satellite",
+      "unicode": "e8c9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "satellite2",
+      "unicode": "e8ca",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "mic",
+      "unicode": "e8cb",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "mic-mute",
+      "unicode": "e8cc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "mic2",
+      "unicode": "e8cd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "spotlights",
+      "unicode": "e8ce",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hourglass",
+      "unicode": "e8cf",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "loading",
+      "unicode": "e8d0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "loading2",
+      "unicode": "e8d1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "loading3",
+      "unicode": "e8d2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "refresh",
+      "unicode": "e8d3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "refresh2",
+      "unicode": "e8d4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "undo",
+      "unicode": "e8d5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "redo",
+      "unicode": "e8d6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "jump2",
+      "unicode": "e8d7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "undo2",
+      "unicode": "e8d8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "redo2",
+      "unicode": "e8d9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sync",
+      "unicode": "e8da",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "repeat-one2",
+      "unicode": "e8db",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sync-crossed",
+      "unicode": "e8dc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sync2",
+      "unicode": "e8dd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "repeat-one3",
+      "unicode": "e8de",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sync-crossed2",
+      "unicode": "e8df",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "return",
+      "unicode": "e8e0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "return2",
+      "unicode": "e8e1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "refund",
+      "unicode": "e8e2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "history",
+      "unicode": "e8e3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "history2",
+      "unicode": "e8e4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "self-timer",
+      "unicode": "e8e5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "clock",
+      "unicode": "e8e6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "clock2",
+      "unicode": "e8e7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "clock3",
+      "unicode": "e8e8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "watch",
+      "unicode": "e8e9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "alarm2",
+      "unicode": "e8ea",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "alarm-add2",
+      "unicode": "e8eb",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "alarm-remove",
+      "unicode": "e8ec",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "alarm-check",
+      "unicode": "e8ed",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "alarm-error",
+      "unicode": "e8ee",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "timer",
+      "unicode": "e8ef",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "timer-crossed",
+      "unicode": "e8f0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "timer2",
+      "unicode": "e8f1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "timer-crossed2",
+      "unicode": "e8f2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "download",
+      "unicode": "e8f3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "upload",
+      "unicode": "e8f4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "download2",
+      "unicode": "e8f5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "upload2",
+      "unicode": "e8f6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "enter-up",
+      "unicode": "e8f7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "enter-down",
+      "unicode": "e8f8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "enter-left",
+      "unicode": "e8f9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "enter-right",
+      "unicode": "e8fa",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "exit-up",
+      "unicode": "e8fb",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "exit-down",
+      "unicode": "e8fc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "exit-left",
+      "unicode": "e8fd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "exit-right",
+      "unicode": "e8fe",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "enter-up2",
+      "unicode": "e8ff",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "enter-down2",
+      "unicode": "e900",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "enter-vertical",
+      "unicode": "e901",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "enter-left2",
+      "unicode": "e902",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "enter-right2",
+      "unicode": "e903",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "enter-horizontal",
+      "unicode": "e904",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "exit-up2",
+      "unicode": "e905",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "exit-down2",
+      "unicode": "e906",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "exit-left2",
+      "unicode": "e907",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "exit-right2",
+      "unicode": "e908",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cli",
+      "unicode": "e909",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bug",
+      "unicode": "e90a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "code",
+      "unicode": "e90b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "file-code",
+      "unicode": "e90c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "file-image",
+      "unicode": "e90d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "file-zip",
+      "unicode": "e90e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "file-audio",
+      "unicode": "e90f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "file-video",
+      "unicode": "e910",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "file-preview",
+      "unicode": "e911",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "file-charts",
+      "unicode": "e912",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "file-stats",
+      "unicode": "e913",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "file-spreadsheet",
+      "unicode": "e914",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "link",
+      "unicode": "e915",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "unlink",
+      "unicode": "e916",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "link2",
+      "unicode": "e917",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "unlink2",
+      "unicode": "e918",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "thumbs-up",
+      "unicode": "e919",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "thumbs-down",
+      "unicode": "e91a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "thumbs-up2",
+      "unicode": "e91b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "thumbs-down2",
+      "unicode": "e91c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "thumbs-up3",
+      "unicode": "e91d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "thumbs-down3",
+      "unicode": "e91e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "share",
+      "unicode": "e91f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "share2",
+      "unicode": "e920",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "share3",
+      "unicode": "e921",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "magnifier",
+      "unicode": "e922",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "file-search",
+      "unicode": "e923",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "find-replace",
+      "unicode": "e924",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "zoom-in",
+      "unicode": "e925",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "zoom-out",
+      "unicode": "e926",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "loupe",
+      "unicode": "e927",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "loupe-zoom-in",
+      "unicode": "e928",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "loupe-zoom-out",
+      "unicode": "e929",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cross",
+      "unicode": "e92a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "menu",
+      "unicode": "e92b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "list",
+      "unicode": "e92c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "list2",
+      "unicode": "e92d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "list3",
+      "unicode": "e92e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "menu2",
+      "unicode": "e92f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "list4",
+      "unicode": "e930",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "menu3",
+      "unicode": "e931",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "exclamation",
+      "unicode": "e932",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "question",
+      "unicode": "e933",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "check",
+      "unicode": "e934",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cross2",
+      "unicode": "e935",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "plus",
+      "unicode": "e936",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "minus",
+      "unicode": "e937",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "percent",
+      "unicode": "e938",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevron-up",
+      "unicode": "e939",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevron-down",
+      "unicode": "e93a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevron-left",
+      "unicode": "e93b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevron-right",
+      "unicode": "e93c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevrons-expand-vertical",
+      "unicode": "e93d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevrons-expand-horizontal",
+      "unicode": "e93e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevrons-contract-vertical",
+      "unicode": "e93f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevrons-contract-horizontal",
+      "unicode": "e940",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-up",
+      "unicode": "e941",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-down",
+      "unicode": "e942",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-left",
+      "unicode": "e943",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-right",
+      "unicode": "e944",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-up-right",
+      "unicode": "e945",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrows-merge",
+      "unicode": "e946",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrows-split",
+      "unicode": "e947",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-divert",
+      "unicode": "e948",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-return",
+      "unicode": "e949",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "expand",
+      "unicode": "e94a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "contract",
+      "unicode": "e94b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "expand2",
+      "unicode": "e94c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "contract2",
+      "unicode": "e94d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "move",
+      "unicode": "e94e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "tab",
+      "unicode": "e94f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-wave",
+      "unicode": "e950",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "expand3",
+      "unicode": "e951",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "expand4",
+      "unicode": "e952",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "contract3",
+      "unicode": "e953",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "notification",
+      "unicode": "e954",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "warning",
+      "unicode": "e955",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "notification-circle",
+      "unicode": "e956",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "question-circle",
+      "unicode": "e957",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "menu-circle",
+      "unicode": "e958",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "checkmark-circle",
+      "unicode": "e959",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cross-circle",
+      "unicode": "e95a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "plus-circle",
+      "unicode": "e95b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "circle-minus",
+      "unicode": "e95c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "percent-circle",
+      "unicode": "e95d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-up-circle",
+      "unicode": "e95e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-down-circle",
+      "unicode": "e95f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-left-circle",
+      "unicode": "e960",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-right-circle",
+      "unicode": "e961",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevron-up-circle",
+      "unicode": "e962",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevron-down-circle",
+      "unicode": "e963",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevron-left-circle",
+      "unicode": "e964",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevron-right-circle",
+      "unicode": "e965",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "backward-circle",
+      "unicode": "e966",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "first-circle",
+      "unicode": "e967",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "previous-circle",
+      "unicode": "e968",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "stop-circle",
+      "unicode": "e969",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "play-circle",
+      "unicode": "e96a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pause-circle",
+      "unicode": "e96b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "next-circle",
+      "unicode": "e96c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "last-circle",
+      "unicode": "e96d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "forward-circle",
+      "unicode": "e96e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "eject-circle",
+      "unicode": "e96f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "crop",
+      "unicode": "e970",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "frame-expand",
+      "unicode": "e971",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "frame-contract",
+      "unicode": "e972",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "focus",
+      "unicode": "e973",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "transform",
+      "unicode": "e974",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "grid",
+      "unicode": "e975",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "grid-crossed",
+      "unicode": "e976",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "layers",
+      "unicode": "e977",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "layers-crossed",
+      "unicode": "e978",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "toggle",
+      "unicode": "e979",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "rulers",
+      "unicode": "e97a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "ruler",
+      "unicode": "e97b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "funnel",
+      "unicode": "e97c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "flip-horizontal",
+      "unicode": "e97d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "flip-vertical",
+      "unicode": "e97e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "flip-horizontal2",
+      "unicode": "e97f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "flip-vertical2",
+      "unicode": "e980",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "angle",
+      "unicode": "e981",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "angle2",
+      "unicode": "e982",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "subtract",
+      "unicode": "e983",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "combine",
+      "unicode": "e984",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "intersect",
+      "unicode": "e985",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "exclude",
+      "unicode": "e986",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "align-center-vertical",
+      "unicode": "e987",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "align-right",
+      "unicode": "e988",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "align-bottom",
+      "unicode": "e989",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "align-left",
+      "unicode": "e98a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "align-center-horizontal",
+      "unicode": "e98b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "align-top",
+      "unicode": "e98c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "square",
+      "unicode": "e98d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "plus-square",
+      "unicode": "e98e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "minus-square",
+      "unicode": "e98f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "percent-square",
+      "unicode": "e990",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-up-square",
+      "unicode": "e991",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-down-square",
+      "unicode": "e992",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-left-square",
+      "unicode": "e993",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "arrow-right-square",
+      "unicode": "e994",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevron-up-square",
+      "unicode": "e995",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevron-down-square",
+      "unicode": "e996",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevron-left-square",
+      "unicode": "e997",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "chevron-right-square",
+      "unicode": "e998",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "check-square",
+      "unicode": "e999",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "cross-square",
+      "unicode": "e99a",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "menu-square",
+      "unicode": "e99b",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "prohibited",
+      "unicode": "e99c",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "circle",
+      "unicode": "e99d",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "radio-button",
+      "unicode": "e99e",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "ligature",
+      "unicode": "e99f",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "text-format",
+      "unicode": "e9a0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "text-format-remove",
+      "unicode": "e9a1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "text-size",
+      "unicode": "e9a2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "bold",
+      "unicode": "e9a3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "italic",
+      "unicode": "e9a4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "underline",
+      "unicode": "e9a5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "strikethrough",
+      "unicode": "e9a6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "highlight",
+      "unicode": "e9a7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "text-align-left",
+      "unicode": "e9a8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "text-align-center",
+      "unicode": "e9a9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "text-align-right",
+      "unicode": "e9aa",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "text-align-justify",
+      "unicode": "e9ab",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "line-spacing",
+      "unicode": "e9ac",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "indent-increase",
+      "unicode": "e9ad",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "indent-decrease",
+      "unicode": "e9ae",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "text-wrap",
+      "unicode": "e9af",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pilcrow",
+      "unicode": "e9b0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "direction-ltr",
+      "unicode": "e9b1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "direction-rtl",
+      "unicode": "e9b2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "page-break",
+      "unicode": "e9b3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "page-break2",
+      "unicode": "e9b4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sort-alpha-asc",
+      "unicode": "e9b5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sort-alpha-desc",
+      "unicode": "e9b6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sort-numeric-asc",
+      "unicode": "e9b7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sort-numeric-desc",
+      "unicode": "e9b8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sort-amount-asc",
+      "unicode": "e9b9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sort-amount-desc",
+      "unicode": "e9ba",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sort-time-asc",
+      "unicode": "e9bb",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sort-time-desc",
+      "unicode": "e9bc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "sigma",
+      "unicode": "e9bd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pencil-line",
+      "unicode": "e9be",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hand",
+      "unicode": "e9bf",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pointer-up",
+      "unicode": "e9c0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pointer-right",
+      "unicode": "e9c1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pointer-down",
+      "unicode": "e9c2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pointer-left",
+      "unicode": "e9c3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "finger-tap",
+      "unicode": "e9c4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fingers-tap",
+      "unicode": "e9c5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "reminder",
+      "unicode": "e9c6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fingers-crossed",
+      "unicode": "e9c7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fingers-victory",
+      "unicode": "e9c8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "gesture-zoom",
+      "unicode": "e9c9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "gesture-pinch",
+      "unicode": "e9ca",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fingers-scroll-horizontal",
+      "unicode": "e9cb",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fingers-scroll-vertical",
+      "unicode": "e9cc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fingers-scroll-left",
+      "unicode": "e9cd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fingers-scroll-right",
+      "unicode": "e9ce",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "hand2",
+      "unicode": "e9cf",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pointer-up2",
+      "unicode": "e9d0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pointer-right2",
+      "unicode": "e9d1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pointer-down2",
+      "unicode": "e9d2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "pointer-left2",
+      "unicode": "e9d3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "finger-tap2",
+      "unicode": "e9d4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fingers-tap2",
+      "unicode": "e9d5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "reminder2",
+      "unicode": "e9d6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "gesture-zoom2",
+      "unicode": "e9d7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "gesture-pinch2",
+      "unicode": "e9d8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fingers-scroll-horizontal2",
+      "unicode": "e9d9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fingers-scroll-vertical2",
+      "unicode": "e9da",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fingers-scroll-left2",
+      "unicode": "e9db",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fingers-scroll-right2",
+      "unicode": "e9dc",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "fingers-scroll-vertical3",
+      "unicode": "e9dd",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "border-style",
+      "unicode": "e9de",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "border-all",
+      "unicode": "e9df",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "border-outer",
+      "unicode": "e9e0",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "border-inner",
+      "unicode": "e9e1",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "border-top",
+      "unicode": "e9e2",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "border-horizontal",
+      "unicode": "e9e3",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "border-bottom",
+      "unicode": "e9e4",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "border-left",
+      "unicode": "e9e5",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "border-vertical",
+      "unicode": "e9e6",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "border-right",
+      "unicode": "e9e7",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "border-none",
+      "unicode": "e9e8",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    },
+    {
+      "id": "ellipsis",
+      "unicode": "e9e9",
+      "created": 1,
+      "filter": [
+      ],
+      "categories": [
+      ]
+    }
+  ]
+}

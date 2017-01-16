@@ -1,0 +1,99 @@
+html {
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after { /* Inherit box-sizing to make it easier to change the property for components that leverage other behavior; see http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
+	box-sizing: inherit;
+}
+
+body {
+	background: $color__background-body; /* Fallback for when there is no custom background color defined. */
+}
+
+img {
+	height: auto; /* Make sure images are scaled correctly. */
+	max-width: 100%; /* Adhere to container width. */
+	vertical-align: top;
+}
+
+blockquote, q {
+	quotes: none;
+
+	&:before,
+	&:after {
+		content: '';
+	}
+}
+
+blockquote {
+	text-align: center;
+	position: relative;
+	margin: 0 0 25px;
+	@include font-size(30/16);
+	line-height: 1.43;
+	p + &{
+		margin-top: 30px;
+	}
+	cite {
+		display: block;
+		margin-top: 7px;
+		&:before {
+			content: "— ";
+		}
+	}
+	&:before {
+		content: "\201c";
+		font-family: "Times New Roman";
+		display: block;
+		font-size: 72px;
+		line-height: 50px;
+		font-weight: 700;
+	}
+
+	.single .format-quote .entry-content & {
+		@include border-radius($border__radius);
+		margin-bottom: 40px;
+		padding: 30px 20px;
+		@include media-breakpoint-up(xl) {
+			padding: 40px 40px 60px;
+		}
+		> * {
+			max-width: 470px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		&:first-child {
+			margin-top: 10px;
+		}
+	}
+}
+
+hr {
+	background-color: $color__background-hr;
+	border: 0;
+	height: 1px;
+	margin: 60px 0;
+	clear: both;
+}
+
+/*--------------------------------------------------------------
+## Lists
+--------------------------------------------------------------*/
+@import "lists";
+
+/*--------------------------------------------------------------
+## Tables
+--------------------------------------------------------------*/
+@import "tables";
+
+/*--------------------------------------------------------------
+## Preloader
+--------------------------------------------------------------*/
+@import "page-preloader";
+
+/*--------------------------------------------------------------
+## ToTop button
+--------------------------------------------------------------*/
+@import "totop-button";

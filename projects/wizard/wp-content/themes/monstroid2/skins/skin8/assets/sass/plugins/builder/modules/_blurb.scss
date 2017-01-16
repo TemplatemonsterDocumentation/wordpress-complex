@@ -1,0 +1,13 @@
+#tm_builder_outer_content .tm_pb_blurb.tm_pb_module {
+	.tm_pb_main_blurb_image {
+		img {
+			max-width: none;
+		}
+	}
+	&.tm_pb_blurb_position_top {
+		img {
+			border-radius: 0;
+			max-width: none;
+		}
+	}
+}

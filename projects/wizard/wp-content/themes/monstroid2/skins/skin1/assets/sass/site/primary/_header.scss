@@ -1,0 +1,17 @@
+.header-container {
+	.site-header.default &,
+	.site-header.style-4 & {
+		&:after {
+			display: none;
+		}
+	}
+}
+
+.site-header {
+	.contact-block__text,
+	.contact-block__label{
+		@include font-size(1);
+	}
+}
+
+@import "header/top-panel";

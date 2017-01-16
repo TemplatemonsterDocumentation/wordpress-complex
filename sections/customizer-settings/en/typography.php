@@ -171,7 +171,7 @@
 
 <?php } ?>
 
-<?php if ($project == 'ironmass' or $project == 'durand' or $project == 'shanti' or $project == 'fuel' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei' or $project == 'cookery' or $project == 'artwork' or $project == 'masterchef' or $project == 'inmotion') { ?>
+<?php if ($project == 'ironmass' or $project == 'durand' or $project == 'shanti' or $project == 'fuel' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei' or $project == 'cookery' or $project == 'artwork' or $project == 'masterchef' or $project == 'inmotion' or $project == 'stylefactory') { ?>
 
     <li>
         <dl class="inline-term">

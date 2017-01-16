@@ -1,0 +1,25 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_monstroid2">
+			<key name="header_btn_text" />
+			<key name="top_panel_text" />
+			<key name="header_contact_label_1" />
+			<key name="header_contact_label_2" />
+			<key name="header_contact_label_3" />
+			<key name="header_contact_text_1" />
+			<key name="header_contact_text_2" />
+			<key name="header_contact_text_3" />
+			<key name="more_button_text" />
+			<key name="blog_sticky_label" />
+			<key name="blog_read_more_text" />
+			<key name="related_posts_block_title" />
+			<key name="footer_copyright" />
+			<key name="footer_contact_label_1" />
+			<key name="footer_contact_label_2" />
+			<key name="footer_contact_label_3" />
+			<key name="footer_contact_text_1" />
+			<key name="footer_contact_text_2" />
+			<key name="footer_contact_text_3" />
+		</key>
+	</admin-texts>
+</wpml-config>

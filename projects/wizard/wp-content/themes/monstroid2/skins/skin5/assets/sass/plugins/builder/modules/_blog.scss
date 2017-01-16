@@ -1,0 +1,34 @@
+.tm_pb_blog {
+	.entry-meta {
+		span {
+			&:not(:last-child):after {
+				vertical-align: baseline;
+				padding: 0 8px;
+			}
+		}
+		a[rel*="category"] {
+			padding-right: 0;
+		}
+	}
+}
+
+#tm_builder_outer_content {
+	.tm_pb_blog.tm_pb_module {
+		.tm_pb_post {
+			margin-bottom: 30px;
+
+			.tm_pb_image_container {
+				img {
+					@include image-border;
+				}
+			}
+			.more-link {
+				margin-top: 36px;
+
+				i {
+					display: none;
+				}
+			}
+		}
+	}
+}

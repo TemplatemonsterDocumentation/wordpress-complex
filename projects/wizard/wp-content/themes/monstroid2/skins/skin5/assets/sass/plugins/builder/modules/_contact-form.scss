@@ -1,0 +1,23 @@
+#tm_builder_outer_content {
+	.tm_pb_contact_form_label {
+		margin: 0 0 11px;
+		display: block;
+	}
+	.tm_pb_contact_form_input {
+		border-radius: 0;
+		margin: 0 0 23px;
+	}
+	.tm_pb_contact_message {
+		height: 150px;
+	}
+	.tm-pb-contact-message {
+		p,
+		li {
+			font-style: normal;
+			font-size: .7em;
+		}
+	}
+	.tm_pb_contact_submit {
+		margin-top: 13px;
+	}
+}

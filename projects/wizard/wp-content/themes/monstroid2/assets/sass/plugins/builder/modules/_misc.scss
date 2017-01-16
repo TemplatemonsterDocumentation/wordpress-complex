@@ -1,0 +1,36 @@
+// Row
+#tm_builder_outer_content .row.tm_pb_row_inner {
+	width: auto;
+}
+
+#tm_builder_outer_content .row.row-center {
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+// Column
+#tm_builder_outer_content .tm_pb_column.column_middle {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.row {
+	&.tm_pb_col_padding_reset {
+		margin-left: 0;
+		margin-right: 0;
+		>.tm_pb_column {
+			padding-right: 0;
+			padding-left: 0;
+		}
+	}
+	&.tm_pb_row_fullwidth {}
+}
+
+// Parallax
+#tm_builder_outer_content .tm_pb_section_parallax .tm_pb_parallax_css,
+#tm_builder_outer_content .tm_pb_slides .tm_parallax_bg.tm_pb_parallax_css {
+	@include media-breakpoint-between(xs, lg) {
+		background-attachment: scroll;
+	}
+}

@@ -1,0 +1,8 @@
+.tm_pb_builder #tm_builder_outer_content .tm_pb_module.tm_pb_social_media_follow .tm_pb_social_icon a.follow_button {
+	background-color: $regular_accent_color_1;
+	color: $invert_text_color;
+}
+
+.tm_pb_builder #tm_builder_outer_content .tm_pb_module.tm_pb_social_media_follow .tm_pb_social_icon a.follow_button:hover {
+	background-color: $regular_accent_color_2;
+}

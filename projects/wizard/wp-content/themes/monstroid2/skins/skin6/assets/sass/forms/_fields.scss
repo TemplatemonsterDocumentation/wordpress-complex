@@ -1,0 +1,30 @@
+input[type='text'],
+input[type='email'],
+input[type='url'],
+input[type='password'],
+input[type='search'],
+input[type='number'],
+input[type='tel'],
+input[type='range'],
+input[type='date'],
+input[type='month'],
+input[type='week'],
+input[type='time'],
+input[type='datetime'],
+input[type='datetime-local'],
+input[type='color'],
+select,
+textarea {
+	@include border-radius;
+	@include font-size(1.25);
+	padding: $input__indents_y $input__indents_x;
+
+	i + &.comment-form__field,
+	.wpcf7 i + .wpcf7-form-control-wrap > & {
+		padding-left: $input__indents_x + 35px;
+	}
+}
+textarea {
+	height: 225px;
+	min-height: 225px;
+}

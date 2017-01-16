@@ -1,0 +1,8 @@
+.site-footer.default {
+	.site-info {
+		.footer-logo ~ .site-info__bottom,
+		.footer-menu ~ .site-info__bottom {
+			border-color: rgba( $color__background-hr, .35 );
+		}
+	}
+}

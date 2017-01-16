@@ -1,0 +1,20 @@
+.widget-image-grid {
+	&__title {
+		@include font-size(1);
+		max-width: 90%;
+	}
+	&__content {
+		&::before {
+			opacity: .8;
+		}
+	}
+	&__terms,
+	&__title {
+		a:hover {
+			&,
+			#tm_builder_outer_content & {
+				text-decoration: underline;
+			}
+		}
+	}
+}

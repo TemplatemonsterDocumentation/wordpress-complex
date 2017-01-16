@@ -1,0 +1,34 @@
+#tm_builder_outer_content {
+
+	.tm_pb_blog.tm_pb_module {
+
+		.tm_pb_post {
+			&_meta {
+				> * {
+					&:after {
+						content: none;
+					}
+				}
+			}
+			.tm_link_content {
+				.tm_link_main_url {
+					@include font-size(1.25);
+				}
+			}
+
+			.tm_quote_content {
+				padding: 30px 20px;
+				@include media-breakpoint-up(xl) {
+					padding: 40px 40px 60px;
+				}
+
+				blockquote {
+					max-width: inherit;
+					cite {
+						font-weight: 400;
+					}
+				}
+			}
+		}
+	}
+}

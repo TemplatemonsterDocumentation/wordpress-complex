@@ -1,0 +1,15 @@
+.main-navigation {
+	.sub-menu {
+		a {
+			font-size: 1em;
+			font-weight: normal;
+		}
+		> li {
+			> a {
+				@include media-breakpoint-up(md) {
+					padding: 3px 30px;
+				}
+			}
+		}
+	}
+}

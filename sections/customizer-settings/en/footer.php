@@ -183,10 +183,9 @@
 </ul>
 
 
+<?php if ($project == 'monstroid_2') { ?>
 <h5>Footer Contact Block</h5>
 <ul class="marked-list">
-
-<?php if ($project == 'monstroid_2') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show footer conract block</dt>

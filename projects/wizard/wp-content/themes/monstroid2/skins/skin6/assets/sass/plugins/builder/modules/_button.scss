@@ -1,0 +1,44 @@
+#tm_builder_outer_content {
+
+	.tm_pb_module,
+	.tm_pb_module.tm_pb_promo {
+		.tm_pb_button {
+			@include btn-skin();
+
+			&:hover{
+				padding: $button__indents !important;
+				box-shadow: 0 0 0 0;
+				transform: translateX(2px) translateY(3px) translateZ(0);
+			}
+			&:after {
+				@include font-size(1);
+			}
+
+			&.tm_pb_custom_button_icon {
+				&.tm_pb_icon_right,
+				&.tm_pb_icon_left{
+					padding: $button__indents_y $button__indents_x*1.5;
+					&:hover {
+						padding: $button__indents_y $button__indents_x*1.5 !important;
+					}
+				}
+				&.tm_pb_icon_left:after{
+					left: $button__indents_x/2;
+				}
+				&.tm_pb_icon_right:after {
+					margin-left: 5px;
+				}
+			}
+		}
+	}
+
+	.invert .tm_pb_module,
+	.invert .tm_pb_module.tm_pb_promo {
+		.tm_pb_button {
+
+			&:hover{
+				box-shadow: 0 0 0 0;
+			}
+		}
+	}
+}

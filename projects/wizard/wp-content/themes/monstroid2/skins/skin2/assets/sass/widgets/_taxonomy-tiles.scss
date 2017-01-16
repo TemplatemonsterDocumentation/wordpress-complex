@@ -1,0 +1,10 @@
+.widget-taxonomy-tiles {
+	&__title {
+		a:hover {
+			&,
+			#tm_builder_outer_content & {
+				text-decoration: underline;
+			}
+		}
+	}
+}

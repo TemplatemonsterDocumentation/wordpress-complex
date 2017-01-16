@@ -1,0 +1,27 @@
+.widget {
+	margin: 0;
+
+	& + & {
+		margin-top: 60px;
+	}
+	.position-one-right-sidebar .sidebar &,
+	.position-one-left-sidebar .sidebar & {
+		margin-top: 0;
+		margin-bottom: 60px;
+	}
+	&, & + .widget {
+		border: none;
+		padding: 0;
+	}
+	&.widget_categories,
+	&.widget_recent_entries,
+	&.widget_archive,
+	&.widget_recent_comments,
+	&.widget_meta,
+	&.widget_tag_cloud,
+	&.widget_nav_menu,
+	&.widget_pages {
+		padding: 35px 40px 32px;
+		border: 1px solid $color__background-hr;
+	}
+}

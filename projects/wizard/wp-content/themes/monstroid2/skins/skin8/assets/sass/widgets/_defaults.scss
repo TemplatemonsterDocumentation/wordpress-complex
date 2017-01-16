@@ -1,0 +1,101 @@
+.sidebar .widget {
+	background: $color__background-input;
+	padding: 20px 30px;
+	margin-bottom: 50px;
+	font-weight: normal;
+
+	& + .widget {
+		border: none;
+		padding-top: 20px;
+	}
+
+}
+
+.widget-title {
+	margin-bottom: 12px;
+}
+
+.widget ul li + li,
+.widget ul li > ul li,
+.widget ul li > ol li {
+	margin-top: 7px;
+}
+
+.sidebar .widget,
+.tm_pb_column_1_4 .widget,
+.tm_pb_column_1_3 .widget,
+.footer-area:not(.footer-area--fullwidth) .widget {
+	@include font-size(0.8125);
+}
+
+.widget_recent_comments ul li {
+	font-style: normal;
+	@include font-size(0.8125);
+}
+
+.widget_recent_comments ul li .comment-author-link ~ a {
+	@include font-size(0.8125);
+}
+
+.widget_recent_entries ul li .post-date {
+	font-style: normal;
+	@include font-size(0.8125);
+}
+
+/*Widget Search*/
+.widget_search {
+	input {
+		background: $color__search_background-input;
+		padding-right: 45px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		height: 45px;
+		line-height: 2.2;
+	}
+
+	.widget-title {
+		margin-bottom: 20px;
+	}
+}
+
+/*Widget Tag Cloud*/
+.tagcloud a {
+	border: none;
+	padding: 0;
+}
+
+/*Widget Calendar*/
+#tm_builder_outer_content .tm_pb_widget_area .widget_calendar,
+.widget_calendar {
+	table thead th{
+		text-align: center;
+		padding: 0;
+		border-radius: 3px;
+	}
+	@media (min-width: 1200px) {
+		table tbody td{
+			border-radius: 50%;
+			line-height: 39px;
+
+			a{
+				border-radius: 50%;
+				border-width: 2px;
+			}
+		}
+
+		table thead th{
+			border-radius: 50%;
+			padding: 0;
+			line-height: 3;
+		}
+
+		tfoot{
+			display: none;
+		}
+
+		caption{
+			@include font-size(1.125);
+		}
+	}
+}
+

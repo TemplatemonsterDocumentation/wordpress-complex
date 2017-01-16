@@ -1,0 +1,23 @@
+ul:not([class]) {
+	.entry-content & {
+		li{
+			& + li,
+			> ul li,
+			> ol li {
+				margin-top: 2px;
+			}
+		}
+	}
+}
+
+ol {
+	.entry-content & {
+		li {
+			& + li,
+			> ul li,
+			> ol li {
+				margin-top: 2px;
+			}
+		}
+	}
+}

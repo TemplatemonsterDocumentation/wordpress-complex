@@ -1,0 +1,48 @@
+.site-content blockquote,
+.post-format-quote,
+#tm_builder_outer_content .post-featured-content.post-quote .post-format-quote,
+.single .format-quote .entry-content blockquote {
+	position: relative;
+	display: block;
+	padding: 94px 38px 32px;
+	@include font-size(24/16);
+	line-height: 1.375;
+	font-weight: 700;
+	text-align: left;
+
+	cite {
+		@include font-size(14/16);
+		display: block;
+		margin-top: 12px;
+	}
+	&:before {
+		content: "\201c";
+		@include font-size(100/16);
+		font-family: "Times New Roman";
+		position: absolute;
+		display: block;
+		top: 50px;
+		left: 37px;
+	}
+}
+
+/* title line */
+.tm_pb_slide_title {
+	&:before {
+		display: block;
+		margin: 0 auto 53px;
+		width: 60px;
+		height: 4px;
+		background-color: $color__background-hr;
+	}
+}
+
+/*--------------------------------------------------------------
+## Lists
+--------------------------------------------------------------*/
+@import "lists";
+
+/*--------------------------------------------------------------
+## ToTop button
+--------------------------------------------------------------*/
+@import "totop-button";

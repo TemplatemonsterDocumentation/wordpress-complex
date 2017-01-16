@@ -1,0 +1,153 @@
+/* Mp-rm */
+.mprm-container {
+
+	&[class*="mprm-taxonomy-items-"] {
+		.mprm-header.with-image {
+
+			.mprm-header-content {
+				.position-fullwidth & {
+					@include media-breakpoint-up(xl) {
+						padding-top: 210px;
+						padding-bottom: 210px;
+					}
+				}
+			}
+		}
+	}
+
+	&.mprm-shortcode-items,
+	&[class*="mprm-taxonomy-items-"] .mp-menu-item {
+		.mprm {
+			&-excerpt,
+			&-proportions,
+			&-ingredients {
+				@include font-size(1.25);
+				font-style: italic;
+			}
+
+			&-tags {
+				a {
+					font-size: 20px;
+					span {
+						line-height: 17px;
+						margin-top: -7px;
+					}
+					&:hover {
+						transform: translate(2px, 2px);
+					}
+				}
+			}
+		}
+	}
+
+	&.mprm-shortcode-categories {
+		&.mprm-view-list {
+			.mprm-title {
+				position: relative;
+				padding-bottom: 25px;
+				@include media-breakpoint-up(lg) {
+					margin-bottom: 50px;
+					padding-bottom: 50px;
+				}
+				&:before,
+				&:after {
+					content: '';
+					position: absolute;
+					left: 0;
+					width: 40px;
+					bottom: 0;
+					height: 1px;
+					background: $color__border-table;
+				}
+				&:before {
+					height: 3px;
+					bottom: 4px;
+				}
+			}
+			&.mprm-columns-count-1 {
+				.mprm-title {
+					&:before,
+					&:after {
+						left: 50%;
+						transform: translateX(-50%);
+					}
+				}
+				.mprm-btn {
+					@include media-breakpoint-up(lg) {
+						margin-top: 30px;
+					}
+				}
+			}
+		}
+	}
+}
+
+// FIX remove wp css native class 'hentry' mp-rm plugin.
+.posts-list__item.mp_menu_item {
+
+	.posts-list & {
+		margin-bottom: 70px;
+		@include media-breakpoint-up(lg) {
+			margin-bottom: 80px;
+		}
+	}
+
+	.posts-list--default & {
+		margin-bottom: 70px;
+
+		& + .posts-list__item.mp_menu_item {
+			padding-top: 80px;
+		}
+	}
+}
+
+// Single style
+.single {
+	.mprm-main-wrapper.mp_menu_item {
+		.content-wrapper {
+
+			.mprm-sidebar {
+				.mprm-title {
+					margin-bottom: 15px;
+				}
+			}
+		}
+	}
+}
+
+// Buy button
+.mprm_menu_item_buy_button {
+
+	.mprm-submit {
+		&.mprm-inherit:not(.plain) {
+			@include btn-skin;
+			@include btn-skin-hover;
+		}
+	}
+
+	.mprm-notice {
+		@include font-size(1);
+		@include border-radius;
+	}
+}
+
+/* mprm_cart_widget */
+.widget_mprm_cart_widget {
+	.mprm-cart-item {
+		&.mprm_checkout a {
+			@include btn-skin;
+			@include btn-skin-hover;
+		}
+	}
+}
+
+#mprm_checkout_wrap {
+	label.mprm-label {
+		@include font-size(1);
+	}
+}
+
+#mprm_purchase_submit .mprm-submit.mprm-inherit,
+#mprm-next-submit-wrap .mprm-submit.mprm-inherit {
+	@include btn-skin-hover;
+}

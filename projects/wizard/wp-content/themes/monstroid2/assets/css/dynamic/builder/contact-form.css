@@ -1,0 +1,22 @@
+#tm_builder_outer_content .tm_pb_contact_form .tm_pb_contact_form_label {
+	color: $regular_accent_color_2;
+}
+
+#tm_builder_outer_content .tm_pb_contact_form .tm_pb_contact_main_title {
+	font-style: $h3_font_style;
+	font-weight: $h3_font_weight;
+	font-size: @font_size($h3_font_size, multiple, ceil, 0.8)px;
+	line-height: $h3_line_height;
+	font-family: @font_family( $h3_font_family );
+	letter-spacing: $h3_letter_spacing{em};
+	color: $regular_h3_color;
+}
+
+@media (min-width: 992px) {
+	#tm_builder_outer_content .tm_pb_contact_form .tm_pb_contact_main_title { font-size: $h3_font_size{px}; }
+}
+
+#tm_builder_outer_content .tm_pb_contact_form .tm-pb-contact-message,
+#tm_builder_outer_content .tm_pb_contact_form .tm-pb-contact-message ul li:before{
+	color: $invert_text_color;
+}

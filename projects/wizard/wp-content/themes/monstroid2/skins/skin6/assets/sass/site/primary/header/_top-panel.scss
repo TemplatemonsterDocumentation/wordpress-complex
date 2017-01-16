@@ -1,0 +1,5 @@
+.top-panel {
+	&__message {
+		@include font-size(1);
+	}
+}

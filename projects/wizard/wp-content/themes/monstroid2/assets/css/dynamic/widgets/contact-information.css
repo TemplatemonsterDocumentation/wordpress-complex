@@ -1,0 +1,8 @@
+/* #Contact-information*/
+.contact-information-widget .icon {
+	color: $regular_accent_color_1;
+}
+
+.invert .contact-information-widget .icon {
+	color: $invert_accent_color_1;
+}

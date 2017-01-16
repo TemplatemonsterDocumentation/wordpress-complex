@@ -13,11 +13,11 @@
 -->
 <?php if ($project != 'addison') { ?>
 
-<?php if ($project != 'roadway' && $project != 'tradex' && $project != 'italica' && $project != 'gutenberg' && $project != 'transit' && $project != 'jericho' && $project != 'monstroid_2') { ?>
+<?php if ($project != 'roadway' && $project != 'tradex' && $project != 'italica' && $project != 'gutenberg' && $project != 'transit' && $project != 'jericho' && $project != 'monstroid_2' && $project != 'stylefactory') { ?>
 <h5>Layout type</h5>
 <?php } ?>
 
-<?php if ($project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gutenberg' or $project == 'transit' or $project == 'jericho' or $project == 'monstroid_2') { ?>
+<?php if ($project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gutenberg' or $project == 'transit' or $project == 'jericho' or $project == 'monstroid_2' or $project == 'stylefactory') { ?>
 <h5>Header type</h5>
 <?php } ?>
 
@@ -42,7 +42,7 @@
 
 </ul>
 
-    <?php if ($project != 'mohican' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'walden' && $project != 'chefplaza') { ?>
+    <?php if ($project != 'mohican' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'walden' && $project != 'chefplaza' && $project != 'hardwire') { ?>
         <h5>Content type</h5>
 
         <ul class="marked-list">
@@ -92,7 +92,7 @@
 <?php } ?>
 
 
-<?php if ($project != 'chefplaza') { ?>
+<?php if ($project != 'chefplaza' && $project != 'stylefactory' && $project != 'hardwire' ) { ?>
 <h5>Container Background Color (px)</h5>
 
 <p>Here you can select the background color. </p>

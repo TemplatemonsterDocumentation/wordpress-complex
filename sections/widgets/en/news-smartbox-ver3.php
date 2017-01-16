@@ -55,6 +55,8 @@
             </dd>
         </dl>
     </li>
+
+<?php if ($project != 'monstroid_2') { ?>
     <li>
         <dl class="inline-term">
             <dt>Title words trimmed count</dt>
@@ -63,6 +65,19 @@
             </dd>
         </dl>
     </li>
+<?php } ?>
+
+<?php if ($project == 'monstroid_2') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Title chars trimmed count</dt>
+            <dd>
+                This property defines the chars limit in the title area
+            </dd>
+        </dl>
+    </li>
+<?php } ?>
+
     <li>
         <dl class="inline-term">
             <dt>Content words trimmed count</dt>
@@ -71,6 +86,18 @@
             </dd>
         </dl>
     </li>
+
+<?php if ($project == 'monstroid_2') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Display current navigation title</dt>
+            <dd>
+                Here you can define whether to display the current navigation title or not
+            </dd>
+        </dl>
+    </li>
+<?php } ?>
+
     <li>
         <dl class="inline-term">
             <dt>Display date</dt>
@@ -95,4 +122,23 @@
             </dd>
         </dl>
     </li>
+
+<?php if ($project == 'monstroid_2') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Display more button</dt>
+            <dd>
+                Here you can define whether to display more button or not
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>More button text</dt>
+            <dd>
+                Here you can set more button text
+            </dd>
+        </dl>
+    </li>
+<?php } ?>
 </ul>

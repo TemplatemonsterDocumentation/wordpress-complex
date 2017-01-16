@@ -1,0 +1,1237 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-12-22 15:28+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_attr__;esc_html__;esc_attr_e;__;_e;_n;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/import/export.php:1 admin/import/export.php:5
+msgid "Export"
+msgstr ""
+
+#: admin/import/greet.php:2
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: admin/import/greet.php:3
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: admin/import/header.php:2
+msgid "Import / Export Timetable Plugin Data"
+msgstr ""
+
+#: admin/import/import.php:1
+msgid "Import"
+msgstr ""
+
+#: classes/class-core.php:295 classes/class-core.php:307
+#: classes/class-core.php:311 classes/class-shortcode.php:222
+msgid "Event categories"
+msgstr ""
+
+#: classes/class-core.php:296
+msgid "Event category"
+msgstr ""
+
+#: classes/class-core.php:297 classes/class-core.php:298
+msgid "Add New Event category"
+msgstr ""
+
+#: classes/class-core.php:299
+msgid "Edit Event category"
+msgstr ""
+
+#: classes/class-core.php:300
+msgid "New Event category"
+msgstr ""
+
+#: classes/class-core.php:301
+msgid "All Event categories"
+msgstr ""
+
+#: classes/class-core.php:302
+msgid "View Event category"
+msgstr ""
+
+#: classes/class-core.php:303
+msgid "Search Event category"
+msgstr ""
+
+#: classes/class-core.php:304
+msgid "No Event categories found"
+msgstr ""
+
+#: classes/class-core.php:305
+msgid "No Event categories found in Trash"
+msgstr ""
+
+#: classes/class-core.php:334 classes/class-core.php:346
+#: classes/class-core.php:350
+msgid "Event tags"
+msgstr ""
+
+#: classes/class-core.php:335
+msgid "Event tag"
+msgstr ""
+
+#: classes/class-core.php:336 classes/class-core.php:337
+msgid "Add New Event tag"
+msgstr ""
+
+#: classes/class-core.php:338
+msgid "Edit Event tag"
+msgstr ""
+
+#: classes/class-core.php:339
+msgid "New Event tag"
+msgstr ""
+
+#: classes/class-core.php:340
+msgid "All Event tags"
+msgstr ""
+
+#: classes/class-core.php:341
+msgid "View Event tag"
+msgstr ""
+
+#: classes/class-core.php:342
+msgid "Search Event tag"
+msgstr ""
+
+#: classes/class-core.php:343
+msgid "No Event tags found"
+msgstr ""
+
+#: classes/class-core.php:344
+msgid "No Event tags found in Trash"
+msgstr ""
+
+#: classes/class-core.php:380 classes/class-core.php:392
+#: classes/class-hooks.php:170 classes/class-shortcode.php:218
+msgid "Events"
+msgstr ""
+
+#: classes/class-core.php:381
+msgid "Event"
+msgstr ""
+
+#: classes/class-core.php:382 classes/class-core.php:383
+msgid "Add New Event"
+msgstr ""
+
+#: classes/class-core.php:384
+msgid "Edit Event"
+msgstr ""
+
+#: classes/class-core.php:385
+msgid "New Event"
+msgstr ""
+
+#: classes/class-core.php:386 classes/class-shortcode.php:58
+#: classes/class-shortcode.php:236
+#: templates-functions/action-shortcode-functions.php:27
+#: templates-functions/action-shortcode-functions.php:41
+#: templates-functions/action-shortcode-functions.php:43
+msgid "All Events"
+msgstr ""
+
+#: classes/class-core.php:387
+msgid "View Event"
+msgstr ""
+
+#: classes/class-core.php:388
+msgid "Search Event"
+msgstr ""
+
+#: classes/class-core.php:389
+msgid "No Events found"
+msgstr ""
+
+#: classes/class-core.php:390
+msgid "No Events found in Trash"
+msgstr ""
+
+#: classes/class-core.php:417 classes/class-core.php:429
+#: classes/class-hooks.php:172
+msgid "Columns"
+msgstr ""
+
+#: classes/class-core.php:418 classes/class-shortcode.php:214
+#: templates/events/event-data.php:4
+msgid "Column"
+msgstr ""
+
+#: classes/class-core.php:419 classes/class-core.php:420
+#: templates/events/metabox-event-data.php:19
+msgid "Add New Column"
+msgstr ""
+
+#: classes/class-core.php:421
+msgid "Edit Column"
+msgstr ""
+
+#: classes/class-core.php:422
+msgid "New Column"
+msgstr ""
+
+#: classes/class-core.php:423
+msgid "All Columns"
+msgstr ""
+
+#: classes/class-core.php:424
+msgid "View Column"
+msgstr ""
+
+#: classes/class-core.php:425
+msgid "Search Column"
+msgstr ""
+
+#: classes/class-core.php:426
+msgid "No Columns found"
+msgstr ""
+
+#: classes/class-core.php:427
+msgid "No Columns found in Trash"
+msgstr ""
+
+#: classes/class-hooks.php:59
+msgid "Timetable Sidebar"
+msgstr ""
+
+#: classes/class-hooks.php:61 classes/class-hooks.php:169
+#: classes/class-shortcode.php:315
+msgid "Timetable"
+msgstr ""
+
+#: classes/class-hooks.php:162
+msgid "Import Timetable events, categories, tags and images."
+msgstr ""
+
+#: classes/class-hooks.php:171
+msgid "Add Event"
+msgstr ""
+
+#: classes/class-hooks.php:173
+msgid "Add Column"
+msgstr ""
+
+#: classes/class-hooks.php:174
+msgid "Event Categories"
+msgstr ""
+
+#: classes/class-hooks.php:175
+msgid "Event Tags"
+msgstr ""
+
+#: classes/class-hooks.php:176 classes/modules/class-post.php:32
+msgid "Settings"
+msgstr ""
+
+#: classes/class-hooks.php:177
+msgid "Export / Import"
+msgstr ""
+
+#: classes/class-shortcode.php:226
+msgid "Hour measure"
+msgstr ""
+
+#: classes/class-shortcode.php:227 templates/popup/index.php:66
+msgid "Hour (1h)"
+msgstr ""
+
+#: classes/class-shortcode.php:227 templates/popup/index.php:67
+msgid "Half hour (30min)"
+msgstr ""
+
+#: classes/class-shortcode.php:227 templates/popup/index.php:68
+msgid "Quarter hour (15min)"
+msgstr ""
+
+#: classes/class-shortcode.php:230 templates/popup/index.php:73
+msgid "Filter style"
+msgstr ""
+
+#: classes/class-shortcode.php:231
+msgid "Dropdown list"
+msgstr ""
+
+#: classes/class-shortcode.php:231 templates/popup/index.php:77
+msgid "Tabs"
+msgstr ""
+
+#: classes/class-shortcode.php:235
+msgid "Filter label"
+msgstr ""
+
+#: classes/class-shortcode.php:240
+msgid "Hide 'All Events' view"
+msgstr ""
+
+#: classes/class-shortcode.php:241 classes/class-shortcode.php:246
+#: classes/class-shortcode.php:251 classes/class-shortcode.php:258
+#: classes/class-shortcode.php:264 classes/class-shortcode.php:270
+#: classes/class-shortcode.php:276 classes/class-shortcode.php:282
+#: classes/class-shortcode.php:287 classes/class-shortcode.php:311
+#: templates/events/metabox-event-options.php:45 templates/popup/index.php:92
+#: templates/popup/index.php:101 templates/popup/index.php:111
+#: templates/popup/index.php:119 templates/widgets/gallery-list.php:60
+msgid "No"
+msgstr ""
+
+#: classes/class-shortcode.php:241 classes/class-shortcode.php:246
+#: classes/class-shortcode.php:251 classes/class-shortcode.php:258
+#: classes/class-shortcode.php:264 classes/class-shortcode.php:270
+#: classes/class-shortcode.php:276 classes/class-shortcode.php:282
+#: classes/class-shortcode.php:287 classes/class-shortcode.php:311
+#: templates/events/metabox-event-options.php:46 templates/popup/index.php:93
+#: templates/popup/index.php:102 templates/popup/index.php:110
+#: templates/popup/index.php:120 templates/widgets/gallery-list.php:62
+msgid "Yes"
+msgstr ""
+
+#: classes/class-shortcode.php:245
+msgid "Hide first (hours) column"
+msgstr ""
+
+#: classes/class-shortcode.php:250
+msgid "Hide empty rows"
+msgstr ""
+
+#: classes/class-shortcode.php:256 templates/popup/index.php:40
+#: templates/widgets/gallery-list.php:3
+msgid "Title"
+msgstr ""
+
+#: classes/class-shortcode.php:262 templates/popup/index.php:41
+msgid "Time"
+msgstr ""
+
+#: classes/class-shortcode.php:268 templates/popup/index.php:42
+msgid "Subtitle"
+msgstr ""
+
+#: classes/class-shortcode.php:274 templates/events/event-data.php:7
+#: templates/popup/index.php:43
+msgid "Description"
+msgstr ""
+
+#: classes/class-shortcode.php:280 templates/popup/index.php:44
+msgid "User"
+msgstr ""
+
+#: classes/class-shortcode.php:286
+msgid "Disable event URL"
+msgstr ""
+
+#: classes/class-shortcode.php:291
+msgid "Text align"
+msgstr ""
+
+#: classes/class-shortcode.php:292 templates/popup/index.php:127
+msgid "center"
+msgstr ""
+
+#: classes/class-shortcode.php:292 templates/popup/index.php:128
+msgid "left"
+msgstr ""
+
+#: classes/class-shortcode.php:292 templates/popup/index.php:129
+msgid "right"
+msgstr ""
+
+#: classes/class-shortcode.php:296
+msgid "Id"
+msgstr ""
+
+#: classes/class-shortcode.php:300
+msgid "Row height (in px)"
+msgstr ""
+
+#: classes/class-shortcode.php:305
+msgid "Base Font Size"
+msgstr ""
+
+#: classes/class-shortcode.php:310
+msgid "Responsive"
+msgstr ""
+
+#: classes/controllers/class-controller-settings.php:53
+msgid "Settings saved."
+msgstr ""
+
+#: classes/libs/class-gump.php:450
+#, php-format
+msgid "There is no validation rule for <span class=\"%1$s\">%2$s</span>"
+msgstr ""
+
+#: classes/libs/class-gump.php:453
+#, php-format
+msgid "The <span class=\"%1$s\">%2$s</span> field is required"
+msgstr ""
+
+#: classes/libs/class-gump.php:456
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field is required to be a valid email "
+"address"
+msgstr ""
+
+#: classes/libs/class-gump.php:459
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field needs to be %d or shorter in "
+"length"
+msgstr ""
+
+#: classes/libs/class-gump.php:462
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field needs to be %d or longer in length"
+msgstr ""
+
+#: classes/libs/class-gump.php:465
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field needs to be exactly %d characters "
+"in length"
+msgstr ""
+
+#: classes/libs/class-gump.php:468
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field may only contain alpha "
+"characters(a-z)"
+msgstr ""
+
+#: classes/libs/class-gump.php:471
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field may only contain alpha-numeric "
+"characters"
+msgstr ""
+
+#: classes/libs/class-gump.php:474
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field may only contain alpha characters "
+"&amp; dashes"
+msgstr ""
+
+#: classes/libs/class-gump.php:477
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field may only contain numeric "
+"characters"
+msgstr ""
+
+#: classes/libs/class-gump.php:480
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field may only contain a numeric value"
+msgstr ""
+
+#: classes/libs/class-gump.php:483
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field may only contain a true or false "
+"value"
+msgstr ""
+
+#: classes/libs/class-gump.php:486
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field may only contain a float value"
+msgstr ""
+
+#: classes/libs/class-gump.php:489
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field is required to be a valid URL"
+msgstr ""
+
+#: classes/libs/class-gump.php:492
+#, php-format
+msgid "The <span class=\"%1$s\">%2$s</span> URL does not exist"
+msgstr ""
+
+#: classes/libs/class-gump.php:495
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field needs to contain a valid IP "
+"address"
+msgstr ""
+
+#: classes/libs/class-gump.php:498
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field needs to contain a valid credit "
+"card number"
+msgstr ""
+
+#: classes/libs/class-gump.php:501
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field needs to contain a valid human "
+"name"
+msgstr ""
+
+#: classes/libs/class-gump.php:504
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field needs to contain one of these "
+"values:"
+msgstr ""
+
+#: classes/libs/class-gump.php:507
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field needs contain a value from its "
+"drop down list"
+msgstr ""
+
+#: classes/libs/class-gump.php:510
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field contains a value that is not "
+"accepted"
+msgstr ""
+
+#: classes/libs/class-gump.php:513
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field needs to be a valid street address"
+msgstr ""
+
+#: classes/libs/class-gump.php:516
+#, php-format
+msgid "The <span class=\"%1$s\">%2$s</span> field needs to be a valid date"
+msgstr ""
+
+#: classes/libs/class-gump.php:519
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field needs to be a numeric value, "
+"equal to, or higher than"
+msgstr ""
+
+#: classes/libs/class-gump.php:522
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field needs to be a numeric value, "
+"equal to, or lower than"
+msgstr ""
+
+#: classes/libs/class-gump.php:525
+#, php-format
+msgid "The <span class=\"%1$s\">%2$s</span> field needs to start with"
+msgstr ""
+
+#: classes/libs/class-gump.php:528
+#, php-format
+msgid ""
+"The <span class\"%1$s\">%2$s</span> field can have the following extensions"
+msgstr ""
+
+#: classes/libs/class-gump.php:531
+#, php-format
+msgid "The <span class\"%1$s\">%2$s</span> field is required"
+msgstr ""
+
+#: classes/libs/class-gump.php:534
+msgid "The <span class=\"%1$s\">%2$s</span> field does not equal %d field"
+msgstr ""
+
+#: classes/libs/class-gump.php:537
+#, php-format
+msgid ""
+"The <span class=\"%1$s\">%2$s</span> field needs to have an age greater than "
+"or equal to"
+msgstr ""
+
+#: classes/libs/class-gump.php:540
+#, php-format
+msgid "The <span class=\"%1$s\">%2$s</span> field is invalid"
+msgstr ""
+
+#: classes/libs/class-gump.php:581
+msgid "There is no validation rule for"
+msgstr ""
+
+#: classes/libs/class-gump.php:584
+#, php-format
+msgid "The %s field is required"
+msgstr ""
+
+#: classes/libs/class-gump.php:587
+#, php-format
+msgid "The %s field is required to be a valid email address"
+msgstr ""
+
+#: classes/libs/class-gump.php:590
+#, php-format
+msgid "The %s field needs to be %d or shorter in length"
+msgstr ""
+
+#: classes/libs/class-gump.php:593
+#, php-format
+msgid "The %s field needs to be %d or longer in length"
+msgstr ""
+
+#: classes/libs/class-gump.php:596
+#, php-format
+msgid "The %s field needs to be exactly %d characters in length"
+msgstr ""
+
+#: classes/libs/class-gump.php:599
+#, php-format
+msgid "The %s field may only contain alpha characters(a-z)"
+msgstr ""
+
+#: classes/libs/class-gump.php:602
+#, php-format
+msgid "The %s field may only contain alpha-numeric characters"
+msgstr ""
+
+#: classes/libs/class-gump.php:605
+#, php-format
+msgid "The %s field may only contain alpha characters &amp; dashes"
+msgstr ""
+
+#: classes/libs/class-gump.php:608
+#, php-format
+msgid "The %s field may only contain numeric characters"
+msgstr ""
+
+#: classes/libs/class-gump.php:611
+#, php-format
+msgid "The %s field may only contain a numeric value"
+msgstr ""
+
+#: classes/libs/class-gump.php:614
+#, php-format
+msgid "The %s field may only contain a true or false value"
+msgstr ""
+
+#: classes/libs/class-gump.php:617
+#, php-format
+msgid "The %s field may only contain a float value"
+msgstr ""
+
+#: classes/libs/class-gump.php:620
+#, php-format
+msgid "The %s field is required to be a valid URL"
+msgstr ""
+
+#: classes/libs/class-gump.php:623
+#, php-format
+msgid "The %s URL does not exist"
+msgstr ""
+
+#: classes/libs/class-gump.php:626
+#, php-format
+msgid "The %s field needs to contain a valid IP address"
+msgstr ""
+
+#: classes/libs/class-gump.php:629
+#, php-format
+msgid "The %s field needs to contain a valid credit card number"
+msgstr ""
+
+#: classes/libs/class-gump.php:632
+#, php-format
+msgid "The %s field needs to contain a valid human name"
+msgstr ""
+
+#: classes/libs/class-gump.php:635
+#, php-format
+msgid "The %s field needs to contain one of these values:"
+msgstr ""
+
+#: classes/libs/class-gump.php:638
+#, php-format
+msgid "The %s field needs to be a valid street address"
+msgstr ""
+
+#: classes/libs/class-gump.php:641
+#, php-format
+msgid "The %s field needs to be a valid date"
+msgstr ""
+
+#: classes/libs/class-gump.php:644
+#, php-format
+msgid "The %s field needs to be a numeric value, equal to, or higher than %d"
+msgstr ""
+
+#: classes/libs/class-gump.php:647
+#, php-format
+msgid "The %s field needs to be a numeric value, equal to, or lower than %d"
+msgstr ""
+
+#: classes/libs/class-gump.php:650
+#, php-format
+msgid "The %s field needs to have an age greater than or equal to %d"
+msgstr ""
+
+#: classes/libs/class-gump.php:653
+#, php-format
+msgid "The %s field is invalid"
+msgstr ""
+
+#: classes/libs/parsers.php:44 classes/libs/parsers.php:74
+#: classes/libs/parsers.php:82
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: classes/libs/parsers.php:45
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: classes/libs/parsers.php:86 classes/libs/parsers.php:91
+#: classes/libs/parsers.php:304 classes/libs/parsers.php:565
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: classes/models/class-column.php:36
+msgid "Timeslots"
+msgstr ""
+
+#: classes/models/class-events.php:166
+msgid "Tags"
+msgstr ""
+
+#: classes/models/class-events.php:167
+msgid "Categories"
+msgstr ""
+
+#: classes/models/class-import.php:125
+msgid "Assign Authors"
+msgstr ""
+
+#: classes/models/class-import.php:126
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: classes/models/class-import.php:128
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: classes/models/class-import.php:138
+msgid "Import Attachments"
+msgstr ""
+
+#: classes/models/class-import.php:141
+msgid "Download and import file attachments"
+msgstr ""
+
+#: classes/models/class-import.php:145
+msgid "Submit"
+msgstr ""
+
+#: classes/models/class-import.php:158
+msgid "Import author:"
+msgstr ""
+
+#: classes/models/class-import.php:169
+msgid "or create new user with login name:"
+msgstr ""
+
+#: classes/models/class-import.php:172
+msgid "as a new user:"
+msgstr ""
+
+#: classes/models/class-import.php:180
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: classes/models/class-import.php:182
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: classes/models/class-import.php:183
+#: templates/column/metabox-column-options.php:18
+msgid "- Select -"
+msgstr ""
+
+#: classes/models/class-import.php:269
+msgid "All done."
+msgstr ""
+
+#: classes/models/class-import.php:269
+msgid "Have fun!"
+msgstr ""
+
+#: classes/models/class-import.php:270
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: classes/models/class-import.php:286
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: classes/models/class-import.php:299
+msgid "Invalid file type"
+msgstr ""
+
+#: classes/models/class-import.php:379
+msgid "Remote server did not respond"
+msgstr ""
+
+#: classes/models/class-import.php:385
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: classes/models/class-import.php:394
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: classes/models/class-import.php:399
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: classes/models/class-import.php:405
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: classes/models/class-import.php:422 classes/models/class-import.php:426
+#: classes/models/class-import.php:436
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: classes/models/class-import.php:427
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: classes/models/class-import.php:444
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: classes/models/class-import.php:501
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: classes/models/class-import.php:558
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: classes/models/class-import.php:609 classes/models/class-import.php:766
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: classes/models/class-import.php:656
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: classes/models/class-import.php:673
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: classes/models/class-import.php:732
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: classes/modules/class-post.php:31
+msgid "Time Slots"
+msgstr ""
+
+#: classes/modules/class-post.php:33
+msgid "Column Type"
+msgstr ""
+
+#: classes/widgets/class-mp-timetable-widget.php:22
+msgid "Display upcoming events."
+msgstr ""
+
+#: classes/widgets/class-mp-timetable-widget.php:24
+msgid "Timetable Events"
+msgstr ""
+
+#: templates-functions/actions-mp-event-functions.php:29
+#: templates/theme/event-timeslots.php:7
+#, php-format
+msgid "Event Timeslots (%s)"
+msgstr ""
+
+#: templates/column/metabox-column-options.php:9
+msgid "Simple Column"
+msgstr ""
+
+#: templates/column/metabox-column-options.php:15
+msgid "Day"
+msgstr ""
+
+#: templates/column/metabox-column-options.php:19
+msgid "Sunday"
+msgstr ""
+
+#: templates/column/metabox-column-options.php:20
+msgid "Monday"
+msgstr ""
+
+#: templates/column/metabox-column-options.php:21
+msgid "Tuesday"
+msgstr ""
+
+#: templates/column/metabox-column-options.php:22
+msgid "Wednesday"
+msgstr ""
+
+#: templates/column/metabox-column-options.php:23
+msgid "Thursday"
+msgstr ""
+
+#: templates/column/metabox-column-options.php:24
+msgid "Friday"
+msgstr ""
+
+#: templates/column/metabox-column-options.php:25
+msgid "Saturday"
+msgstr ""
+
+#: templates/column/metabox-column-options.php:32
+msgid "Date"
+msgstr ""
+
+#: templates/events/event-data.php:5
+msgid "Start"
+msgstr ""
+
+#: templates/events/event-data.php:6
+msgid "End"
+msgstr ""
+
+#: templates/events/event-data.php:8
+msgid "Event Head"
+msgstr ""
+
+#: templates/events/event-data.php:9
+msgid "Actions"
+msgstr ""
+
+#: templates/events/event-data.php:26
+msgid "Edit"
+msgstr ""
+
+#: templates/events/event-data.php:27
+msgid "Delete"
+msgstr ""
+
+#: templates/events/metabox-event-data.php:10
+msgid "Column:"
+msgstr ""
+
+#: templates/events/metabox-event-data.php:22
+#, php-format
+msgid "No columns found. <a href=\"%s\">Create at least one column first.</a>"
+msgstr ""
+
+#: templates/events/metabox-event-data.php:28
+msgid "Start Time:"
+msgstr ""
+
+#: templates/events/metabox-event-data.php:31
+#: templates/events/metabox-event-data.php:38
+msgid "hh:mm"
+msgstr ""
+
+#: templates/events/metabox-event-data.php:35
+msgid "End Time:"
+msgstr ""
+
+#: templates/events/metabox-event-data.php:42
+msgid "Description:"
+msgstr ""
+
+#: templates/events/metabox-event-data.php:46
+msgid "Event Head:"
+msgstr ""
+
+#: templates/events/metabox-event-data.php:54
+msgid "none"
+msgstr ""
+
+#: templates/events/metabox-event-data.php:77
+msgid "Add Time Slot"
+msgstr ""
+
+#: templates/events/metabox-event-options.php:4
+msgid "Event Subtitle:"
+msgstr ""
+
+#: templates/events/metabox-event-options.php:8
+msgid "Background Color:"
+msgstr ""
+
+#: templates/events/metabox-event-options.php:15
+msgid "Background Hover Color:"
+msgstr ""
+
+#: templates/events/metabox-event-options.php:22
+msgid "Text Color:"
+msgstr ""
+
+#: templates/events/metabox-event-options.php:29
+msgid "Text Hover Color:"
+msgstr ""
+
+#: templates/events/metabox-event-options.php:36
+msgid "Custom Event URL:"
+msgstr ""
+
+#: templates/events/metabox-event-options.php:42
+msgid "Disable link to this event:"
+msgstr ""
+
+#: templates/popup/index.php:5
+msgid "<b>Columns</b> for displaying in timetable"
+msgstr ""
+
+#: templates/popup/index.php:12 templates/popup/index.php:23
+#: templates/popup/index.php:34
+msgid "In order to display multiple points hold ctrl/cmd button."
+msgstr ""
+
+#: templates/popup/index.php:16
+msgid "Specific <b>events</b> for displaying in timetable"
+msgstr ""
+
+#: templates/popup/index.php:27
+msgid "Event <b>categories</b> for displaying in timetable"
+msgstr ""
+
+#: templates/popup/index.php:38
+msgid "Fields to display:"
+msgstr ""
+
+#: templates/popup/index.php:45
+msgid ""
+"Check the event parameter(s) to be displayed for a certain event in the "
+"timetable."
+msgstr ""
+
+#: templates/popup/index.php:49
+msgid "Block height in pixels"
+msgstr ""
+
+#: templates/popup/index.php:52
+msgid "Set height of the block"
+msgstr ""
+
+#: templates/popup/index.php:56
+msgid "Base font size"
+msgstr ""
+
+#: templates/popup/index.php:59
+msgid "Base font size for the table. Example 12px, 2em, 80%."
+msgstr ""
+
+#: templates/popup/index.php:63
+msgid "Time frame for event"
+msgstr ""
+
+#: templates/popup/index.php:76
+msgid "Dropdown"
+msgstr ""
+
+#: templates/popup/index.php:82
+msgid "Filter title to display all events"
+msgstr ""
+
+#: templates/popup/index.php:88
+msgid "Hide 'All Events' option"
+msgstr ""
+
+#: templates/popup/index.php:98
+msgid "Hide column with hours"
+msgstr ""
+
+#: templates/popup/index.php:107
+msgid "Do not display empty rows"
+msgstr ""
+
+#: templates/popup/index.php:116
+msgid "Disable the event link"
+msgstr ""
+
+#: templates/popup/index.php:125
+msgid "Text alignment in event blocks"
+msgstr ""
+
+#: templates/popup/index.php:134
+msgid "Unique ID"
+msgstr ""
+
+#: templates/popup/index.php:137
+msgid ""
+"If you use more than one table on a page specify the unique ID for a "
+"timetable. It is usually all lowercase and contains only letters, numbers, "
+"and hyphens."
+msgstr ""
+
+#: templates/popup/index.php:141
+msgid "Mobile behavior"
+msgstr ""
+
+#: templates/popup/index.php:144
+msgid "List"
+msgstr ""
+
+#: templates/popup/index.php:145
+msgid "Table"
+msgstr ""
+
+#: templates/popup/index.php:147
+msgid ""
+"Tick \"List\" to display events in a list view on mobile devices. Tick "
+"\"Table\" to display events in a table."
+msgstr ""
+
+#: templates/popup/index.php:153
+msgid "Add Timetable"
+msgstr ""
+
+#: templates/settings/general.php:1
+msgid "General Settings"
+msgstr ""
+
+#: templates/settings/general.php:8
+msgid "Template Mode"
+msgstr ""
+
+#: templates/settings/general.php:12
+msgid "Theme Mode"
+msgstr ""
+
+#: templates/settings/general.php:13
+msgid "Developer Mode"
+msgstr ""
+
+#: templates/settings/general.php:15
+msgid ""
+"Choose Theme Mode to display the content with the styles of your theme. "
+"Choose Developer Mode to control appearance of the content with custom page "
+"templates, actions and filters."
+msgstr ""
+
+#: templates/settings/general.php:15
+msgid ""
+"This option can't be changed if your theme is initially integrated with the "
+"plugin."
+msgstr ""
+
+#: templates/settings/general.php:20
+msgid "Save"
+msgstr ""
+
+#: templates/shortcodes/empty-search-events.php:1
+#: templates/theme/widget-upcoming-view.php:54
+#: templates/widgets/widget-view.php:91
+msgid "no events found"
+msgstr ""
+
+#: templates/templates-actions/action-sidebar.php:8
+#: templates/widgets/gallery-list.php:14
+msgid "Today upcoming events"
+msgstr ""
+
+#: templates/templates-actions/action-sidebar.php:13
+#: templates/widgets/gallery-list.php:16
+msgid "All upcoming events"
+msgstr ""
+
+#: templates/widgets/gallery-list.php:10
+msgid "Events to display"
+msgstr ""
+
+#: templates/widgets/gallery-list.php:18
+msgid "Ongoing events"
+msgstr ""
+
+#: templates/widgets/gallery-list.php:23
+msgid "Input number of days"
+msgstr ""
+
+#: templates/widgets/gallery-list.php:28
+msgid "day"
+msgstr ""
+
+#: templates/widgets/gallery-list.php:32
+msgid "Event categories. Leave blank to display all."
+msgstr ""
+
+#: templates/widgets/gallery-list.php:49
+msgid "Number of events to display"
+msgstr ""
+
+#: templates/widgets/gallery-list.php:56
+msgid "Disable event link"
+msgstr ""
+
+#: templates/widgets/gallery-list.php:67
+msgid "Custom link for events"
+msgstr ""
+
+#: templates/widgets/gallery-list.php:75
+msgid "Event background color"
+msgstr ""
+
+#: templates/widgets/gallery-list.php:85
+msgid "Event background color on hover"
+msgstr ""
+
+#: templates/widgets/gallery-list.php:95
+msgid "Event text color"
+msgstr ""
+
+#: templates/widgets/gallery-list.php:105
+msgid "Event text color on hover"
+msgstr ""
+
+#: templates/widgets/gallery-list.php:115
+msgid "Event border color"
+msgstr ""
+
+#: templates/widgets/gallery-list.php:125
+msgid "Event border color on hover"
+msgstr ""

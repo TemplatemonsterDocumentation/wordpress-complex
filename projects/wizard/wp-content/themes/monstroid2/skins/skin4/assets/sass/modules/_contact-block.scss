@@ -1,0 +1,14 @@
+.contact-block {
+	&--footer {
+		.contact-block__inner {
+			display: block;
+			margin: 0;
+		}
+		.contact-block__item {
+			border: none;
+		}
+	}
+	&--footer &__item {
+		padding: 0 0 3px;
+	}
+}

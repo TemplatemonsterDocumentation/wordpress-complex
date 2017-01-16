@@ -1,0 +1,18 @@
+.site-footer.style-2 {
+	.site-info {
+
+		> * + *{
+			margin-top: 50px;
+		}
+
+		> * + .social-list{
+			margin: 45px 0;
+		}
+
+		> * + .footer-copyright{
+			@include media-breakpoint-up(lg) {
+				margin: 125px 0 0;
+			}
+		}
+	}
+}

@@ -1,0 +1,15 @@
+.swiper,
+.swiper-container.swiper-container-horizontal .swiper {
+	&-button-next {
+		right: 16px;
+		.widget-carousel & {
+			right: 0;
+		}
+	}
+	&-button-prev {
+		left: 16px;
+		.widget-carousel & {
+			left: 0;
+		}
+	}
+}

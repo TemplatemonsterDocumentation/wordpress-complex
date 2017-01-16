@@ -1,0 +1,16 @@
+#tm_builder_outer_content .tm_pb_post_slider .post-meta {
+	font-style: $meta_font_style;
+	font-weight: $meta_font_weight;
+	font-size: $meta_font_size{px};
+	line-height: $meta_line_height;
+	font-family: @font_family( $meta_font_family );
+	letter-spacing: $meta_letter_spacing{em};
+}
+
+#tm_builder_outer_content .tm_pb_post_slider.tm_pb_bg_layout_light .tm_pb_slide_description .post-meta a {
+	color: $regular_link_color !important;
+}
+
+#tm_builder_outer_content .tm_pb_post_slider.tm_pb_bg_layout_light .tm_pb_slide_description .post-meta a:hover {
+	color: $regular_link_hover_color !important;
+}

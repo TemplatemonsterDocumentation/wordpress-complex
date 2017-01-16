@@ -1,0 +1,19 @@
+.widget-about-author {
+	text-align: center;
+
+	&.widget {
+		padding: 40px 35px;
+		border: none;
+	}
+}
+.about-author {
+	&_avatar {
+		margin-bottom: 32px;
+	}
+	&_description {
+		margin-bottom: 35px;
+	}
+	&_btn {
+		@include link-to-btn();
+	}
+}

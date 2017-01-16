@@ -1,0 +1,51 @@
+#tm_builder_outer_content {
+	.tm_pb_module.tm_pb_button,
+	.tm_pb_module .tm_pb_button,
+	.tm_pb_module.tm_pb_promo .tm_pb_button {
+		@include button-style;
+	}
+	.tm_pb_module .tm_pb_button.tm_pb_custom_button_icon.tm_pb_icon_right,
+	.tm_pb_module .tm_pb_button.tm_pb_custom_button_icon.tm_pb_icon_left {
+		@include button-style;
+
+		&.tm_pb_button_icon_alignment_left {
+			padding-left: $button__left-right-indent * 1.57;
+
+			&:after {
+				left: $button__left-right-indent;
+			}
+			&:hover {
+				padding-left: $button__left-right-indent * 1.57 !important;
+			}
+		}
+		&.tm_pb_button_icon_alignment_right {
+			padding-right: $button__left-right-indent * 1.57;
+
+			&:after {
+				left: auto;
+				right: $button__left-right-indent;
+			}
+			&:hover {
+				padding-right: $button__left-right-indent * 1.57 !important;
+			}
+		}
+		&:hover {
+			&:after {
+				color: inherit !important;
+			}
+		}
+	}
+	&.tm_builder_outer_content .tm_pb_module.tm_pb_button,
+	&.tm_builder_outer_content .tm_pb_module .tm_pb_button {
+		background-color: transparent;
+
+		&:hover {
+			background-color: transparent;
+		}
+	}
+	.tm_pb_module .tm_pb_button:hover,
+	.tm_pb_module.tm_pb_promo .tm_pb_button:hover,
+	.tm_pb_module.tm_pb_promo .tm_pb_button:hover {
+		padding: $button__indents !important;
+	}
+}

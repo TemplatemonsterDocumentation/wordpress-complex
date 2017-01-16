@@ -1,0 +1,84 @@
+input[type='text'],
+input[type='email'],
+input[type='url'],
+input[type='password'],
+input[type='search'],
+input[type='number'],
+input[type='tel'],
+input[type='range'],
+input[type='date'],
+input[type='month'],
+input[type='week'],
+input[type='time'],
+input[type='datetime'],
+input[type='datetime-local'],
+input[type='color'],
+select,
+textarea {
+	padding: $input__indents_y $input__indents_x;
+	border: 1px solid $color__background-input;
+	background-color: $color__background-input;
+	@include font-size(14/16);
+	line-height: 1.2143;
+	font-style: italic;
+	transition: .3s;
+
+	i + &.comment-form__field,
+	.wpcf7 i + .wpcf7-form-control-wrap > & {
+		padding-left: $input__indents_x + 35px;
+	}
+
+	@include border-radius;
+	&:focus {
+		outline: 0;
+		border: 1px solid $color__border-input;
+		background-color: transparent;
+	}
+	.invert &:focus,
+	.tm_pb_with_background &:focus {
+		background-color: $color__background-input;
+	}
+}
+
+input[type='text'],
+input[type='email'],
+input[type='url'],
+input[type='password'],
+input[type='search'],
+input[type='number'],
+input[type='tel'],
+input[type='range'],
+input[type='date'],
+input[type='month'],
+input[type='week'],
+input[type='time'],
+input[type='datetime'],
+input[type='datetime-local'],
+input[type='color'],
+textarea {
+	-webkit-appearance: none;
+	appearance: none;
+}
+
+button,
+input[type='submit'],
+input[type='reset'] {
+	&:focus {
+		outline: 0;
+	}
+}
+
+select {
+	border: 1px solid $color__border-input;
+}
+
+textarea {
+	width: 100%;
+	height: 215px;
+	min-height: 215px;
+
+	@include resizable(vertical);
+}
+
+::-moz-placeholder { opacity: 1; }
+:-moz-placeholder { opacity: 1; }

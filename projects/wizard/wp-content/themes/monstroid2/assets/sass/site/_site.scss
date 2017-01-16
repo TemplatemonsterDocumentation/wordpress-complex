@@ -1,0 +1,129 @@
+.site {
+	@include hyphens(auto);
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+
+	&-header,
+	&-content,
+	&-footer {
+		width: 100%;
+	}
+
+	&-content {
+		flex: auto;
+	}
+
+	&-main{
+		margin-bottom: 60px;
+
+		.use-tm-pb-builder &,
+		.woocommerce & {
+			margin-bottom: 0;
+		}
+	}
+
+	&-content_wrap {
+		margin-top: 3em;
+
+		.use-tm-pb-builder.position-fullwidth & {
+			margin-top: 0;
+		}
+
+		.error404 &,
+		.search.search-no-results & {
+			margin-bottom: 3em;
+		}
+
+		.single.single-post-modern & {
+			margin-top: 3em;
+			@include media-breakpoint-up(xl) {
+				margin-top: 7em;
+			}
+		}
+
+		.sidebar {
+			position: relative;
+
+			.use-tm-pb-builder.content-layout-fullwidth.position-one-right-sidebar & {
+				padding-right: $grid-gutter-width;
+				@include media-breakpoint-down(md) {
+					padding-left: $grid-gutter-width;;
+				}
+			}
+			.use-tm-pb-builder.content-layout-fullwidth.position-one-left-sidebar & {
+				padding-left: $grid-gutter-width;
+				@include media-breakpoint-down(md) {
+					padding-right: $grid-gutter-width;;
+				}
+			}
+
+			.position-one-right-sidebar &,
+			.position-one-left-sidebar & {
+				@include media-breakpoint-up(lg) {
+					&:before {
+						position: absolute;
+						width: 1px;
+						height: calc( 100% - 70px );
+						content: '';
+						background: $color__background-hr;
+						top: 0;
+					}
+				}
+			}
+
+			.position-one-right-sidebar & {
+				@include media-breakpoint-up(lg) {
+					&:before {
+						left: 0;
+					}
+				}
+				@include media-breakpoint-up(xl) {
+					padding-left: $grid-gutter-width * 1.5;
+					&:before {
+						left: 25px;
+					}
+				}
+			}
+			.position-one-left-sidebar & {
+				@include media-breakpoint-up(lg) {
+					&:before {
+						right: 0;
+					}
+				}
+				@include media-breakpoint-up(xl) {
+					padding-right: $grid-gutter-width * 1.5;
+					&:before {
+						right: 25px;
+					}
+				}
+			}
+		}
+	}
+}
+
+/*--------------------------------------------------------------
+## Layout
+--------------------------------------------------------------*/
+@import "../layout/layout";
+
+/*--------------------------------------------------------------
+## Header
+--------------------------------------------------------------*/
+@import "primary/header";
+
+/*--------------------------------------------------------------
+## Posts and pages
+--------------------------------------------------------------*/
+@import "primary/posts-and-pages";
+
+/*--------------------------------------------------------------
+## Post Formats
+--------------------------------------------------------------*/
+@import "primary/post-formats";
+
+/*--------------------------------------------------------------
+## Footer
+--------------------------------------------------------------*/
+@import "primary/footer";

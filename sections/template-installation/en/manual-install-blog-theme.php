@@ -23,6 +23,7 @@
         <img src="img/blog-theme/installation/add-theme-success.png" alt="" >
     </figure>
 
+<?php if ($project != 'monstroid_2') { ?>
     <h4>Plugin Installation</h4>
 
     <p>After you install and activate the theme, you may need to install some additional plugins:</p>
@@ -141,6 +142,8 @@
     <div class="alert alert-info">
     If there are problems with installing the theme via the admin panel, here's an alternative way to do it.
     </div>
+
+<?php } ?>
 
     
 

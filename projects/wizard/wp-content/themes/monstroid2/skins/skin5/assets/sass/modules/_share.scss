@@ -1,0 +1,9 @@
+.share-btns {
+	&__link {
+		font-size: .83em;
+
+		.single & {
+			font-size: .83em;
+		}
+	}
+}

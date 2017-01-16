@@ -1,0 +1,21 @@
+/*Builder Posts*/
+#tm_builder_outer_content .tm_pb_posts.tm_pb_module .tm-posts_item {
+	margin-bottom: 46px;
+
+	.posts_item_content_footer {
+		margin-top: 0;
+	}
+
+	.tm-posts_item_title {
+		margin-bottom: 0;
+		margin-top: 15px;
+
+		@include media-breakpoint-up(md) {
+			margin-top: 32px;
+		}
+	}
+
+	.tm-posts_item_excerpt {
+		margin-top: 12px;
+	}
+}

@@ -1,0 +1,7 @@
+.tm_pb_row {
+	&.tm_pb_equal_columns {
+		@include media-breakpoint-up(xl) {
+			align-items: center;
+		}
+	}
+}

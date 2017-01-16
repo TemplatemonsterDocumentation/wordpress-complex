@@ -1,0 +1,12 @@
+#tm_builder_outer_content {
+	.tm_pb_toggle {
+		&.tm_pb_toggle_open {
+			background: transparent;
+		}
+	}
+
+	.tm_pb_module.tm_pb_toggle,
+	.tm_pb_module.tm_pb_accordion .tm_pb_toggle {
+		padding: 24px 0;
+	}
+}

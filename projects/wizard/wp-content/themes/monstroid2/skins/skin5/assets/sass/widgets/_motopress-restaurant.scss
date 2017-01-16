@@ -1,0 +1,18 @@
+// Cart widget
+.widget_mprm_cart_widget {
+	.mprm_checkout {
+		a {
+			text-transform: uppercase;
+			border: none;
+			@include button-style;
+		}
+	}
+}
+
+.mprm_widget {
+	.mprm-container .mprm-tags a {
+		padding: 2px 5px;
+		font-size: .77em;
+		box-shadow: none;
+	}
+}

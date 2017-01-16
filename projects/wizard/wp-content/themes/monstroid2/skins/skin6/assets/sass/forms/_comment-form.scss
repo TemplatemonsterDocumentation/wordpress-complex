@@ -1,0 +1,13 @@
+.comment {
+	&-reply-title {
+
+		#cancel-comment-reply-link {
+			letter-spacing: 2.5px;
+			text-transform: uppercase;
+			margin: 16px 0 16px 10px;
+			.site & {
+				@include font-size(1);
+			}
+		}
+	}
+}

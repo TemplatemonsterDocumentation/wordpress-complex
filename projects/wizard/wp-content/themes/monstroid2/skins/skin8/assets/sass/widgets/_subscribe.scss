@@ -1,0 +1,35 @@
+.widget-subscribe{
+	input {
+		background: $color__search_background-input;
+		padding-right: 45px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		height: 45px;
+		line-height: 2.2;
+	}
+}
+
+.subscribe-block__input-wrap i.linearicon.linearicon-envelope{
+	top: 44%;
+}
+
+.follow-block + .subscribe-block{
+	margin-top: 15px;
+}
+
+.subscribe-block__input-group{
+	align-items: center;
+}
+
+.search-form{
+	align-items: center;
+}
+
+.subscribe-block__submit.btn-primary,
+.subscribe-block__submit.btn-primary:hover,
+.widget_search .search-form__submit.btn-primary,
+.widget_search .search-form__submit.btn-primary:hover{
+	padding: 13px 9px !important;
+	margin: 0 0 0 -50px;
+	flex: none;
+}

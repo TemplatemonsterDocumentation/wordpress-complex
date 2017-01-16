@@ -14,6 +14,8 @@
     <h3>What is a WordPress Template?</h3>
     <p>WordPress template is a theme for the WordPress CMS platform. You can easily change your website appearance by installing a new WordPress template in a few easy steps. Despite its simplicity, a WordPress template contains all the necessary source files that can be altered the way you need.</p>
 </article>
+
+<?php if ($project != 'monstroid_2') { ?>
 <article id="structure">
     <h3>Template Structure</h3>
     <p>The template package includes several folders. Let's check what's inside:</p>
@@ -141,6 +143,253 @@
     </ul>
 </article>
 <article id="preparation">
+<?php } ?>
+
+
+
+<?php if ($project == 'monstroid_2') { ?>
+<article id="structure">
+    <h3>Template Structure</h3>
+    <p>The template package includes several folders. Let's check what's inside:</p>
+
+    <ul class="files_structure">
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-folder"></i> <strong>screenshots</strong></dt>
+                <dd> contains screen-shots of the template. However, they are not required to edit the template.</dd>
+            </dl>
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-folder"></i> <strong>sources</strong></dt>
+                <dd> contains sources of the template.</dd>
+            </dl>
+            <ul>
+                <li>
+                    <dl class="inline-term">
+                        <dt>
+                            <i class="fa fa-folder"></i> <strong>psd</strong>
+                        </dt>
+                        <dd>
+                            contains psd
+                        </dd>
+                    </dl>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-folder"></i> <strong>theme</strong></dt>
+                <dd> contains WordPress theme files..</dd>
+            </dl>
+            <ul>
+                <li>
+                    <dl class="inline-term">
+                        <dt>
+                            <i class="fa fa-folder"></i> <strong>manual-install</strong>
+                        </dt>
+                        <dd>
+                            contains files that make the WordPress website look like on our live demo.
+                        </dd>
+                    </dl>
+
+                    <ul>
+                        <li>
+                            <dl class="inline-term">
+                                <dt>
+                                    <i class="fa fa-file"></i> <strong>default</strong>
+                                </dt>
+                                <dd>
+                                    contains all template sample data (posts, pages, categories, etc).
+                                </dd>
+                            </dl>
+                            <ul>
+                                <li>
+                                    <dl class="inline-term">
+                                        <dt>
+                                            <i class="fa fa-file"></i> <strong>uploads</strong>
+                                        </dt>
+                                        <dd>
+                                            contains theme images.
+                                        </dd>
+                                    </dl>
+                                </li>
+
+                                <li>
+                                    <dl class="inline-term">
+                                        <dt>
+                                            <i class="fa fa-file"></i> <strong>monstroid2.sql</strong>
+                                        </dt>
+                                        <dd>
+                                            database file (contains theme content)
+                                        </dd>
+                                    </dl>
+                                </li> 
+                            </ul>
+                        </li>
+                        <li>
+                            <dl class="inline-term">
+                                <dt>
+                                    <i class="fa fa-folder"></i> <strong>plugins</strong>
+                                </dt>
+                                <dd>
+                                    contains custom plugins from TemplateMonster.
+                                </dd>
+                            </dl>
+                        </li>
+                        <li>
+                            <dl class="inline-term">
+                                <dt>
+                                    <i class="fa fa-folder"></i> <strong>skins</strong>
+                                </dt>
+                                <dd>
+                                    contains custom skins from TemplateMonster.
+                                </dd>
+                            </dl>
+                            <ul>
+                                <li>
+                                    <dl class="inline-term">
+                                        <dt>
+                                            <i class="fa fa-folder"></i> <strong>construction</strong>
+                                        </dt>
+                                        <dd>
+                                            construction skin description.
+                                        </dd>
+                                    </dl>
+                                </li>
+                                <li>
+                                    <dl class="inline-term">
+                                        <dt>
+                                            <i class="fa fa-folder"></i> <strong>corporate</strong>
+                                        </dt>
+                                        <dd>
+                                            corporate skin description.
+                                        </dd>
+                                    </dl>
+                                </li>
+                                <li>
+                                    <dl class="inline-term">
+                                        <dt>
+                                            <i class="fa fa-folder"></i> <strong>fashion</strong>
+                                        </dt>
+                                        <dd>
+                                            corporate skin description.
+                                        </dd>
+                                    </dl>
+                                </li>
+                                <li>
+                                    <dl class="inline-term">
+                                        <dt>
+                                            <i class="fa fa-folder"></i> <strong>furni</strong>
+                                        </dt>
+                                        <dd>
+                                            corporate skin description.
+                                        </dd>
+                                    </dl>
+                                </li>
+                                <li>
+                                    <dl class="inline-term">
+                                        <dt>
+                                            <i class="fa fa-folder"></i> <strong>ironmass</strong>
+                                        </dt>
+                                        <dd>
+                                            corporate skin description.
+                                        </dd>
+                                    </dl>
+                                </li>
+                                <li>
+                                    <dl class="inline-term">
+                                        <dt>
+                                            <i class="fa fa-folder"></i> <strong>lawnyer</strong>
+                                        </dt>
+                                        <dd>
+                                            corporate skin description.
+                                        </dd>
+                                    </dl>
+                                </li>
+                                <li>
+                                    <dl class="inline-term">
+                                        <dt>
+                                            <i class="fa fa-folder"></i> <strong>loanoffer</strong>
+                                        </dt>
+                                        <dd>
+                                            corporate skin description.
+                                        </dd>
+                                    </dl>
+                                </li>
+                                <li>
+                                    <dl class="inline-term">
+                                        <dt>
+                                            <i class="fa fa-folder"></i> <strong>modern</strong>
+                                        </dt>
+                                        <dd>
+                                            corporate skin description.
+                                        </dd>
+                                    </dl>
+                                </li>
+                                <li>
+                                    <dl class="inline-term">
+                                        <dt>
+                                            <i class="fa fa-folder"></i> <strong>resto</strong>
+                                        </dt>
+                                        <dd>
+                                            corporate skin description.
+                                        </dd>
+                                    </dl>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <dl class="inline-term">
+                                <dt>
+                                    <i class="fa fa-file"></i> <strong>monstroid2.zip</strong>
+                                </dt>
+                                <dd>
+                                    archive with the theme. Contains all theme files. It must be installed through the WordPress extension manager.
+                                </dd>
+                            </dl>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-file"></i> <strong>documentation.txt</strong></dt>
+                <dd> contains documentation link information.</dd>
+            </dl>
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-file"></i> <strong>info.txt</strong></dt>
+                <dd> instructions on how to extract source files.</dd>
+            </dl>
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-file"></i> <strong>license.txt</strong></dt>
+                <dd> contains documentation link information.</dd>
+            </dl>
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt><i class="fa fa-file"></i> <strong>screenshots.zip</strong></dt>
+                <dd> contains documentation link information.</dd>
+            </dl>
+        </li>
+    </ul>
+</article>
+<article id="preparation">
+<?php } ?>
+
+    
+
+
+
+
+
+
+
     <h3>Preparation</h3>
     <h6>Before installing a WordPress website, you need to get fully prepared. We recommend you to get the following aspects covered:</h6>
 

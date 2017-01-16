@@ -1,0 +1,32 @@
+button,
+input[type='button'],
+input[type='reset'],
+input[type='submit'] {
+	@include btn-skin;
+}
+
+// General styles
+.btn {
+	@include btn-skin;
+	@include btn-skin-hover;
+
+	&.btn-default,
+	&.btn-primary,
+	&.btn-secondary{
+		&:hover,
+		.invert &:hover {
+			box-shadow: 0 0 0 0;
+		}
+	}
+}
+
+
+.link {
+	letter-spacing: 2.5px;
+	@include font-size(1);
+	line-height: 20px;
+	font-weight: 400;
+	i {
+		line-height: 20px;
+	}
+}

@@ -1,0 +1,27 @@
+#toTop {
+	display: none;
+	text-decoration: none;
+	position: fixed;
+	bottom: 20px;
+	right: -999em;
+	overflow: hidden;
+	width: 58px;
+	height: 58px;
+	z-index: 999;
+	text-align: center;
+	@include border-radius(50%);
+	&:before{
+		@include linear-icon();
+		width: 100%;
+		line-height: 58px;
+		font-size: 24px;
+		content: "\e941";
+	}
+	&:focus {
+		outline: 0;
+	}
+	@include media-breakpoint-up(md) {
+		right: 20px;
+		bottom: 80px;
+	}
+}

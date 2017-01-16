@@ -1,0 +1,93 @@
+.search-form {
+	display: flex;
+	align-items: flex-end;
+	margin: 0;
+
+	.site-header & {
+		align-items: center;
+	}
+	.business & {
+		transform: translateY(-120%);
+	}
+
+	&__input-wrap {
+		display: flex;
+		align-items: center;
+		margin: 0 10px 0 0;
+		padding-bottom: 12px;
+
+		label {
+			margin-right: 8px;
+			font-weight: 700;
+			flex-shrink: 0;
+			line-height: 1;
+		}
+		&, input[type='search'] {
+			@include font-size(14/16);
+			line-height:1.7;
+			font-style: normal;
+		}
+		input[type='search'] {
+			padding: 0;
+			border: none;
+
+			.site-header & {
+				padding: 0;
+			}
+			&:focus {
+				border: none;
+			}
+		}
+		.site-header & {
+			align-items: center;
+			padding-bottom: 0;
+		}
+	}
+	&__submit {
+		flex: none;
+		width: 42px;
+		height: 42px;
+		margin: 0;
+		padding: 0;
+		border-radius: 0;
+
+		i {
+			@include font-size(26/16);
+			line-height:42px;
+
+			.header-search & {
+				@include font-size(28/16);
+				line-height:1.2;
+			}
+		}
+
+		.site-header &,
+		.site-header .invert & {
+			padding: 0;
+
+			&:before {
+				content: none;
+			}
+		}
+	}
+	&__toggle {
+		@include font-size(28/16);
+		font-family:'Material Icons';
+
+		&:before {
+			content: '\E8B6';
+		}
+	}
+	&__close {
+		@include font-size(28/16);
+		font-family:'Material Icons';
+		margin-left: 16px;
+
+		&:before {
+			content: '\E5CD';
+		}
+		&:after {
+			left: -16px;
+		}
+	}
+}

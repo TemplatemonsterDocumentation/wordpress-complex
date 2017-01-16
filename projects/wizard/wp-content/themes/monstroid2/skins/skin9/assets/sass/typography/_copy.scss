@@ -1,0 +1,24 @@
+body.single .post > .entry-content > p:first-of-type:first-letter,
+body.single-team .team-content .post-content > *:first-child:first-letter {
+	@include font-size(66/16);
+	background: transparent;
+	padding: 0;
+	margin: -5px 15px 0 0;
+	float: left;
+	position: relative;
+	line-height: 1;
+}
+@-moz-document url-prefix() {
+	body.single .post > .entry-content > p:first-of-type:first-letter,
+	body.single-team .team-content .post-content > p:first-of-type:first-letter {
+		padding: 0;
+		margin: -5px 15px 0 0;
+	}
+}
+
+body .dropcaps {
+	@include font-size(66/16);
+	background: transparent;
+	padding: 0;
+	margin: -5px 15px 0 0;
+}

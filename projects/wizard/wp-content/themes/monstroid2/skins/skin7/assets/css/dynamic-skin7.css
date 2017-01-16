@@ -1,0 +1,106 @@
+/* #Buttons */
+.btn,
+.link,
+button,
+input[type='button'],
+input[type='reset'],
+input[type='submit'],
+.wpcf7-submit,
+.comment-form .submit,
+.post-password-form label + input {
+	font-style: $h1_font_style;
+	font-weight: $h1_font_weight;
+	font-family: @font_family( $h1_font_family );
+}
+
+.btn-default,
+.invert .btn-default {
+	color: $regular_accent_color_1;
+}
+
+.btn.btn-default,
+.invert .btn-default {
+	border-color: $regular_accent_color_1;
+}
+
+#tm_builder_outer_content .invert .tm_pb_button:hover {
+	color: $regular_accent_color_2;
+	background-color: $invert_accent_color_2;
+	border-color: $invert_accent_color_2;
+}
+
+/* #Footer */
+.footer-copyright {
+	color: $regular_h6_color;
+}
+
+.after-content-full-width-area {
+	background-color: $footer_widgets_bg;
+}
+
+/* #Widgets */
+.subscribe-block__message {
+	color: $regular_h6_color;
+}
+
+/* #Cherry Testimonials */
+.tm-testi .tm-testi__item-name {
+	color: $regular_accent_color_1;
+}
+
+/* #Power Builder Elements */
+
+/* ##Typography */
+#tm_builder_outer_content h3 + hr {
+	background-color: $regular_accent_color_1;
+}
+
+#tm_builder_outer_content .invert h3 + hr {
+	background-color: $invert_accent_color_1;
+}
+
+/* ##Blurb */
+#tm_builder_outer_content .tm_pb_blurb.tm_pb_module h4 {
+	color: $regular_accent_color_1;
+}
+
+#tm_builder_outer_content .invert .tm_pb_blurb.tm_pb_module h4 {
+	color: $invert_text_color;
+}
+
+/* ##Toggle */
+#tm_builder_outer_content .tm_pb_toggle h5 {
+	color: $regular_accent_color_1;
+}
+
+/* ##Image */
+.tm_pb_image .tm_overlay.tm_pb_inline_icon {
+	color: $invert_text_color;
+}
+
+/* ##Pricing Table */
+#tm_builder_outer_content .tm_pb_pricing_heading .tm_pb_best_value {
+	font-weight: $body_font_weight;
+}
+
+#tm_builder_outer_content .tm_pb_pricing.tm_pb_module .tm_pb_pricing_content_top .tm_pb_sum {
+	font-family: @font_family( $h2_font_family );
+	font-weight: $h2_font_weight;
+}
+
+/* ##Testimonial */
+.tm_pb_testimonial_author {
+	color: $regular_accent_color_1;
+}
+
+/* ##Contact Form */
+#tm_builder_outer_content .tm_pb_contact_field input,
+#tm_builder_outer_content .tm_pb_contact_field textarea,
+#tm_builder_outer_content .tm_pb_contact_form .tm-pb-contact-message,
+#tm_builder_outer_content .tm_pb_team_member.tm_pb_module .tm_pb_member_position,
+.widget_search .search-form__field,
+.widget_recent_entries ul li .post-date,
+.widget-subscribe input,
+.widget_recent_comments ul li {
+	font-style: $body_font_style;
+}

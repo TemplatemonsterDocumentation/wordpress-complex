@@ -1,0 +1,308 @@
+body .booked-calendarSwitcher.calendar {
+    background: $regular_accent_color_1 !important;
+}
+
+body .booked-calendarSwitcher.calendar select{
+    background:  $invert_text_color !important;
+    color:  $regular_accent_color_2;
+}
+
+body .booked-calendar-shortcode-wrap .booked-calendar thead{
+    background: $invert_text_color !important;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar thead tr th .monthName,
+.booked-calendar-shortcode-wrap .booked-calendar thead tr th .backToMonth{
+    font-family:@font_family( $body_font_family );
+    color: $regular_accent_color_1;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar thead tr th .backToMonth:hover{
+    color: $regular_accent_color_2;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar thead tr th .page-right i,
+.booked-calendar-shortcode-wrap .booked-calendar thead tr th .page-left i{
+    color:  $regular_text_color;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar thead tr th .page-right:hover i,
+.booked-calendar-shortcode-wrap .booked-calendar thead tr th .page-left:hover i{
+    color:  $regular_accent_color_1;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar thead tr.days th{
+    color: $regular_text_color !important;
+    font-family:@font_family( $body_font_family );
+}
+
+.buddypress #buddypress .ac-form .ac-reply-content input{
+    color: $regular_accent_color_1;
+}
+
+.buddypress #buddypress .ac-form .ac-reply-content input:hover{
+    color: $regular_accent_color_2;
+}
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td .date.tooltipster:hover .number
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td{
+    background: $invert_text_color;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td .date{
+    background: $regular_accent_color_3 !important;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td .date .number{
+    color: @alpha($regular_text_color, 30%);
+    font-family:@font_family( $body_font_family );
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td.prev-date .date .number{
+    color: @alpha($regular_text_color, 30%) !important;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td .date.tooltipster .number,
+body .booked-calendar-shortcode-wrap .booked-calendar tbody tr td.active .date .number{
+    color: $regular_text_color;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td .date.tooltipster:hover .number{
+    color: $invert_text_color;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td .date.tooltipster:hover{
+    background:  $regular_accent_color_1
+}
+
+body .booked-calendar-shortcode-wrap .booked-calendar tbody tr td.active .date,
+body .booked-calendar-shortcode-wrap .booked-calendar tbody tr td.active{
+    background: $invert_text_color;
+}
+
+body .booked-calendar-shortcode-wrap .booked-calendar tbody tr td.active:hover .date{
+    background: $invert_text_color;
+}
+
+body .booked-calendar-shortcode-wrap .booked-calendar tbody tr td.active:hover .date .number{
+    color: $regular_text_color;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr.entryBlock h2{
+    color: $regular_accent_color_2;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr.entryBlock .timeslot-time i.fa{
+    color: $regular_accent_color_1
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr.entryBlock .timeslot-time{
+    font-weight:$meta_font_weight;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr.entryBlock .timeslot-time,
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr.entryBlock .timeslot-count .spots-available{
+    color: $regular_text_color;
+    font-family:@font_family( $body_font_family );
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr.entryBlock .timeslot-people .button,
+body .booked-modal .bm-window .booked-form .field > input.button{
+    background:  $regular_accent_color_1;
+    font-family:@font_family( $body_font_family );
+}
+
+body .booked-calendar-shortcode-wrap .booked-calendar tbody tr.entryBlock .timeslot-people .button:hover,
+body .booked-modal .bm-window .booked-form .field > input.button:hover{
+    background:  $regular_accent_color_2 !important;
+}
+
+body .booked-modal .bm-window p.booked-title-bar ,
+body .booked-modal .bm-window .condition-block .field label,
+body .booked-modal .bm-window .booked-form p.booked-calendar-name,
+body .booked-modal .bm-window .booked-form p.title{
+    font-family:@font_family( $body_font_family );
+    color:  $regular_accent_color_2;
+}
+
+body .booked-modal .bm-window p.booked-title-bar small{
+    font-weight:$meta_font_weight;
+}
+
+body .booked-modal .bm-window a.close i{
+    color: $regular_text_color;
+}
+
+body .booked-modal .bm-window a.close:hover i{
+    color: $regular_accent_color_1;
+}
+
+body .booked-modal .bm-window a.close:hover{
+    color: $regular_accent_color_2;
+}
+
+body .booked-modal div.bm-window p,
+body .booked-modal .bm-window .condition-block .field p{
+    font-family:@font_family( $body_font_family );
+    color: $regular_text_color;
+}
+
+body .booked-modal .bm-window .booked-form p.name b,
+body .booked-modal .bm-window .booked-form #customerChoices label{
+    font-family:@font_family( $body_font_family );
+    color:  $regular_text_color;
+}
+
+body .booked-modal .bm-window .booked-form p.name b i,
+body .booked-modal .bm-window .appointment-info i.fa {
+    color:  $regular_accent_color_1;
+}
+
+body .booked-modal .bm-window .booked-appointments .calendar-name {
+    color: $regular_h6_color;
+}
+
+body .booked-modal .bm-window .condition-block .field label i{
+    color:  $regular_accent_color_1;
+}
+
+body .booked-modal .bm-window .condition-block .field label.field-label,
+body .booked-modal .bm-window .condition-block .field p{
+    font-weight:$meta_font_weight;
+}
+
+body .booked-modal .bm-window .condition-block .field input[type^='text'],
+body .booked-modal .bm-window .condition-block .field input[type^='email'],
+body .booked-modal .bm-window .condition-block .field input[type^='password']{
+    background: $regular_accent_color_3;
+}
+
+body .booked-modal .bm-window,
+body .booked-modal .bm-window p.booked-title-bar {
+    background: $invert_text_color;
+}
+
+body .booked-modal .bm-window .field button{
+     background: $regular_accent_color_2;
+     color: $invert_text_color;
+    font-family:@font_family( $body_font_family );
+ }
+
+body .booked-modal .bm-window .field button:hover{
+    background: $regular_accent_color_1;
+}
+
+.booked-profile-appt-list .calendar-name {
+    color: $regular_accent_color_1;
+}
+
+.booked-profile-appt-list .calendar-name strong{
+    color: $regular_accent_color_2;
+}
+
+.booked-profile-appt-list i{
+    color: $regular_accent_color_1;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td.blur:hover .date{
+    background: $regular_accent_color_3;
+}
+
+body .booked-calendar-shortcode-wrap .booked-calendar-wrap.small table.booked-calendar tbody tr.week td.active .date .number{
+    color: $regular_text_color;
+}
+
+body .booked-calendar-shortcode-wrap .booked-calendar tbody tr.entryBlock .timeslot-time .timeslot-title{
+    color: $regular_accent_color_2 !important;
+}
+
+body .booked-calendar-wrap table.booked-calendar tr.week td.active .date{
+    background: $invert_text_color !important;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td{
+    background: $invert_text_color;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td .date.tooltipster:hover{
+    background: $regular_accent_color_1 !important;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td.prev-date.today .date {
+    background: $regular_accent_color_2 !important;
+}
+
+
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td.prev-date.today .date .number{
+    color:  $invert_text_color !important;
+}
+
+body .booked-modal .bm-window .booked-scrollable{
+    background: $invert_text_color;
+}
+
+body #booked-profile-page .booked-profile-header{
+    background: $regular_accent_color_1 !important;
+}
+
+body #booked-profile-page .booked-profile-header .booked-logout-button:hover{
+    color:$regular_accent_color_2 ;
+}
+
+body #booked-profile-page .booked-tabs{
+    background: $regular_accent_color_2 !important;
+}
+
+body #booked-profile-page .booked-tabs li.active a,
+body #booked-profile-page .booked-tabs li a:hover,
+body #booked-profile-page .booked-tabs li.active a:hover {
+    background: $regular_accent_color_1 !important;
+}
+
+body #booked-profile-page #profile-appointments .booked-form-notice,
+body #booked-profile-page label{
+    color:  $regular_accent_color_2;
+}
+
+body #booked-profile-page #profile-appointments .booked-no-margin{
+    color: $regular_text_color;
+}
+
+body #booked-profile-page #profile-edit #booked-page-form .form-submit input[type^="submit"],
+body #booked-profile-page .login-submit input[type^="submit"],
+body #booked-profile-page .wp-user-form input[type^="submit"] {
+    background: $regular_accent_color_1;
+    border-color: $regular_accent_color_1;
+}
+
+body #booked-profile-page #profile-edit #booked-page-form .form-submit input[type^="submit"]:hover,
+body #booked-profile-page .login-submit input[type^="submit"]:hover,
+body #booked-profile-page .wp-user-form input[type^="submit"]:hover {
+    background: $regular_accent_color_2 !important;
+    border-color: $regular_accent_color_2;
+}
+
+.booked-calendar-shortcode-wrap .booked-calendar thead tr th .monthName,
+.booked-calendar-shortcode-wrap .booked-calendar tbody tr td .date .number{
+    font-weight: $meta_font_weight;
+}
+
+body #booked-profile-page label{
+    font-weight: $meta_font_weight !important;
+}
+
+body #booked-profile-page #profile-appointments .booked-form-notice {
+    font-weight: $meta_font_weight;
+    font-style: $meta_font_style;
+}
+
+body #booked-profile-page  #profile-edit h4 {
+    font-weight:$h6_font_weight;
+}
+
+body .booked-modal .bm-window a {
+    color: $regular_link_color;
+}
+
+body .booked-modal .bm-window a:hover {
+    color: $regular_link_hover_color;
+}

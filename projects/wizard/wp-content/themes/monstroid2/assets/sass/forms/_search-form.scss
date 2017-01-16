@@ -1,0 +1,248 @@
+.search-form {
+	margin: -5px;
+	padding: 0;
+	display: flex;
+	flex-flow: row wrap;
+	align-items: flex-start;
+	.site-header & {
+		flex-flow: row nowrap;
+		position: absolute;
+		z-index: -1;
+		top: -999em;
+		left: 0;
+		right: 55px;
+		margin: 0;
+		opacity: 0;
+		transform: translateY(-150%);
+		transition: opacity .3s ease-out, transform .3s ease-out;
+	}
+	.site-header.style-3 &,
+	.site-header.style-4 &,
+	.site-header.style-2 & {
+		left: 15px;
+		right: 70px;
+	}
+	.site-header.search-active & {
+		top: 50%;
+		opacity: 1;
+		visibility: visible;
+		z-index: 3;
+		transform: translateY(-50%);
+	}
+	.site-header .mobile-panel & {
+		left: 55px;
+		right: 75px;
+	}
+
+	&__toggle {
+		font-size: 19px;
+		cursor: pointer;
+		transition: all .3s ease-out;
+		position: relative;
+		top: 3px;
+		display: inline-block;
+		@include linear-icon;
+		&:before {
+			content: '\e922';
+		}
+		.site-header.search-active & {
+			opacity: 0;
+			visibility: hidden;
+			transform: translateY(20px);
+		}
+	}
+	&__close {
+		font-size: 19px;
+		cursor: pointer;
+		@include linear-icon;
+		position: absolute;
+		top: 50%;
+		right: 0;
+		transform: translateY(-150%);
+		padding: 5px 0;
+		opacity: 0;
+		margin-left: 25px;
+		visibility: hidden;
+
+		&:before {
+			content: '\e92a';
+		}
+		&:after {
+			content: '';
+			position: absolute;
+			top: 0;
+			left: -25px;
+			height: 100%;
+			width: 1px;
+			background: $color__background-hr;
+
+			.invert & {
+				background: rgba($color__background-hr, .2);
+			}
+		}
+		.site-header.search-active & {
+			transition: all .5s ease-out;
+			transform: translateY(-50%);
+			opacity: 1;
+			visibility: visible;
+		}
+
+		.site-header.style-3 &,
+		.site-header.style-4 &,
+		.site-header.style-2 & {
+			right: 15px;
+		}
+
+		.site-header .mobile-panel & {
+			right: 20px;
+		}
+	}
+	&__input-wrap {
+		position: relative;
+		margin: 5px;
+		flex: 5 1 185px;
+		min-width: 185px;
+		i {
+			pointer-events: none;
+			font-size: 24px;
+			left: 15px;
+			position: absolute;
+			top: 50%;
+			transform: translateY(-50%);
+			@include media-breakpoint-up(md) {
+				left: 25px;
+			}
+			.sidebar & {
+				@include media-breakpoint-only(lg) {
+					left: 15px
+				}
+			}
+			.tm_pb_column_1_3 & {
+				@include media-breakpoint-between(md,lg) {
+					left: 15px
+				}
+			}
+			.footer-area:not(.footer-area--fullwidth) &,
+			.tm_pb_column_1_4 & {
+				@include media-breakpoint-up(md) {
+					left: 15px
+				}
+			}
+			.sidebar-1-4 .sidebar & {
+				@include media-breakpoint-up(lg) {
+					left: 15px
+				}
+			}
+			.site-header & {
+				display: none;
+			}
+		}
+
+		.sidebar-1-4 .sidebar & {
+			@include media-breakpoint-up(lg) {
+				flex: 5 1 150px;
+				min-width: 150px;
+			}
+		}
+
+		.site-header & {
+			margin: 0;
+			min-width: 0;
+			flex: 1 1 auto;
+		}
+	}
+	&__field[type='search'] {
+		i + & {
+			padding-left: $input__indents_x + 30px;
+			@include media-breakpoint-up(md) {
+				padding-left: $input__indents_x + 40px;
+			}
+			.sidebar & {
+				@include media-breakpoint-only(lg) {
+					padding-left: $input__indents_x + 30px;
+				}
+			}
+			.tm_pb_column_1_3 & {
+				@include media-breakpoint-between(md,lg) {
+					padding-left: $input__indents_x + 30px;
+				}
+			}
+			.footer-area:not(.footer-area--fullwidth) &,
+			.tm_pb_column_1_4 & {
+				@include media-breakpoint-up(md) {
+					padding-left: $input__indents_x + 30px;
+				}
+			}
+			.sidebar-1-4 .sidebar & {
+				@include media-breakpoint-up(lg) {
+					padding-left: $input__indents_x + 30px;
+					padding-right: 10px;
+				}
+			}
+		}
+		box-sizing: border-box;
+		width: 100%;
+		max-width: 100%;
+		min-width: 50px;
+		.site-header & {
+			padding: 17.5px 0;
+			@include font-size(.75);
+			background: none;
+			border: none;
+			&:focus {
+				background: none;
+			}
+		}
+	}
+	&__submit {
+		margin: 5px;
+		padding-left: 30px;
+		padding-right: 30px;
+		flex: 1 0 auto;
+		@include media-breakpoint-only(xs) {
+			padding-left: 15px;
+			padding-right: 15px;
+		}
+		.sidebar & {
+			@include media-breakpoint-only(lg) {
+				padding-left: 15px;
+				padding-right: 15px;
+			}
+		}
+		.footer-area:not(.footer-area--fullwidth) &,
+		.tm_pb_column_1_3 &,
+		.tm_pb_column_1_4 & {
+			@include media-breakpoint-up(md) {
+				padding-left: 15px;
+				padding-right: 15px;
+			}
+		}
+		.sidebar-1-4 .sidebar & {
+			@include media-breakpoint-up(lg) {
+				padding-left: 15px;
+				padding-right: 15px;
+			}
+		}
+		.site-header &,
+		.site-header .invert &{
+			background: none;
+			border: none;
+			font-size: 0;
+			flex: 0 0 auto;
+			margin: 0;
+			padding: 15px 10px;
+			&:hover {
+				background: none;
+			}
+			&:active {
+				box-shadow: none;
+			}
+			&:before {
+				content: '\e922';
+				font-size: 19px;
+
+				@include linear-icon;
+			}
+		}
+	}
+}

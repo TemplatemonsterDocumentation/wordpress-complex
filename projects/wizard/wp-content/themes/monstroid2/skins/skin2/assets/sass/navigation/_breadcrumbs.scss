@@ -1,0 +1,37 @@
+.breadcrumbs {
+	padding: 10px 0;
+	@include media-breakpoint-up(lg) {
+		padding: 22px 0;
+		.site & .container {
+			max-width: 100%;
+		}
+	}
+
+	&__wrap {
+		margin: 0;
+	}
+
+	&__items {
+		flex-basis: 100%;
+		text-align: center;
+
+		.breadcrumbs__title + & {
+			flex-basis: auto;
+		}
+	}
+
+
+
+	&__content,
+	&__item {
+		@include media-breakpoint-down(md) {
+			.breadcrumbs & {
+				line-height: 1.2;
+			}
+		}
+	}
+
+	.page-title {
+		@include font-size(18/16);
+	}
+}

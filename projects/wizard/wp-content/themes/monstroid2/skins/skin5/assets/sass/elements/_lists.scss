@@ -1,0 +1,17 @@
+.mphb-single-room-type-attributes {
+	list-style: none;
+
+	li{
+		& + li,
+		> ul li,
+		> ol li {
+			margin-top: 0;
+		}
+	}
+	> li{
+		&:before {
+			content: '•';
+			margin-right: 10px;
+		}
+	}
+}

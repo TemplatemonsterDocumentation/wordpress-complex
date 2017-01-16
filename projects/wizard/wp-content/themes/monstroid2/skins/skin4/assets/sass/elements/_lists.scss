@@ -1,0 +1,39 @@
+ul:not([class]) {
+	.team-content & {
+		list-style: none;
+		li{
+			& + li,
+			> ul li,
+			> ol li {
+				margin-top: 5px;
+			}
+		}
+		> li{
+			&:before {
+				content: '\2022';
+				margin-right: 10px;
+			}
+		}
+	}
+}
+
+ol {
+	.team-content & {
+		list-style: none;
+		counter-reset: li;
+		li {
+			& + li,
+			> ul li,
+			> ol li {
+				margin-top: 5px;
+			}
+		}
+		> li{
+			&:before{
+				content: counter(li, decimal-leading-zero) '.';
+				counter-increment: li;
+				margin-right: 10px;
+			}
+		}
+	}
+}

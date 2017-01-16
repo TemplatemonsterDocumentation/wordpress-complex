@@ -1,0 +1,115 @@
+.pagination,
+#tm_builder_outer_content .pagination {
+	padding: 0;
+	margin: 0;
+	border: none;
+
+	.nav-links {
+		text-align: left;
+
+		.page-numbers {
+			@include font-size(14/16);
+			font-weight: 700;
+			border: none;
+			line-height: 1.2;
+			min-width: auto;
+			height: auto;
+			margin: 0 4px;
+			padding: 2px 4px;
+			background: none;
+
+			&.prev, &.next {
+				padding: 0;
+				min-width: auto;
+
+				i {
+					@include font-size(26/16);
+				}
+			}
+			&.prev {
+				margin-right: 9px;
+			}
+			&.next {
+				margin-left: 9px;
+			}
+		}
+	}
+}
+
+.post-navigation {
+	padding: 0;
+	margin-bottom: 60px;
+	border: none;
+
+	.nav-links {
+		display: block;
+
+		@include media-breakpoint-up(sm) {
+			display: flex;
+		}
+	}
+
+	.nav-previous,
+	.nav-next {
+		display: flex;
+		float: none;
+
+		> a {
+			display: flex;
+			align-items: center;
+			width: 100%;
+			padding: 25px 20px 24px;
+			margin: 0 -1px;
+			@include font-size(14/16);
+			line-height: 1.57;
+			font-weight: 600;
+			text-transform: uppercase;
+
+			&:before, &:after {
+				width: 60px;
+				@include font-size(26/16);
+				font-family:'Material Icons';
+				text-align: center;
+			}
+		}
+	}
+
+	.nav-previous {
+		padding-right: 0;
+
+		@include media-breakpoint-up(sm) {
+			padding-right: $grid-gutter-width/2;
+		}
+
+		> a {
+			padding-left: 60px;
+			justify-content: flex-start;
+
+			&:before {
+				content: '\E314';
+			}
+		}
+
+		& ~ .nav-next {
+			margin-left: 0;
+		}
+	}
+	.nav-next {
+		margin-left: 0;
+		padding-left: 0;
+
+		@include media-breakpoint-up(sm) {
+			margin-left: 50%;
+			padding-left: $grid-gutter-width/2;
+		}
+
+		> a {
+			padding-right: 60px;
+			justify-content: flex-end;
+
+			&:after {
+				content: '\E315';
+			}
+		}
+	}
+}

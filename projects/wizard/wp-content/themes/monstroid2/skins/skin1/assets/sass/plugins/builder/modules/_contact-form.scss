@@ -1,0 +1,12 @@
+/*Builder Contact Form*/
+#tm_builder_outer_content {
+	.tm_pb_contact_main_title {
+		margin-top: 30px;
+		margin-bottom: 60px;
+		@extend %before;
+		&:before {
+			left: 0;
+			transform: translateX(0);
+		}
+	}
+}

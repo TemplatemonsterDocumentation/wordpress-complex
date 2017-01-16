@@ -1,0 +1,9 @@
+.site-footer.centered {
+	.footer-container {
+		padding-top: 50px;
+		padding-bottom: 50px;
+		&:first-child {
+			padding-top: 0;
+		}
+	}
+}

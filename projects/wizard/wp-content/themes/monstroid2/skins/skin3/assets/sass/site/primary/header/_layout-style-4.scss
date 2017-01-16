@@ -1,0 +1,43 @@
+.site-header.style-4 {
+	@include media-breakpoint-up(md) {
+		.header-container {
+			&.transparent {
+				padding-top: 35px;
+				padding-right: 0;
+				padding-left: 0;
+			}
+
+			&:not(.transparent) {
+				.main-navigation {
+					@include flex-grow(1);
+				}
+
+				.site-branding {
+					margin-right: 38px;
+				}
+			}
+		}
+
+		.site-branding,
+		.main-navigation,
+		.header-icons {
+			margin-top: 7px;
+			margin-bottom: 6px;
+		}
+	}
+
+	@include media-breakpoint-up(xl) {
+		.container {
+			max-width: 1820px;
+		}
+
+		.header-container {
+			padding-right: 50px;
+			padding-left: 50px;
+		}
+
+		.main-navigation .menu {
+			@include justify-content(flex-start);
+		}
+	}
+}

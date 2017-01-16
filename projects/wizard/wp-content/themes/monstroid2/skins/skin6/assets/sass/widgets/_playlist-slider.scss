@@ -1,0 +1,8 @@
+.widget-playlist-slider {
+	// Thumbnails.
+	.sp-thumbnail {
+		&-title {
+			@include font-size(1.25);
+		}
+	}
+}

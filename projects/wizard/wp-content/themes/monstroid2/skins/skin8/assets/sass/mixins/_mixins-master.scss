@@ -1,0 +1,24 @@
+@import "../../../../../assets/sass/mixins/_mixins-master.scss";
+/*Gradient Before*/
+@mixin before{
+	position: relative;
+	margin-top: 30px;
+
+	&:before {
+		display: inline-block;
+		width: 92px;
+		height: 2px;
+		content: '';
+		position: absolute;
+		top: -30px;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+
+	@media (min-width: 1200px) {
+		margin-top: 54px;
+		&:before{
+			top:-54px;
+		}
+	}
+}

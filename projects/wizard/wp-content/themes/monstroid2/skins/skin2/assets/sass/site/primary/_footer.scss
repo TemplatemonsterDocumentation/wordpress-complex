@@ -1,0 +1,12 @@
+.site-footer {
+	padding-top: 28px;
+	.footer-container {
+		padding: 16px 0 21px;
+		&:first-child {
+			padding-top: 0;
+		}
+	}
+}
+
+@import "footer/layout-default";
+@import "footer/layout-centered";

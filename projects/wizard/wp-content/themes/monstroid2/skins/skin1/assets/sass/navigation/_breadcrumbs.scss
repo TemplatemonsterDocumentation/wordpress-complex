@@ -1,0 +1,17 @@
+/*Breadcrumbs*/
+body .breadcrumbs {
+	padding: 8px;
+
+	&:before {
+		display: none;
+	}
+	.breadcrumbs__title:empty{
+		display: none;
+	}
+	.breadcrumbs__items,
+	.breadcrumbs__wrap,
+	.breadcrumbs__item {
+		flex-grow: 1;
+		text-align: center;
+	}
+}

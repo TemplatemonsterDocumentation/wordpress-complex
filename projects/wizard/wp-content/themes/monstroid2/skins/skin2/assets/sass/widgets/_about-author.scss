@@ -1,0 +1,11 @@
+.widget-about-author {
+	.widget-title {
+		& + .about-author {
+			margin-top: -5px;
+		}
+	}
+
+	.about-author_avatar {
+		margin-bottom: 32px;
+	}
+}

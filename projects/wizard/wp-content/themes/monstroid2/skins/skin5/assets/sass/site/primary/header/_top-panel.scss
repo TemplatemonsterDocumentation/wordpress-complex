@@ -1,0 +1,29 @@
+.top-panel {
+	&__top,
+	&__bottom {
+		padding-top: 4px;
+		padding-bottom: 4px;
+	}
+}
+.contact-block {
+	&__inner {
+		.site-header & {
+			margin-left: -12px;
+			margin-right: -12px;
+		}
+	}
+	&__item  {
+		.site-header & {
+			padding-left: 12px;
+			padding-right: 12px;
+
+			&:not(:last-child) {
+				border: none;
+			}
+		}
+	}
+	&__icon {
+		font-size: 14px;
+		margin-right: 5px;
+	}
+}

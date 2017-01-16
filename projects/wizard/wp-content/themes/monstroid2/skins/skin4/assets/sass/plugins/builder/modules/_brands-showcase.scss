@@ -1,0 +1,16 @@
+#tm_builder_outer_content {
+	.tm_pb_brands_showcase_module__wrapper {
+		.tm_pb_brands_showcase_module {
+			&__brands {
+				.tm_pb_brands_showcase_module__item{
+					&__wrapper {
+						margin-bottom: 35px;
+					}
+					&__logo {
+						margin-bottom: 15px;
+					}
+				}
+			}
+		}
+	}
+}

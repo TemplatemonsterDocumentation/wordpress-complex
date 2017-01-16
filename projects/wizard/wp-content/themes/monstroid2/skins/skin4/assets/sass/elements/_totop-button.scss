@@ -1,0 +1,12 @@
+#toTop {
+	width: 47px;
+	height: 47px;
+
+	&:before{
+		content: "\f062";
+		font-family: FontAwesome;
+		line-height: 47px;
+		font-size: 24px;
+		width: 100%;
+	}
+}

@@ -1,0 +1,18 @@
+p {
+	margin: 0 0 1em;
+}
+.tm_pb_text {
+	> * {
+		&[style*="justify"] {
+			display: flex;
+			justify-content: space-between;
+
+			span {
+				margin-left: 20px;
+			}
+		}
+	}
+}
+
+@import "headings";
+@import "copy";

@@ -1,0 +1,26 @@
+.subscribe-block {
+	&__form {
+		.after-content-full-width-area & {
+			max-width: 652px
+		}
+	}
+	&__input-wrap {
+		i {
+			display: none;
+		}
+	}
+	&__input[type='email'] {
+		padding-left: 24px;
+		padding-right: 24px;
+		.after-content-full-width-area & {
+			background: #fff;
+			border-color: $color__background-hr;
+			&.error {
+				border-color: $color__not-valid;
+			}
+		}
+	}
+	&__message {
+		margin-bottom: 5px;
+	}
+}

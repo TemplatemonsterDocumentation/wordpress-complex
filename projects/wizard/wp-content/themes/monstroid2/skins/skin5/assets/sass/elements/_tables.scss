@@ -1,0 +1,10 @@
+.entry-content {
+	table th,
+	table td {
+		padding: 2px;
+
+		@include media-breakpoint-up(md) {
+			padding: 5px;
+		}
+	}
+}

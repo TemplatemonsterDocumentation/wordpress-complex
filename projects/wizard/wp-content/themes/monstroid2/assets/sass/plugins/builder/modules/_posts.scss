@@ -1,0 +1,125 @@
+#tm_builder_outer_content {
+
+	.tm_pb_posts.tm_pb_module {
+
+		.tm-posts_title_group {
+
+			.tm-posts_supertitle { }
+
+			.tm-posts_title { }
+
+			.tm-posts_title_divider {
+				max-width: 100%;
+				background: $color__background-hr;
+			}
+
+			.tm-posts_subtitle { }
+
+			> *:last-child {
+				margin-bottom: 40px;
+			}
+
+		}
+
+		.tm-posts_listing { }
+
+		.tm-posts_layout-1,
+		.tm-posts_layout-2 {
+			.tm_pb_column {
+				display: flex;
+			}
+			.tm-posts_item {
+				display: flex;
+				flex-direction: column;
+				justify-content: space-between;
+				width: 100%;
+				max-width: 100%;
+			}
+		}
+
+		.tm-posts_layout-1 {
+			.tm-posts_item {
+				.tm-posts_img img{}
+			}
+		}
+
+		.tm-posts_layout-2 {
+			.tm-posts_item {
+				.posts_item_content_footer {
+					padding-top: 15px;
+					margin-top: 15px;
+					border-top: 1px solid $color__background-hr;
+					@include media-breakpoint-up(lg) {
+						padding-top: 30px;
+						margin-top: 30px;
+					}
+				}
+				.tm-posts_more-btn {
+					margin-top: 15px;
+				}
+			}
+		}
+
+		.tm-posts_layout-3 {
+			.tm-posts_item {
+				margin-bottom: 0;
+				.tm-posts_item_content {
+					display: flex;
+					flex-direction: column;
+					justify-content: flex-end;
+					padding: 30px 20px 20px;
+					@include media-breakpoint-up(xl) {
+						padding: 35px 40px;
+						min-height: 195px;
+					}
+				}
+				.tm-posts_item_title {
+					margin-top: 0;
+					@include media-breakpoint-between(xs, lg) {
+						@include font-size(1);
+					}
+				}
+				.tm-posts_more-btn {
+					margin-top: 10px;
+				}
+			}
+		}
+
+		.tm-posts_item {
+			margin-bottom: 30px;
+			@include media-breakpoint-up(lg) {
+				margin-bottom: 60px;
+			}
+
+			.tm-posts_img {
+				display: block;
+			}
+
+			.tm-posts_item_title {
+				margin-bottom: 5px;
+				margin-top: 25px;
+			}
+
+			.tm-posts_item_meta {
+				padding: 0;
+				> * {
+					margin-left: 0;
+				}
+			}
+
+			.tm-posts_item_excerpt {
+				margin-top: 21px;
+				padding-bottom: 0;
+			}
+			.posts_item_content_footer {
+				margin-top: 15px;
+			}
+
+		}
+		.tm-posts_button_wrap { }
+		.tm-pb-spinner-double-bounce.tm-pb-spinner {
+			margin: -20px 0 0 15px;
+		}
+	}
+
+}

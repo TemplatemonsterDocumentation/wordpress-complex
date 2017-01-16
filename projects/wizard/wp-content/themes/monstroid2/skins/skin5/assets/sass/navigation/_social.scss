@@ -1,0 +1,12 @@
+.social-list {
+	.menu-item {
+		> a {
+			&::before {
+				.site-footer:not(.centered) &,
+				.site-footer & {
+					font-size: 1em;
+				}
+			}
+		}
+	}
+}

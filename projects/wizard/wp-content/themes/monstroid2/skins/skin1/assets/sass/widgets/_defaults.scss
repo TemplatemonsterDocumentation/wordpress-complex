@@ -1,0 +1,18 @@
+.widget-area .widget {
+	ul li + li,
+	ul li > ul li,
+	ul li > ol li{
+		margin-top: 9px;
+	}
+	ul{
+		li{
+			padding-left: 0;
+			&:before, &:after{
+				display: none;
+			}
+		}
+	}
+	&_recent_comments ul li + li{
+		margin-top: 10px;
+	}
+}

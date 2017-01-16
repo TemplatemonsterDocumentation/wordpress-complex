@@ -1,0 +1,9 @@
+.footer-menu {
+	&__items {
+		.menu-item {
+			@include font-size(1);
+			letter-spacing: normal;
+			font-weight: 400;
+		}
+	}
+}

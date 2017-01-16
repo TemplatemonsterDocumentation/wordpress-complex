@@ -1,0 +1,9 @@
+.projects-container{
+	&.masonry-layout{
+		.projects-list{
+			.projects-item{
+				display: inline-block;
+			}
+		}
+	}
+}

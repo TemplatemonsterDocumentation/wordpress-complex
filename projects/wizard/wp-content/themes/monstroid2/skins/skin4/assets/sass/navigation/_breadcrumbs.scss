@@ -1,0 +1,28 @@
+.breadcrumbs {
+	padding: 0;
+
+	&:before {
+		content: none;
+	}
+	.page-title,
+	&__items {
+		margin: 5px 0;
+		padding-left: $grid-gutter-width/2;
+		padding-right: $grid-gutter-width/2;
+	}
+	&__browse {
+		margin-right: .5em;
+	}
+	&__wrap {
+		margin: 0;
+	}
+	&__item {
+		display: inline-block;
+		&-sep {
+			margin: 0 .5em;
+		}
+		&-link {
+			text-decoration: none;
+		}
+	}
+}

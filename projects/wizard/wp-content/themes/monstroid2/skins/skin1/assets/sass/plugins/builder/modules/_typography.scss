@@ -1,0 +1,57 @@
+/*Headings' hr*/
+%before{
+	&:before {
+		display: inline-block;
+		width: 66px;
+		height: 2px;
+		content: '';
+		position: absolute;
+		top: -30px;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+}
+
+
+/*Builder Typography*/
+.tm_pb_text {
+	h4, h4:last-of-type {
+		margin-top: 30px;
+	}
+	h2 {
+		margin-top: 43px;
+		margin-bottom: 37px;
+	}
+	h6:first-child{
+		margin-top: 62px;
+	}
+	h4, h2, h6:first-child {
+		position: relative;
+		@extend %before;
+	}
+	h2:before {
+		top: -42px;
+	}
+	h6:first-child:before {
+		top: -60px
+	}
+	&.tm_pb_text_align_left {
+		h4:before, h2:before, h6:first-child:before {
+			left: 0;
+			transform: translateX(0);
+		}
+	}
+	&.tm_pb_text_align_right {
+		h4:before, h2:before, h6:first-child:before {
+			right: 0;
+			left: auto;
+			transform: translateX(0);
+		}
+	}
+	h4 + h6 {
+		margin-top: 51px;
+	}
+	h6 + p {
+		margin-top: 14px;
+	}
+}

@@ -1,0 +1,21 @@
+hr {
+	.tm_pb_text_align_center & {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.tm_pb_text_align_right & {
+		margin-left: auto;
+	}
+}
+
+#tm_builder_outer_content .tm_pb_module {
+	ul:not([class]) {
+		li {
+			& + li,
+			> ul li,
+			> ol li {
+				margin-top: 2px;
+			}
+		}
+	}
+}

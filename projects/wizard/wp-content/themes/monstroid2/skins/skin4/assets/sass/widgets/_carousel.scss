@@ -1,0 +1,24 @@
+.widget-carousel {
+	.swiper {
+		&-container {
+			.swiper-pagination {
+				width: 100%;
+				margin-top: 25px;
+				position: static;
+			}
+		}
+		&-slide {
+			.post__excerpt {
+				margin: 0.7em 0 1em;
+			}
+			.carousel__more-btn {
+				@include link-to-btn();
+			}
+		}
+		&-button-next.button-next,
+		&-button-prev.button-prev {
+			top: 0;
+			bottom: auto;
+		}
+	}
+}

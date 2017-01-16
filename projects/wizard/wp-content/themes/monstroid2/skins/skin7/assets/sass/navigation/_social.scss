@@ -1,0 +1,9 @@
+.social-list {
+	&__items {
+		.menu-item a:before {
+			.site-footer .social-list & {
+				@include font-size(21/16);
+			}
+		}
+	}
+}

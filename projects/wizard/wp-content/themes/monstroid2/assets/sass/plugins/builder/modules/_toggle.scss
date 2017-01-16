@@ -1,0 +1,39 @@
+#tm_builder_outer_content {
+	.tm_pb_module.tm_pb_toggle {
+		border: none;
+		padding: 20px 0;
+		@include media-breakpoint-up(lg) {
+			padding: 43px 0;
+		}
+		& + .tm_pb_toggle {
+			border-top: 1px solid $color__background-hr;
+		}
+		&.tm_pb_toggle_close,
+		&.tm_pb_toggle_open {
+			transition: .3s linear;
+			.tm_pb_toggle_title {
+				padding: 15px 0 15px 35px;
+				margin: 0;
+
+				&::before {
+					@include linear-icon;
+					@include font-size(1.5);
+					content: "\e93c";
+					transition: .3s ease-in-out;
+					left: 0;
+				}
+			}
+			.tm_pb_toggle_content {
+				padding: 10px 0;
+			}
+		}
+		&.tm_pb_toggle_open {
+			.tm_pb_toggle_title::before {
+				transform: rotate(90deg);
+			}
+		}
+		&.tm_pb_toggle_close {
+			background-color: transparent;
+		}
+	}
+}

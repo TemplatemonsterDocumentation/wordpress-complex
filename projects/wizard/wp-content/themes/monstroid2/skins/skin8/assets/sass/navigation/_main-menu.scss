@@ -1,0 +1,19 @@
+.main-navigation .menu {
+	@media (min-width: 768px) {
+	> li > a {
+			@include font-size(1);
+			line-height: 1;
+			padding: 0;
+		}
+
+	> li.menu-item-has-children > a::after {
+			top: 50%;
+			transform: translateY(-50%);
+		}
+
+	}
+	a {
+		text-transform: none;
+		font-weight: 600;
+	}
+}

@@ -1,0 +1,8 @@
+.sticky {
+	&__label {
+		margin-top: 6px;
+		.posts-list--default & {
+			margin-top: 12px;
+		}
+	}
+}

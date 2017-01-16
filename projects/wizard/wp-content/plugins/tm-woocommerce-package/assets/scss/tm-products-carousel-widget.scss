@@ -1,0 +1,19 @@
+.tm_products_carousel_widget{
+	font-size: 1em !important;
+	.tm-products-carousel-widget-container{
+		.tm-products-carousel-widget-wrapper{
+			min-height: inherit;
+			justify-content: flex-start;
+		}
+		.tm-products-carousel-widget-slide {
+			float: none;
+			.wp-post-image {
+				max-width: 100%;
+			}
+			.product-widget-categories,
+			.product-widget-tags{
+				margin: 0 0 10px;
+			}
+		}
+	}
+}

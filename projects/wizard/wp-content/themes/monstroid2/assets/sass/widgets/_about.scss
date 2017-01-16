@@ -1,0 +1,21 @@
+.widget-about {
+	.full-width-header-area &,
+	.after-content-full-width-area & {
+		padding-left: $grid-gutter-width/2;
+		padding-right: $grid-gutter-width/2;
+	}
+	&__logo-img {
+		vertical-align: top;
+	}
+	&__content {
+		> *:first-child {
+			margin-top: 10px;
+		}
+	}
+	&__tagline {
+		@include font-size(.75);
+	}
+	&__social {
+		margin-top: 15px;
+	}
+}

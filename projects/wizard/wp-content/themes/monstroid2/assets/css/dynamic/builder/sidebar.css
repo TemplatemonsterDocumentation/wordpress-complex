@@ -1,0 +1,9 @@
+#tm_builder_outer_content .tm_pb_widget_area .widget-title{
+	font-style: $h5_font_style;
+	font-weight: $h5_font_weight;
+	font-size: $h5_font_size{px};
+	line-height: $h5_line_height;
+	font-family: @font_family( $h5_font_family );
+	letter-spacing: $h5_letter_spacing{em};
+	color: $regular_h5_color;
+}

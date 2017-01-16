@@ -1,0 +1,27 @@
+.header-container {
+	@include media-breakpoint-up(md) {
+		padding: 16px 0;
+	}
+	.site-header.default &,
+	.site-header.style-4 & {
+		&, &.invert {
+			&:after {
+				content: none;
+			}
+		}
+	}
+	.site-header.style-5 & {
+		padding: 25px 0;
+
+		&.transparent {
+			box-shadow: none;
+		}
+	}
+	.site-header:not(.style-5) & {
+		&.transparent {
+			@include media-breakpoint-up(md) {
+				padding: 70px 0;
+			}
+		}
+	}
+}

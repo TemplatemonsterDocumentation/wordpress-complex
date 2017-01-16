@@ -1,0 +1,29 @@
+.social-list__items{
+	.menu-item{
+		position: relative;
+
+		&:before {
+			display: inline-block;
+			content: '';
+			position: absolute;
+			bottom: -20px;
+			left: 50%;
+			transform: translateX(-50%);
+			width: 30px;
+			height: 2px;
+			transition: .3s;
+			opacity: 0;
+		}
+
+		&:hover {
+			&:before {
+				bottom: -13px;
+				opacity: 1;
+			}
+		}
+	}
+}
+
+.share-btns__link{
+	@include font-size(1.25);
+}

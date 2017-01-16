@@ -1,0 +1,14 @@
+.site-footer {
+	@include font-size(1);
+	line-height: 1.5;
+}
+
+.footer-container {
+	.site-footer.style-2 & {
+		padding-top: 80px;
+		padding-bottom: 80px;
+	}
+}
+
+@import "footer/layout-default";
+@import "footer/layout-style-2";

@@ -1,0 +1,18 @@
+{
+	"id": "video-tutorial",
+	"translations": {
+		"en": "Video Tutorials",
+		"ru": "Video Tutorials"
+	},
+	"articles": {
+		"monstroid_2": [
+			{
+				"id": "video-1",
+				"translations": {
+					"en": "Installation",
+					"ru": "Installation"
+				}
+			}
+		]
+	}
+}

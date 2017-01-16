@@ -1,0 +1,14 @@
+.share-btns {
+	&__item {
+		padding-left: 6px;
+		padding-right: 6px;
+
+		@include media-breakpoint-up(lg) {
+			padding-left: 10px;
+			padding-right: 10px;
+		}
+	}
+	&__link, .single &__link {
+		@include font-size(18/16);
+	}
+}

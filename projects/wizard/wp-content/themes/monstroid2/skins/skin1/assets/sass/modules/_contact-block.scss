@@ -1,0 +1,47 @@
+.contact-block {
+	.site-header & {
+		&__inner {
+			margin-left: -20px;
+			margin-right: -20px;
+			.site-header & {
+				@include media-breakpoint-up(md) {
+					margin-left: -10px;
+					margin-right: -10px;
+				}
+				@include media-breakpoint-up(xl) {
+					margin-left: -13px;
+					margin-right: -13px;
+				}
+			}
+		}
+		&__item {
+			padding: 5px 13px;
+
+			&:not(:last-child) {
+				border-right: none;
+			}
+
+			.site-header & {
+				@include media-breakpoint-up(md) {
+					padding: 5px 10px;
+				}
+				@include media-breakpoint-up(xl) {
+					padding: 5px 13px;
+				}
+			}
+		}
+	}
+	.site-footer .invert & {
+		&__item {
+			@include media-breakpoint-up(lg) {
+				&:not(:last-child) {
+					border-right-color: rgba($color__background-hr, 0.2);
+				}
+			}
+		}
+	}
+}
+
+.contact-block__icon {
+	@include font-size(1.25);
+}

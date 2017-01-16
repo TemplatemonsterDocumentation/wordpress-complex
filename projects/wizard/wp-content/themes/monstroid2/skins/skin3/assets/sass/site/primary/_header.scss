@@ -1,0 +1,32 @@
+@import "header/layout-default";
+@import "header/layout-style-2";
+@import "header/layout-style-3";
+@import "header/layout-style-4";
+@import "header/layout-style-5";
+@import "header/layout-style-6";
+@import "header/layout-style-7";
+@import "header/top-panel";
+@import "header/logo";
+
+.site-header.default,
+.site-header.style-4 {
+	.header-container:after {
+		border-color: transparent;
+	}
+
+	.header-container:not(.transparent):after {
+		z-index: -1;
+		box-shadow: 0 -2px 14px 0 rgba(0, 0, 0, 0.4);
+	}
+}
+
+.header-icons.divider > *:not(.header-btn) {
+	padding-left: 28px;
+	padding-right: 30px;
+}
+
+@include media-breakpoint-up(md) {
+	.site-header .main-navigation.mobile-menu {
+		background-color: transparent;
+	}
+}

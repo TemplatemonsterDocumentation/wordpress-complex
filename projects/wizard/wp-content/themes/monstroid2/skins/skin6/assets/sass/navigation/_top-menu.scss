@@ -1,0 +1,7 @@
+.top-panel__menu {
+	&-list {
+		.menu-item {
+			@include font-size(1);
+		}
+	}
+}

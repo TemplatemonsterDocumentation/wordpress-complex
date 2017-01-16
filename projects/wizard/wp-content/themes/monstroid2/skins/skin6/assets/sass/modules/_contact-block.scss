@@ -1,0 +1,31 @@
+.contact-block {
+	&__inner {
+
+	}
+	&__item {
+		.site-footer.style-2 & {
+			padding-top: 0;
+			padding-bottom: 0;
+		}
+	}
+	&__value-wrap {
+		.site-footer & {
+			font-style: italic;
+		}
+	}
+	&__icon {
+
+	}
+	&__text {
+
+	}
+	&__label {
+
+	}
+	&__text,
+	&__label {
+		.site-header & {
+			@include font-size(1);
+		}
+	}
+}

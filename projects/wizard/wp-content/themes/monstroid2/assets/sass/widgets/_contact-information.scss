@@ -1,0 +1,21 @@
+.contact-information-widget{
+	.full-width-header-area &,
+	.after-content-full-width-area & {
+		padding-left: $grid-gutter-width/2;
+		padding-right: $grid-gutter-width/2;
+	}
+	&__inner{
+		li{
+			margin-left:0;
+			.icon{
+				@include font-size(1.5);
+				line-height: 1;
+				margin-right: 13px;
+			}
+			&.contact-information__item--icon {
+				display: flex;
+				align-items: center;
+			}
+		}
+	}
+}

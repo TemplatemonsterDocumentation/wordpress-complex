@@ -1,0 +1,146 @@
+.bbp-user-page {
+	#bbpress-forums .bbp-replies .even.type-reply.hentry {
+		margin-left: 0;
+		.bbp-admin-links {
+			display: block;
+			float: none;
+		}
+	}
+}
+
+.bbpress {
+	.bbp-submit-wrapper {
+		display: flex;
+		align-items: flex-end;
+		#bbp-cancel-reply-to-link {
+			margin-right: 10px;
+		}
+	}
+
+	#bbpress-forums .bbp-replies {
+		border: none;
+		overflow: visible;
+
+		.even, .odd {
+			width: auto;
+			&.status-trash, &.status-spam {
+				background: transparent;
+				.bbp-reply-content {
+					background: lighten($color__not-valid, 20%);
+					&::before {
+						border-color: transparent lighten($color__not-valid, 20%) transparent transparent;
+					}
+				}
+			}
+
+			&.type-reply {
+				margin-left: 0;
+
+				@include media-breakpoint-up(sm) {
+					margin-left: 40px;
+				}
+
+				@include media-breakpoint-up(md) {
+					margin-left: 100px;
+				}
+
+				& + .bbp-threaded-replies {
+					margin-left: 0;
+
+					@include media-breakpoint-up(sm) {
+						margin-left: 40px;
+					}
+
+					@include media-breakpoint-up(md) {
+						margin-left: 110px;
+					}
+				}
+			}
+		}
+
+		.bbp-reply-author {
+			@media (max-width: 544px) {
+				width: 60px;
+				position: absolute;
+				text-align: center;
+			}
+
+			@media (max-width: 479px) {
+				margin: 0;
+				min-height: auto;
+				padding-left: 0;
+			}
+
+			img {
+				border-radius: 50%;
+				margin-top: 0;
+				position: relative;
+				top: auto;
+				left: auto;
+			}
+
+			.bbp-author-name {
+				margin: 0;
+				display: inline-block;
+			}
+		}
+
+		.bbp-reply-content {
+			position: relative;
+			padding: 20px 15px;
+			margin-left: 130px;
+			@media (max-width: 479px) {
+				margin-left: 80px;
+			}
+
+			@include media-breakpoint-up(sm) {
+				padding: 30px 35px;
+			}
+
+			.bbp-reply-post-date {
+				@include font-size(0.75);
+				margin-right: 4px;
+			}
+
+			p {
+				@include font-size(0.875);
+				margin-top: 3px;
+				margin-bottom: 0;
+				& + * {
+					margin-top: 15px;
+				}
+			}
+
+			.bbp-admin-links {
+				float: none;
+				display: block;
+				@include media-breakpoint-up(lg) {
+					float: right;
+				}
+
+				a {
+					@include font-size(0.75);
+					text-transform: none;
+					font-style: italic;
+					margin: 0 5px;
+					&:first-child {
+						margin-left: 0;
+					}
+				}
+			}
+
+			.bbp-reply-permalink {
+				float: right;
+				margin: 0 0 0 5px;
+			}
+
+			&::before {
+				content: '';
+				@include triangle(left, 12px, 24px, transperent);
+				position: absolute;
+				left: -12px;
+				top: 24px;
+			}
+		}
+	}
+}

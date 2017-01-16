@@ -1,0 +1,50 @@
+.site-header.style-4 {
+	@media (min-width: 768px) {
+		.header-container__flex {
+			justify-content: flex-start;
+			> *:not(.btn) {
+				margin-left: 0;
+				margin-right: 0;
+				padding-left: 15px;
+				padding-right: 34px;
+			}
+
+			.main-navigation {
+				@media (min-width: 1200px) {
+					margin-bottom: 0;
+					padding-left: 29px;
+
+					.menu {
+						margin-left: -9px;
+						margin-right: -9px;
+						> li {
+							margin-right: 9px;
+							margin-left: 9px;
+						}
+					}
+				}
+			}
+		}
+
+		.site-branding {
+			@media (min-width: 1200px) {
+				border-right: 1px solid rgba($color__brand-border, 0.1);
+			}
+		}
+
+		.main-navigation {
+			.menu {
+				justify-content: flex-start;
+			}
+		}
+		.header-container:after {
+			border-bottom: none;
+		}
+	}
+	@media (min-width: 1200px) {
+		.header-container_wrap.container,
+		.top-panel__container.container {
+			max-width: inherit;
+		}
+	}
+}

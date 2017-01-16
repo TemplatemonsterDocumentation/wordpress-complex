@@ -1,0 +1,22 @@
+.site-header.default {
+	.header-container {
+		&:after {
+			border-color: $color__lighter-gray;
+		}
+		&.header-btn-visibility {
+			@include media-breakpoint-up(lg) {
+				padding: 16px 0;
+			}
+		}
+	}
+	.site-branding {
+		@include media-breakpoint-up(lg) {
+			margin-top: 14px;
+		}
+	}
+	.main-navigation {
+		@include media-breakpoint-up(lg) {
+			margin-top: 12px;
+		}
+	}
+}

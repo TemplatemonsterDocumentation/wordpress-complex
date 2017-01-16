@@ -1,0 +1,33 @@
+/* #ToTop button */
+#toTop {
+	color: $invert_text_color;
+	background-color: $regular_accent_color_1;
+}
+#toTop:hover {
+	background-color: $regular_accent_color_2;
+}
+
+/* #Magnific Popup*/
+.mfp-iframe-holder .mfp-close ,
+.mfp-image-holder .mfp-close {
+	color: @lighten($regular_text_color, 25%);
+}
+
+.mfp-iframe-holder .mfp-close:hover,
+.mfp-image-holder .mfp-close:hover{
+	color: $regular_accent_color_2;
+}
+
+.mfp-iframe-holder .mfp-arrow:before,
+.mfp-iframe-holder .mfp-arrow:after,
+.mfp-image-holder .mfp-arrow:before,
+.mfp-image-holder .mfp-arrow:after{
+	background: @lighten($regular_text_color, 25%);
+}
+
+.mfp-iframe-holder .mfp-arrow:hover:before,
+.mfp-iframe-holder .mfp-arrow:hover:after,
+.mfp-image-holder .mfp-arrow:hover:before,
+.mfp-image-holder .mfp-arrow:hover:after{
+	background: $regular_accent_color_2;
+}

@@ -1,0 +1,9 @@
+#tm_builder_outer_content {
+	.tm_pb_map_container.tm_pb_module {
+		.tm_pb_map {
+			@include media-breakpoint-up(xl) {
+				height: 621px;
+			}
+		}
+	}
+}

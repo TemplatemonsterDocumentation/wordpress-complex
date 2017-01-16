@@ -1,0 +1,9 @@
+.site-footer.default .site-info .footer-logo ~ .site-info__bottom,
+.site-footer.default .site-info .footer-menu ~ .site-info__bottom {
+	margin-top: 7px;
+	padding-top: 10px;
+	border-color: $color__white-alpha;
+}
+.contact-block__item:not(:last-child) {
+	border-color: $color__white-alpha;
+}

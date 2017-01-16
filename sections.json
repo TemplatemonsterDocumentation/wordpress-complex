@@ -1580,6 +1580,35 @@
 		"widgets",
 		"woocommerce-integration",
 		"plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"third-party-plugins",
+		"video-tutorial",
+		"extras"
+	],
+	"stylefactory": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"woocommerce-integration",
+		"plugins",
+		"third-party-plugins",
+		"extras"
+	],
+	"hardwire": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"woocommerce-integration",
+		"plugins",
 		"third-party-plugins",
 		"extras"
 	]

@@ -1,0 +1,19 @@
+.widget {
+	margin-bottom: 20px;
+
+	@include media-breakpoint-up(sm) {
+		margin-bottom: 50px;
+	}
+
+	@include media-breakpoint-up(lg) {
+		margin-bottom: 70px;
+	}
+}
+
+#tm_builder_outer_content .tm_pb_widget_area:not(.tm_pb_widget_area_left) .widget-title {
+	text-align: center;
+}
+
+.widget.contact-information-widget a[href*="mailto:"] {
+	text-decoration: underline;
+}

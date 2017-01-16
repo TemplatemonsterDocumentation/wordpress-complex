@@ -1,0 +1,21 @@
+#tm_builder_outer_content {
+
+	.tm_pb_contact_form {
+
+		.tm_contact_bottom_container {
+			text-align: center;
+		}
+
+		&_label {
+			@include font-size(1);
+		}
+	}
+	.tm_pb_contact_submit {
+		margin-top: 30px;
+	}
+
+	.tm_pb_contact_form .tm-pb-contact-message {
+		@include font-size(1);
+		@include border-radius;
+	}
+}

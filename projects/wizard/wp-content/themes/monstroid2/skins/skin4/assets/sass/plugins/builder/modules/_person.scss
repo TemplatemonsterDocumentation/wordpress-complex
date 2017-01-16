@@ -1,0 +1,11 @@
+#tm_builder_outer_content {
+	.tm_pb_team_member.tm_pb_module {
+		.tm_pb_team_member_top {
+			&:hover {
+				&:before {
+					opacity: 0.7;
+				}
+			}
+		}
+	}
+}

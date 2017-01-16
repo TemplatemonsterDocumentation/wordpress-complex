@@ -1,0 +1,15 @@
+#tm_builder_outer_content {
+	.tm_pb_blog.tm_pb_module {
+		.tm_pb_post {
+			@include media-breakpoint-up(xl) {
+				margin-bottom: 84px;
+			}
+		}
+		.more-link {
+			display: inline-block;
+			font-weight: 700;
+			&, &:hover { text-decoration: underline; }
+			
+		}
+	}
+}

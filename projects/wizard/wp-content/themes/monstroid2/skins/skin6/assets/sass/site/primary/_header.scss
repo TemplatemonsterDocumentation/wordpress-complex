@@ -1,0 +1,36 @@
+.header-container {
+	padding: 35px 0;
+	position: relative;
+
+	.site-header.default &,
+	.site-header.style-3 &,
+	.site-header.style-4 &,
+	.site-header.style-6 &,
+	.site-header.style-7 & {
+		&,
+		&.header-btn-visibility {
+			@include media-breakpoint-up(md) {
+				padding: 40.5px 0;
+			}
+		}
+	}
+
+	.site-header.style-5 & {
+		padding: 20px 0;
+		&.header-btn-visibility {
+			@include media-breakpoint-up(md) {
+				padding: 5px 0;
+			}
+		}
+	}
+
+	.site-header.default &,
+	.site-header.style-4 & {
+		&:after {
+			content: none;
+		}
+	}
+}
+
+@import "header/top-panel";
+@import "header/logo";

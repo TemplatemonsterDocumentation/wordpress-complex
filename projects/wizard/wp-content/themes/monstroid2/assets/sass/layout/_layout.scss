@@ -1,0 +1,10 @@
+.site {
+	.container {
+		&.site-header,
+		&.site-content,
+		&.site-footer {
+			padding-left: 0;
+			padding-right: 0;
+		}
+	}
+}

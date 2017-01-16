@@ -1,0 +1,30 @@
+.custom-posts {
+	.entry {
+		&-title {
+			.sidebar &,
+			.tm_pb_column_1_3 &,
+			.tm_pb_column_1_4 &,
+			.footer-area:not(.footer-area--fullwidth) & {
+				font-size: 1rem;
+				line-height: 1.2;
+			}
+		}
+		&-footer {
+			margin-top: 20px;
+
+			.link {
+				margin-top: 15px;
+
+				i {
+					display: none;
+				}
+			}
+		}
+	}
+	.post-thumbnail {
+		&__link {
+			display: inline-block;
+			vertical-align: middle;
+		}
+	}
+}

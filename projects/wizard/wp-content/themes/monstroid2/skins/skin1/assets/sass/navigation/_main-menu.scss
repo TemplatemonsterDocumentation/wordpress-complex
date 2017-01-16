@@ -1,0 +1,10 @@
+.main-navigation .menu {
+	> li {
+		> a {
+			@include media-breakpoint-up(md) {
+				@include font-size(.875);
+
+			}
+		}
+	}
+}

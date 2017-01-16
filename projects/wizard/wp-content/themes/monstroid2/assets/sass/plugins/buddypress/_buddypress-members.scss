@@ -1,0 +1,84 @@
+.buddypress.members #buddypress,
+.buddypress.groups #buddypress {
+
+	.pag-count {
+		margin: 10px 0;
+		@include media-breakpoint-up(sm) {
+			margin: 27px 0 32px;
+		}
+	}
+
+	#pag-bottom {
+		padding-top: 23px;
+	}
+
+	.action {
+		text-align: right;
+		margin-left: 0;
+
+		.friendship-button {
+			border: none;
+			padding: 0;
+			&:hover {
+				background: transparent;
+			}
+		}
+	}
+
+	#members-list {
+		li {
+			padding-top: 73px;
+			padding-bottom: 73px;
+
+			.item-avatar {
+				img {
+					border-radius: 50%;
+					margin: 0 33px 0 0;
+				}
+			}
+
+			.item {
+				padding-top: 0;
+				margin-left: 0;
+				@include media-breakpoint-up(sm) {
+					padding-top: 7px;
+				}
+
+				&-title {
+					@include font-size(1.125);
+					width: 100%;
+					span {
+						@include font-size(1.125);
+					}
+				}
+
+				&-meta {
+					margin-left: 83px;
+					span {
+						@include font-size(0.75);
+						font-style: italic;
+						opacity: 1;
+					}
+				}
+
+				.activity-read-more a {
+					letter-spacing: 0.72px;
+					text-transform: uppercase;
+					@include font-size(0.75);
+					line-height: 18px;
+					font-weight: 600;
+					&::after {
+						content: "\e944";
+						@include font-size(0.875);
+						margin-left: 5px;
+						@include linear-icon;
+						position: relative;
+						top: 1px;
+					}
+				}
+			}
+
+		}
+	}
+
+}

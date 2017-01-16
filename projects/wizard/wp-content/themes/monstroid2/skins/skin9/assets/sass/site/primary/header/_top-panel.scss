@@ -1,0 +1,18 @@
+.site-header.style-6 {
+	.top-panel {
+		&__top,
+		&__bottom {
+			border-bottom: none;
+			padding: 20px 0 5px;
+		}
+	}
+
+	&.transparent {
+		.top-panel {
+			&__top,
+			&__bottom {
+				padding: 5px 0;
+			}
+		}
+	}
+}

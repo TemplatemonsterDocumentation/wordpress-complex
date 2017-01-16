@@ -1,0 +1,254 @@
+.single .post {
+	.entry-header, .entry-meta {
+		text-align: center;
+	}
+
+	h3.entry-title {
+		@include before;
+	}
+
+}
+
+.share-btns__link {
+	position: relative;
+
+	&:before {
+		display: inline-block;
+		content: '';
+		position: absolute;
+		bottom: -20px;
+		left: 50%;
+		transform: translateX(-50%) translateZ(0);
+		width: 30px;
+		height: 2px;
+		transition: .3s;
+		opacity: 0;
+	}
+
+	&:hover {
+		&:before {
+			bottom: -13px;
+			opacity: 1;
+		}
+	}
+}
+
+.post-author-bio {
+	margin-bottom: 0;
+	padding-bottom: 60px;
+	border: none;
+	position: relative;
+
+	&:before {
+		display: inline-block;
+		content: '';
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: -100%;
+		right: -100%;
+		background-color: white;
+		z-index: -1;
+	}
+}
+
+.position-one-left-sidebar,
+.position-one-right-sidebar{
+	.post-author-bio:before{
+		left: 0;
+		right: 0;
+	}
+}
+
+.comments-area {
+	border: none;
+}
+
+.comment-content-wrap {
+	padding: 0;
+
+	&:before {
+		display: none;
+	}
+}
+
+/*Make image in post fullwidth while single post*/
+$single_post_image_width: 26%;
+.blog-default.position-fullwidth.single-post .post {
+	@media (min-width: 1200px) {
+		.post-thumbnail__img {
+			width: auto;
+		}
+		img:not(.swiper-image) {
+			margin-left: -$single_post_image_width;
+			margin-right: -$single_post_image_width;
+			max-width: calc(100% + #{$single_post_image_width} * 2);
+		}
+		a[data-popup="magnificPopup"], .mini-gallery a {
+			overflow: hidden;
+			&:before {
+				left: -26%;
+				right: -26%;
+			}
+		}
+
+	}
+}
+
+@media (min-width: 1200px) {
+	.single-format-gallery .entry-content .post-gallery:first-child {
+		margin-left: -26%;
+		margin-right: -26%;
+	}
+}
+
+@media (min-width: 1200px) {
+	.position-one-right-sidebar .site-content_wrap .sidebar {
+		padding-left: 1.5625rem;
+		&:before {
+			display: none;
+		}
+	}
+
+	.position-one-left-sidebar .site-content_wrap .sidebar {
+		padding-right: 1.5625rem;
+		&:before {
+			display: none;
+		}
+	}
+}
+
+.blog .post-list__item-content {
+	background-color: $color__background-input;
+}
+
+.posts-list--default {
+	.posts-list__item {
+		.entry-header {
+			padding-top: 30px;
+			padding-bottom: 30px;
+		}
+		.entry-meta {
+			margin-bottom: 0;
+			margin-top: 0;
+		}
+	}
+
+}
+
+.post-list__item-content {
+	height: 100%;
+
+	.format-quote &,
+	.format-link &{
+		height: auto;
+	}
+	.post-thumbnail {
+		padding-bottom: 15px;
+	}
+
+	> [class*="entry-"] {
+		padding-left: 30px;
+		padding-right: 30px;
+		padding-top: 15px;
+		margin: 0;
+		&:last-child {
+			padding-bottom: 15px;
+		}
+	}
+
+	&:not(.posts-list--default) .entry-content > *:first-child {
+		margin-top: 0;
+	}
+
+	.post-thumbnail--fullwidth {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+}
+
+.posts-list:not(.posts-list--default) {
+	.posts-list__item {
+		.entry-footer {
+			background-color: $color__background-input;
+			padding: 0 30px 30px;
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			> * {
+				margin-top: 0;
+			}
+		}
+		.entry-meta {
+			margin-left: -10px;
+			margin-right: -10px;
+		}
+	}
+}
+
+.posts-list--default {
+	.hentry + .hentry {
+		border-top: none;
+		padding-top: 0;
+	}
+}
+
+.format-link .post-featured-content {
+	text-align: left;
+}
+
+.post-format-quote {
+	text-align: left;
+	max-width: none;
+}
+
+.single .format-quote .entry-content blockquote > *{
+	max-width: none;
+}
+
+.post-format-link {
+	@include font-size(1.125);
+}
+
+.single .format-link .post-featured-content .entry-title:before {
+	display: none;
+}
+
+.format-audio .post-featured-content,
+.format-link .post-featured-content,
+.format-quote .post-featured-content {
+	border-radius: 0;
+}
+
+
+.posts-list--default:not(.featured-image--small) .format-video .post-featured-content,
+.posts-list--default:not(.featured-image--small) .format-audio .post-featured-content {
+	margin: 0;
+}
+
+.post-gallery {
+	margin-bottom: 0;
+}
+
+.post-featured-content {
+	margin-bottom: 0;
+}
+
+.comment-navigation .nav-previous > a,
+.comment-navigation .nav-next > a,
+.posts-navigation .nav-previous > a,
+.posts-navigation .nav-next > a,
+.post-navigation .nav-previous > a,
+.post-navigation .nav-next > a{
+	@include font-size(1);
+	font-weight: bold;
+}
+
+.single .related-posts{
+	border-top:none;
+}
+
+/*--------------------------------------------------------------
+### Sticky Post
+--------------------------------------------------------------*/
+@import "sticky";

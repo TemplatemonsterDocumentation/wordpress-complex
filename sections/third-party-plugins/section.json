@@ -2483,6 +2483,80 @@
 				
 				}
 			}
+		],
+		"stylefactory": [
+			
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+
+			},
+			{
+				"id": "motopress-slider",
+				"translations": {
+					"en": "MotoPress Slider",
+					"ru": "Слайдер MotoPress"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+			
+				}
+			},
+			{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+				}
+			},
+			{	
+				"id": "bne-testimonials-plugin",
+				"translations": {
+					"en": "BNE Testimonials",
+					"ru": "Виджет Testimonials"
+				}
+			}
+		],
+		"hardwire": [
+			
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+
+			},
+			{
+				"id": "motopress-slider",
+				"translations": {
+					"en": "MotoPress Slider",
+					"ru": "Слайдер MotoPress"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+			
+				}
+			},
+			{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+			
+				}
+			}
 		]
 	}
 }

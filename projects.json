@@ -803,8 +803,20 @@
 	},
 	"monstroid_2": {
 		"textLogo": "",
-		"title": "Monstroid 2",
-		"titleCaption": "Wordpress Theme",
+		"title": "Monstroid&sup2;",
+		"titleCaption": "New Wordpress Themes Generation.",
+		"author": ""
+	},
+	"stylefactory": {
+		"textLogo": "",
+		"title": "Stylefactory",
+		"titleCaption": "Woocommerce Theme",
+		"author": ""
+	},
+	"hardwire": {
+		"textLogo": "",
+		"title": "Hardwire",
+		"titleCaption": "Woocommerce Theme",
 		"author": ""
 	}
 

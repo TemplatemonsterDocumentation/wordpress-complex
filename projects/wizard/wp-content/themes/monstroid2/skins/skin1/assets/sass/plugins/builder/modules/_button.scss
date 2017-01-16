@@ -1,0 +1,15 @@
+/*Button*/
+#tm_builder_outer_content .tm_pb_module .tm_pb_button.tm_pb_custom_button_icon.tm_pb_icon_right,
+#tm_builder_outer_content .tm_pb_module .tm_pb_button.tm_pb_custom_button_icon.tm_pb_icon_left,
+#tm_builder_outer_content .tm_pb_module.tm_pb_promo .tm_pb_button.tm_pb_custom_button_icon.tm_pb_icon_right,
+#tm_builder_outer_content .tm_pb_module.tm_pb_promo .tm_pb_button.tm_pb_custom_button_icon.tm_pb_icon_left
+#tm_builder_outer_content .tm_pb_module .tm_pb_module.tm_pb_promo .tm_pb_button,
+#tm_builder_outer_content .tm_pb_module .tm_pb_button{
+	@include font-size(0.875);
+	font-weight: 400;
+	letter-spacing: 0.06em;
+	padding: 22px 37.5px;
+	&:hover{
+		padding: 22px 37.5px !important;
+	}
+}

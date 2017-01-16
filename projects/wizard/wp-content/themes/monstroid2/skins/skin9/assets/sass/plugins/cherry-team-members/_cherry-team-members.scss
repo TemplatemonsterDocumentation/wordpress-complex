@@ -1,0 +1,41 @@
+.cherry-team {
+	.team {
+		&-single-item {
+			text-align: center;
+		}
+
+		&-photo,
+		&-meta {
+			float: none;
+		}
+
+		&-name {
+			margin-bottom: 5px;
+		}
+
+		&-photo {
+			padding: 0;
+			margin-bottom: 50px;
+			img {
+				border-radius: 50%;
+			}
+		}
+
+		&-meta_item {
+			&::before {
+				display: none;
+			}
+		}
+
+		&-content {
+			text-align: left;
+		}
+	}
+}
+
+.single-team {
+	.site-content_wrap {
+		margin-top: 0;
+	}
+}
+

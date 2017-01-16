@@ -1,0 +1,20 @@
+.post {
+	&-author {
+		&__avatar {
+			.avatar {
+				@include media-breakpoint-up(md) {
+					width: 100px;
+				}
+				@include media-breakpoint-up(lg) {
+					width: auto;
+				}
+			}
+		}
+		&__title,
+		&__content {
+			@include media-breakpoint-up(md) {
+				overflow: hidden;
+			}
+		}
+	}
+}

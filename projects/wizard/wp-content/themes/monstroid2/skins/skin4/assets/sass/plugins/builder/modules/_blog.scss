@@ -1,0 +1,36 @@
+#tm_builder_outer_content {
+	.tm_pb_blog.tm_pb_module {
+		.tm_pb_post {
+			margin-bottom: 50px;
+
+			.tm_pb_image_container {
+				margin-bottom: 0.25em;
+
+				&.has-post-thumbnail {
+					margin-bottom: 1.5em;
+				}
+			}
+			&_meta {
+				.avatar {
+					border-radius: 50%;
+				}
+			}
+
+			&_content {
+				margin-top: 18px;
+			}
+
+			.tm_pb_post_meta {
+				margin-top: 20px;
+			}
+
+			.post-btn {
+				margin-top: 23px;
+			}
+			.post-featured-content {
+				margin: 0;
+				padding: 0;
+			}
+		}
+	}
+}

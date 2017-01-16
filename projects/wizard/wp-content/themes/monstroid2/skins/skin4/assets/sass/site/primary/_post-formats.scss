@@ -1,0 +1,47 @@
+.format {
+	/* Link */
+	&-link {
+		&.post .post-featured-content {
+			padding: 0 0 30px;
+			text-align: left;
+			background: none;
+
+			.post-format-link {
+				@include font-size(14/16);
+				font-weight: 700;
+
+				&:before {
+					content: '\E250';
+					@include font-size(24/16);
+					font-family:'Material Icons';
+				}
+			}
+		}
+	}
+	/* quote */
+	&-quote {
+		.post-featured-content {
+			padding: 0;
+			margin-bottom: 30px;
+		}
+		.post-format-quote, .single & .entry-content blockquote > * {
+			max-width: none;
+		}
+	}
+	&-audio {
+		.post-featured-content, .posts-list--default.featured-image--small & .post-featured-content {
+			margin: 20px 0 30px;
+			padding: 0;
+		}
+	}
+}
+
+/* Image pop-up */
+a[data-popup="magnificPopup"],
+.mini-gallery a {
+	&:hover {
+		&:before {
+			opacity: 0.5;
+		}
+	}
+}

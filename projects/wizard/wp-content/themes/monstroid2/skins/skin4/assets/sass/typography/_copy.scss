@@ -1,0 +1,12 @@
+p {
+	&:last-child {
+		margin-bottom: 0;
+	}
+
+	.single .post > .entry-content > &:first-of-type:first-letter{
+		float: none;
+		margin: 0;
+		padding: 0;
+		background: none;
+	}
+}

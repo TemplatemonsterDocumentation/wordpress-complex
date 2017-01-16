@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+h1 {
+  font-family: "Montserrat", sans-serif;
+  color: #42424c;
+  text-transform: capitalize; }
+
+h2 {
+  color: #42424c; }
+
+h3 {
+  color: #42424c; }
+
+h4 {
+  color: #42424c; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #e8e9ed;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/hardwire/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 90px;
+  font-weight: 400;
+  top: 51px;
+  color: #42424c; }
+
+.tm-title-caption {
+  font-size: 25px;
+  top: 171px;
+  font-family: "Montserrat", sans-serif;
+  color: #42424c;
+  line-height: 36px;
+  width: 430px; }
+
+.rd-mobilemenu .logo {
+  background-color: #ffffff; }
+
+.toTop {
+  background-color: #42424c; }
+  .toTop:hover {
+    background: #717183; }
+
+.bold_text {
+  font-weight: 600; }
+
+.it_text {
+  font-weight: 400;
+  font-style: italic; }
+
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 5px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 125px;
+    text-align: left; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .tm-title-caption {
+    width: 300px; } }

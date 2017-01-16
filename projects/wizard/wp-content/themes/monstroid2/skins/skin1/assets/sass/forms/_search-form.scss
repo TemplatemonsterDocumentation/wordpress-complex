@@ -1,0 +1,14 @@
+.search-form {
+	&__field[type='search'] {
+		.site-header & {
+			@include font-size(1);
+		}
+	}
+
+	&__submit {
+		.site-header &,
+		.site-header .invert &{
+			align-self: center;
+		}
+	}
+}

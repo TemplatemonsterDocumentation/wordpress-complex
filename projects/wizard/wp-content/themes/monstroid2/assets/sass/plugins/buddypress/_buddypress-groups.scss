@@ -1,0 +1,391 @@
+.buddypress.groups #buddypress {
+
+	.group-create {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+
+	#header-cover-image {
+		position: relative;
+		top: auto;
+		left: auto;
+	}
+
+	.item-list.single-line li {
+		padding: 20px 0;
+	}
+
+	.bp-widget ul#members-list li {
+		padding: 25px 0;
+	}
+
+	.small a {
+		padding: 0;
+		border: none;
+		font-style: italic;
+		@include font-size(0.75);
+		& + a {
+			margin-left: 10px;
+		}
+		&:hover, &:focus {
+			background: transparent;
+		}
+	}
+
+	.field-group {
+		#bbp_group_forum_id {
+			width: 100%;
+			@include media-breakpoint-up(sm) {
+				width: auto;
+			}
+			@include text_input;
+			border: 1px solid $color__background-hr;
+		}
+	}
+
+	#group-settings-form {
+
+		.avatar-nav-items li {
+			border: none;
+			a {
+				font-weight: 400;
+				opacity: 1;
+			}
+		}
+
+		#bp-browse-button {
+			width: auto;
+		}
+	}
+
+	#avatar-crop-actions a,
+	#bp-delete-avatar-container p a,
+	a#bp-delete-cover-image {
+		border: none;
+		padding: 0;
+		font-style: italic;
+		&:hover {
+			background: transparent;
+		}
+	}
+
+	#subnav {
+		li.groups-members-search {
+			margin: 10px 0;
+			width: 100%;
+			@include media-breakpoint-up(md) {
+				margin: 10px 0 10px -30px;
+				width: auto;
+			}
+
+			#search-members-form {
+				margin: 0;
+				display: flex;
+				justify-content: space-between;
+				@include media-breakpoint-up(md) {
+					display: inline-block;
+				}
+
+				label {
+					width: 70%;
+					@include media-breakpoint-up(sm) {
+						width: 78%;
+					}
+
+					@include media-breakpoint-up(md) {
+						width: auto;
+					}
+				}
+
+				#members_search {
+					@include text_input;
+					width: 100%;
+					@include media-breakpoint-up(md) {
+						width: auto;
+					}
+					input:focus {
+						border-color: $color__background-hr !important;
+					}
+				}
+				#members_search_submit {
+					border: none;
+					@include btn_submit;
+					padding: 24px 5px 23px;
+					@include media-breakpoint-up(sm) {
+						padding: 24px 20px 23px;
+					}
+				}
+			}
+		}
+	}
+
+	#send-invite-form {
+		.left-menu {
+			float: none;
+			@include media-breakpoint-up(sm) {
+				float: left;
+			}
+			#invite-list {
+				width: 100%;
+				height: 200px;
+				@include media-breakpoint-up(sm) {
+					width: 170px;
+					height: 400px;
+				}
+			}
+		}
+
+		.main-column {
+			margin-left: 0;
+			@include media-breakpoint-up(sm) {
+				margin-left: 190px;
+			}
+		}
+	}
+
+	.item-list {
+		li {
+			padding: 60px 0;
+			img {
+				border-radius: 50%;
+			}
+			h5 {
+				@include font-size(1.125);
+			}
+			.activity {
+				font-style: italic;
+			}
+			.action .button {
+				@include font-size(0.75);
+				border: none;
+				padding: 0;
+				font-style: italic;
+				&:hover {
+					background: transparent;
+				}
+			}
+		}
+	}
+
+	input[type^="submit"] {
+		@include btn_submit;
+		border: none;
+		width: auto;
+	}
+
+	#group-settings-form {
+		label {
+			font-weight: 400;
+			@include font-size(1.125);
+		}
+		input, textarea {
+			@include text_input;
+			width: 100%;
+		}
+		input[type^="checkbox"] {
+			width: auto;
+		}
+		input[type^="submit"] {
+			@include btn_submit;
+			&:focus {
+				background: inherit;
+			}
+		}
+		textarea {
+			border: 1px solid transparent;
+			padding: 20.5px 20px;
+			&:focus {
+				background: transparent;
+				border: 1px solid;
+			}
+		}
+
+		#save {
+			width: auto;
+		}
+	}
+
+	#invite-list {
+		width: 170px;
+		padding: 10px;
+	}
+
+	#item-actions {
+		h6 {
+			font-weight: 400;
+		}
+		img {
+			border-radius: 50%;
+		}
+	}
+
+	div#cover-image-container div#item-header-cover-image {
+		padding: 0;
+		#item-header-content,
+		#item-actions {
+			margin-top: 0;
+		}
+
+		#item-actions {
+			padding-top: 20px;
+			float: none;
+			width: 100%;
+			@include media-breakpoint-up(sm) {
+				width: 20%;
+				float: right;
+				padding-top: 47px;
+			}
+		}
+
+		#item-header-content {
+			max-width: 100%;
+			@include media-breakpoint-up(sm) {
+				max-width: 80%;
+			}
+			p {
+				margin-top: 28px;
+				@include font-size(1.125);
+			}
+		}
+
+		#item-meta {
+			text-align: left;
+			margin: 50px 0 5px;
+			span.highlight,
+			span.activity {
+				@include font-size(0.75);
+			}
+
+			p {
+				@include font-size(1.125);
+			}
+		}
+
+		.group-button {
+			border: none;
+			padding: 0;
+			font-style: italic;
+			font-weight: 400;
+			&:hover {
+				background: transparent;
+			}
+		}
+	}
+
+	#groups-list {
+		li {
+			padding: 70px 0;
+			.item {
+				&-desc {
+					width: 100%;
+					margin-left: 0;
+					@include font-size(1.125);
+					@include media-breakpoint-up(sm) {
+						width: 75%;
+					}
+				}
+
+				&-meta span {
+					opacity: 1;
+					font-style: italic;
+				}
+			}
+
+			.action {
+				top: auto;
+				@include media-breakpoint-up(sm) {
+					top: 65px;
+				}
+
+				.group-button {
+					border: none;
+					padding: 0;
+					&:hover {
+						background: transparent;
+					}
+				}
+
+				.meta {
+					@include font-size(0.75);
+				}
+			}
+		}
+	}
+
+	#group-create-tabs {
+		margin-top: 30px;
+		ul li {
+			&:last-child {
+				border: none;
+			}
+			&:first-child a {
+				padding-left: 0;
+			}
+			&.current a, span, & a {
+				background: transparent;
+				@include font-size(0.75);
+				text-transform: uppercase;
+				letter-spacing: 0.7px;
+				font-weight: 400;
+				opacity: 1;
+			}
+		}
+	}
+
+	input[type^="radio"],
+	input[type^="checkbox"] {
+		width: auto;
+		margin-right: 10px;
+	}
+
+	.radio > ul li,
+	.radio > label {
+		font-style: italic;
+		@include font-size(0.75);
+	}
+
+	#group-create-body {
+
+		.avatar-nav-items li {
+			border: none;
+			a {
+				font-weight: 400;
+				opacity: 1;
+			}
+		}
+
+		.avatar {
+			margin-bottom: 20px;
+		}
+
+		img {
+			border-radius: 50%;
+		}
+
+		h4, p {
+			margin-bottom: 10px;
+		}
+
+		input[type^="radio"],
+		input[type^="checkbox"] {
+			width: auto;
+		}
+
+		input[type^="button"],
+		input[type^="submit"] {
+			width: auto;
+			font-style: normal;
+			font-weight: 600;
+		}
+
+		label {
+			font-weight: 400;
+		}
+
+		input, textarea {
+			@include text_input;
+			width: 100%;
+		}
+	}
+}
+

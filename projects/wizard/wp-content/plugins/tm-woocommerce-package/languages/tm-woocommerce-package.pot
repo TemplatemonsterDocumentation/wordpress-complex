@@ -1,0 +1,353 @@
+# Copyright (C) 2016 TODO
+# This file is distributed under the same license as the TODO package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TM WooCommerce Package\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/tm-woocommerce-package\n"
+"POT-Creation-Date: 2016-10-31 17:40+0200\n"
+"PO-Revision-Date: 2016-10-31 17:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/tm-woocommerce-functions.php:15
+msgid "%-D day%!D %H:%M:%S"
+msgstr ""
+
+#: ../includes/tm-woocommerce-functions.php:19
+msgid "%H:%M:%S"
+msgstr ""
+
+#: ../includes/tm-woocompare/buttons.php:26
+#: ../includes/tm-woocompare/settings.php:72
+msgid "Remove from Compare"
+msgstr ""
+
+#: ../includes/tm-woocompare/buttons.php:29
+#: ../includes/tm-woocompare/settings.php:65
+#: ../includes/tm-woocompare/tm-woocompare.php:50
+msgid "Add to Compare"
+msgstr ""
+
+#: ../includes/tm-woocompare/buttons.php:44
+msgid "View compare"
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:30
+msgid "General Options"
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:35
+msgid "Enable compare"
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:36
+msgid "Enable compare functionality."
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:43
+msgid "Select compare page"
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:44
+msgid "Select a page which will display compare list."
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:49
+msgid "Show in catalog"
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:50
+msgid "Enable compare functionality for catalog list."
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:56
+msgid "Show in products page"
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:57
+msgid "Enable compare functionality for single product page."
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:63
+msgid "Compare button text"
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:64
+msgid "Enter text which will be displayed on the add to compare button."
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:70
+msgid "Remove button text"
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:71
+msgid "Enter text which will be displayed on the remove from compare button."
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:77
+msgid "Empty compare list text"
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:78
+msgid ""
+"Enter text which will be displayed on the compare page when is nothing to "
+"compare."
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:79
+msgid "No products found to compare."
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:84
+msgid "Page template"
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:85
+msgid "page.tmpl"
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:90
+msgid "Widget template"
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:91
+msgid "widget.tmpl"
+msgstr ""
+
+#: ../includes/tm-woocompare/settings.php:123
+msgid "TM Compare List"
+msgstr ""
+
+#: ../includes/tm-woocompare/tm-woocompare.php:51
+msgid "Remove from Compare List"
+msgstr ""
+
+#: ../includes/tm-woocompare/tm-woocompare.php:333
+msgid "Compare products"
+msgstr ""
+
+#: ../includes/tm-woocompare/tm-woocompare.php:334
+msgid "Empty compare"
+msgstr ""
+
+#: ../includes/tm-woocompare/widget.php:31
+msgid "TM WooCommerce Recent Compare"
+msgstr ""
+
+#: ../includes/tm-woocompare/widget.php:32
+msgid "Shows a recent compare on your site."
+msgstr ""
+
+#: ../includes/tm-woocompare/widget.php:48
+#: ../includes/widgets/class-tm-banners-grid-widget.php:291
+msgid "Title:"
+msgstr ""
+
+#: ../includes/tm-woocompare/widget.php:63
+msgid "Recent Compare"
+msgstr ""
+
+#: ../includes/widgets/class-tm-about-store-widget.php:25
+msgid "Add Store descriprion"
+msgstr ""
+
+#: ../includes/widgets/class-tm-about-store-widget.php:35
+msgid "TM About Store"
+msgstr ""
+
+#: ../includes/widgets/class-tm-about-store-widget.php:151
+#: ../includes/widgets/class-tm-custom-menu-widget.php:109
+#: ../tm-woocommerce-package.php:235 ../tm-woocommerce-package.php:252
+msgid "Choose background image"
+msgstr ""
+
+#: ../includes/widgets/class-tm-about-store-widget.php:157
+msgid "Enable Button"
+msgstr ""
+
+#: ../includes/widgets/class-tm-about-store-widget.php:160
+msgid "Button Url:"
+msgstr ""
+
+#: ../includes/widgets/class-tm-about-store-widget.php:164
+msgid "Use %home_url% macros to paste your websiite URL"
+msgstr ""
+
+#: ../includes/widgets/class-tm-about-store-widget.php:168
+msgid "Button Text:"
+msgstr ""
+
+#: ../includes/widgets/class-tm-banners-grid-widget.php:24
+msgid "TM widget to create banners grid"
+msgstr ""
+
+#: ../includes/widgets/class-tm-banners-grid-widget.php:26
+msgid "TM Banners Grid Widget"
+msgstr ""
+
+#: ../includes/widgets/class-tm-banners-grid-widget.php:51
+msgid "Choose banner image"
+msgstr ""
+
+#: ../includes/widgets/class-tm-banners-grid-widget.php:53
+msgid "Set link"
+msgstr ""
+
+#: ../includes/widgets/class-tm-banners-grid-widget.php:176
+msgid "Set text and link"
+msgstr ""
+
+#: ../includes/widgets/class-tm-banners-grid-widget.php:248
+#: ../includes/widgets/class-tm-products-carousel-widget.php:59
+msgid "Title"
+msgstr ""
+
+#: ../includes/widgets/class-tm-banners-grid-widget.php:271
+#, php-format
+msgid "Add banners<br>max: %s"
+msgstr ""
+
+#: ../includes/widgets/class-tm-banners-grid-widget.php:282
+msgid "<strong>Link:</strong> (if set, tag \"a\" not allowed in Content)"
+msgstr ""
+
+#: ../includes/widgets/class-tm-banners-grid-widget.php:285
+msgid "Target:"
+msgstr ""
+
+#: ../includes/widgets/class-tm-banners-grid-widget.php:293
+msgid "Content:"
+msgstr ""
+
+#: ../includes/widgets/class-tm-banners-grid-widget.php:376
+msgid "Banner"
+msgstr ""
+
+#: ../includes/widgets/class-tm-custom-menu-widget.php:24
+msgid "Add a custom menu with background."
+msgstr ""
+
+#: ../includes/widgets/class-tm-custom-menu-widget.php:29
+msgid "TM Custom Menu with Background"
+msgstr ""
+
+#: ../includes/widgets/class-tm-custom-menu-widget.php:115
+msgid "Custom class:"
+msgstr ""
+
+#: ../includes/widgets/class-tm-product-categories-widget.php:42
+msgid "A list of product image categories."
+msgstr ""
+
+#: ../includes/widgets/class-tm-product-categories-widget.php:44
+msgid "TM Product categories with thumbnail"
+msgstr ""
+
+#: ../includes/widgets/class-tm-product-categories-widget.php:49
+msgid "Only parent categories"
+msgstr ""
+
+#: ../includes/widgets/class-tm-product-categories-widget.php:58
+msgid "Number of visible categories"
+msgstr ""
+
+#: ../includes/widgets/class-tm-product-categories-widget.php:64
+#: ../includes/widgets/class-tm-products-carousel-widget.php:92
+msgid "Navigation"
+msgstr ""
+
+#: ../includes/widgets/class-tm-product-categories-widget.php:70
+#: ../includes/widgets/class-tm-products-carousel-widget.php:97
+msgid "Arrows"
+msgstr ""
+
+#: ../includes/widgets/class-tm-product-categories-widget.php:76
+#: ../includes/widgets/class-tm-products-carousel-widget.php:102
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/widgets/class-tm-products-carousel-widget.php:27
+msgid "TM widget to create products carousel"
+msgstr ""
+
+#: ../includes/widgets/class-tm-products-carousel-widget.php:29
+msgid "TM Products Carousel Widget"
+msgstr ""
+
+#: ../includes/widgets/class-tm-products-carousel-widget.php:35
+#: ../includes/widgets/class-tm-products-smart-box-widget.php:38
+msgid "Filter by category"
+msgstr ""
+
+#: ../includes/widgets/class-tm-products-carousel-widget.php:41
+msgid "Filter by tag"
+msgstr ""
+
+#: ../includes/widgets/class-tm-products-carousel-widget.php:49
+msgid "Number of visible products"
+msgstr ""
+
+#: ../includes/widgets/class-tm-products-carousel-widget.php:54
+msgid "Product Meta"
+msgstr ""
+
+#: ../includes/widgets/class-tm-products-carousel-widget.php:64
+msgid "Price"
+msgstr ""
+
+#: ../includes/widgets/class-tm-products-carousel-widget.php:69
+msgid "Description"
+msgstr ""
+
+#: ../includes/widgets/class-tm-products-carousel-widget.php:77
+msgid "Description Limit"
+msgstr ""
+
+#: ../includes/widgets/class-tm-products-carousel-widget.php:82
+msgid "Tag"
+msgstr ""
+
+#: ../includes/widgets/class-tm-products-carousel-widget.php:87
+msgid "Category"
+msgstr ""
+
+#: ../includes/widgets/class-tm-products-smart-box-widget.php:28
+msgid "TM widget to create products Smart Box"
+msgstr ""
+
+#: ../includes/widgets/class-tm-products-smart-box-widget.php:30
+msgid "TM Products Smart Box Widget"
+msgstr ""
+
+#: ../tm-woocommerce-package.php:142
+#, php-format
+msgid ""
+"TM WooCommerce Package is enabled but not effective. It requires %s in order "
+"to work. Please install and activate it."
+msgstr ""
+
+#: ../tm-woocommerce-package.php:142
+msgid "WooCommerce"
+msgstr ""
+
+#: ../tm-woocommerce-package.php:305
+msgid "All"
+msgstr ""
+
+#: ../tm-woocommerce-package.php:424
+msgid "View TM WoooCommerce Package Documentation"
+msgstr ""
+
+#: ../tm-woocommerce-package.php:424
+msgid "Docs"
+msgstr ""

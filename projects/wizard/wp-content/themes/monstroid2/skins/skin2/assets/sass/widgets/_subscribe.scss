@@ -1,0 +1,25 @@
+.subscribe-block {
+	&__input-group {
+		justify-content: center;
+	}
+	&__input-wrap {
+		max-width: 300px;
+	}
+	&__submit {
+		flex: 0 0 auto;
+	}
+
+}
+
+.subscribe-follow {
+	&__custom-bg {
+		padding-top: 32px;
+		padding-bottom: 38px;
+	}
+	&__wrap {
+		.before-loop-area &,
+		.after-loop-area & {
+			text-align: center;
+		}
+	}
+}

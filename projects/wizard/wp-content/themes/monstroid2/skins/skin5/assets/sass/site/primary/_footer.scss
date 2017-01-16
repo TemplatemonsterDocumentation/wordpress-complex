@@ -1,0 +1,35 @@
+.footer {
+	&-area {
+		font-size: .875em;
+		line-height: 1.57;
+
+		@include media-breakpoint-up(lg) {
+			padding: 125px 0 51px;
+		}
+		&-wrap {
+			& + .footer-container {
+				padding: 7px 0;
+			}
+		}
+	}
+	&-container {
+
+	}
+	&-copyright {
+		font-size: .8em;
+	}
+}
+.site-info {
+	font-size: .857em;
+
+	.footer-logo,
+	.social-list,
+	.footer-menu,
+	.footer-copyright {
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+}
+
+@import "footer/layout-default";
+@import "footer/layout-centered";

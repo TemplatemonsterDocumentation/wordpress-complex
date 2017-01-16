@@ -1,0 +1,12 @@
+#tm_builder_outer_content {
+	.tm_pb_audio_module.tm_pb_module {
+		.tm_audio_container {
+			.tm_audio_module_meta {
+				@include font-size(1.25);
+				strong {
+					font-weight: 400;
+				}
+			}
+		}
+	}
+}

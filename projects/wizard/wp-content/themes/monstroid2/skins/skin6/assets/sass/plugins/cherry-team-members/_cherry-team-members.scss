@@ -1,0 +1,87 @@
+.cherry-team.team-wrap .team-listing {
+
+	.team-item,
+	.team-listing_item {
+		padding-bottom: 80px;
+	}
+}
+
+.cherry-team.team-wrap.template-default .team-listing {
+	@include media-breakpoint-up(md) {
+		text-align: left;
+	}
+	.team-listing_item {
+		@include media-breakpoint-up(md) {
+			text-align: left;
+		}
+	}
+}
+.cherry-team.team-wrap {
+	.single.position-fullwidth & {
+		@include media-breakpoint-up(xl) {
+			margin-top: 0;
+		}
+	}
+}
+
+.cherry-team.team-wrap.template-resto-single {
+	padding: 0 0 25px;
+	text-align: center;
+
+	hr {
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.team-single-item {
+		padding-top: 0;
+	}
+
+	.team-photo {
+		float: none;
+		padding: 0 0 60px 0;
+		text-align: center;
+		@include media-breakpoint-up(xl) {
+			padding: 0 0 120px 0;
+		}
+	}
+	.team-name {
+		margin-bottom: 0;
+	}
+
+	.team-skills {
+		margin-top: 25px;
+	}
+
+	.team-socials {
+		padding-top: 55px;
+	}
+
+	.team-meta {
+		float: none;
+		padding: 25px 0 0 0;
+		&_item {
+			display: block;
+			&:before {
+				font-style: normal;
+			}
+			&.position,
+			&.location,
+			&.website,
+			&.email,
+			&.phone {
+				&:before {
+					content: none;
+				}
+			}
+		}
+	}
+}
+
+.team-container {
+	.cherry-team-filter {
+		&_link {
+			@include font-size(1);
+		}
+	}
+}

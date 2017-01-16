@@ -1,0 +1,10 @@
+#tm_builder_outer_content {
+	.tm_pb_tabs.tm_pb_module {
+		.tm_pb_tabs_controls {
+			li {
+				@include font-size(1);
+				letter-spacing: normal;
+			}
+		}
+	}
+}

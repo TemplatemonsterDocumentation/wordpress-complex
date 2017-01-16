@@ -1,0 +1,46 @@
+.isStuck {
+	@include media-breakpoint-up(md) {
+		position: fixed !important;
+		z-index: 1000;
+		margin: 0 !important;
+		transform: none;
+
+		&#main-menu {
+			right: 0;
+			left: 0;
+			padding-top: 15px !important;
+			padding-bottom: 15px !important;
+			width: 100%;
+			justify-content: center;
+			background: #fff;
+			box-shadow: $box__shadow;
+		}
+
+		&.vertical-menu-toggle {
+			top: 30px !important;
+
+			.site-header.style-3 & {
+				right: 25px;
+			}
+			.site-header.style-7 & {
+				left: 25px;
+			}
+		}
+	}
+}
+
+.pseudoStickyBlock {
+	@include media-breakpoint-down(sm) {
+		display: none !important;
+	}
+	width: 100%;
+	margin: 0 !important;
+
+	.isStuck ~ & {
+		width: auto;
+	}
+	.site-header.style-7 &,
+	.site-header.style-3 & {
+		position: absolute !important;
+	}
+}

@@ -1,0 +1,126 @@
+.subscribe-follow {
+	&__wrap {
+		padding: 31px 40px 40px;
+
+		.full-width-header-area &,
+		.after-content-full-width-area &,
+		#tm_builder_outer_content .tm_pb_column_4_4 .tm_pb_widget_area & {
+			padding: 40px 30px 50px;
+
+			@include media-breakpoint-up(sm) {
+				padding: 60px 30px 70px;
+			}
+			@include media-breakpoint-up(md) {
+				padding: 80px 40px 100px;
+			}
+			@include media-breakpoint-up(lg) {
+				padding: 106px 40px 130px;
+			}
+		}
+		.tm_pb_column_4_4 & {
+			.follow-block,
+			.subscribe-block {
+				max-width: 700px !important;
+			}
+		}
+	}
+}
+
+.follow-block {
+	.widget-title {
+		margin-bottom: 20px;
+	}
+	&__message {
+		margin-bottom: 2em;
+	}
+}
+.subscribe-block {
+	&__form {
+		.tm_pb_column_4_4 & {
+			max-width: 690px !important;
+		}
+	}
+	.widget-title {
+		margin-bottom: 10px;
+
+		.full-width-header-area &,
+		.after-content-full-width-area &,
+		#tm_builder_outer_content .tm_pb_column_4_4 .tm_pb_widget_area & {
+			@include font-size(35/16);
+			line-height: 1.25;
+			margin-bottom: 0.65em;
+
+			@include media-breakpoint-up(lg) {
+				@include font-size(60/16);
+			}
+		}
+	}
+	&__input-wrap {
+		margin: 0;
+		flex-basis: 100%;
+
+		@include media-breakpoint-up(sm) {
+			margin: 5px 10px 0 0;
+			flex-basis:150px;
+		}
+
+		i {
+			display: none;
+
+			&:before {
+				content: none;
+			}
+		}
+	}
+	&__input-group {
+		margin: 0;
+		flex-wrap: wrap;
+
+		@include media-breakpoint-up(sm) {
+			flex-wrap: nowrap;
+		}
+	}
+	&__input[type='email'] {
+		margin: 0;
+		padding: 0 0 12px;
+		@include font-size(14/16);
+		line-height:1.7;
+		font-style: normal;
+
+		i + & {
+			padding-left: 0;
+		}
+
+		&.error {
+			border-color: $subscribe-color__not-valid;
+		}
+	}
+	&__submit {
+		flex: none;
+		height: 42px;
+		line-height:42px;
+		margin: 15px auto 0;
+		padding: 0 15px;
+		border-radius: 0;
+
+		@include media-breakpoint-up(sm) {
+			margin: 0;
+		}
+
+		#tm_builder_outer_content & {
+			height: 47px;
+			line-height:47px;
+			padding: 0 25px;
+		}
+	}
+	&__error{
+		color: $subscribe-color__not-valid;
+	}
+	&__success {
+		color: $subscribe-color__valid;
+	}
+}
+
+.follow-block + .subscribe-block {
+	margin-top: 30px;
+}

@@ -1,0 +1,44 @@
+.smart-slider {
+	&__instance {
+		// sp-arrow (navigation)
+		.sp-arrow {
+			width: 44px;
+			height: 44px;
+			transition: .3s;
+			&:before {
+				line-height: 44px;
+			}
+			&.sp-previous-arrow {
+				@include border-right-radius($border__radius);
+			}
+			&.sp-next-arrow {
+				@include border-left-radius($border__radius);
+			}
+		}
+		.sp-horizontal {
+			.sp-arrows {
+				margin-top: -22px;
+			}
+			.sp-previous-arrow {
+				&:hover {
+					transform: translateX(2px) translateY(3px) translateZ(0);
+					box-shadow: 0 0 0 0;
+				}
+			}
+			.sp-next-arrow {
+				&:hover {
+					transform: translateX(-2px) translateY(3px) translateZ(0);
+					box-shadow: 0 0 0 0;
+				}
+			}
+		}
+		.sp-vertical {
+			.sp-previous-arrow {
+				@include border-radius();
+			}
+			.sp-next-arrow {
+				@include border-radius();
+			}
+		}
+	}
+}

@@ -1,0 +1,10 @@
+.site-footer.default {
+	.site-info {
+		@include media-breakpoint-down(md) {
+			* + .social-list,
+			* + .footer-menu {
+				margin: 30px 0 0;
+			}
+		}
+	}
+}

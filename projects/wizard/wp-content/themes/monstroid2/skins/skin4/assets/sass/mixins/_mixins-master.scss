@@ -1,0 +1,38 @@
+// Rem output with px fallback
+@mixin font-size($sizeValue: 1) {
+	font-size: ($sizeValue * 16) * 1px;
+	font-size: $sizeValue * 1rem;
+}
+
+// Remove link styles from btn
+@mixin link-to-btn() {
+	@include font-size(14/16);
+	line-height: 1.7;
+	padding: 12px 30px;
+
+	i {
+		display: none;
+	}
+}
+
+
+@mixin btn {
+	line-height: 1;
+	display: inline-block;
+	max-width: 100%;
+	padding: $button__indents;
+	cursor: pointer;
+	text-align: center;
+	overflow: hidden;
+	vertical-align: top;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	border: $button__border;
+	box-shadow: $button__box-shadow;
+	transition: .3s;
+	text-transform: uppercase;
+	@include font-size(14/16);
+	font-weight: 600;
+	letter-spacing: 0.72px;
+	border-radius: 0;
+}

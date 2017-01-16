@@ -1,0 +1,80 @@
+.btn {
+	@include button-style;
+
+	&.btn-default {
+		background-color: transparent;
+		border: none;
+		padding: 0;
+
+		&:hover {
+			background-color: transparent;
+		}
+		&:active {
+			box-shadow: none;
+		}
+		.invert & {
+			background-color: transparent;
+
+			&:hover {
+				background-color: transparent;
+			}
+		}
+	}
+	&.btn-primary {
+		&:active {
+			box-shadow: none;
+		}
+	}
+	&.btn-secondary,
+	&.header-btn {
+		background-color: transparent;
+		border: 1px solid;
+
+		&:hover {
+			border: 1px solid;
+		}
+		&:active {
+			box-shadow: none;
+		}
+		.invert & {
+			background-color: transparent;
+
+			&:hover {
+				background-color: transparent;
+			}
+		}
+	}
+	&.header-btn {
+		@include button-style;
+	}
+}
+.mprm-add-to-cart,
+.link,
+.more-link,
+.post-edit-link,
+.mprm-submit {
+	text-transform: uppercase;
+	@include button-style;
+}
+.link,
+.more-link {
+	border: 1px solid;
+	display: inline-block;
+}
+.post-edit-link {
+	text-align: center;
+	text-transform: uppercase;
+	display: inline-block;
+	vertical-align: middle;
+	max-width: 100%;
+	margin: 20px 0 0;
+
+	.use-tm-pb-builder.position-fullwidth .site-main & {
+		display: block;
+		margin: 0;
+	}
+}
+.edit-link {
+	background-color: transparent;
+	padding: 0;
+}

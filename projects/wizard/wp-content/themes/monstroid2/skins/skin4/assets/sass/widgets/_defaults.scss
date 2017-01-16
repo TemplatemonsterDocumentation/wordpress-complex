@@ -1,0 +1,159 @@
+/*--------------------------------------------------------------
+## Widget Categories
+--------------------------------------------------------------*/
+.widget_categories {
+	ul li{
+		display: block;
+		.sidebar &,
+		.tm_pb_column_1_3 &,
+		.tm_pb_column_1_4 & {
+			padding-right: 0;
+			&:after {
+				content: none;
+			}
+		}
+	}
+}
+/*--------------------------------------------------------------
+## Widget Calendar
+--------------------------------------------------------------*/
+.widget_calendar {
+	table {
+		margin: 0 -10px;
+		border-collapse: separate;
+		border-spacing: 10px;
+
+		th,
+		td,
+		thead th,
+		tbody + tbody {
+			text-align: center;
+		}
+	}
+	caption {
+		@include font-size(18/16);
+		line-height: 1.5;
+		font-weight: 600;
+		text-align: center;
+		margin: 0 10px;
+		padding: 12px 0;
+	}
+	th {
+		@include font-size(14/16);
+		line-height: 1.5;
+		font-weight: 700;
+		padding:3.35% 0 3.15%;
+	}
+	tbody td {
+		@include font-size(14/16);
+		line-height: 1.5;
+		padding: 3.35% 0 3.15%;
+		border-radius: 0;
+
+		&:not(#today):not(.pad) {
+			border: 1px solid $color__background-hr;
+			background: none;
+		}
+		&:not(.pad) {
+
+		}
+		a {
+			position: static;
+		}
+	}
+	tbody tr td {
+		a {
+			border: none;
+			background: none;
+
+			&:hover {
+				background: none;
+			}
+		}
+	}
+	tfoot td {
+		padding-top: 5px;
+	}
+	#prev {
+		text-align: left;
+	}
+	#next {
+		text-align: right;
+	}
+}
+
+/*--------------------------------------------------------------
+## Widget Tag Cloud
+--------------------------------------------------------------*/
+.tagcloud {
+	margin: 0 -20px -10px 0;
+
+	a {
+		font-size: 14px !important;
+		line-height: 1.5;
+		margin: 0 20px 10px 0;
+		padding: 0;
+		border: none;
+
+		.widget_tag_cloud & {
+			background: none;
+		}
+	}
+}
+
+/*--------------------------------------------------------------
+## Widget Recent Posts
+--------------------------------------------------------------*/
+.widget_recent_entries {
+	ul li {
+		a {
+			@include font-size(18/16);
+			line-height: 1.5;
+			font-weight: 600;
+		}
+
+		.post-date {
+			@include font-size(14/16);
+			line-height: 1.5;
+			display: block;
+			font-style: normal;
+			margin-top: 6px;
+		}
+	}
+}
+
+/*--------------------------------------------------------------
+## Widget Recent Comments
+--------------------------------------------------------------*/
+.widget_recent_comments {
+	ul li {
+		@include font-size(14/16);
+		line-height: 1.5;
+		font-weight: 300;
+		font-style: normal;
+
+		.comment-author-link {
+			margin-right: 5px;
+			font-weight: 700;
+
+			& ~ a {
+				display: block !important;
+				margin-top: -2px !important;
+				@include font-size(18/16);
+				line-height: 1.5;
+				font-style: normal;
+				font-weight: 600;
+			}
+		}
+	}
+}
+
+/*--------------------------------------------------------------
+## Widget Search
+--------------------------------------------------------------*/
+.widget_search {
+	&.widget {
+		padding: 50px 40px 40px;
+		border: none;
+	}
+}

@@ -1,0 +1,18 @@
+.swiper-button-next,
+.swiper-container.swiper-container-horizontal .swiper-button-next:not(.tm-testi-slider__next) {
+	-webkit-border-top-left-radius: 20px;
+	border-top-left-radius: 20px;
+	-webkit-border-bottom-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+	right: -1px;
+}
+
+.swiper-button-prev,
+.swiper-container.swiper-container-horizontal .swiper-button-prev:not(.tm-testi-slider__prev) {
+	left: 0;
+	-webkit-border-top-right-radius: 20px;
+	border-top-right-radius: 20px;
+	-webkit-border-bottom-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+

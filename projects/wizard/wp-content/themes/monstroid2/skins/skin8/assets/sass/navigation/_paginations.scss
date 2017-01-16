@@ -1,0 +1,9 @@
+.site-content .page-numbers,
+#tm_builder_outer_content .pagination .page-numbers{
+	border-radius: 50%;
+	@include font-size(0.8125);
+	min-width: 44px;
+	height: 44px;
+	line-height: 44px;
+}
+

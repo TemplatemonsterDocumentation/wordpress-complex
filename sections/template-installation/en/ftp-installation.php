@@ -1,4 +1,4 @@
-<h4>Upload via FTP</h4>
+<h3>Upload via FTP</h3>
 
 <p>To use this method, you need to have access to your WordPress site files on FTP through the File  Manager of your hosting control panel or an FTP client like Filezilla,  CuteFTP, Total Commander, etc.</p>
 

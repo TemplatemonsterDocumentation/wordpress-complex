@@ -1,0 +1,117 @@
+@mixin button-style() {
+	border-radius: 0;
+	padding: $button__indents;
+	white-space: normal;
+	font-weight: normal;
+	box-shadow: none;
+
+	@media (min-width: 1600px) {
+		white-space: nowrap;
+	}
+	&:active {
+		box-shadow: none;
+	}
+}
+@mixin image-border() {
+	border: 15px solid $color__lighter-gray;
+}
+@mixin image-border-pseudo() {
+	position: relative;
+
+	&:after {
+		content: '';
+		width: 100%;
+		height: 100%;
+		@include image-border();
+		position: absolute;
+		top: 0;
+		left: 0;
+		transition: 333ms border-width;
+	}
+	&:hover {
+		&:after {
+			border-width: 5px;
+		}
+	}
+}
+
+@mixin posts-loop-border-top() {
+	margin-top: 30px;
+	padding-top: 30px;
+	border-top: 1px solid $color__background-hr;
+
+	@include media-breakpoint-up(lg) {
+		margin-top: 60px;
+		padding-top: 55px;
+	}
+}
+
+@mixin bigger-posts-loop-border-top() {
+	@include posts-loop-border-top();
+
+	@include media-breakpoint-up(xl) {
+		margin-top: 102px;
+		padding-top: 82px;
+	}
+}
+
+@mixin social-style() {
+	padding: 0;
+	margin-right: 10px;
+	margin-bottom: 10px;
+
+	a {
+		&:before {
+			font-size: 15px;
+			width: 50px;
+			height: 50px;
+			line-height: 50px;
+			border: 1px solid $color__background-hr;
+			color: $color__light-gray;
+			transition: 333ms color;
+		}
+	}
+}
+@mixin material-icon {
+	font-family: 'Material Icons';
+	font-weight: normal;
+	font-style: normal;
+	display: inline-block;
+	line-height: 1;
+	text-transform: none;
+	letter-spacing: normal;
+	word-wrap: normal;
+	white-space: nowrap;
+	direction: ltr;
+
+	/* Support for all WebKit browsers. */
+	-webkit-font-smoothing: antialiased;
+
+	/* Support for Firefox. */
+	-moz-osx-font-smoothing: grayscale;
+
+	/* Support for IE. */
+	font-feature-settings: 'liga';
+}
+
+@mixin linear-icon {
+	font-family: 'Linearicon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Enable Ligatures */
+	-webkit-font-feature-settings: "liga";
+	-moz-font-feature-settings: "liga=1";
+	-moz-font-feature-settings: "liga";
+	-ms-font-feature-settings: "liga" 1;
+	-o-font-feature-settings: "liga";
+	font-feature-settings: "liga";
+
+	/* Better Font Rendering */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}

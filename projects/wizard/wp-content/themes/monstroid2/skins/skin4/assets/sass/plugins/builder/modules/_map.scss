@@ -1,0 +1,18 @@
+#tm_builder_outer_content {
+	.tm_pb_map_container.tm_pb_module {
+		.tm_pb_map {
+			height: 300px;
+			@include media-breakpoint-up(md) {
+				height: 540px;
+			}
+		}
+	}
+	.tm_pb_column_1_3 .tm_pb_map_container.tm_pb_module,
+	.tm_pb_column_1_4 .tm_pb_map_container.tm_pb_module{
+		.tm_pb_map {
+			@include media-breakpoint-between(md, lg) {
+				height: 300px;
+			}
+		}
+	}
+}

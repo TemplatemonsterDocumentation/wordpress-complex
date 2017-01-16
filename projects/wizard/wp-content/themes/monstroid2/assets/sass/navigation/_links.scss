@@ -1,0 +1,19 @@
+a {
+	text-decoration: none;
+	transition: .3s;
+	&:focus {}
+
+	&:hover,
+	&:active {
+		text-decoration: none;
+	}
+	h1 &, h2 &, h3 &, h4 &, h5 &, h6 & {
+		color: inherit;
+	}
+}
+
+.edit-link {
+	display: block;
+	background: $color__background-hr;
+	padding: 0 15px;
+}

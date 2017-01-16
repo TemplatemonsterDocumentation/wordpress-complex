@@ -1,0 +1,15 @@
+.swiper-pagination{
+	.post-gallery &{
+		display: none;
+	}
+}
+.swiper-button-next i,
+.swiper-button-prev i,
+.swiper-container.swiper-container-horizontal .swiper-button-next i,
+.swiper-container.swiper-container-horizontal .swiper-button-prev i{
+	@include font-size(2.5);
+	opacity: .6;
+	&:hover{
+		opacity: 1;
+	}
+}

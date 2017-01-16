@@ -1,0 +1,24 @@
+#buddypress #members-dir-search #search-members-form #members_search_submit,
+#buddypress #members-dir-search #search-members-form #groups_search_submit,
+#buddypress #members-dir-search #search-groups-form #members_search_submit,
+#buddypress #members-dir-search #search-groups-form #groups_search_submit,
+#buddypress #group-dir-search #search-members-form #members_search_submit,
+#buddypress #group-dir-search #search-members-form #groups_search_submit,
+#buddypress #group-dir-search #search-groups-form #members_search_submit,
+#buddypress #group-dir-search #search-groups-form #groups_search_submit {
+	@include button-style;
+}
+#buddypress div.item-list-tabs ul {
+	@include media-breakpoint-up(lg) {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: space-between;
+
+		li {
+			&#members-all {
+				margin: 0;
+			}
+		}
+	}
+}

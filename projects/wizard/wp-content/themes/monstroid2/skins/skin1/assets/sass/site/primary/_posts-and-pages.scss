@@ -1,0 +1,81 @@
+.posts-list .entry-footer {
+	display: flex;
+	justify-content: space-between;
+}
+
+.link {
+	border-bottom: 1px solid;
+}
+
+.single .post {
+	.entry-header, .entry-meta {
+		text-align: center;
+	}
+
+	.entry-title {
+		position: relative;
+		margin-top: 30px;
+		@extend %before;
+	}
+}
+
+.comment {
+	.fn {
+		text-transform: none;
+	}
+}
+
+.posts-list--default .sticky__label {
+	margin-top: 3px;
+}
+
+.format-link {
+
+	.post-format-link {
+		@include font-size(0.875);
+		font-style: italic;
+		margin-top: 20px;
+	}
+
+	.post-featured-content {
+		padding: 60px;
+	}
+}
+
+.card {
+	-ms-word-break: normal;
+	word-break: normal;
+}
+
+/*Make image in post fullwidth while single post*/
+$single_post_image_width: 26%;
+.blog-default.position-fullwidth.single-post .post {
+	@media (min-width: 1200px) {
+		.post-thumbnail__img {
+			width: auto;
+		}
+		img:not(.swiper-image){
+			margin-left: -$single_post_image_width;
+			margin-right: -$single_post_image_width;
+			max-width: calc(100% + #{$single_post_image_width} * 2);
+		}
+	}
+}
+
+@media (min-width: 1200px) {
+	.single-format-gallery .entry-content .post-gallery:first-child {
+		margin-left: -26%;
+		margin-right: -26%;
+	}
+
+	.blog-default.position-fullwidth.single-post .format-quote blockquote {
+		margin-left: -26%;
+		margin-right: -26%;
+	}
+
+}
+
+/*--------------------------------------------------------------
+### Sticky Post
+--------------------------------------------------------------*/
+@import "sticky";

@@ -1,0 +1,65 @@
+/*Post pagination*/
+.site-content .page-numbers,
+#tm_builder_outer_content .pagination .page-numbers {
+	line-height: 44px;
+	min-width: 44px;
+	height: 44px;
+	margin: 0 3px 5px 0;
+	letter-spacing: 2.56px;
+
+	@include font-size(1);
+	@include border-radius;
+
+	.site & {
+		background: transparent;
+	}
+
+	&.next,
+	&.prev {
+		box-shadow: none;
+		@include font-size(1);
+		text-transform: uppercase;
+		i {
+			@include font-size(1);
+		}
+		&:hover {
+			background-color: transparent;
+			transform: none;
+		}
+	}
+	&.next {
+		margin-left: 15px;
+	}
+	&.prev{
+		margin-right: 15px;
+	}
+}
+
+.site-content a.page-numbers:hover,
+.site-content .page-numbers.current,
+#tm_builder_outer_content .pagination a.page-numbers:hover,
+#tm_builder_outer_content .pagination .page-numbers.current {
+	box-shadow: 0 0;
+	transform: translateX(2px) translateY(3px) translateZ(0);
+}
+
+/*Page links*/
+.site-content .page-links {
+	a,
+	> .page-links__item {
+		line-height: 44px;
+		min-width: 44px;
+		height: 44px;
+
+		@include font-size(1);
+		@include border-radius;
+
+		background: transparent;
+	}
+}
+
+.site-content .page-links a:hover,
+.site-content .page-links > .page-links__item{
+	box-shadow: 0 0;
+	transform: translateX(2px) translateY(3px) translateZ(0);
+}
