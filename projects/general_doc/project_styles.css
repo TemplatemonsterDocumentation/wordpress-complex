@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+h1 {
+  font-family: "Montserrat", sans-serif;
+  color: #fff; }
+
+h2 {
+  color: #2B5AC7; }
+
+h3 {
+  color: #2B5AC7; }
+
+h4 {
+  color: #2B5AC7; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #2B5AC7;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s;
+  text-align: center; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 90px;
+  font-weight: 400;
+  top: 40%;
+  margin-top: -0.75em;
+  color: #fff; }
+
+.tm-title-caption {
+  font-size: 33px;
+  top: 50%;
+  left: 20%;
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  line-height: 36px; }
+
+.rd-mobilemenu .logo {
+  background-color: #2651b2; }
+
+.toTop {
+  background-color: #2B5AC7; }
+  .toTop:hover {
+    background: #102149; }
+
+.bold_text {
+  font-weight: 600; }
+
+.it_text {
+  font-weight: 400;
+  font-style: italic; }
+
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    left: 0;
+    font-size: 61px; }
+
+  .tm-title-caption {
+    left: 26%; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .tm-title-caption {
+    width: 300px; } }
+.rd-mobilepanel.fixed .rd-mobilepanel_title {
+  top: -25px; }

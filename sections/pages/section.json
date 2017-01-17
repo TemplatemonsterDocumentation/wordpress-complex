@@ -1066,6 +1066,15 @@
 					"ru": "Настройки страницы"
 				}
 			}
+		],
+		"general_doc": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
 		]
 	}
 }

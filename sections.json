@@ -1611,5 +1611,19 @@
 		"plugins",
 		"third-party-plugins",
 		"extras"
+	],
+	"general_doc": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
 	]
 }

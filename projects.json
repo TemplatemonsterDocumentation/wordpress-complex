@@ -818,6 +818,12 @@
 		"title": "Hardwire",
 		"titleCaption": "Woocommerce Theme",
 		"author": ""
+	},
+	"general_doc": {
+		"textLogo": "",
+		"title": "General Documentation",
+		"titleCaption": "For Cherry 5 powered WP Themes",
+		"author": ""
 	}
 
 }

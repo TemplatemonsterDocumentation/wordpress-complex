@@ -18483,6 +18483,213 @@
 				"en": "WooCommerce Recently Viewed",
 				"ru": "WooCommerce Недавно Просмотренные"
 			}
+		}],
+		"general_doc": [{
+			"id": "tm-banners-grid-widget",
+			"translations": {
+				"en": "TM Banners Grid",
+				"ru": "TM Banners Grid"
+			}
+		},   {
+			"id": "tm-product-categories-widget",
+			"translations": {
+				"en": "TM Product Categories",
+				"ru": "TM Product Categories"
+			}
+		},  {
+			"id": "tm-products-carousel-widget",
+			"translations": {
+				"en": "TM Products Carousel",
+				"ru": "TM Products Carousel"
+			}
+		},  {
+			"id": "tm-about-store-widget",
+			"translations": {
+				"en": "TM About Agrilloc",
+				"ru": "TM About Agrilloc"
+			}
+		},   {
+			"id": "tm-custom-menu-bkg",
+			"translations": {
+				"en": "TM Custom Menu with Background",
+				"ru": "TM Custom Menu with Background"
+
+			}
+		},  {
+			"id": "tm-wishlist",
+			"translations": {
+				"en": "TM WooCommerce Wishlist",
+				"ru": "TM WooCommerce Wishlist"
+
+			}
+		}, {
+			"id": "compare",
+			"translations": {
+				"en": "TM Woocommerce Compare ",
+				"ru": "TM Woocommerce Compare "	
+
+			}
+		},  {
+			"id": "search",
+			"translations": {
+				"en": "Search",
+				"ru": "Поиск"
+			}
+		},  {
+			"id": "categories",
+			"translations": {
+				"en": "Categories",
+				"ru": "Категории"
+			}
+		},  {
+			"id": "recent-comments-widget",
+			"translations": {
+				"en": "Recent Comments",
+				"ru": "Новые комментарии "
+			}
+		},  {
+			"id": "recent-posts-widget-v2",
+			"translations": {
+				"en": "Recent Posts",
+				"ru": "Новые публикации "
+			}
+		},  {
+			"id": "tag-cloud",
+			"translations": {
+				"en": "Tag Cloud",
+				"ru": "Облако тегов"
+			}
+		},  {
+			"id": "text",
+			"translations": {
+				"en": "Text",
+				"ru": "Текст"
+			}
+		},  {
+			"id": "banner",
+			"translations": {
+				"en": "Banner",
+				"ru": "Баннер"
+			}
+		},  {
+			"id": "calendar",
+			"translations": {
+				"en": "Calendar",
+				"ru": "Календарь"
+			}
+		},  {
+			"id": "smart-slider-widget",
+			"translations": {
+				"en": "Smart Slider",
+				"ru": "Умный слайдер"
+			}
+		},  {
+			"id": "subscribe-and-follow-widget",
+			"translations": {
+				"en": "Subscribe and Follow",
+				"ru": "Подписка и Follow"
+			}
+		},  {
+			"id": "archives",
+			"translations": {
+				"en": "Archives",
+				"ru": "Архив"
+			}
+		},  {
+			"id": "custom-menu",
+			"translations": {
+				"en": " Custom Menu ",
+				"ru": " Custom Menu "
+			}
+		},  {
+			"id": "meta",
+			"translations": {
+				"en": "Meta",
+				"ru": "Meta"
+			}
+		}, {
+			"id": "pages",
+			"translations": {
+				"en": "Pages",
+				"ru": "Страницы"
+			}
+		}, {
+			"id": "rss",
+			"translations": {
+				"en": "RSS",
+				"ru": "RSS"
+			}
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+
+			}
+		},  {
+			"id": "easy-twitter-feed",
+			"translations": {
+				"en": "Easy Twitter Feed",
+				"ru": "Twitter лента"
+			}
+		},  {
+			"id": "carousel-widget",
+			"translations": {
+				"en": "Carousel Widget",
+				"ru": "Виджет карусель"
+		
+			}
+		},  {
+			"id": "woocommerce-product-categories",
+			"translations": {
+				"en": "WooCommerce Product Categories",
+				"ru": "WooCommerce Product Categories"
+			}
+		},  {
+			"id": "woocommerce-products-new-products-widget",
+			"translations": {
+				"en": "WooCommerce Products",
+				"ru": "WooCommerce Products"
+			}
+		},  {
+			"id": "woocommerce-top-rated-products-widget",
+			"translations": {
+				"en": "WooCommerce Top Rated Products",
+				"ru": "WooCommerce Top Rated Products"
+			}
+		},   {
+			"id": "woocommerce-cart",
+			"translations": {
+				"en": "WooCommerce Cart",
+				"ru": "WooCommerce Корзина"
+			}
+		},  {
+			"id": "woocommerce-search",
+			"translations": {
+				"en": "WooCommerce Search",
+				"ru": "WooCommerce Поиск"
+
+			}
+		}, {
+			"id": "tm-products-smart-box",
+			"translations": {
+				"en": "TM Products Smart Box",
+				"ru": "TM Products Smart Box"
+
+			}
+		}, {
+			"id": "woocommerce-tags",
+			"translations": {
+				"en": "WooCommerce Product Tags",
+				"ru": "WooCommerce Product Tags"
+				
+			}
+		},  {
+			"id": "woocommerce-recent-reviews",
+			"translations": {
+				"en": "WooCommerce Recent Reviews",
+				"ru": "WooCommerce Recent Reviews"
+			}
 		}]
 	}
 }

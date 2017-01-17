@@ -2557,6 +2557,55 @@
 			
 				}
 			}
+		],
+		"general_doc": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+			
+				}
+			},
+			{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+
+				}
+			},
+			{
+				"id": "tiny-grid",
+				"translations": {
+					"en": "Tiny Grid",
+					"ru": "Tiny Grid"
+
+				}
+			},
+			{
+				"id": "mailchimp-for-wp",
+				"translations": {
+					"en": "MailChimp for WordPress",
+					"ru": "MailChimp for WordPress"
+				
+				}
+			},
+			{
+				"id": "facebook-main",
+				"translations": {
+					"en": "Facebook Widget",
+					"ru": "Facebook Widget"
+				}
+			}
 		]
 	}
 }

@@ -3158,6 +3158,64 @@
 					"ru": "TM WooCommerce Package"
 				}
 			}
+		],
+		"general_doc": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "facebook-widget",
+				"translations": {
+					"en": "Facebook Widget",
+					"ru": "Facebook Widget"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "cherry-popups",
+				"translations": {
+					"en": "Cherry PopUps",
+					"ru": "Cherry PopUps"
+				}
+			}
 		]
 	}
 }
