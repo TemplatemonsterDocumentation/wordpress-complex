@@ -1,7 +1,0 @@
-/* #Widget categories */
-.widget_categories ul li:after {
-	color: $regular_accent_color_1;
-}
-.invert .widget_categories ul li:after {
-	color: $invert_accent_color_1;
-}

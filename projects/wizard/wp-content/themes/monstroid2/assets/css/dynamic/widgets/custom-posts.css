@@ -1,7 +1,0 @@
-/* #Custom posts*/
-.sidebar .custom-posts .entry-title,
-.tm_pb_column_1_3 .custom-posts .entry-title,
-.tm_pb_column_1_4 .custom-posts .entry-title,
-.footer-area:not(.footer-area--fullwidth) .custom-posts .entry-title {
-	font-size: @font_size($h6_font_size, multiple, ceil, 0.7777)px;
-}

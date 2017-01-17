@@ -1,9 +1,0 @@
-@import "404";
-
-header .page-title {
-	margin-bottom: 1em;
-	text-align: center;
-	@extend %before;
-	position: relative;
-	margin-top: 30px;
-}

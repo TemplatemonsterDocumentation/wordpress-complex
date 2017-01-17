@@ -1,5 +1,0 @@
-.subscribe-block__input { color: $regular_text_color; }
-
-.subscribe-block__input-wrap i {
-	color: @lighten($regular_text_color, 25%);
-}

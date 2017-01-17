@@ -1,9 +1,0 @@
-body .booked-calendar-shortcode-wrap .booked-calendar tbody tr td.active {
-	background: transparent !important;
-}
-.booked-calendar-shortcode-wrap .booked-calendar tbody tr.entryBlock .timeslot-time,
-body .booked-calendar-wrap .booked-appt-list .timeslot .timeslot-people {
-	@include media-breakpoint-up(xl) {
-		width: 50%;
-	}
-}

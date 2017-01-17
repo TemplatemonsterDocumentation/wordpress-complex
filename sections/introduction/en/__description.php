@@ -253,7 +253,7 @@
                                             <i class="fa fa-folder"></i> <strong>construction</strong>
                                         </dt>
                                         <dd>
-                                            construction skin description.
+                                            files for Construction skin.
                                         </dd>
                                     </dl>
                                 </li>
@@ -263,7 +263,7 @@
                                             <i class="fa fa-folder"></i> <strong>corporate</strong>
                                         </dt>
                                         <dd>
-                                            corporate skin description.
+                                            files for Corporate skin.
                                         </dd>
                                     </dl>
                                 </li>
@@ -273,7 +273,7 @@
                                             <i class="fa fa-folder"></i> <strong>fashion</strong>
                                         </dt>
                                         <dd>
-                                            corporate skin description.
+                                            files for Fashion skin.
                                         </dd>
                                     </dl>
                                 </li>
@@ -283,7 +283,7 @@
                                             <i class="fa fa-folder"></i> <strong>furni</strong>
                                         </dt>
                                         <dd>
-                                            corporate skin description.
+                                            files for Furni skin.
                                         </dd>
                                     </dl>
                                 </li>
@@ -293,7 +293,7 @@
                                             <i class="fa fa-folder"></i> <strong>ironmass</strong>
                                         </dt>
                                         <dd>
-                                            corporate skin description.
+                                            files for Ironmass skin.
                                         </dd>
                                     </dl>
                                 </li>
@@ -303,7 +303,7 @@
                                             <i class="fa fa-folder"></i> <strong>lawnyer</strong>
                                         </dt>
                                         <dd>
-                                            corporate skin description.
+                                            files for Lawnyer skin.
                                         </dd>
                                     </dl>
                                 </li>
@@ -313,7 +313,7 @@
                                             <i class="fa fa-folder"></i> <strong>loanoffer</strong>
                                         </dt>
                                         <dd>
-                                            corporate skin description.
+                                            files for Loanoffer skin.
                                         </dd>
                                     </dl>
                                 </li>
@@ -323,7 +323,7 @@
                                             <i class="fa fa-folder"></i> <strong>modern</strong>
                                         </dt>
                                         <dd>
-                                            corporate skin description.
+                                            files for Modern skin.
                                         </dd>
                                     </dl>
                                 </li>
@@ -333,7 +333,7 @@
                                             <i class="fa fa-folder"></i> <strong>resto</strong>
                                         </dt>
                                         <dd>
-                                            corporate skin description.
+                                            files for Resto skin.
                                         </dd>
                                     </dl>
                                 </li>
@@ -362,19 +362,19 @@
         <li>
             <dl class="inline-term">
                 <dt><i class="fa fa-file"></i> <strong>info.txt</strong></dt>
-                <dd> instructions on how to extract source files.</dd>
+                <dd> contains file with information.</dd>
             </dl>
         </li>
         <li>
             <dl class="inline-term">
                 <dt><i class="fa fa-file"></i> <strong>license.txt</strong></dt>
-                <dd> contains documentation link information.</dd>
+                <dd> contains file with license.</dd>
             </dl>
         </li>
         <li>
             <dl class="inline-term">
                 <dt><i class="fa fa-file"></i> <strong>screenshots.zip</strong></dt>
-                <dd> contains documentation link information.</dd>
+                <dd> contains archive with screenshots.</dd>
             </dl>
         </li>
     </ul>
