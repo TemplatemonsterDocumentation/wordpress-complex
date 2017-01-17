@@ -34,7 +34,7 @@
 
     <p>
         After installation and activation TM Wizard plugin you will get a notice which offers you to continue the plugins and demo contents installation with TM Wizard.
-        Then click on <strong>INSTALL</strong> on the top of the page to start installation of the recommended plugins
+        Then click on <strong>START INSTALL</strong> on the top of the page to start installation of the recommended plugins
     </p>
     
 
@@ -44,7 +44,7 @@
 
     <p>
         On the Wizard Home page you can check if your server configurations meet <strong>WordPress minimal requirements</strong>. If any doesnt't meet you can continue the installation process, but it will take more time and can drive to bugs.</p>
-        <p>If your server configurations meet <strong>WordPress minimal requirements</strong> please click on <strong>START INSTALL</strong> link
+        <p>If your server configurations meet <strong>WordPress minimal requirements</strong> please click on <strong>NEXT</strong> link
     </p>
 
     <figure class="img-polaroid">
@@ -52,7 +52,7 @@
     </figure>
 
     <p>
-        Then you have to select the skin and click on <strong>START INSTALL</strong> link. Also you can view demo
+        Then you have to select the skin and click on <strong>SELECT SKIN</strong> link. Also you can view demo
     </p>
 
     <figure class="img-polaroid">

@@ -300,10 +300,10 @@
                                 <li>
                                     <dl class="inline-term">
                                         <dt>
-                                            <i class="fa fa-folder"></i> <strong>lawnyer</strong>
+                                            <i class="fa fa-folder"></i> <strong>lawyer</strong>
                                         </dt>
                                         <dd>
-                                            files for Lawnyer skin.
+                                            files for Lawyer skin.
                                         </dd>
                                     </dl>
                                 </li>
