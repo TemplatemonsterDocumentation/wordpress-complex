@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script");
+h1 {
+  font-family: "Dancing Script", cursive;
+  color: #191919; }
+
+h2 {
+  color: #191919; }
+
+h3 {
+  color: #191919; }
+
+h4 {
+  color: #191919; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #f5eded;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/valentia/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 90px;
+  font-weight: 400;
+  top: 51px;
+  color: #191919; }
+
+.tm-title-caption {
+  font-size: 33px;
+  top: 171px;
+  font-family: "Dancing Script", cursive;
+  color: #a4a4a4;
+  line-height: 36px;
+  width: 430px; }
+
+.rd-mobilemenu .logo {
+  background-color: #ffffff; }
+
+.toTop {
+  background-color: #191919; }
+  .toTop:hover {
+    background: #333333; }
+
+.bold_text {
+  font-weight: 600; }
+
+.it_text {
+  font-weight: 400;
+  font-style: italic; }
+
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 5px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 125px;
+    text-align: left; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .tm-title-caption {
+    width: 300px; } }

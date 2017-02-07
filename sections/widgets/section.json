@@ -18057,16 +18057,24 @@
 			}
 		}],
 		"stylefactory": [{
-			"id": "motopress-widget",
+			"id": "about",
 			"translations": {
-				"en": "MotoPress Slider",
-				"ru": "Cлайдер MotoPress"
+				"en": "About Stylefactory",
+				"ru": "About Stylefactory"
 			}
 		},  {
 			"id": "tm-banners-grid-widget",
 			"translations": {
 				"en": "TM Banners Grid",
 				"ru": "TM Banners Grid"
+
+			}
+
+		  },{
+			"id": "tm-wishlist",
+			"translations": {
+				"en": "TM WooCommerce Wishlist",
+				"ru": "TM WooCommerce Wishlist"
 			}
 		},  {
 			"id": "tm-product-categories-widget",
@@ -18091,6 +18099,13 @@
 			"translations": {
 				"en": "TM Custom Menu with Background",
 				"ru": "TM Custom Menu with Background"
+
+			}
+		},{
+			"id": "compare",
+				"translations": {
+					"en": "TM Woocommerce Compare ",
+					"ru": "TM Woocommerce Compare "
 			}
 		},  {
 			"id": "search",
@@ -18109,6 +18124,20 @@
 			"translations": {
 				"en": "Custom posts",
 				"ru": "Посты"
+
+			}
+		},  {
+			"id": "appointment-calendar",
+			"translations": {
+				"en": "Appointment Calendar",
+				"ru": "Календарь"
+
+			}
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
 			}
 		},  {
 			"id": "recent-comments-widget",
@@ -18133,6 +18162,14 @@
 			"translations": {
 				"en": "Text",
 				"ru": "Текст"
+
+			}
+		},  
+		{
+			"id": "timetable",
+			"translations": {
+				"en": "Timetable",
+				"ru": "Timetable" 
 			}
 		},  {
 			"id": "banner",
@@ -18145,12 +18182,7 @@
 			"translations": {
 				"en": "Calendar",
 				"ru": "Календарь"
-			}
-		},  {
-			"id": "smart-slider-widget",
-			"translations": {
-				"en": "Smart Slider",
-				"ru": "Умный слайдер"
+		
 			}
 		},  {
 			"id": "about-author-widget",
@@ -18175,12 +18207,7 @@
 			"translations": {
 				"en": " Custom Menu ",
 				"ru": " Custom Menu "
-			}
-		},  {
-			"id": "image-grid-widget",
-			"translations": {
-				"en": "Image Grid",
-				"ru": "Сетка изображений"
+			
 			}
 		},  {
 			"id": "meta",
@@ -18211,18 +18238,27 @@
 			"translations": {
 				"en": "Carousel Widget",
 				"ru": "Виджет карусель"
-			}
-		},  {
-			"id": "taxonomy-tiles-widget",
-			"translations": {
-				"en": "Taxonomy Tiles",
-				"ru": "Виджет категорий и тегов"
+			
 			}
 		},    {
 			"id": "woocommerce-product-categories",
 			"translations": {
 				"en": "WooCommerce Product Categories",
 				"ru": "WooCommerce Product Categories"
+
+			}
+		},  {
+			"id": "woocommerce-recent-views",
+			"translations": {
+				"en": "WooCommerce Recently Viewed",
+				"ru": "WooCommerce Недавно Просмотренные"
+
+			}
+		}, {
+			"id": "woocommerce-tags",
+			"translations": {
+				"en": "WooCommerce Product Tags",
+				"ru": "WooCommerce Product Tags"
 			}
 		},  {
 			"id": "woocommerce-products-new-products-widget",
@@ -18247,20 +18283,6 @@
 			"translations": {
 				"en": "WooCommerce Search",
 				"ru": "WooCommerce Поиск"
-
-			}
-		},  {
-			"id": "bne-testimonial-list",
-			"translations": {
-				"en": "BNE Testimonial List",
-				"ru": "BNE Testimonial List"
-
-			}
-		},  {
-			"id": "bne-testimonial-slider",
-			"translations": {
-				"en": "BNE Testimonial Slider",
-				"ru": "BNE Testimonial Slider"
 
 			}
 		}, {
@@ -18682,6 +18704,213 @@
 			"translations": {
 				"en": "WooCommerce Product Tags",
 				"ru": "WooCommerce Product Tags"
+				
+			}
+		},  {
+			"id": "woocommerce-recent-reviews",
+			"translations": {
+				"en": "WooCommerce Recent Reviews",
+				"ru": "WooCommerce Recent Reviews"
+			}
+		}],
+		"valentia": [{
+			"id": "motopress-widget",
+			"translations": {
+				"en": "MotoPress Slider",
+				"ru": "Cлайдер MotoPress"
+
+			}
+		},  {
+			"id": "about",
+			"translations": {
+				"en": "About Valentia",
+				"ru": "About Valentia"
+
+			}
+		},  {
+			"id": "tm-banners-grid-widget",
+			"translations": {
+				"en": "TM Banners Grid",
+				"ru": "TM Banners Grid"
+			}
+		},  {
+			"id": "tm-product-categories-widget",
+			"translations": {
+				"en": "TM Product Categories",
+				"ru": "TM Product Categories"
+			}
+		},  {
+			"id": "tm-products-carousel-widget",
+			"translations": {
+				"en": "TM Products Carousel",
+				"ru": "TM Products Carousel"
+			}
+		},  {
+			"id": "tm-about-store-widget",
+			"translations": {
+				"en": "TM About Store",
+				"ru": "TM About Store"
+			}
+		},   {
+			"id": "tm-custom-menu-bkg",
+			"translations": {
+				"en": "TM Custom Menu with Background",
+				"ru": "TM Custom Menu with Background"
+
+			}
+		},  {
+			"id": "tm-wishlist",
+			"translations": {
+				"en": "TM WooCommerce Wishlist",
+				"ru": "TM WooCommerce Wishlist"
+
+			}
+		},{
+				"id": "compare",
+				"translations": {
+					"en": "TM Woocommerce Compare ",
+					"ru": "TM Woocommerce Compare "
+			}
+		},  {
+			"id": "search",
+			"translations": {
+				"en": "Search",
+				"ru": "Поиск"
+			}
+		},  {
+			"id": "categories",
+			"translations": {
+				"en": "Categories",
+				"ru": "Категории"
+		
+			}
+		},  {
+			"id": "recent-comments-widget",
+			"translations": {
+				"en": "Recent Comments",
+				"ru": "Новые комментарии "
+			}
+		},  {
+			"id": "recent-posts-widget-v2",
+			"translations": {
+				"en": "Recent Posts",
+				"ru": "Новые публикации "
+			}
+		},  {
+			"id": "tag-cloud",
+			"translations": {
+				"en": "Tag Cloud",
+				"ru": "Облако тегов"
+			}
+		},  {
+			"id": "text",
+			"translations": {
+				"en": "Text",
+				"ru": "Текст"
+	
+			}
+		},  {
+			"id": "calendar",
+			"translations": {
+				"en": "Calendar",
+				"ru": "Календарь"
+			
+			}
+		},  {
+			"id": "about-author-widget",
+			"translations": {
+				"en": "About Author",
+				"ru": "Информация об авторе"
+			}
+		},  {
+			"id": "subscribe-and-follow-widget",
+			"translations": {
+				"en": "Subscribe and Follow",
+				"ru": "Подписка и Follow"
+			}
+		},  {
+			"id": "archives",
+			"translations": {
+				"en": "Archives",
+				"ru": "Архив"
+			}
+		},  {
+			"id": "custom-menu",
+			"translations": {
+				"en": " Custom Menu ",
+				"ru": " Custom Menu "
+			
+			}
+		},  {
+			"id": "meta",
+			"translations": {
+				"en": "Meta",
+				"ru": "Meta"
+			}
+		}, {
+			"id": "pages",
+			"translations": {
+				"en": "Pages",
+				"ru": "Страницы"
+
+			}
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+
+			}
+		},  {
+			"id": "carousel-widget",
+			"translations": {
+				"en": "Carousel Widget",
+				"ru": "Виджет карусель"
+	
+			}
+		},    {
+			"id": "woocommerce-product-categories",
+			"translations": {
+				"en": "WooCommerce Product Categories",
+				"ru": "WooCommerce Product Categories"
+			}
+		},  {
+			"id": "woocommerce-products-new-products-widget",
+			"translations": {
+				"en": "WooCommerce Products",
+				"ru": "WooCommerce Products"
+			}
+		},  {
+			"id": "woocommerce-top-rated-products-widget",
+			"translations": {
+				"en": "WooCommerce Top Rated Products",
+				"ru": "WooCommerce Top Rated Products"
+			}
+		},   {
+			"id": "woocommerce-cart",
+			"translations": {
+				"en": "WooCommerce Cart",
+				"ru": "WooCommerce Корзина"
+
+			}
+		}, {
+			"id": "woocommerce-tags",
+			"translations": {
+				"en": "WooCommerce Product Tags",
+				"ru": "WooCommerce Product Tags"
+			}
+		},  {
+			"id": "woocommerce-search",
+			"translations": {
+				"en": "WooCommerce Search",
+				"ru": "WooCommerce Поиск"
+
+			}
+		}, {
+			"id": "tm-products-smart-box",
+			"translations": {
+				"en": "TM Products Smart Box",
+				"ru": "TM Products Smart Box"
 				
 			}
 		},  {

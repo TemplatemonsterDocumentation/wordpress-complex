@@ -3,12 +3,14 @@
 //========================================================
 
 $primary-color: #ffffff;
-$primary-color-second: #889b53;
+$primary-color-second: #e0c4bb;
 $primary-color-light: #fe9ec7;
-$header-background-image: '../../projects/organica/img/header-bg.png';
+$primary-color-dark: #303030;
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
-$primary-font-family:  'Montserrat', sans-serif;
+$header-background-image: '../../projects/stylefactory/img/header-bg.png';
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Six+Caps');
+$primary-font-family:  'Six Caps', sans-serif;
 
 //========================================================
 //                     Color & Styles
@@ -20,15 +22,15 @@ h1 {
 
 }
 h2 {
-	color: $primary-color-second;
+	color: $primary-color-dark;
 	//font-family: $primary-font-family;
 }
 h3 {
-	color: $primary-color-second;
+	color: $primary-color-dark;
 	//font-family: $primary-font-family;
 }
 h4 {
-	color: $primary-color-second;
+	color: $primary-color-dark;
 }
 
 .page-content {
@@ -76,11 +78,12 @@ body:not([data-section="introduction"]) {
 	font-weight: 400;
 	top:51px;
 	color: $primary-color;
+	text-transform: uppercase;
 }
 
 .tm-title-caption {
-	font-size: 33px;
-	top: 171px;
+	font-size: 37px;
+	top: 186px;
 	font-family: $primary-font-family;
     color: $primary-color;
     line-height: 36px;
@@ -96,7 +99,7 @@ body:not([data-section="introduction"]) {
 .toTop {
 	background-color: $primary-color-second;
 	&:hover {
-    	background: lighten($primary-color-second, 20%);
+    	background: lighten($primary-color-second, 5%);
 	}
 }
 .bold_text{
@@ -113,7 +116,7 @@ font-style: italic;
 	}
 	.tm-title-caption {	
 		width:259px;
-		top:125px;
+		top:138px;
 		text-align: left;
 	}
 }

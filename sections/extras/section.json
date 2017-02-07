@@ -3574,6 +3574,36 @@
 					"ru": "Google Сервисы"
 				}
 			}
+		],
+		"valentia": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
 		]
 	}
 }

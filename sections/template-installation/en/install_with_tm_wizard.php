@@ -62,7 +62,7 @@
     <p>
         If you want to fill the website with your content and optimally install it use <strong>Lite Install</strong>
     <br>
-        The full version of the template will be suitable for you if you need its complete functionality, without additional settings. In this case click on <strong>Full Install</strong>
+        The full version of the template will be suitable for you if you need its COMPLETE functionality, without additional settings. It contains more images and pages of the specific plugins content; some skins contain more plugins. Make a sure you need Full version. If you have opted for Full Install version, please click on <strong>Full Install</strong>
     </p>
 
     <p>

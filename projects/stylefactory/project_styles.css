@@ -1,16 +1,16 @@
-@import url("https://fonts.googleapis.com/css?family=Montserrat");
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Six+Caps");
 h1 {
-  font-family: "Montserrat", sans-serif;
-  color: #889b53; }
+  font-family: "Six Caps", sans-serif;
+  color: #e0c4bb; }
 
 h2 {
-  color: #889b53; }
+  color: #303030; }
 
 h3 {
-  color: #889b53; }
+  color: #303030; }
 
 h4 {
-  color: #889b53; }
+  color: #303030; }
 
 .page-content.active .rd-mobilepanel {
   background-position: 66% top; }
@@ -19,7 +19,7 @@ h4 {
       background-position: 100% bottom; } }
 
 .rd-mobilepanel {
-  background-color: #889b53;
+  background-color: #e0c4bb;
   background-position: right top;
   -webkit-transition-property: height;
           transition-property: height;
@@ -35,7 +35,7 @@ h4 {
       background-position: 600px bottom; } }
 
 [data-section="introduction"] .rd-mobilepanel {
-  background-image: url("../../projects/organica/img/header-bg.png");
+  background-image: url("../../projects/stylefactory/img/header-bg.png");
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
@@ -50,12 +50,13 @@ body:not([data-section="introduction"]) .tm-title-caption {
   font-size: 90px;
   font-weight: 400;
   top: 51px;
-  color: #ffffff; }
+  color: #ffffff;
+  text-transform: uppercase; }
 
 .tm-title-caption {
-  font-size: 33px;
-  top: 171px;
-  font-family: "Montserrat", sans-serif;
+  font-size: 37px;
+  top: 186px;
+  font-family: "Six Caps", sans-serif;
   color: #ffffff;
   line-height: 36px;
   width: 430px; }
@@ -64,9 +65,9 @@ body:not([data-section="introduction"]) .tm-title-caption {
   background-color: #ffffff; }
 
 .toTop {
-  background-color: #889b53; }
+  background-color: #e0c4bb; }
   .toTop:hover {
-    background: #b6c490; }
+    background: #e8d3cd; }
 
 .bold_text {
   font-weight: 600; }
@@ -81,7 +82,7 @@ body:not([data-section="introduction"]) .tm-title-caption {
 
   .tm-title-caption {
     width: 259px;
-    top: 125px;
+    top: 138px;
     text-align: left; } }
 @media (max-width: 1800px) and (min-width: 1601px) {
   .tm-title-caption {

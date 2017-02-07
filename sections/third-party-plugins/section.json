@@ -800,7 +800,7 @@
 				}
 			},
 			{
-				"id": "timetable",
+				"id": " ",
 				"translations": {
 					"en": "Timetable",
 					"ru": "Timetable"
@@ -2491,22 +2491,21 @@
 				"translations": {
 					"en": "Easy Twitter Widget",
 					"ru": "Easy Twitter Widget"
-				}
-
-			},
-			{
-				"id": "motopress-slider",
-				"translations": {
-					"en": "MotoPress Slider",
-					"ru": "Слайдер MotoPress"
+		
 				}
 			},
 			{
 				"id": "woocommerce",
 				"translations": {
 					"en": "WooCommerce",
-					"ru": "WooCommerce"
-			
+					"ru": "WooCommerce"	
+
+				}
+			},{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked Appointments",
+					"ru": "Booked Appointments"	
 				}
 			},
 			{
@@ -2514,13 +2513,15 @@
 				"translations": {
 					"en": "Woocommerce Social Media Share Buttons",
 					"ru": "Woocommerce Social Media Share Buttons"
+
 				}
 			},
-			{	
-				"id": "bne-testimonials-plugin",
+			{
+				"id": "timetable",
 				"translations": {
-					"en": "BNE Testimonials",
-					"ru": "Виджет Testimonials"
+					"en": "Timetable and Event Schedule",
+					"ru": "Timetable and Event Schedule"
+				
 				}
 			}
 		],
@@ -2604,6 +2605,39 @@
 				"translations": {
 					"en": "Facebook Widget",
 					"ru": "Facebook Widget"
+				}
+			}
+		],
+		"valentia": [
+			{
+				"id": "motopress-slider",
+				"translations": {
+					"en": "MotoPress Slider",
+					"ru": "Слайдер MotoPress"
+
+				}
+			},
+			{
+				"id": "tiny-grid",
+				"translations": {
+					"en": "Tiny Grid",
+					"ru": "Tiny Grid"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+			
+				}
+			},
+			{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+			
 				}
 			}
 		]

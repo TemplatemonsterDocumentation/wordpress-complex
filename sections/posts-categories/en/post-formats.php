@@ -61,7 +61,7 @@
 <figure class="img-polaroid"><img src="img/wordpress/post_format_audio_additional.png" alt=""></figure>
 
 
-<h4 id="post_format_chat">Chat</h4>
+<!--<h4 id="post_format_chat">Chat</h4>
 
 <p><strong> Chat </strong> format is a post with content in the form of successive messages.</p>
 
@@ -72,7 +72,7 @@
     <li><i class="fa fa-angle-right"></i>Mike: Not bad Ann.</li>
 </ul>
 
-<figure class="img-polaroid"><img src="img/wordpress/post_format_chat.png" alt=""></figure>
+<figure class="img-polaroid"><img src="img/wordpress/post_format_chat.png" alt=""></figure> -->
 
 
 <h4 id="post_format_gallery">Gallery</h4>

@@ -17,9 +17,7 @@
 		You can put the facebook or twitter post embed
 	</p>
 
-	<figure class="img-polaroid">
-		<img src="projects/<?php echo $project;?>/img/page/page-layout-settings.png">
-	</figure>
+		<figure class="img-polaroid"><img src="img/tm/page/page-layout-settings.png" alt=""></figure>
 	<!--
 	<figure class="img-polaroid">
 		<img src="projects/<?php echo $project;?>/img/page/page-layout-settings.png">

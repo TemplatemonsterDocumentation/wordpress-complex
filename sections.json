@@ -1624,5 +1624,18 @@
 		"tm-builder",
 		"tm-builder-modules",
 		"extras"
+	],
+	"valentia": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"woocommerce-integration",
+		"plugins",
+		"third-party-plugins",
+		"extras"
 	]
 }

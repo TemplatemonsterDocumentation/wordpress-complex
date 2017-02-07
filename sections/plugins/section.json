@@ -3089,6 +3089,14 @@
 					"ru": "Cherry Testimonials"
 
 				}
+			},
+			{
+				"id": "tm-dashboard",
+				"translations": {
+					"en": "TM Dashboard",
+					"ru": "TM Dashboard"
+
+				}
 			}
 		],
 		"stylefactory": [
@@ -3107,6 +3115,13 @@
 				}
 			},
 			{
+				"id": "cherry-popups",
+				"translations": {
+					"en": "Cherry PopUps",
+					"ru": "Cherry PopUps"
+				}
+			},
+			{
 				"id": "woo-compare-wishlist",
 				"translations": {
 					"en": "TM Woocommerce Compare & Wishlist",
@@ -3118,6 +3133,20 @@
 				"translations": {
 					"en": "TM WooCommerce Package",
 					"ru": "TM WooCommerce Package"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
 				}
 			}
 		],
@@ -3214,6 +3243,36 @@
 				"translations": {
 					"en": "Cherry PopUps",
 					"ru": "Cherry PopUps"
+				}
+			}
+		],
+		"valentia": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
 				}
 			}
 		]
