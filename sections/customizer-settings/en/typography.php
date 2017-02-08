@@ -74,7 +74,7 @@
         </dl>
     </li>
 
-<?php if ($project == 'globera' or $project == 'bedentist' or $project == 'finestgame' or $project == 'clubstome' or $project == 'neurion' or $project == 'fiona' or $project == 'cleaningpro' or $project == 'posh' or $project == 'plumberpro' or $project == 'smarthouse' or $project == 'focussity' or $project == 'grannali'  or $project == 'chateau' or $project == 'bellatoi' or $project == 'pokemania' or $project == 'builderry' or $project == 'bellaina' or  $project == 'talisman' or  $project == 'leonardo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro'  or $project == 'mohican' or $project == 'knox' or $project == 'organica' or $project == 'infobyte' or $project == 'walden') { ?>
+<?php if ($project == 'globera' or $project == 'bedentist' or $project == 'finestgame' or $project == 'clubstome' or $project == 'neurion' or $project == 'fiona' or $project == 'cleaningpro' or $project == 'posh' or $project == 'plumberpro' or $project == 'smarthouse' or $project == 'focussity' or $project == 'grannali'  or $project == 'chateau' or $project == 'bellatoi' or $project == 'pokemania' or $project == 'builderry' or $project == 'bellaina' or  $project == 'talisman' or  $project == 'leonardo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro'  or $project == 'mohican' or $project == 'knox' or $project == 'organica' or $project == 'infobyte' or $project == 'walden' or $project == 'thedailypost') { ?>
 
     <li>
         <dl class="inline-term">

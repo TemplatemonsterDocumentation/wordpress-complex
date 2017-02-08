@@ -42,7 +42,7 @@
 
 </ul>
 
-    <?php if ($project != 'mohican' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'walden' && $project != 'chefplaza' && $project != 'hardwire') { ?>
+    <?php if ($project != 'mohican' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'walden' && $project != 'chefplaza' && $project != 'hardwire' && $project != 'thedailypost') { ?>
         <h5>Content type</h5>
 
         <ul class="marked-list">
@@ -92,7 +92,7 @@
 <?php } ?>
 
 
-<?php if ($project != 'chefplaza' && $project != 'stylefactory' && $project != 'hardwire' ) { ?>
+<?php if ($project != 'chefplaza' && $project != 'stylefactory' && $project != 'hardwire' && $project != 'thedailypost') { ?>
 <h5>Container Background Color (px)</h5>
 
 <p>Here you can select the background color. </p>

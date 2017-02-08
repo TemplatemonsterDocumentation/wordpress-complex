@@ -28,7 +28,7 @@
 
 <p>This property specifies whether to enable or disable topTop button</p>
 
-<?php if ($project == 'wildride' OR $project == 'weeklyjournal' OR $project == 'cosmetro' OR $project == 'sketchfield' OR $project == 'clubstome'  OR $project == 'bedentist' OR $project == 'pristine' OR $project == 'samson' OR $project == 'fiona' OR $project == 'cleaningpro' OR $project == 'posh' OR $project == 'smarthouse' OR $project == 'madeleine' or $project == 'pokemania' or $project == 'teddy' or $project == 'builderry' or $project == 'timberline' or $project == 'pettown' or $project == 'greenville'  or $project == 'mohican' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'helios' or $project == 'sportlabs' or $project == 'fleek' or $project == 'organica' or $project == 'walden') { ?>
+<?php if ($project == 'wildride' OR $project == 'weeklyjournal' OR $project == 'cosmetro' OR $project == 'sketchfield' OR $project == 'clubstome'  OR $project == 'bedentist' OR $project == 'pristine' OR $project == 'samson' OR $project == 'fiona' OR $project == 'cleaningpro' OR $project == 'posh' OR $project == 'smarthouse' OR $project == 'madeleine' or $project == 'pokemania' or $project == 'teddy' or $project == 'builderry' or $project == 'timberline' or $project == 'pettown' or $project == 'greenville'  or $project == 'mohican' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'helios' or $project == 'sportlabs' or $project == 'fleek' or $project == 'organica' or $project == 'walden' or $project == 'thedailypost') { ?>
 
 <h5> Show preloader when open a page </h5>
 

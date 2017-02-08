@@ -18919,6 +18919,145 @@
 				"en": "WooCommerce Recent Reviews",
 				"ru": "WooCommerce Recent Reviews"
 			}
+		}],
+		"thedailypost": [{
+			"id": "about-author-widget",
+			"translations": {
+				"en": "About Author",
+				"ru": "Информация об авторе"
+			}
+		}, {
+			"id": "featured-post-block",
+			"translations": {
+				"en": "Featured Post Block",
+				"ru": "Выбраные посты"
+			}
+		}, {
+			"id": "archives",
+			"translations": {
+				"en": "Archives",
+				"ru": "Архив"
+			}
+		},  {
+			"id": "calendar",
+			"translations": {
+				"en": "Calendar",
+				"ru": "Календарь"
+			}
+		},  {
+			"id": "categories",
+			"translations": {
+				"en": "Categories",
+				"ru": "Категории"
+			}
+		},  {
+			"id": "custom-menu",
+			"translations": {
+				"en": " Custom Menu ",
+				"ru": " Custom Menu "
+			}
+		},   {
+			"id": "smart-slider-widget",
+			"translations": {
+				"en": "Smart Slider",
+				"ru": "Умный слайдер"
+			}
+		},  {
+			"id": "meta",
+			"translations": {
+				"en": "Meta",
+				"ru": "Meta"
+			}
+		},  {
+			"id": "recent-posts-widget",
+			"translations": {
+				"en": "Recent Posts",
+				"ru": "Новые публикации "
+			}
+		}, {
+			"id": "recent-comments-widget",
+			"translations": {
+				"en": "Recent Comments",
+				"ru": "Новые комментарии "
+			}
+		},  {
+			"id": "news-smart-box",
+			"translations": {
+				"en": "News Smart box",
+				"ru": "Новостная лента"
+			}
+		},  {
+			"id": "tag-cloud",
+			"translations": {
+				"en": "Tag Cloud",
+				"ru": "Облако тегов"
+			}
+		},  {
+			"id": "carousel-slider-widget",
+			"translations": {
+				"en": "Carousel Slider",
+				"ru": "Слайдер карусель"
+			}
+		}, {
+			"id": "image-grid-widget-column",
+			"translations": {
+				"en": "Image Grid",
+				"ru": "Сетка изображений"
+			}
+		},  {
+			"id": "easy-twitter-feed",
+			"translations": {
+				"en": "Easy twitter feed",
+				"ru": "Twitter лента"
+			}
+		}, {
+			"id": "pages",
+			"translations": {
+				"en": "Pages",
+				"ru": "Страницы"
+			}
+		},  {
+			"id": "rss",
+			"translations": {
+				"en": "RSS",
+				"ru": "RSS"
+			}
+		},  {
+			"id": "text",
+			"translations": {
+				"en": "Text",
+				"ru": "Текст"
+			}
+		},  {
+			"id": "search",
+			"translations": {
+				"en": "Search",
+				"ru": "Поиск"
+			}
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
+			"id": "facebook-page-like-widget",
+			"translations": {
+				"en": "Facebook Page Like Widget",
+				"ru": "Facebook Page Like Widget"
+			}
+		},  {
+			"id": "subscribe-and-follow-widget",
+			"translations": {
+				"en": "Subscribe and Follow",
+				"ru": "Подписка и Follow"
+			}
+		},{
+			"id": "taxonomy-tiles-widget",
+			"translations": {
+				"en": "Taxonomy Tiles",
+				"ru": "Виджет категорий и тегов"
+			}
 		}]
 	}
 }

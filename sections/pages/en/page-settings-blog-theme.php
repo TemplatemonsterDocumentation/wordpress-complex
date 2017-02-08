@@ -7,17 +7,15 @@
 	<h4>
 		Layout type
 	</h4>
+<?php if ($project == 'thedailypost') { ?>
+	<figure class="img-polaroid"><img src="img/tm/page/page-layout-settings-two-sidebars.png" alt=""></figure>
+<?php } ?>
 
+<?php if ($project != 'thedailypost') { ?>
 	<figure class="img-polaroid"><img src="img/tm/page/page-layout-settings.png" alt=""></figure>
-
+<?php } ?>
 	<p>
 		Defines page layout type.
-	</p>
-
-	<h3>Page settings</h3>
-
-	<p>
-	    You can configure not only the global settings from the customizer section but also single page or post parameters separately.
 	</p>
 
 	<h5>
@@ -32,9 +30,6 @@
 	<p>
 		You can put the facebook or twitter post embed
 	</p>
-
-
-		<figure class="img-polaroid"><img src="img/tm/page/page-layout-settings.png" alt=""></figure>
 
 	<!--
 	<figure class="img-polaroid">
