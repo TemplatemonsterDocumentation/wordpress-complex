@@ -2657,6 +2657,23 @@
 					"ru": "Facebook Widget"
 				}
 			}
+		],
+		"streamline": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				
+				}
+			},
+			{
+				"id": "facebook-main",
+				"translations": {
+					"en": "Facebook Widget",
+					"ru": "Facebook Widget"
+				}
+			}
 		]
 	}
 }

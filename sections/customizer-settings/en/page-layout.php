@@ -42,7 +42,7 @@
 
 </ul>
 
-    <?php if ($project != 'mohican' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'walden' && $project != 'chefplaza' && $project != 'hardwire' && $project != 'thedailypost') { ?>
+    <?php if ($project != 'mohican' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'walden' && $project != 'chefplaza' && $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline') { ?>
         <h5>Content type</h5>
 
         <ul class="marked-list">

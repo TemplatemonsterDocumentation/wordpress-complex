@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+h1 {
+  font-family: "Raleway", sans-serif;
+  color: #000; }
+
+h2 {
+  color: #000; }
+
+h3 {
+  color: #000; }
+
+h4 {
+  color: #000; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top !important; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom !important; } }
+
+.rd-mobilepanel {
+  background-color: #efefef;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 81% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/streamline/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 50px;
+  top: 220px;
+  font-style: bold; }
+  .rd-mobilepanel_title:before {
+    content: '';
+    position: absolute;
+    background-image: url(../../projects/streamline/img/im.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    width: 58px;
+    height: 115px;
+    left: -75px;
+    top: 7px; }
+
+.tm-title-caption {
+  font-size: 50px;
+  top: 330px;
+  font-family: "Racing Sans One", cursive;
+  color: #ec3642;
+  line-height: 36px;
+  width: 365px;
+  font-style: italic;
+  text-align: center; }
+
+.rd-mobilemenu .logo {
+  background-color: #FFFFFF; }
+
+.toTop {
+  background-color: #ec3642; }
+  .toTop:hover {
+    background: #f5939a; }
+
+@media (max-width: 1600px) and (min-width: 976px) {
+  .rd-mobilepanel_title {
+    top: 100px;
+    bottom: 130px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 176px;
+    text-align: left;
+    font-size: 38px; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 183px; }
+
+  .tm-title-caption {
+    width: 300px;
+    top: 176px; } }
+.rd-mobilepanel_toggle span {
+  background-color: #ec3642; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #ec3642; }
+
+.rd-mobilepanel.fixed .rd-mobilepanel_title:before {
+  display: none; }

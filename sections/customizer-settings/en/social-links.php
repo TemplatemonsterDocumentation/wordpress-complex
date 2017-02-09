@@ -32,7 +32,7 @@
     </li>
 
 
-<?php if ($project !='stylefactory' && $project !='hardwire' && $project !='thedailypost'){ ?>
+<?php if ($project !='stylefactory' && $project !='hardwire' && $project !='thedailypost' && $project !='streamline'){ ?>
     <li>
         <dl class="inline-term">
             <dt>Add social sharing to blog posts  </dt>
