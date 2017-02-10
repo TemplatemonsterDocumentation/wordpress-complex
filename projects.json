@@ -837,16 +837,28 @@
 		"titleCaption": "post",
 		"author": ""
 	},
+	"general_doc": {
+		"textLogo": "",
+		"title": "General Documentation",
+		"titleCaption": "For Cherry 5 powered WP Themes",
+		"author": ""
+	},
 	"streamline": {
 		"textLogo": "",
 		"title": "Streamline",
 		"titleCaption": "",
 		"author": ""
 	},
-	"general_doc": {
+	"cityherald": {
 		"textLogo": "",
-		"title": "General Documentation",
-		"titleCaption": "For Cherry 5 powered WP Themes",
+		"title": "CityHerald",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"prima": {
+		"textLogo": "",
+		"title": "Cityherald",
+		"titleCaption": "WordPress Theme",
 		"author": ""
 	}
 

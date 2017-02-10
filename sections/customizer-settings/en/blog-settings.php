@@ -9,7 +9,7 @@
 -->
 
 <ul class="marked-list">
-<?php if ($project == 'bitnews' or $project == 'thedailypost' or $project == 'streamline') { ?>
+<?php if ($project == 'bitnews' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald') { ?>
     <li>
         <dl class="inline-term">
             <dt>Title</dt>
@@ -122,6 +122,17 @@
         </dl>
     </li>
 <?php if ($project == 'thedailypost') { ?>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Show social sharing </dt>
+            <dd>
+                Show/hide social sharing icons
+             </dd>
+        </dl>
+    </li>
+<?php } ?>
+<?php if ($project == 'cityherald') { ?>
 
     <li>
         <dl class="inline-term">

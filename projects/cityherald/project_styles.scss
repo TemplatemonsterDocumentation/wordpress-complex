@@ -1,0 +1,133 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #f3f9fa;
+$primary-color-second: #f9f9f9;
+$third-color: #000000;
+$third-color-second: #353a40;
+$primary-color-light: #04c4d9;
+$header-background-image: '../../projects/cityherald/img/header-bg.png';
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+
+$primary-font-family: 'Noto Sans', sans-serif;
+
+$secondary-font-family: 'Noto Sans', sans-serif;
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: $primary-color-light;
+}
+h2 {
+	color: $third-color-second;
+	//font-family: $primary-font-family;
+}
+h3 {
+	color: $third-color;
+	//font-family: $primary-font-family;
+}
+h4 {
+	color: $third-color;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+			@media (max-width: 1440px) {
+    			background-position: 100% bottom;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color-second;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}
+}
+
+ .rd-mobilepanel_title {
+	font-size: 74px;
+	top:220px;
+}
+
+.tm-title-caption {
+	font-size: 33px;
+	top: 330px;
+	font-family: $secondary-font-family;
+    color: $third-color;
+    line-height: 36px;
+    width: 365px;
+    font-style: bold;
+    text-align: center;
+}
+
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color;
+	}
+}
+.toTop {
+	background-color: $third-color-second;
+	&:hover {
+    	background: lighten($third-color, 20%);
+	}
+}
+
+@media (max-width: 1600px) and (min-width: 976px){
+	.rd-mobilepanel_title {
+		top: 74px;
+	}
+	.tm-title-caption {	
+		width:259px;
+		top: 180px;
+		text-align: left;
+		font-size: 21px !important;
+	}
+}
+@media (max-width: 1800px) and (min-width: 1601px){
+	.rd-mobilepanel_title {
+		top: 74px;
+	}
+	.tm-title-caption {	
+		width:350px;
+		top: 180px;
+		text-align: left;
+	}
+}
+
+.rd-mobilepanel_toggle span{
+	background-color: $third-color;
+		&:before, &:after{
+			background-color: $third-color;
+		}
+}

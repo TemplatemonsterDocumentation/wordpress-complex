@@ -51,7 +51,7 @@
 <p> Upload invert logo for retina-ready devices. Displays only at style 1 header layout. </p>
 <?php } ?>
 
-<?php if ($project != 'roadway' &&  $project != 'tradex' &&  $project != 'italica' &&  $project != 'mohican' &&  $project != 'gutenberg' &&  $project != 'knox' &&  $project != 'gaze' &&  $project != 'techlab' &&  $project != 'organica' &&  $project != 'infobyte' &&  $project != 'transit' &&  $project != 'jericho' &&  $project != 'walden' &&  $project != 'chefplaza' &&  $project != 'agrilloc' &&  $project != 'monstroid_2' &&  $project != 'stylefactory' &&  $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline') { ?>
+<?php if ($project != 'roadway' &&  $project != 'tradex' &&  $project != 'italica' &&  $project != 'mohican' &&  $project != 'gutenberg' &&  $project != 'knox' &&  $project != 'gaze' &&  $project != 'techlab' &&  $project != 'organica' &&  $project != 'infobyte' &&  $project != 'transit' &&  $project != 'jericho' &&  $project != 'walden' &&  $project != 'chefplaza' &&  $project != 'agrilloc' &&  $project != 'monstroid_2' &&  $project != 'stylefactory' &&  $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline' && $project != 'cityherald') { ?>
 <h5>Retina Invert Logo Upload</h5>
 
 <p> Upload invert logo for retina-ready devices. Displays only at style 1 header layout. </p>
