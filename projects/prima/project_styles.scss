@@ -2,13 +2,15 @@
 //                     Variables
 //========================================================
 
-$primary-color: #ffffff;
-$primary-color-second: #e59075;
+$primary-color: #35251c;
+$primary-color-second: #241d1c;
 $primary-color-dark: #303030;
-$header-background-image: '../../projects/focussity/img/header-bg.png';
+$primary-color-light: #fff;
+$secondary-color: #d4d3d3;
+$header-background-image: '../../projects/prima/img/header-bg.png';
 
-@import url(https://fonts.googleapis.com/css?family=Vollkorn:400,400italic);
-$primary-font-family: 'Vollkorn', serif;
+@import url('https://fonts.googleapis.com/css?family=Lato');
+$primary-font-family:'Lato', sans-serif;
 
 
 //========================================================
@@ -17,7 +19,7 @@ $primary-font-family: 'Vollkorn', serif;
 
 h1 {
 	font-family: $primary-font-family;
-	color: $primary-color;
+	color: $primary-color-light;
 
 }
 h2 {
@@ -87,20 +89,24 @@ body:not([data-section="introduction"]) {
 	top:213px;
 	width: 400px;
 	line-height: 45px;
-	font-style: italic;
+	font-style: bold;
+	left: 145px;
+
 }
 
 .tm-title-caption {
 	font-size: 30px;
-	top: 294px;
+	top: 270px;
 	font-family: $primary-font-family;
-    color: $primary-color;
+    color: $secondary-color;
     line-height: 36px;
     width: 481px;
+    font-weight: lighter;
+    left: 153px;
 }
 @media (max-width: 1439px){
 	.rd-mobilepanel_title{
-		top:100px
+		top:100px;
 	}
 	.tm-title-caption {	
 		top:180px;
@@ -108,19 +114,19 @@ body:not([data-section="introduction"]) {
 }
 @media (max-width: 1600px) and (min-width: 1440px){
 	.rd-mobilepanel_title{
-		top:100px
+		top:107px
 	}
 	.tm-title-caption {	
-		top:180px;
+		top:168px;
 		width:198px;
 	}
 }
 @media (max-width: 1800px) and (min-width: 1601px){
 	.rd-mobilepanel_title{
-		top:100px
+		top:230px;
 	}
 	.tm-title-caption {	
-		top:180px;
+		top:280px;
 		width:300px;
 	}
 }

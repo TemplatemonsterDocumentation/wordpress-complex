@@ -4,15 +4,15 @@
 
 $primary-color: #FFFFFF;
 $primary-color-second: #fff;
-$third-color: #ff453f;
-$primary-color-light: #000;
-$header-background-image: '../../projects/thedailypost/img/header-bg.png';
+$third-color: #303030;
+$primary-color-light: #f77926;
+$header-background-image: '../../projects/viralnews/img/header-bg.png';
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat+Subrayada|Racing+Sans+One');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
 
-$primary-font-family: 'Montserrat Subrayada', sans-serif;
+$primary-font-family: 'Noto Sans', sans-serif;
 
-$secondary-font-family: 'Racing Sans One', cursive;
+$secondary-font-family:'Noto Sans', sans-serif;
 
 //========================================================
 //                     Color & Styles
@@ -27,7 +27,7 @@ h2 {
 	//font-family: $primary-font-family;
 }
 h3 {
-	color: $primary-color-light;
+	color: $third-color;
 	//font-family: $primary-font-family;
 }
 h4 {
@@ -37,7 +37,7 @@ h4 {
 .page-content {
 	&.active {
 		.rd-mobilepanel{
-			background-position: 66% top;
+			background-position: 94% top;
 			@media (max-width: 1440px) {
     			background-position: 100% bottom;
 			}
@@ -75,18 +75,18 @@ body:not([data-section="introduction"]) {
 }
 
  .rd-mobilepanel_title {
-	font-size: 74px;
+	font-size: 50px;
 	top:220px;
+
 }
 
 .tm-title-caption {
-	font-size: 98px;
+	font-size: 50px;
 	top: 330px;
 	font-family: $secondary-font-family;
     color: $third-color;
     line-height: 36px;
     width: 365px;
-    font-style: italic;
     text-align: center;
 }
 
@@ -104,7 +104,7 @@ body:not([data-section="introduction"]) {
 
 @media (max-width: 1600px) and (min-width: 976px){
 	.rd-mobilepanel_title {
-		top: 53px;
+		top: 186px;
 	}
 	.tm-title-caption {	
 		width:259px;
@@ -115,7 +115,7 @@ body:not([data-section="introduction"]) {
 }
 @media (max-width: 1800px) and (min-width: 1601px){
 	.rd-mobilepanel_title {
-		top: 53px;
+		top: 197px;
 	}
 	.tm-title-caption {	
 		width:300px;

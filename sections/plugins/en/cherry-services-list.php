@@ -1,6 +1,6 @@
 <h3>Cherry Services List</h3>
 
-<p>Cherry Services <a href="https://wordpress.org/plugins/cherry-services-list/" target="_blank"> Cherry Services</a> is a flexible WordPress plugin that lets you display your company’s services in a variety of ways: as single pages, galleries, and even as embedded content blocks on the homepage of your website with the help of custom shortcodes.
+<p><a href="https://wordpress.org/plugins/cherry-services-list/" target="_blank"> Cherry Services</a> is a flexible WordPress plugin that lets you display your company’s services in a variety of ways: as single pages, galleries, and even as embedded content blocks on the homepage of your website with the help of custom shortcodes.
 
 The plugin adds a custom post type named “Services”, which you can use to display what your company offers – in a professional way.
 </p>

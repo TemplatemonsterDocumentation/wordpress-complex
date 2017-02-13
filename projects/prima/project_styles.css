@@ -1,16 +1,16 @@
-@import url(https://fonts.googleapis.com/css?family=Vollkorn:400,400italic);
+@import url("https://fonts.googleapis.com/css?family=Lato");
 h1 {
-  font-family: "Vollkorn", serif;
-  color: #ffffff; }
+  font-family: "Lato", sans-serif;
+  color: #fff; }
 
 h2 {
-  color: #e59075; }
+  color: #241d1c; }
 
 h3 {
   color: #303030; }
 
 h4 {
-  color: #e59075; }
+  color: #241d1c; }
 
 .page-content.active .rd-mobilepanel {
   background-position: 66% top; }
@@ -19,7 +19,7 @@ h4 {
       background-position: 100% bottom; } }
 
 .rd-mobilepanel {
-  background-color: #e59075;
+  background-color: #241d1c;
   background-position: right top;
   -webkit-transition-property: height;
           transition-property: height;
@@ -35,7 +35,7 @@ h4 {
       background-position: 600px bottom; } }
 
 [data-section="introduction"] .rd-mobilepanel {
-  background-image: url("../../projects/focussity/img/header-bg.png");
+  background-image: url("../../projects/prima/img/header-bg.png");
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
@@ -57,15 +57,18 @@ body:not([data-section="introduction"]) .tm-title-caption {
   top: 213px;
   width: 400px;
   line-height: 45px;
-  font-style: italic; }
+  font-style: bold;
+  left: 145px; }
 
 .tm-title-caption {
   font-size: 30px;
-  top: 294px;
-  font-family: "Vollkorn", serif;
-  color: #ffffff;
+  top: 270px;
+  font-family: "Lato", sans-serif;
+  color: #d4d3d3;
   line-height: 36px;
-  width: 481px; }
+  width: 481px;
+  font-weight: lighter;
+  left: 153px; }
 
 @media (max-width: 1439px) {
   .rd-mobilepanel_title {
@@ -75,26 +78,26 @@ body:not([data-section="introduction"]) .tm-title-caption {
     top: 180px; } }
 @media (max-width: 1600px) and (min-width: 1440px) {
   .rd-mobilepanel_title {
-    top: 100px; }
+    top: 107px; }
 
   .tm-title-caption {
-    top: 180px;
+    top: 168px;
     width: 198px; } }
 @media (max-width: 1800px) and (min-width: 1601px) {
   .rd-mobilepanel_title {
-    top: 100px; }
+    top: 230px; }
 
   .tm-title-caption {
-    top: 180px;
+    top: 280px;
     width: 300px; } }
 .rd-mobilemenu .logo {
-  background-color: #ffffff; }
+  background-color: #35251c; }
 
 .rd-mobilemenu_ul ul a.focus {
-  color: #e59075; }
+  color: #241d1c; }
 
 .toTop {
-  background-color: #e59075;
+  background-color: #241d1c;
   color: #ffffff; }
   .toTop:hover {
     background-color: #303030; }

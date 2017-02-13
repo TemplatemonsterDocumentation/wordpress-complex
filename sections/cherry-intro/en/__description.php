@@ -71,7 +71,7 @@ The plugin is specially designed to make it easier for the businesses to display
 
 <h2>Cherry Services</h2>
 <p>
-This plugin can be useful for any business website whether it is large or small. It will help you to list all services you provide in an attractive and structured way. Thanks to a number of options and settings the plugin can be customized in accordance with the style and specification of your business. 
+Cherry Search can be useful for any business website whether it is large or small. It will help you to list all services you provide in an attractive and structured way. Thanks to a number of options and settings the plugin can be customized in accordance with the style and specification of your business. 
 </p>
 <figure class="img-polaroid">
     <img src="projects/<?php echo $project;?>/img/images/frontend.png">
@@ -112,7 +112,7 @@ This plugin can be useful for any business website whether it is large or small.
  <h3>Cherry Installer</h3>
 
 <p>
-    This plugin will help you export posts, comments, widgets, settings etc., from one site to another. With a single click of a button the plugin generates an XML file that can be imported to another website. 
+    The plugin will help you export posts, comments, widgets, settings etc., from one site to another. With a single click of a button the plugin generates an XML file that can be imported to another website. 
 </p>
 
 <p>After the installation the plugin adds a new block - <strong>Demo Content</strong> where you can export or import the content.</p>

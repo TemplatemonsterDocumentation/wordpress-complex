@@ -19326,12 +19326,6 @@
 			}
 		}],
 		"prima": [{
-			"id": "smart-slider-widget",
-			"translations": {
-				"en": "Smart Slider",
-				"ru": "Умный слайдер"
-			}
-		},  {
 			"id": "search",
 			"translations": {
 				"en": "Search",
@@ -19379,20 +19373,14 @@
 				"en": "Tag Cloud",
 				"ru": "Облако тегов"
 			}
-		},  {
-			"id": "taxonomy-tiles-widget",
-			"translations": {
-				"en": "Taxonomy Tiles",
-				"ru": "Виджет категорий и тегов"
-			}
-		},  {
+		}, {
 			"id": "about-author-widget",
 			"translations": {
 				"en": "About Author",
 				"ru": "Информация об авторе"
 			}
-		},  {
-			"id": "about",
+		}, {
+			"id": "about ",
 			"translations": {
 				"en": "About Prima",
 				"ru": "О Prima"
@@ -19434,16 +19422,16 @@
 				"ru": "Страницы"
 			}
 		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
 			"id": "rss",
 			"translations": {
 				"en": "RSS",
 				"ru": "RSS"
-			}
-		},  {
-			"id": "image-grid-widget",
-			"translations": {
-				"en": "Image Grid",
-				"ru": "Сетка изображений"
 			}
 		},  {
 			"id": "carousel-widget",
