@@ -17,7 +17,7 @@
 <h5>Layout type</h5>
 <?php } ?>
 
-<?php if ($project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gutenberg' or $project == 'transit' or $project == 'jericho' or $project == 'monstroid_2' or $project == 'stylefactory') { ?>
+<?php if ($project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gutenberg' or $project == 'transit' or $project == 'jericho' or $project == 'monstroid_2' or $project == 'stylefactory' or $project == 'prima') { ?>
 <h5>Header type</h5>
 <?php } ?>
 
@@ -42,7 +42,7 @@
 
 </ul>
 
-    <?php if ($project != 'mohican' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'walden' && $project != 'chefplaza' && $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline' && $project != 'cityherald') { ?>
+    <?php if ($project != 'mohican' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'walden' && $project != 'chefplaza' && $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline' && $project != 'cityherald' && $project != 'viralnews') { ?>
         <h5>Content type</h5>
 
         <ul class="marked-list">
@@ -92,7 +92,7 @@
 <?php } ?>
 
 
-<?php if ($project != 'chefplaza' && $project != 'stylefactory' && $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline' && $project != 'cityherald') { ?>
+<?php if ($project != 'chefplaza' && $project != 'stylefactory' && $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline' && $project != 'cityherald' && $project != 'prima' && $project != 'viralnews') { ?>
 <h5>Container Background Color (px)</h5>
 
 <p>Here you can select the background color. </p>

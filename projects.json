@@ -857,7 +857,13 @@
 	},
 	"prima": {
 		"textLogo": "",
-		"title": "Cityherald",
+		"title": "Prima",
+		"titleCaption": "WordPress Theme",
+		"author": ""
+	},
+	"viralnews": {
+		"textLogo": "",
+		"title": "ViralNews",
 		"titleCaption": "WordPress Theme",
 		"author": ""
 	}

@@ -11,7 +11,7 @@
 	<figure class="img-polaroid"><img src="img/tm/page/page-layout-settings-two-sidebars.png" alt=""></figure>
 <?php } ?>
 
-<?php if ($project != 'thedailypost' or $project == 'streamline') { ?>
+<?php if ($project != 'thedailypost' or $project == 'streamline' or $project == 'viralnews') { ?>
 	<figure class="img-polaroid"><img src="img/tm/page/page-layout-settings.png" alt=""></figure>
 <?php } ?>
 	<p>

@@ -573,7 +573,7 @@ Footer  Main Social Top
 ---------------------------->
 
 
-<?php if ($project == 'clubstome' or $project == 'bettaso'  or $project == 'advisto' or $project == 'fuel' or  $project == 'lawpress' or $project == 'chopchop'  or $project == 'tanaka' or $project == 'ecolife' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'stylefactory' or $project == 'hardwire' or $project == 'valentia' or $project == 'thedailypost' or $project == 'streamline') { ?>
+<?php if ($project == 'clubstome' or $project == 'bettaso'  or $project == 'advisto' or $project == 'fuel' or  $project == 'lawpress' or $project == 'chopchop'  or $project == 'tanaka' or $project == 'ecolife' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'stylefactory' or $project == 'hardwire' or $project == 'valentia' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'prima' or $project == 'viralnews') { ?>
     <ul class="marked-list">
         <li>
             <dl class="inline-term">

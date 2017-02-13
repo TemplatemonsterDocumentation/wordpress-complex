@@ -117,7 +117,7 @@
 </ul>    
 <?php } ?>
 
-<?php if ($project =='fiona' or $project =='cleaningpro' or $project =='jericho' ) { ?>
+<?php if ($project =='fiona' or $project =='cleaningpro' or $project =='jericho' or $project == 'prima' ) { ?>
 <ul class="marked-list">
 
     <li>
