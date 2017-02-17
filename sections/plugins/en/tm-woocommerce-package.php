@@ -70,3 +70,10 @@ Here is the full list of widgets available:
 	</p>
 
 <?php } ?>
+
+<?php if ($project == 'petstore') { ?>
+	<p>
+		Navigate to the <a href="http://documentation.templatemonster.com/index.php?project=petstore&lang=en&section=widgets">"Widgets" section</a> to customize the listed widgets. 
+	</p>
+
+<?php } ?>

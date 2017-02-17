@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans");
+h1 {
+  font-family: "Noto Sans", sans-serif;
+  color: #f9f9f9; }
+
+h2 {
+  color: #303030; }
+
+h3 {
+  color: #303030; }
+
+h4 {
+  color: #88325d; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #88325d;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/room4pics/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_toggle span {
+  background-color: #ffffff; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #ffffff; }
+
+.rd-mobilepanel_title {
+  font-size: 50px;
+  font-weight: 400;
+  top: 213px;
+  width: 400px;
+  line-height: 45px;
+  font-style: bold;
+  left: 145px; }
+
+.tm-title-caption {
+  font-size: 30px;
+  top: 270px;
+  font-family: "Noto Sans", sans-serif;
+  color: #d4d3d3;
+  line-height: 36px;
+  width: 481px;
+  font-weight: lighter;
+  left: 153px; }
+
+@media (max-width: 1439px) {
+  .rd-mobilepanel_title {
+    top: 218px; }
+
+  .tm-title-caption {
+    top: 180px; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 218px;
+    left: 80px; }
+
+  .tm-title-caption {
+    top: 168px;
+    width: 198px; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 230px; }
+
+  .tm-title-caption {
+    top: 280px;
+    width: 300px; } }
+.rd-mobilemenu .logo {
+  background-color: #f9f9f9; }
+
+.rd-mobilemenu_ul ul a.focus {
+  color: #88325d; }
+
+.toTop {
+  background-color: #88325d;
+  color: #ffffff; }
+  .toTop:hover {
+    background-color: #303030; }

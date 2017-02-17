@@ -79,7 +79,7 @@
 3- 8
 ---------------------------------------->
 
-<?php if ($project == 'stylefactory') { ?>
+<?php if ($project == 'stylefactory' or $project == 'petstore' or $project == 'niceinn') { ?>
     <li>
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
@@ -283,11 +283,12 @@
     </li>
 <?php } ?>
 
+
 <!------------------------------------  
 3
 ---------------------------------------->
 
-<?php if ($project == 'finestgame' or $project == 'sketchfield' or $project == 'clubstome' or $project == 'blogetti' or $project == 'neurion' or $project == 'ironmass' or $project == 'bettaso' or $project == ' nna' or $project == 'confucius' or $project == 'fenimore' or $project == 'jorden' or $project == 'fuel' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei'  or $project == 'legacy' or $project == 'bellaina' or $project == 'limittax' or $project == 'cookery' or $project == 'duval' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'masterchef' or $project == 'chopchop' or $project == 'whitewhale' or $project == 'tanaka' or $project == 'hidalgo' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'inmotion' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gutenberg' or $project == 'transit'  or $project == 'monstroid_2' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews') { ?>
+<?php if ($project == 'finestgame' or $project == 'sketchfield' or $project == 'clubstome' or $project == 'blogetti' or $project == 'neurion' or $project == 'ironmass' or $project == 'bettaso' or $project == ' nna' or $project == 'confucius' or $project == 'fenimore' or $project == 'jorden' or $project == 'fuel' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei'  or $project == 'legacy' or $project == 'bellaina' or $project == 'limittax' or $project == 'cookery' or $project == 'duval' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'masterchef' or $project == 'chopchop' or $project == 'whitewhale' or $project == 'tanaka' or $project == 'hidalgo' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'inmotion' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gutenberg' or $project == 'transit'  or $project == 'monstroid_2' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'expenditorious' or $project == 'trudeau') { ?>
     <li>
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
@@ -298,6 +299,16 @@
     </li> 
 <?php } ?>
 
+<?php if ($project == 'petstore' or $project == 'trudeau') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Button text color</dt>
+            <dd>
+            Select button text color  
+            </dd>
+        </dl>
+    </li> 
+<?php } ?>
 
     <li>
         <dl class="inline-term">
@@ -561,7 +572,7 @@
 <!------------------------------------  
 3
 ---------------------------------------->
-<?php if ($project == 'finestgame' or $project == 'sketchfield' or $project == 'blogetti' or $project == 'neurion' or $project == 'ironmass' or $project == 'bettaso'  or $project == 'mechanna' or $project == 'confucius' or $project == 'fenimore' or $project == 'jorden' or $project == 'fuel' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei'  or $project == 'legacy' or $project == 'bellaina'or $project == 'limittax' or $project == 'cookery' or $project == 'duval' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'chopchop' or $project == 'whitewhale' or $project == 'tanaka' or $project == 'hidalgo' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'inmotion' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'mohican' or $project == 'gutenberg' or $project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza' or $project == 'monstroid_2' or $project == 'stylefactory' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'prima' or $project == 'viralnews'){ ?>
+<?php if ($project == 'finestgame' or $project == 'sketchfield' or $project == 'blogetti' or $project == 'neurion' or $project == 'ironmass' or $project == 'bettaso'  or $project == 'mechanna' or $project == 'confucius' or $project == 'fenimore' or $project == 'jorden' or $project == 'fuel' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei'  or $project == 'legacy' or $project == 'bellaina'or $project == 'limittax' or $project == 'cookery' or $project == 'duval' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'chopchop' or $project == 'whitewhale' or $project == 'tanaka' or $project == 'hidalgo' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'inmotion' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'mohican' or $project == 'gutenberg' or $project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza' or $project == 'monstroid_2' or $project == 'stylefactory' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'prima' or $project == 'viralnews' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'bayden' or $project == 'petstore' or $project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn'){ ?>
      <li> 
         <dl class="inline-term">
             <dt>Accent color (3)</dt>
@@ -678,7 +689,6 @@
     </li>
 </ul>
 
-
 <?php if ($project =='gaze') { ?>
  
 <h5>Badge scheme</h5>
@@ -792,4 +802,28 @@
             </dd>
         </dl>
     </li>
+<?php } ?>
+
+<h5>Gradient scheme</h5>
+
+<ul class="marked-list">
+<?php if ($project == 'room4pics' or $project == 'rufusvr' or $project == 'expenditorious') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Gradient color (1)</dt>
+            <dd>
+                First version of gradient color
+            </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Gradient color (2)</dt>
+            <dd>
+                Second version of gradient color
+            </dd>
+        </dl>
+    </li>
+</ul>
 <?php } ?>

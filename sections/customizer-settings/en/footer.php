@@ -127,7 +127,7 @@
     </li>
 <?php } ?>     
 
-<?php if ($project == 'builderry') { ?>
+<?php if ($project == 'builderry' or $project == 'bayden' or $project == 'niceinn') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show footer logo</dt>

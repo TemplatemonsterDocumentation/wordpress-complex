@@ -1,0 +1,100 @@
+@import url(https://fonts.googleapis.com/css?family=Pathway+Gothic+One:400,700);
+h1 {
+  font-family: "Pathway Gothic One", sans-serif;
+  color: #2aa5ab; }
+
+h4 {
+  color: #ff2512; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #fff;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/niceinn/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_toggle span {
+  background-color: #2aa5ab; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #2aa5ab; }
+
+.rd-mobilepanel_title {
+  font-size: 74px;
+  font-weight: 100;
+  top: 213px;
+  width: 400px;
+  line-height: 105px; }
+
+.tm-title-caption {
+  font-size: 30px;
+  top: 294px;
+  font-family: "Pathway Gothic One", sans-serif;
+  color: #2aa5ab;
+  line-height: 36px;
+  width: 481px; }
+
+@media (max-width: 1439px) {
+  .rd-mobilepanel_title {
+    top: 100px; }
+
+  .tm-title-caption {
+    top: 180px; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 83px; }
+
+  .tm-title-caption {
+    top: 83px;
+    width: 198px; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 100px; }
+
+  .tm-title-caption {
+    top: 180px;
+    width: 300px; } }
+.rd-mobilemenu .logo {
+  background-color: #fff; }
+
+.rd-mobilemenu_ul ul a.focus {
+  color: #ff2512; }
+
+.rd-mobilepanel.fixed .rd-mobilepanel_title {
+  -webkit-transform: translateY(50.25px);
+      -ms-transform: translateY(50.25px);
+          transform: translateY(50.25px);
+  bottom: 61px;
+  top: -75px; }
+
+.toTop {
+  background-color: #2aa5ab;
+  color: #ffffff; }
+  .toTop:hover {
+    background-color: #ab0e00; }

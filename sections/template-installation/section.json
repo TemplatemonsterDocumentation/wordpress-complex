@@ -3068,6 +3068,270 @@
 					"ru": "Автоматическая установка темы "
 				}
 			}
+		],
+		"room4pics": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"bayden": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"petstore": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"expenditorious": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"trudeau": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"niceinn": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"uptime99": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"helpinghand": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"wheelmasters": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"preservarium": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"rufusvr": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
 		]		}
 }
 	

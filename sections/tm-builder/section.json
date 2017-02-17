@@ -2433,6 +2433,376 @@
 					"ru": "Layout Options"
 				}
 			}
+		],
+		"room4pics": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"rufusvr": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"bayden": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"expenditorious": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"trudeau": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"niceinn": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"uptime99": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"helpinghand": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"wheelmasters": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"preservarium": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
 		]
-	}
+	}	
 }

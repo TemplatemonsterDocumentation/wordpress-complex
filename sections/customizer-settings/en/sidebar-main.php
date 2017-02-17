@@ -48,3 +48,16 @@
         </li>
     </ul>
 <?php } ?>
+
+<?php if ($project == 'uptime99') { ?>
+    <ul class="marked-list">
+        <li>
+            <dl class="inline-term">
+                <dt>Two sidebars</dt>
+                <dd>
+                    Display two sidebars
+                </dd>
+            </dl>
+        </li>
+    </ul>
+<?php } ?>

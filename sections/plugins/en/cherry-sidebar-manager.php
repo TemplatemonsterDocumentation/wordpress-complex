@@ -53,7 +53,7 @@
 <?php } ?>
 
 
-<?php if ($project == 'fairystyle' or $project == 'coffeera') { ?>
+<?php if ($project == 'fairystyle' or $project == 'coffeera' or $project == 'petstore') { ?>
      <ul>
 		<li>Sidebar Blog</li>
 		<li>Sidebar Shop</li>

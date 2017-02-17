@@ -13,7 +13,7 @@
 <ul class="marked-list">
 
 
-<?php if ($project == 'monstroid_2' ) { ?>
+<?php if ($project == 'monstroid_2') { ?>
     <li>
         <dl class="inline-term">
             <dt>Layout</dt>
@@ -44,7 +44,7 @@
 <?php } ?> 
 
 
-<?php if ($project == 'stylefactory' ) { ?>
+<?php if ($project == 'stylefactory' or $project == 'petstore' or $project == 'trudeau') { ?>
 
     <li>
         <dl class="inline-term">
@@ -57,7 +57,7 @@
 <?php } ?> 
 
 
-
+<?php if ($project != 'trudeau') { ?>
     <li>
         <dl class="inline-term">
             <dt>Background Color</dt>
@@ -99,8 +99,9 @@
             </dd>
         </dl>
     </li>
+<?php } ?>
 
-<?php if ($project == 'stylefactory' or $project == 'hardwire' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'prima' or $project == 'viralnews') { ?>
+<?php if ($project == 'stylefactory' or $project == 'hardwire' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'prima' or $project == 'viralnews' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'bayden' or $project == 'petstore') { ?>
 
     <li>
         <dl class="inline-term">
@@ -131,11 +132,28 @@ On/Off Currency
 <?php } ?> 
 
 
+<!-------------------------------------
+Layout
+---------------------------------------->
+
+<?php if ($project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn'  or $project == 'uptime99' or $project == 'helpinghand') { ?>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Layout</dt>
+                <dd>
+                    Choose layout from 3 styles
+                </dd>
+        </dl>
+    </li>
+<?php } ?> 
+
+
 
 <!-------------------------------------
  Disclaimer
 ---------------------------------------->
-<?php if ($project == 'tradex') { ?>
+<?php if ($project == 'tradex' or $project == 'niceinn' or $project == 'uptime99') { ?>
 
     <li>
         <dl class="inline-term">
@@ -152,7 +170,7 @@ On/Off Currency
 search  Disclaimer
 ---------------------------------------->
 
-<?php if ($project != 'mechanna' && $project != 'advisto' && $project != 'cleaningpro' && $project != 'posh' && $project != 'confucius' && $project != 'plumberpro' && $project != 'madeleine' && $project != 'grannali' && $project != 'chateau' && $project != 'bellatoi' && $project != 'shanti' && $project != 'jorden'  && $project != 'teddy' &&  $project != 'lawpress' && $project != 'talisman' && $project != 'timberline' && $project != 'pettown' && $project != 'greenville' && $project != 'duval' && $project != 'keypress' && $project != 'crystalica' && $project != 'penn' && $project != 'leonardo' && $project != 'porto' && $project != 'odyssey' && $project != 'ecolife' && $project != 'hidalgo' && $project != 'happylearning'  && $project != 'mohican' && $project != 'helios' && $project != 'sportlabs' && $project != 'fleek' && $project != 'roadway' && $project != 'tradex'  && $project != 'italica' && $project != 'gutenberg' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'transit' && $project != 'jericho' && $project != 'walden' && $project != 'chefplaza' && $project != 'agrilloc' && $project != 'monstroid_2' && $project != 'stylefactory' && $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline' && $project != 'cityherald' && $project != 'prima' && $project != 'viralnews') { ?>
+<?php if ($project != 'mechanna' && $project != 'advisto' && $project != 'cleaningpro' && $project != 'posh' && $project != 'confucius' && $project != 'plumberpro' && $project != 'madeleine' && $project != 'grannali' && $project != 'chateau' && $project != 'bellatoi' && $project != 'shanti' && $project != 'jorden'  && $project != 'teddy' &&  $project != 'lawpress' && $project != 'talisman' && $project != 'timberline' && $project != 'pettown' && $project != 'greenville' && $project != 'duval' && $project != 'keypress' && $project != 'crystalica' && $project != 'penn' && $project != 'leonardo' && $project != 'porto' && $project != 'odyssey' && $project != 'ecolife' && $project != 'hidalgo' && $project != 'happylearning'  && $project != 'mohican' && $project != 'helios' && $project != 'sportlabs' && $project != 'fleek' && $project != 'roadway' && $project != 'tradex'  && $project != 'italica' && $project != 'gutenberg' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'transit' && $project != 'jericho' && $project != 'walden' && $project != 'chefplaza' && $project != 'agrilloc' && $project != 'monstroid_2' && $project != 'stylefactory' && $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline' && $project != 'cityherald' && $project != 'prima' && $project != 'viralnews' && $project != 'room4pics' && $project != 'rufusvr' && $project != 'bayden' && $project != 'petstore' && $project != 'expenditorious' && $project != 'trudeau' && $project != 'niceinn' && $project != 'uptime99' && $project != 'helpinghand') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable search</dt>
@@ -217,7 +235,7 @@ search  Disclaimer
 Phone  Time
 ---------------------------------------->
 
-<?php if ($project == 'plumberpro' ) { ?>
+<?php if ($project == 'plumberpro' or $project == 'helpinghand') { ?>
     <li>
         <dl class="inline-term">
             <dt>Phone Text </dt>
@@ -338,7 +356,7 @@ TOP PANEL START
 Disclaimer
 ---------------------------------------->
 
-<?php if ( $project != 'advisto' && $project != 'fenimore' && $project != 'nolan' &&  $project != 'lawpress' && $project != 'ecolife' && $project != 'tradex' && $project != 'walden' && $project != 'stylefactory') { ?>
+<?php if ( $project != 'advisto' && $project != 'fenimore' && $project != 'nolan' &&  $project != 'lawpress' && $project != 'ecolife' && $project != 'tradex' && $project != 'walden' && $project != 'stylefactory' && $project != 'petstore') { ?>
     <li>
         <dl class="inline-term">
             <dt>Disclaimer Text</dt>
@@ -354,7 +372,7 @@ Disclaimer
 Enable search
 ---------------------------------------->
 
-<?php if ($project == 'wildride' or $project == 'bettaso' or $project == 'mechanna' or $project == 'advisto' or $project == 'confucious' or $project == 'fenimore' or $project == 'durand' or $project == 'shanti' or $project == 'nolan' or $project == 'jorden' or $project == 'fuel' or $project == 'pokemania' or $project == 'legacy' or  $project == 'lawpress' or  $project == 'talisman' or $project == 'duval' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'chopchop' or $project == 'tanaka' or $project == 'ecolife' or $project == 'hidalgo' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'mohican' or $project == 'gutenberg' or $project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'agrilloc' or $project == 'stylefactory' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews') { ?>
+<?php if ($project == 'wildride' or $project == 'bettaso' or $project == 'mechanna' or $project == 'advisto' or $project == 'confucious' or $project == 'fenimore' or $project == 'durand' or $project == 'shanti' or $project == 'nolan' or $project == 'jorden' or $project == 'fuel' or $project == 'pokemania' or $project == 'legacy' or  $project == 'lawpress' or  $project == 'talisman' or $project == 'duval' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'chopchop' or $project == 'tanaka' or $project == 'ecolife' or $project == 'hidalgo' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'mohican' or $project == 'gutenberg' or $project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'agrilloc' or $project == 'stylefactory' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'expenditorious' or $project == 'niceinn' or $project == 'trudeau') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable search</dt>
@@ -370,7 +388,7 @@ Enable search
 Enable search   On/Off Currency
 ---------------------------------------->
 
-<?php if ($project == 'posh' or  $project == 'grannali' or $project == 'bellatoi' or $project == 'teddy' or $project == 'chefplaza' or $project == 'hardwire') { ?>
+<?php if ($project == 'posh' or  $project == 'grannali' or $project == 'bellatoi' or $project == 'teddy' or $project == 'chefplaza' or $project == 'hardwire' or $project == 'petstore') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable search</dt>
@@ -418,6 +436,17 @@ Background color
         </dl>
     </li>
 <?php } ?>   
+
+<?php if ( $project == 'room4pics' or $project == 'rufusvr') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Enable Top Panel gradient background</dt>
+                <dd>
+                    Here you can set gradient background for Top Panel
+                </dd>
+        </dl>
+    </li>
+<?php } ?> 
 
 <?php if ( $project == 'bellaina' or $project == 'homepro' ) { ?>
     <li>
@@ -504,6 +533,21 @@ Show social links in top panel   Enable search<
 <?php } ?> 
 
 <!-------------------------------------
+Show social links
+---------------------------------------->  
+
+<?php if ($project == 'helpinghand' ) { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Show social links in top panel </dt>
+                <dd>
+                    Show / Hide social links in top panel
+                </dd>
+        </dl>
+    </li>
+<?php } ?> 
+
+<!-------------------------------------
 Show social links in top panel   Enable search<
 ---------------------------------------->  
 
@@ -538,7 +582,7 @@ TOP PANEL END
 
 
 
-<?php if ($project == 'bettaso' or $project == 'confucius' or $project == 'jorden' or $project == 'duval' or $project == 'hidalgo' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'italica' or $project == 'transit')  { ?>
+<?php if ($project == 'bettaso' or $project == 'confucius' or $project == 'jorden' or $project == 'duval' or $project == 'hidalgo' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'italica' or $project == 'transit' or $project == 'uptime99')  { ?>
     
 <h5>Showcase Panel </h5>
 <p>
@@ -689,7 +733,7 @@ TOP PANEL END
 <h5>Header Contact Block</h5>
 <ul class="marked-list">
 
-<?php if ($project == 'monstroid_2') { ?>
+<?php if ($project == 'monstroid_2' or $project == 'bayden') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show header conract block</dt>
@@ -717,7 +761,7 @@ TOP PANEL END
     
     <li>
         <dl class="inline-term">
-            <dt>Contact item 1</dt>
+            <dt>Contact item 2</dt>
             <dd>
                 Here you can set a contact icon and contact information
             </dd>
@@ -734,7 +778,7 @@ TOP PANEL END
 
    <li>
         <dl class="inline-term">
-            <dt>Contact item 1</dt>
+            <dt>Contact item 3</dt>
             <dd>
                 Here you can set a contact icon and contact information
             </dd>
@@ -758,7 +802,7 @@ TOP PANEL END
 
 <ul class="marked-list">
 
-<?php if ($project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'monstroid_2' or $project == 'stylefactory' or $project == 'hardwire' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews') { ?>
+<?php if ($project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'monstroid_2' or $project == 'stylefactory' or $project == 'hardwire' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'bayden' or $project == 'petstore'  or $project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn' or $project == 'uptime99' or $project == 'helpinghand') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable sticky menu </dt>
@@ -781,7 +825,7 @@ TOP PANEL END
     </li>
 <?php } ?> 
 
-<?php if ($project == 'cleaningpro' or $project == 'madeleine' or $project == 'chateau' or $project == 'builderry' or $project == 'bellaina' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro' ) { ?>
+<?php if ($project == 'cleaningpro' or $project == 'madeleine' or $project == 'chateau' or $project == 'builderry' or $project == 'bellaina' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro' or $project == 'bayden' or $project == 'helpinghand') { ?>
 
     <li>
         <dl class="inline-term">
@@ -806,7 +850,7 @@ TOP PANEL END
 <?php } ?> 
 
 
-<?php if ($project == 'monstroid_2') { ?>
+<?php if ($project == 'monstroid_2' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'bayden') { ?>
     <li>
         <dl class="inline-term">
             <dt>More menu button type</dt>
@@ -827,7 +871,7 @@ TOP PANEL END
 <?php } ?> 
 
 
-<?php if ($project == 'neurion' or  $project == 'waylard' or  $project == 'bettaso' or  $project == 'mechanna' or  $project == 'advisto' or  $project == 'confucius' or  $project == 'fenimore' or $project == 'builderry' or  $project == 'lawpress' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'ecolife' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'arlo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'salvatoro'  or $project == 'callum' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'stylefactory' or $project == 'hardwire'  or $project == 'prima') { ?>
+<?php if ($project == 'neurion' or  $project == 'waylard' or  $project == 'bettaso' or  $project == 'mechanna' or  $project == 'advisto' or  $project == 'confucius' or  $project == 'fenimore' or $project == 'builderry' or  $project == 'lawpress' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'ecolife' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'arlo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'salvatoro'  or $project == 'callum' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'stylefactory' or $project == 'hardwire'  or $project == 'prima' or $project == 'petstore' or $project == 'trudeau' or $project == 'uptime99') { ?>
     <li>
         <dl class="inline-term">
             <dt>Hidden menu items title</dt>
@@ -839,7 +883,7 @@ TOP PANEL END
 <?php } ?>  
 
 
-<?php if ($project == 'bellaina' or $project == 'homepro' or $project == 'gutenberg') { ?>
+<?php if ($project == 'bellaina' or $project == 'homepro' or $project == 'gutenberg' or $project == 'niceinn') { ?>
     <li>
         <dl class="inline-term">
             <dt>More Menu Button Type</dt>
@@ -857,4 +901,5 @@ TOP PANEL END
         </dl>
     </li>
 <?php } ?>  
+
 </ul>

@@ -2074,6 +2074,182 @@
 					"ru": "Начало работы с Customizer"
 				}
 			}
+		],
+		"room4pics": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"rufusvr": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"petstore": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"expenditorious": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"trudeau": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"niceinn": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"helpinghand": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"uptime99": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"wheelmasters": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"preservarium": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"bayden": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
 		]
 	}
 }

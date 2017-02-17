@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather+Sans");
+h1 {
+  font-family: "Merriweather Sans", sans-serif;
+  color: #7fcc31; }
+
+h2 {
+  color: #000; }
+
+h3 {
+  color: #000; }
+
+h4 {
+  color: #000; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 90% top !important; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 168% bottom !important; } }
+  @media (max-width: 976px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 97% bottom !important; } }
+
+.rd-mobilepanel {
+  background-color: #0e1f37;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 81% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/uptime99/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 50px;
+  top: 220px;
+  weight: 100;
+  left: 149px; }
+
+.tm-title-caption {
+  font-size: 23px !important;
+  top: 298px !important;
+  font-family: "Merriweather Sans", sans-serif;
+  color: #fff;
+  line-height: 36px;
+  width: 365px;
+  font-style: normal;
+  text-align: center; }
+
+.rd-mobilemenu .logo {
+  background-color: #316dc5; }
+
+.toTop {
+  background-color: #7fcc31; }
+  .toTop:hover {
+    background: white; }
+
+@media (max-width: 1600px) and (min-width: 976px) {
+  .rd-mobilepanel_title {
+    top: 218px;
+    bottom: 130px;
+    left: 69px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 176px;
+    text-align: left;
+    font-size: 38px; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 183px;
+    left: 120px; }
+
+  .tm-title-caption {
+    width: 300px;
+    top: 176px; } }
+.rd-mobilepanel_toggle span {
+  background-color: #fff; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #fff; }
+
+.rd-mobilepanel.fixed .rd-mobilepanel_title:before {
+  display: none; }

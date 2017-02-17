@@ -14,7 +14,7 @@ Footer Menu   Main Menu  Social Network Menu
 ---------------------------->
 
 
-<?php if ($project == 'wildride' or $project == 'sketchfield' or $project == 'confucius' or $project == 'jorden' or $project == 'duval' or $project == 'italica' or $project == 'gutenberg') { ?>
+<?php if ($project == 'wildride' or $project == 'sketchfield' or $project == 'confucius' or $project == 'jorden' or $project == 'duval' or $project == 'italica' or $project == 'gutenberg' or $project == 'uptime99') { ?>
     <ul class="marked-list">
         <li>
             <dl class="inline-term">
@@ -527,7 +527,7 @@ Help Menu  Main Menu  Social  Top Menu
 Main Menu  Services-Menu Social Menu Top Menu
 ---------------------------->
 
-<?php if ($project == 'bedentist' or $project == 'pristine' or $project == 'samson' or $project == 'fiona' or $project == 'cleaningpro' or $project == 'plumberpro' or $project == 'madeleine') { ?>
+<?php if ($project == 'bedentist' or $project == 'pristine' or $project == 'samson' or $project == 'fiona' or $project == 'cleaningpro' or $project == 'plumberpro' or $project == 'madeleine' or $project == 'helpinghand') { ?>
     <ul class="marked-list">
         <li>
             <dl class="inline-term">
@@ -573,7 +573,7 @@ Footer  Main Social Top
 ---------------------------->
 
 
-<?php if ($project == 'clubstome' or $project == 'bettaso'  or $project == 'advisto' or $project == 'fuel' or  $project == 'lawpress' or $project == 'chopchop'  or $project == 'tanaka' or $project == 'ecolife' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'stylefactory' or $project == 'hardwire' or $project == 'valentia' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'prima' or $project == 'viralnews') { ?>
+<?php if ($project == 'clubstome' or $project == 'bettaso'  or $project == 'advisto' or $project == 'fuel' or  $project == 'lawpress' or $project == 'chopchop'  or $project == 'tanaka' or $project == 'ecolife' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'stylefactory' or $project == 'hardwire' or $project == 'valentia' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'prima' or $project == 'viralnews' or $project == 'room4pics' or $project == 'rufusvr') { ?>
     <ul class="marked-list">
         <li>
             <dl class="inline-term">
@@ -719,7 +719,7 @@ Elements Menu  Main Menu  Services  Social
 Top  Main   Footer  Social
 ---------------------------->
 
-<?php if ($project == 'posh' or $project == 'fenimore' or $project == 'durand' or $project == 'grannali' or $project == 'chateau' or $project == 'bellatoi' or $project == 'shanti' or $project == 'nolan' or $project == 'pokemania' or $project == 'teddy' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'legacy' or $project == 'bellaina' or  $project == 'talisman' or $project == 'timberline' or $project == 'pettown' or $project == 'limittax' or $project == 'greenville' or $project == 'cookery' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'masterchef' or $project == 'whitewhale' or $project == 'addison' or $project == 'hidalgo' or $project == 'happylearning'  or $project == 'mohican' or $project == 'arlo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'helios' or $project == 'sportlabs' or $project == 'fleek' or $project == 'homepro' or $project == 'salvatoro'  or $project == 'callum' or $project == 'roadway' or $project == 'tradex' or $project == 'monstroid_2') { ?>
+<?php if ($project == 'posh' or $project == 'fenimore' or $project == 'durand' or $project == 'grannali' or $project == 'chateau' or $project == 'bellatoi' or $project == 'shanti' or $project == 'nolan' or $project == 'pokemania' or $project == 'teddy' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'legacy' or $project == 'bellaina' or  $project == 'talisman' or $project == 'timberline' or $project == 'pettown' or $project == 'limittax' or $project == 'greenville' or $project == 'cookery' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'masterchef' or $project == 'whitewhale' or $project == 'addison' or $project == 'hidalgo' or $project == 'happylearning'  or $project == 'mohican' or $project == 'arlo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'helios' or $project == 'sportlabs' or $project == 'fleek' or $project == 'homepro' or $project == 'salvatoro'  or $project == 'callum' or $project == 'roadway' or $project == 'tradex' or $project == 'monstroid_2' or $project == 'bayden' or $project == 'petstore' or $project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn') { ?>
     <ul class="marked-list">
          <li>
             <dl class="inline-term">

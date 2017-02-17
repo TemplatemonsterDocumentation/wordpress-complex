@@ -2879,6 +2879,259 @@
 					"ru": "Форматы постов"
 				}
 			}
-		]		
+		],
+		"room4pics": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"petstore": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"rufusvr": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"expenditorious": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"trudeau": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"niceinn": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"helpinghand": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"uptime99": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"bayden": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"wheelmasters": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"preservarium": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		]						
 	}
 }

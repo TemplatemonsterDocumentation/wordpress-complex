@@ -1,0 +1,148 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #7fcc31;
+$primary-color-second: #0e1f37;
+$third-color: #fff;
+$primary-color-light: #000;
+$primary-color-dark: #316dc5;
+$header-background-image: '../../projects/uptime99/img/header-bg.png';
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans');
+
+
+
+$primary-font-family: 'Merriweather Sans', sans-serif;
+
+$secondary-font-family: 'Merriweather Sans', sans-serif;
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: $primary-color;
+}	
+h2 {
+	color: $primary-color-light;
+	//font-family: $primary-font-family;
+}
+h3 {
+	color: $primary-color-light;
+	//font-family: $primary-font-family;
+}
+h4 {
+	color: $primary-color-light;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 90% top !important;
+			@media (max-width: 1440px) {
+    			background-position: 168% bottom !important;
+			}
+			@media (max-width: 976px) {
+    			background-position: 97% bottom !important;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color-second;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 81% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}
+}
+
+ .rd-mobilepanel_title {
+	font-size: 50px;
+	top:220px;
+	weight: 100;
+	left: 149px;
+}
+
+.tm-title-caption {
+	font-size: 23px !important;
+	top: 298px !important;
+	font-family: $secondary-font-family;
+    color: $third-color;
+    line-height: 36px;
+    width: 365px;
+    font-style: normal;
+    text-align: center;
+}
+
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color-dark;
+	}
+}
+.toTop {
+	background-color: $primary-color;
+	&:hover {
+    	background: lighten($third-color, 20%);
+	}
+}
+
+@media (max-width: 1600px) and (min-width: 976px){
+	.rd-mobilepanel_title {
+		top: 218px;
+		bottom: 130px;
+		left: 69px;
+	}
+	.tm-title-caption {	
+		width:259px;
+		top: 176px;
+		text-align: left;
+		font-size: 38px;
+	}
+}
+@media (max-width: 1800px) and (min-width: 1601px){
+	.rd-mobilepanel_title {
+		top: 183px;
+		left: 120px;
+	}
+	.tm-title-caption {	
+		width:300px;
+		top: 176px;
+	}
+}
+
+.rd-mobilepanel_toggle span{
+	background-color: $third-color;
+		&:before, &:after{
+			background-color: $third-color;
+		}
+}
+
+.rd-mobilepanel.fixed .rd-mobilepanel_title{
+	&:before{
+		display: none;
+	}
+}

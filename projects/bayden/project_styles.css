@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #fff; }
+
+h2 {
+  color: #000; }
+
+h3 {
+  color: #000; }
+
+h4 {
+  color: #fff; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #f7c21f;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/bayden/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_toggle span {
+  background-color: #ffffff; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #ffffff; }
+
+.rd-mobilepanel_title {
+  font-size: 80px;
+  font-weight: 400;
+  top: 213px;
+  width: 400px;
+  line-height: 45px;
+  font-style: bold;
+  left: 145px; }
+  .rd-mobilepanel_title:before {
+    content: '';
+    position: absolute;
+    background-image: url(../../projects/bayden/img/im.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    width: 70px;
+    height: 115px;
+    left: -75px;
+    top: -10px; }
+
+.tm-title-caption {
+  font-size: 30px;
+  top: 285px;
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+  line-height: 36px;
+  width: 481px;
+  font-weight: lighter;
+  left: 153px; }
+
+@media (max-width: 1439px) {
+  .rd-mobilepanel_title {
+    top: 218px; }
+
+  .tm-title-caption {
+    top: 282px; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 98px;
+    left: 80px; }
+
+  .tm-title-caption {
+    top: 168px;
+    width: 198px; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 230px;
+    left: 81px; }
+
+  .tm-title-caption {
+    top: 303px;
+    width: 279px;
+    left: 88 !important; } }
+.rd-mobilemenu .logo {
+  background-color: #000; }
+
+.rd-mobilemenu_ul ul a.focus {
+  color: #fff; }
+
+.toTop {
+  background-color: #f7c21f;
+  color: #ffffff; }
+  .toTop:hover {
+    background-color: #000; }

@@ -3754,6 +3754,246 @@
 					"ru": "Google Сервисы"
 				}
 			}
+		],
+		"room4pics": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"rufusvr": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"bayden": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"expenditorious": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"trudeau": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"niceinn": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"uptime99": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"helpinghand": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
 		]
 	}
 }

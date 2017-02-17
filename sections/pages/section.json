@@ -1129,7 +1129,98 @@
 					"ru": "Настройки страницы"
 				}
 			}
+		],
+		"room4pics": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"bayden": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"expenditorious": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"trudeau": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"niceinn": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"uptime99": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"helpinghand": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"wheelmasters": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"preservarium": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"rufusvr": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
 		]
+		
 		
 	}
 }

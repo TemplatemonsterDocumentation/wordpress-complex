@@ -35,7 +35,7 @@
             </dd>
         </dl>
     </li>
-<?php if ($project == 'mechanna' or $project == 'advisto' or $project == 'fenimore' or $project == 'nolan' or $project == 'teddy' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or  $project == 'lawpress' or $project == 'timberline' or $project == 'pettown' or $project == 'limittax' or $project == 'greenville' or $project == 'tradex' or $project == 'italica' ) { ?>
+<?php if ($project == 'mechanna' or $project == 'advisto' or $project == 'fenimore' or $project == 'nolan' or $project == 'teddy' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or  $project == 'lawpress' or $project == 'timberline' or $project == 'pettown' or $project == 'limittax' or $project == 'greenville' or $project == 'tradex' or $project == 'italica') { ?>
     <li>
         <dl class="inline-term">
             <dt>2 Sidebars</dt>

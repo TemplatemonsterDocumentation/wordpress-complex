@@ -13,6 +13,7 @@
 
 <ul class="marked-list">
 
+<?php if ($project !='room4pics' && $project !='rufusvr' && $project !='helpinghand'){ ?>
     <li class="hide">
         <dl class="inline-term">
             <dt>Show social links in header</dt>
@@ -21,7 +22,10 @@
             </dd>
         </dl>
     </li>
+<?php } ?>
 
+    
+<?php if ($project =='room4pics' or $project =='rufusvr' or $project =='bayden' or $project =='petstore' or $project =='expenditorious' or $project =='trudeau' or $project =='niceinn' or $project =='uptime99' or $project =='helpinghand'){ ?>
     <li>
         <dl class="inline-term">
             <dt>Show social links in footer </dt>
@@ -30,9 +34,21 @@
             </dd>
         </dl>
     </li>
+<?php } ?>
+
+<?php if ($project =='room4pics' or $project =='rufusvr'){ ?>
+    <li class="hide">
+        <dl class="inline-term">
+            <dt>Show social links in top panel</dt>
+            <dd>
+                Displays the list of links to social networks pages in top panel
+            </dd>
+        </dl>
+    </li>
+<?php } ?>
 
 
-<?php if ($project !='stylefactory' && $project !='hardwire' && $project !='thedailypost' && $project !='streamline' && $project !='cityherald' && $project !='viralnews'){ ?>
+<?php if ($project !='stylefactory' && $project !='hardwire' && $project !='thedailypost' && $project !='streamline' && $project !='cityherald' && $project !='viralnews' && $project !='petstore'  && $project !='trudeau'){ ?>
     <li>
         <dl class="inline-term">
             <dt>Add social sharing to blog posts  </dt>
@@ -54,7 +70,7 @@
 </ul>
 <?php } ?>
 
-<?php if ($project =='stylefactory') { ?>
+<?php if ($project =='stylefactory' or $project =='petstore' or $project =='trudeau') { ?>
 
      <li>
         <dl class="inline-term">

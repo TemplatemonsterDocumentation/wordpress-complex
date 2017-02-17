@@ -1648,8 +1648,6 @@
 		"widgets",
 		"plugins",
 		"third-party-plugins",
-		"tm-builder",
-		"tm-builder-modules",
 		"extras"
 	],
 	"streamline": [
@@ -1662,8 +1660,6 @@
 		"widgets",
 		"plugins",
 		"third-party-plugins",
-		"tm-builder",
-		"tm-builder-modules",
 		"extras"
 	],
 	"cityherald": [
@@ -1676,8 +1672,6 @@
 		"widgets",
 		"plugins",
 		"third-party-plugins",
-		"tm-builder",
-		"tm-builder-modules",
 		"extras"
 	],
 	"prima": [
@@ -1703,8 +1697,6 @@
 		"widgets",
 		"plugins",
 		"third-party-plugins",
-		"tm-builder",
-		"tm-builder-modules",
 		"extras"
 	],
 	"general_doc": [
@@ -1719,6 +1711,155 @@
 		"third-party-plugins",
 		"tm-builder",
 		"tm-builder-modules",
+		"extras"
+	],
+	"room4pics": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"rufusvr": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"bayden": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"expenditorious": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"trudeau": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"niceinn": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"uptime99": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"helpinghand": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"wheelmasters": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"preservarium": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"extras"
+	],
+	"petstore": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"woocommerce-integration",
 		"extras"
 	]
 }

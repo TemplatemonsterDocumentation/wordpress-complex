@@ -74,7 +74,7 @@
         </dl>
     </li>
 
-<?php if ($project == 'globera' or $project == 'bedentist' or $project == 'finestgame' or $project == 'clubstome' or $project == 'neurion' or $project == 'fiona' or $project == 'cleaningpro' or $project == 'posh' or $project == 'plumberpro' or $project == 'smarthouse' or $project == 'focussity' or $project == 'grannali'  or $project == 'chateau' or $project == 'bellatoi' or $project == 'pokemania' or $project == 'builderry' or $project == 'bellaina' or  $project == 'talisman' or  $project == 'leonardo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro'  or $project == 'mohican' or $project == 'knox' or $project == 'organica' or $project == 'infobyte' or $project == 'walden' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'prima' or $project == 'viralnews') { ?>
+<?php if ($project == 'globera' or $project == 'bedentist' or $project == 'finestgame' or $project == 'clubstome' or $project == 'neurion' or $project == 'fiona' or $project == 'cleaningpro' or $project == 'posh' or $project == 'plumberpro' or $project == 'smarthouse' or $project == 'focussity' or $project == 'grannali'  or $project == 'chateau' or $project == 'bellatoi' or $project == 'pokemania' or $project == 'builderry' or $project == 'bellaina' or  $project == 'talisman' or  $project == 'leonardo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro'  or $project == 'mohican' or $project == 'knox' or $project == 'organica' or $project == 'infobyte' or $project == 'walden' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'prima' or $project == 'viralnews' or $project == 'rufusvr' or $project == 'bayden'  or $project == 'expenditorious') { ?>
 
     <li>
         <dl class="inline-term">
@@ -87,7 +87,7 @@
 
 <?php } ?>
 
-<?php if ($project == 'mechanna' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'happylearning' or $project == 'arlo'  or $project == 'callum' or $project == 'roadway' or $project == 'gutenberg' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza' or $project == 'monstroid_2') { ?>
+<?php if ($project == 'mechanna' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'happylearning' or $project == 'arlo'  or $project == 'callum' or $project == 'roadway' or $project == 'gutenberg' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza' or $project == 'monstroid_2' or $project == 'room4pics' or $project == 'niceinn' or $project == 'helpinghand') { ?>
 
     <li>
         <dl class="inline-term">
@@ -171,7 +171,7 @@
 
 <?php } ?>
 
-<?php if ($project == 'ironmass' or $project == 'durand' or $project == 'shanti' or $project == 'fuel' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei' or $project == 'cookery' or $project == 'artwork' or $project == 'masterchef' or $project == 'inmotion' or $project == 'stylefactory') { ?>
+<?php if ($project == 'ironmass' or $project == 'durand' or $project == 'shanti' or $project == 'fuel' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei' or $project == 'cookery' or $project == 'artwork' or $project == 'masterchef' or $project == 'inmotion' or $project == 'stylefactory' or $project == 'petstore' or $project == 'trudeau') { ?>
 
     <li>
         <dl class="inline-term">
@@ -215,7 +215,7 @@
 
 <?php } ?>
 
-<?php if ( $project == 'bettaso' or $project == 'jorden' or $project == 'duval' or $project == 'chopchop' or $project == 'whitewhale' or $project == 'tanaka' or $project == 'hidalgo' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'italica') { ?>
+<?php if ( $project == 'bettaso' or $project == 'jorden' or $project == 'duval' or $project == 'chopchop' or $project == 'whitewhale' or $project == 'tanaka' or $project == 'hidalgo' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'italica' ) { ?>
 
     <li>
         <dl class="inline-term">
@@ -246,6 +246,28 @@
 
 <?php } ?>
  
+
+<?php if ( $project == 'uptime99' ) { ?>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Header showcase title  </dt>
+            <dd>
+                Header title font settings
+             </dd>
+        </dl>
+    </li>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Header showcase subtitle  </dt>
+            <dd>
+                Header subtitle font settings
+             </dd>
+        </dl>
+    </li>
+<?php } ?>
+
 
 <?php if ( $project == 'gutenberg') { ?>   
 
@@ -309,7 +331,7 @@
 
 <?php } ?>
 
-<?php if ( $project == 'advisto' or $project == 'fenimore' or $project == 'nolan' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'legacy' or  $project == 'lawpress' or $project == 'limittax' or $project == 'ecolife' or $project == 'tradex') { ?>
+<?php if ( $project == 'advisto' or $project == 'fenimore' or $project == 'nolan' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'legacy' or  $project == 'lawpress' or $project == 'limittax' or $project == 'ecolife' or $project == 'tradex' or $project == 'uptime99') { ?>
 
     <li>
         <dl class="inline-term">

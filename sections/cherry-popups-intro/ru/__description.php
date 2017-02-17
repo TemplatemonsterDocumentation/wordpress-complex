@@ -94,7 +94,7 @@
                                 </dd>
                             </dl>
                         </li>
-                        <?php if ($project == 'fairystyle') { ?>
+                        <?php if ($project == 'fairystyle' or $project == 'petstore') { ?>
                             <li>
                                 <dl class="inline-term">
                                     <dt>

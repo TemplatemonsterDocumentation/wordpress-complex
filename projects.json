@@ -866,6 +866,72 @@
 		"title": "#VIRALNews",
 		"titleCaption": "",
 		"author": ""
+	},
+	"rufusvr": {
+		"textLogo": "",
+		"title": "RufusVR",
+		"titleCaption": "",
+		"author": ""
+	},
+	"bayden": {
+		"textLogo": "",
+		"title": "Bayden",
+		"titleCaption": "WORDPRESS THEME",
+		"author": ""
+	},
+	"room4pics": {
+		"textLogo": "",
+		"title": "room4Pics",
+		"titleCaption": "",
+		"author": ""
+	},
+	"expenditorious": {
+		"textLogo": "",
+		"title": "Expenditorious",
+		"titleCaption": "",
+		"author": ""
+	},
+	"trudeau": {
+		"textLogo": "",
+		"title": "J. Trudeau",
+		"titleCaption": "BUSINESS COACH",
+		"author": ""
+	},
+	"niceinn": {
+		"textLogo": "",
+		"title": "NICEINN HOTEL",
+		"titleCaption": "",
+		"author": ""
+	},
+	"helpinghand": {
+		"textLogo": "",
+		"title": "Helping hand",
+		"titleCaption": "",
+		"author": ""
+	},
+	"uptime99": {
+		"textLogo": "",
+		"title": "Uptime 99",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"wheelmasters": {
+		"textLogo": "",
+		"title": "WheelMasters",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"preservarium": {
+		"textLogo": "",
+		"title": "Preservarium",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"petstore": {
+		"textLogo": "",
+		"title": "Pettie",
+		"titleCaption": "WooCommerce theme",
+		"author": ""
 	}
 
 }

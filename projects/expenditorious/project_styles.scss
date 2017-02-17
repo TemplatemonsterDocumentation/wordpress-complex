@@ -1,0 +1,170 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #2e353e;
+$primary-color-second: #f9f9f9;
+$primary-color-dark: #303030;
+$primary-color-light: #fff;
+$header-background-image: '../../projects/expenditorious/img/header-bg.png';
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+$primary-font-family: 'Montserrat', sans-serif;
+
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: $primary-color;
+
+}
+h2 {
+	color: $primary-color-dark;
+	//font-family: $primary-font-family;
+}
+h3 {
+	color: $primary-color-dark;
+	//font-family: $primary-font-family;
+}
+h4 {
+	color: $primary-color-dark;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 89% top;
+			@media (max-width: 1440px) {
+    			background-position: 100% bottom;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color-second;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}
+}
+.rd-mobilepanel_toggle {
+	span{
+		background-color: #000;
+		&:before, &:after{
+			background-color: #000;
+		}
+	}
+	
+}
+
+.rd-mobilepanel_title {
+	font-size: 40px;
+	font-weight:300;
+	top:254px;
+	width: 400px;
+	line-height: 80px;
+	&:before{
+			content: '';
+		    position: absolute;
+		    background-image: url(../../projects/expenditorious/img/im.png);
+		    background-size: contain;
+		    background-repeat: no-repeat;
+		    display: block;
+		    width: 94px;
+		    height: 115px;
+		    left: -75px;
+		    top: 7px;
+		}
+}
+
+.tm-title-caption {
+	font-size: 30px;
+	top: 294px;
+	font-family: $primary-font-family;
+    color: $primary-color;
+    line-height: 36px;
+    width: 481px;
+}
+@media (max-width: 1579px){
+	.rd-mobilepanel_title{
+		top:162px;
+		width:800px;
+		font-size: 40px !important;
+		left: 61px;
+	}
+	.tm-title-caption {	
+		top:180px;
+		width:200px;
+	}
+}
+@media (max-width: 1600px) and (min-width: 1580px){
+	.rd-mobilepanel_title{
+		top:62px;
+		width:800px;
+	}
+	.tm-title-caption {	
+		top:180px;
+		width:198px;
+	}
+}
+@media (max-width: 1800px) and (min-width: 1601px){
+	.rd-mobilepanel_title{
+		top:162px;
+		width:800px;
+	}
+	.tm-title-caption {	
+		top:180px;
+		width:300px;
+	}
+}
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color-second;
+	}
+}
+.rd-mobilemenu_ul{
+	ul{
+		a{
+			&.focus{
+				color: $primary-color-dark;
+			}
+		}
+	}
+}  
+
+
+.rd-mobilepanel.fixed .rd-mobilepanel_title{
+	top:-60px;
+}	 
+.toTop {
+	background-color: $primary-color-dark;
+	color: #ffffff;
+	&:hover {
+    	background-color:$primary-color-dark;
+	}
+}

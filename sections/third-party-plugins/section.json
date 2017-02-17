@@ -2708,6 +2708,174 @@
 					"ru": "Facebook Widget"
 				}
 			}
+		],
+		"room4pics": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				
+				}
+			},
+			{
+				"id": "facebook-main",
+				"translations": {
+					"en": "Facebook Widget",
+					"ru": "Facebook Widget"
+				}
+			}
+		],
+		"rufusvr": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				
+				}
+			},
+			{
+				"id": "facebook-main",
+				"translations": {
+					"en": "Facebook Widget",
+					"ru": "Facebook Widget"
+				}
+			}
+		],
+		"petstore": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "woocommerce-fairystyle",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+				}
+			},  
+			{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"expenditorious": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			}
+		],
+		"trudeau": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				
+				}
+			},
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			},
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			}
+		],
+		"niceinn": [
+			{
+				"id": "restaurant-menu",
+				"translations": {
+					"en": "Restaurant Menu",
+					"ru": "Restaurant Menu"
+				}
+			},
+			{
+				"id": "hotel-booking",
+				"translations": {
+					"en": "Hotel Booking",
+					"ru": "Hotel booking"
+				
+				}
+			}
+		],
+		"helpinghand": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+
+
+				}
+			},			
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			}
+		],
+		"wheelmasters": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+
+
+				}
+			},			
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			}
+		],
+		"preservarium": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+
+
+				}
+			},			
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			}
 		]
 	}
 }

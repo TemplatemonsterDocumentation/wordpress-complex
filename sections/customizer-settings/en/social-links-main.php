@@ -28,6 +28,7 @@
 <?php } ?>
 
 
+
 <?php if ( $project =='pristine' or $project =='bedentist' or $project =='samson' or $project =='ironmass' or $project =='madeleine' or $project =='fenimore' or $project =='focussity' or $project =='durand' or $project == 'grannali' or $project == 'chateau' or $project == 'bellatoi' or $project == 'shanti' or $project == 'nolan' or $project == 'jorden' or $project == 'fuel' or $project == 'pokemania' or $project == 'teddy' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei' or $project == 'bellaina' or $project == 'limittax' or $project == 'timberline' or $project == 'pettown' or $project == 'greenville' or $project == 'cookery' or $project == 'keypress' or $project == 'duval'  or $project == 'masterchef' or $project == 'hidalgo' or $project == 'inmotion'  or $project == 'mohican' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'helios' or $project == 'sportlabs' or $project == 'fleek' or $project == 'homepro' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'techlab')
 
  { ?>
@@ -117,7 +118,7 @@
 </ul>    
 <?php } ?>
 
-<?php if ($project =='fiona' or $project =='cleaningpro' or $project =='jericho' or $project == 'prima' ) { ?>
+<?php if ($project =='fiona' or $project =='cleaningpro' or $project =='jericho' or $project == 'prima') { ?>
 <ul class="marked-list">
 
     <li>

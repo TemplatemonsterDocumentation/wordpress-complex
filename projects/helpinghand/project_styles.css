@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather+Sans");
+h1 {
+  font-family: "Merriweather Sans", sans-serif;
+  color: #FFFFFF; }
+
+h2 {
+  color: #000; }
+
+h3 {
+  color: #000; }
+
+h4 {
+  color: #000; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top !important; }
+  @media (max-width: 1600px) and (min-width: 1400px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom !important; } }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 150% bottom !important; } }
+  @media (max-width: 1200px) and (min-width: 976px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 185% bottom !important; } }
+
+.rd-mobilepanel {
+  background-color: #69ca9d;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 81% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/helpinghand/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 50px;
+  top: 220px;
+  font-style: bold; }
+  .rd-mobilepanel_title:before {
+    content: '';
+    position: absolute;
+    background-image: url(../../projects/helpinghand/img/im.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    width: 80px;
+    height: 115px;
+    left: -75px;
+    top: -4px; }
+
+.tm-title-caption {
+  font-size: 50px;
+  top: 330px;
+  font-family: "Merriweather Sans", sans-serif;
+  color: #ec3642;
+  line-height: 36px;
+  width: 365px;
+  font-style: italic;
+  text-align: center; }
+
+.rd-mobilemenu .logo {
+  background-color: #292b2f; }
+
+.toTop {
+  background-color: #69ca9d; }
+  .toTop:hover {
+    background: #f5939a; }
+
+@media (max-width: 1600px) and (min-width: 976px) {
+  .rd-mobilepanel_title {
+    top: 298px;
+    bottom: 130px; }
+
+  .tm-title-caption {
+    width: 259px;
+    top: 176px;
+    text-align: left;
+    font-size: 38px; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 183px; }
+
+  .tm-title-caption {
+    width: 300px;
+    top: 176px; } }
+.rd-mobilepanel_toggle span {
+  background-color: #FFFFFF; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #FFFFFF; }
+
+.rd-mobilepanel.fixed .rd-mobilepanel_title:before {
+  display: none; }
