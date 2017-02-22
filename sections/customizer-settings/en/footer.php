@@ -10,7 +10,7 @@
 
 <h5>Footer Styles</h5>
 <ul class="marked-list">
-<?php if ($project != 'smarthouse' && $project != 'knox') { ?>
+<?php if ($project != 'smarthouse' && $project != 'knox' && $project != 'emanuella') { ?>
     <li>
         <dl class="inline-term">
             <dt>Logo upload</dt>
@@ -71,7 +71,7 @@
         </dl>
     </li>
 
-<?php if ($project != 'monstroid_2') { ?>
+<?php if ($project != 'monstroid_2' && $project != 'emanuella') { ?>
     <li>
         <dl class="inline-term">
             <dt>Footer Widgets Area color</dt>
@@ -92,7 +92,42 @@
     </li>
  
 
-<?php if ($project == 'monstroid_2') { ?>
+ <?php if ($project == 'greenfield') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Footer Widgets Background color</dt>
+            <dd>
+                Here you can define the Footer Widget background color
+            </dd>
+        </dl>
+    </li>
+<?php } ?> 
+
+ <?php if ($project == 'greenfield') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Footer Top Image</dt>
+            <dd>
+                Here you can choose the image for the footer top
+            </dd>
+        </dl>
+    </li>
+<?php } ?> 
+
+
+<?php if ($project == 'newborn' or $project == 'heavyhandlers') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Show footer widgets area</dt>
+            <dd>
+                Show/hide footer widgets area
+            </dd>
+        </dl>
+    </li>
+<?php } ?> 
+
+
+<?php if ($project == 'monstroid_2' or $project == 'emanuella') { ?>
     <li>
         <dl class="inline-term">
             <dt>Footer Widgets Area Background color</dt>
@@ -146,6 +181,33 @@
     </li>
 <?php } ?>  
 
+<?php if ($project == 'greenfield') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Image Repeat</dt>
+            <dd>
+                Set image repeat for footer image
+            </dd>
+        </dl>
+    </li>
+     <li>
+        <dl class="inline-term">
+            <dt>Image Position</dt>
+            <dd>
+                Set image position for footer image
+            </dd>
+        </dl>
+    </li>
+     <li>
+        <dl class="inline-term">
+            <dt>Image Attachment</dt>
+            <dd>
+                Set image attachment for footer image
+            </dd>
+        </dl>
+    </li>
+<?php } ?>  
+
 <?php if ($project == 'transit') { ?>
     <li>
         <dl class="inline-term">
@@ -183,12 +245,12 @@
 </ul>
 
 
-<?php if ($project == 'monstroid_2') { ?>
+<?php if ($project == 'monstroid_2' or $project == 'emanuella') { ?>
 <h5>Footer Contact Block</h5>
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
-            <dt>Show footer conract block</dt>
+            <dt>Show footer contact block</dt>
             <dd>
                 Show/hide footer contact block
             </dd>

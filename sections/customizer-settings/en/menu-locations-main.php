@@ -14,7 +14,7 @@ Footer Menu   Main Menu  Social Network Menu
 ---------------------------->
 
 
-<?php if ($project == 'wildride' or $project == 'sketchfield' or $project == 'confucius' or $project == 'jorden' or $project == 'duval' or $project == 'italica' or $project == 'gutenberg' or $project == 'uptime99') { ?>
+<?php if ($project == 'wildride' or $project == 'sketchfield' or $project == 'confucius' or $project == 'jorden' or $project == 'duval' or $project == 'italica' or $project == 'gutenberg' or $project == 'uptime99' or $project == 'emanuella') { ?>
     <ul class="marked-list">
         <li>
             <dl class="inline-term">
@@ -422,6 +422,59 @@ Custom Widget Menu  Footer Menu  Main Menu  Social  Top Menu
 <?php } ?>
 
 <!------------------------------
+Custom Widget Menu Elements Menu Footer Menu  Main Menu  Social Menu
+---------------------------->
+
+<?php if ($project == 'vitahealth') { ?>
+    <ul class="marked-list">
+        <li>
+            <dl class="inline-term">
+                <dt>Custom Widget Menu</dt>
+                <dd>
+                    Adjust a custom widget menu
+                </dd>
+            </dl>
+        </li>
+
+        <li>
+            <dl class="inline-term">
+                <dt>Elements Menu</dt>
+                <dd>
+                    Select elements menu
+                </dd>
+            </dl>
+        </li>
+        <li>
+            <dl class="inline-term">
+                <dt>Footer Menu</dt>
+                <dd>
+                   Select navigation menu, that will be displayed in the footer area
+                </dd>
+            </dl>
+        </li> 
+            
+        <li>
+            <dl class="inline-term">
+                <dt>Main Menu</dt>
+                <dd>
+                   Select primary navigation menu
+                </dd>
+            </dl>
+        </li> 
+
+        <li>
+            <dl class="inline-term">
+                <dt>Social</dt>
+                <dd>
+                    Select navigation menu, that will be used for social networks
+                </dd>
+            </dl>
+        </li> 
+    </ul>
+<?php } ?>
+
+
+<!------------------------------
 Customer Service  Footer Menu  Main Menu  Shop Menu  Social
 ---------------------------->
 
@@ -567,6 +620,50 @@ Main Menu  Services-Menu Social Menu Top Menu
     </ul>
 <?php } ?>
 
+<!------------------------------
+Main Menu  Services-Menu Social Menu Static Elements Static Elements 2
+---------------------------->
+
+<?php if ($project == 'heavyhandlers') { ?>
+    <ul class="marked-list">
+        <li>
+            <dl class="inline-term">
+                <dt>Main Menu</dt>
+                <dd>
+                    Select primary navigation menu
+                </dd>
+            </dl>
+        </li>
+
+        <li>
+            <dl class="inline-term">
+                <dt>Services-Menu</dt>
+                <dd>
+                    Select items for services-menu
+                </dd>
+            </dl>
+        </li> 
+
+        <li>
+            <dl class="inline-term">
+                <dt>Social Menu</dt>
+                <dd>
+                    Select navigation menu, that will be used for social networks
+                </dd>
+            </dl>
+        </li> 
+      
+        <li>
+            <dl class="inline-term">
+                <dt>Static Elements</dt>
+                <dd>
+                    Select static elements for the menu
+                </dd>
+            </dl>
+        </li> 
+    </ul>
+<?php } ?>
+
 
 <!------------------------------
 Footer  Main Social Top
@@ -619,7 +716,7 @@ Custom Menu Elements Menu Footer  Main Menu Social
 ---------------------------->
 
 
-<?php if ($project == 'ironmass' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei' or $project == 'artwork' or $project == 'inmotion') { ?>
+<?php if ($project == 'ironmass' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei' or $project == 'artwork' or $project == 'inmotion' or $project == 'newborn') { ?>
     <ul class="marked-list">
         <li>
             <dl class="inline-term">
@@ -719,7 +816,7 @@ Elements Menu  Main Menu  Services  Social
 Top  Main   Footer  Social
 ---------------------------->
 
-<?php if ($project == 'posh' or $project == 'fenimore' or $project == 'durand' or $project == 'grannali' or $project == 'chateau' or $project == 'bellatoi' or $project == 'shanti' or $project == 'nolan' or $project == 'pokemania' or $project == 'teddy' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'legacy' or $project == 'bellaina' or  $project == 'talisman' or $project == 'timberline' or $project == 'pettown' or $project == 'limittax' or $project == 'greenville' or $project == 'cookery' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'masterchef' or $project == 'whitewhale' or $project == 'addison' or $project == 'hidalgo' or $project == 'happylearning'  or $project == 'mohican' or $project == 'arlo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'helios' or $project == 'sportlabs' or $project == 'fleek' or $project == 'homepro' or $project == 'salvatoro'  or $project == 'callum' or $project == 'roadway' or $project == 'tradex' or $project == 'monstroid_2' or $project == 'bayden' or $project == 'petstore' or $project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn') { ?>
+<?php if ($project == 'posh' or $project == 'fenimore' or $project == 'durand' or $project == 'grannali' or $project == 'chateau' or $project == 'bellatoi' or $project == 'shanti' or $project == 'nolan' or $project == 'pokemania' or $project == 'teddy' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'legacy' or $project == 'bellaina' or  $project == 'talisman' or $project == 'timberline' or $project == 'pettown' or $project == 'limittax' or $project == 'greenville' or $project == 'cookery' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'masterchef' or $project == 'whitewhale' or $project == 'addison' or $project == 'hidalgo' or $project == 'happylearning'  or $project == 'mohican' or $project == 'arlo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'helios' or $project == 'sportlabs' or $project == 'fleek' or $project == 'homepro' or $project == 'salvatoro'  or $project == 'callum' or $project == 'roadway' or $project == 'tradex' or $project == 'monstroid_2' or $project == 'bayden' or $project == 'petstore' or $project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn' or $project == 'preservarium' or $project == 'wheelmasters' or $project == 'talkingbusiness' or $project == 'greenfield' or $project == 'stargaze') { ?>
     <ul class="marked-list">
          <li>
             <dl class="inline-term">

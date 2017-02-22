@@ -13,7 +13,19 @@
 <ul class="marked-list">
 
 
-<?php if ($project == 'monstroid_2') { ?>
+<?php if ($project == 'vitahealth' or $project == 'newborn') { ?>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Header right disclaimer text</dt>
+                <dd>
+                    Here you can insert the header disclaimer text
+                </dd>
+        </dl>
+    </li>
+<?php } ?> 
+
+<?php if ($project == 'monstroid_2' or $project == 'emanuella') { ?>
     <li>
         <dl class="inline-term">
             <dt>Layout</dt>
@@ -44,7 +56,7 @@
 <?php } ?> 
 
 
-<?php if ($project == 'stylefactory' or $project == 'petstore' or $project == 'trudeau') { ?>
+<?php if ($project == 'stylefactory' or $project == 'petstore' or $project == 'trudeau' or $project == 'preservarium' or $project == 'talkingbusiness') { ?>
 
     <li>
         <dl class="inline-term">
@@ -56,8 +68,19 @@
     </li>
 <?php } ?> 
 
+<?php if ($project == 'greenfield') { ?>
 
-<?php if ($project != 'trudeau') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Show social links in header</dt>
+                <dd>
+                    Show/hide social links in header
+                </dd>
+        </dl>
+    </li>
+<?php } ?> 
+
+<?php if ($project != 'trudeau' && $project != 'preservarium' && $project != 'talkingbusiness') { ?>
     <li>
         <dl class="inline-term">
             <dt>Background Color</dt>
@@ -101,7 +124,7 @@
     </li>
 <?php } ?>
 
-<?php if ($project == 'stylefactory' or $project == 'hardwire' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'prima' or $project == 'viralnews' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'bayden' or $project == 'petstore') { ?>
+<?php if ($project == 'stylefactory' or $project == 'hardwire' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'prima' or $project == 'viralnews' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'bayden' or $project == 'petstore' or $project == 'preservarium' or $project == 'wheelmasters' or $project == 'talkingbusiness' or $project == 'greenfield' or $project == 'vitahealth' or $project == 'newborn') { ?>
 
     <li>
         <dl class="inline-term">
@@ -136,7 +159,7 @@ On/Off Currency
 Layout
 ---------------------------------------->
 
-<?php if ($project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn'  or $project == 'uptime99' or $project == 'helpinghand') { ?>
+<?php if ($project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn'  or $project == 'uptime99' or $project == 'helpinghand' or $project == 'stargaze' or $project == 'heavyhandlers') { ?>
 
     <li>
         <dl class="inline-term">
@@ -148,6 +171,28 @@ Layout
     </li>
 <?php } ?> 
 
+<!-------------------------------------
+ Header address
+---------------------------------------->
+<?php if ($project == 'greenfield') { ?>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Header address</dt>
+            <dd>
+                Here you can define header address
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Enable header address icon</dt>
+            <dd>
+                Here you can enable/disable header address icon
+            </dd>
+        </dl>
+    </li>
+<?php } ?>
 
 
 <!-------------------------------------
@@ -170,7 +215,7 @@ Layout
 search  Disclaimer
 ---------------------------------------->
 
-<?php if ($project != 'mechanna' && $project != 'advisto' && $project != 'cleaningpro' && $project != 'posh' && $project != 'confucius' && $project != 'plumberpro' && $project != 'madeleine' && $project != 'grannali' && $project != 'chateau' && $project != 'bellatoi' && $project != 'shanti' && $project != 'jorden'  && $project != 'teddy' &&  $project != 'lawpress' && $project != 'talisman' && $project != 'timberline' && $project != 'pettown' && $project != 'greenville' && $project != 'duval' && $project != 'keypress' && $project != 'crystalica' && $project != 'penn' && $project != 'leonardo' && $project != 'porto' && $project != 'odyssey' && $project != 'ecolife' && $project != 'hidalgo' && $project != 'happylearning'  && $project != 'mohican' && $project != 'helios' && $project != 'sportlabs' && $project != 'fleek' && $project != 'roadway' && $project != 'tradex'  && $project != 'italica' && $project != 'gutenberg' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'transit' && $project != 'jericho' && $project != 'walden' && $project != 'chefplaza' && $project != 'agrilloc' && $project != 'monstroid_2' && $project != 'stylefactory' && $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline' && $project != 'cityherald' && $project != 'prima' && $project != 'viralnews' && $project != 'room4pics' && $project != 'rufusvr' && $project != 'bayden' && $project != 'petstore' && $project != 'expenditorious' && $project != 'trudeau' && $project != 'niceinn' && $project != 'uptime99' && $project != 'helpinghand') { ?>
+<?php if ($project != 'mechanna' && $project != 'advisto' && $project != 'cleaningpro' && $project != 'posh' && $project != 'confucius' && $project != 'plumberpro' && $project != 'madeleine' && $project != 'grannali' && $project != 'chateau' && $project != 'bellatoi' && $project != 'shanti' && $project != 'jorden'  && $project != 'teddy' &&  $project != 'lawpress' && $project != 'talisman' && $project != 'timberline' && $project != 'pettown' && $project != 'greenville' && $project != 'duval' && $project != 'keypress' && $project != 'crystalica' && $project != 'penn' && $project != 'leonardo' && $project != 'porto' && $project != 'odyssey' && $project != 'ecolife' && $project != 'hidalgo' && $project != 'happylearning'  && $project != 'mohican' && $project != 'helios' && $project != 'sportlabs' && $project != 'fleek' && $project != 'roadway' && $project != 'tradex'  && $project != 'italica' && $project != 'gutenberg' && $project != 'knox' && $project != 'gaze' && $project != 'techlab' && $project != 'organica' && $project != 'infobyte' && $project != 'transit' && $project != 'jericho' && $project != 'walden' && $project != 'chefplaza' && $project != 'agrilloc' && $project != 'monstroid_2' && $project != 'stylefactory' && $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline' && $project != 'cityherald' && $project != 'prima' && $project != 'viralnews' && $project != 'room4pics' && $project != 'rufusvr' && $project != 'bayden' && $project != 'petstore' && $project != 'expenditorious' && $project != 'trudeau' && $project != 'niceinn' && $project != 'uptime99' && $project != 'helpinghand' && $project != 'preservarium' && $project != 'wheelmasters' && $project != 'talkingbusiness' && $project != 'stargaze' && $project != 'vitahealth' && $project != 'emanuella' && $project != 'newborn' && $project != 'heavyhandlers') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable search</dt>
@@ -235,7 +280,7 @@ search  Disclaimer
 Phone  Time
 ---------------------------------------->
 
-<?php if ($project == 'plumberpro' or $project == 'helpinghand') { ?>
+<?php if ($project == 'plumberpro' or $project == 'helpinghand' or $project == 'wheelmasters') { ?>
     <li>
         <dl class="inline-term">
             <dt>Phone Text </dt>
@@ -252,7 +297,32 @@ Phone  Time
                 </dd>
         </dl>
     </li>
-<?php } ?>      
+<?php } ?>    
+
+<!-------------------------------------
+Phone 
+---------------------------------------->
+
+<?php if ($project == 'greenfield') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Phone Text </dt>
+                <dd>
+                    Specify the Phone section text
+                </dd>
+        </dl>
+    </li>
+        <li>
+        <dl class="inline-term">
+            <dt>Enable header phone icon</dt>
+                <dd>
+                    Enable/disable header phone icon
+                </dd>
+        </dl>
+    </li>
+<?php } ?> 
+
+
 
 <!-------------------------------------
 TOP PANEL START
@@ -262,7 +332,7 @@ TOP PANEL START
 <p> You can set header top panel here.</p>
 
 
-<?php if ( $project == 'monstroid_2') { ?>
+<?php if ( $project == 'monstroid_2' or $project == 'emanuella') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable top panel</dt>
@@ -356,7 +426,7 @@ TOP PANEL START
 Disclaimer
 ---------------------------------------->
 
-<?php if ( $project != 'advisto' && $project != 'fenimore' && $project != 'nolan' &&  $project != 'lawpress' && $project != 'ecolife' && $project != 'tradex' && $project != 'walden' && $project != 'stylefactory' && $project != 'petstore') { ?>
+<?php if ( $project != 'advisto' && $project != 'fenimore' && $project != 'nolan' &&  $project != 'lawpress' && $project != 'ecolife' && $project != 'tradex' && $project != 'walden' && $project != 'stylefactory' && $project != 'petstore' && $project != 'greenfield' && $project != 'emanuella') { ?>
     <li>
         <dl class="inline-term">
             <dt>Disclaimer Text</dt>
@@ -372,7 +442,7 @@ Disclaimer
 Enable search
 ---------------------------------------->
 
-<?php if ($project == 'wildride' or $project == 'bettaso' or $project == 'mechanna' or $project == 'advisto' or $project == 'confucious' or $project == 'fenimore' or $project == 'durand' or $project == 'shanti' or $project == 'nolan' or $project == 'jorden' or $project == 'fuel' or $project == 'pokemania' or $project == 'legacy' or  $project == 'lawpress' or  $project == 'talisman' or $project == 'duval' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'chopchop' or $project == 'tanaka' or $project == 'ecolife' or $project == 'hidalgo' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'mohican' or $project == 'gutenberg' or $project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'agrilloc' or $project == 'stylefactory' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'expenditorious' or $project == 'niceinn' or $project == 'trudeau') { ?>
+<?php if ($project == 'wildride' or $project == 'bettaso' or $project == 'mechanna' or $project == 'advisto' or $project == 'confucious' or $project == 'fenimore' or $project == 'durand' or $project == 'shanti' or $project == 'nolan' or $project == 'jorden' or $project == 'fuel' or $project == 'pokemania' or $project == 'legacy' or  $project == 'lawpress' or  $project == 'talisman' or $project == 'duval' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'chopchop' or $project == 'tanaka' or $project == 'ecolife' or $project == 'hidalgo' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'mohican' or $project == 'gutenberg' or $project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'agrilloc' or $project == 'stylefactory' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'expenditorious' or $project == 'niceinn' or $project == 'trudeau' or $project == 'preservarium' or $project == 'talkingbusiness' or $project == 'greenfield' or $project == 'stargaze' or $project == 'vitahealth' or $project == 'newborn' or $project == 'heavyhandlers') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable search</dt>
@@ -426,7 +496,7 @@ Login menu
 Background color
 ---------------------------------------->
 
-<?php if ( $project != 'hidalgo' && $project != 'walden' ) { ?>
+<?php if ( $project != 'hidalgo' && $project != 'walden' && $project != 'emanuella') { ?>
     <li>
         <dl class="inline-term">
             <dt>Background color</dt>
@@ -512,7 +582,7 @@ Display Top Panel
 Show social links in top panel   Enable search<
 ---------------------------------------->  
 
-<?php if ($project == 'fiona' or $project == 'plumberpro'  or $project == 'jericho' or $project == 'prima' ) { ?>
+<?php if ($project == 'fiona' or $project == 'plumberpro'  or $project == 'jericho' or $project == 'prima') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show social links in top panel </dt>
@@ -536,7 +606,7 @@ Show social links in top panel   Enable search<
 Show social links
 ---------------------------------------->  
 
-<?php if ($project == 'helpinghand' ) { ?>
+<?php if ($project == 'helpinghand' or $project == 'wheelmasters' or $project == 'stargaze') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show social links in top panel </dt>
@@ -574,6 +644,34 @@ Show social links in top panel   Enable search<
 <?php } ?>  
 
 </ul>
+
+<!-------------------------------------
+HEADER ELEMENTS
+---------------------------------------->
+
+<?php if ($project == 'emanuella') { ?>
+
+<h5>Header Elements</h5>
+<p> You can set header elements here.</p>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Show search</dt>
+                <dd>
+                    Show / Hide search form in header
+                </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show header call to action button</dt>
+                <dd>
+                    Enable/disable header call to action button
+                </dd>
+        </dl>
+    </li>
+<?php } ?> 
+  
 
 
 <!-------------------------------------
@@ -730,10 +828,11 @@ TOP PANEL END
 <?php } ?>
 
 
+<?php if ($project == 'monstroid_2' or $project == 'bayden' or $project == 'emanuella') { ?>
+
 <h5>Header Contact Block</h5>
 <ul class="marked-list">
 
-<?php if ($project == 'monstroid_2' or $project == 'bayden') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show header conract block</dt>
@@ -793,6 +892,17 @@ TOP PANEL END
         </ul>
     </li>
 <?php } ?>  
+
+<?php if ($project == 'innovi') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Show header conract block</dt>
+            <dd>
+                Show/hide header contact block
+            </dd>
+        </dl>
+    </li>
+<?php } ?> 
 </ul>
 
 
@@ -802,7 +912,7 @@ TOP PANEL END
 
 <ul class="marked-list">
 
-<?php if ($project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'monstroid_2' or $project == 'stylefactory' or $project == 'hardwire' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'bayden' or $project == 'petstore'  or $project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn' or $project == 'uptime99' or $project == 'helpinghand') { ?>
+<?php if ($project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'monstroid_2' or $project == 'stylefactory' or $project == 'hardwire' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'bayden' or $project == 'petstore'  or $project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn' or $project == 'uptime99' or $project == 'helpinghand' or $project == 'preservarium' or $project == 'wheelmasters' or $project == 'talkingbusiness' or $project == 'greenfield' or $project == 'stargaze' or $project == 'vitahealth' or $project == 'emanuella' or $project == 'newborn' or $project == 'heavyhandlers') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable sticky menu </dt>
@@ -814,7 +924,7 @@ TOP PANEL END
 <?php } ?> 
 
 
-<?php if ($project == 'confucius' or $project == 'hidalgo' or $project == 'italica' or $project == 'gutenberg' or $project == 'monstroid_2') { ?>
+<?php if ($project == 'confucius' or $project == 'hidalgo' or $project == 'italica' or $project == 'gutenberg' or $project == 'monstroid_2' or $project == 'emanuella') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable item description</dt>
@@ -825,7 +935,7 @@ TOP PANEL END
     </li>
 <?php } ?> 
 
-<?php if ($project == 'cleaningpro' or $project == 'madeleine' or $project == 'chateau' or $project == 'builderry' or $project == 'bellaina' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro' or $project == 'bayden' or $project == 'helpinghand') { ?>
+<?php if ($project == 'cleaningpro' or $project == 'madeleine' or $project == 'chateau' or $project == 'builderry' or $project == 'bellaina' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro' or $project == 'bayden' or $project == 'helpinghand' or $project == 'wheelmasters') { ?>
 
     <li>
         <dl class="inline-term">
@@ -838,7 +948,7 @@ TOP PANEL END
 <?php } ?> 
 
 
-<?php if ($project != 'confucius' && $project != 'hidalgo' && $project != 'italica' && $project != 'gutenberg' && $project != 'knox' && $project != 'monstroid_2') { ?>
+<?php if ($project != 'confucius' && $project != 'hidalgo' && $project != 'italica' && $project != 'gutenberg' && $project != 'knox' && $project != 'monstroid_2' && $project != 'emanuella') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable title attributes</dt>
@@ -849,8 +959,20 @@ TOP PANEL END
     </li>
 <?php } ?> 
 
+<?php if ($project == 'vitahealth' or $project == 'newborn') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Title attributes color</dt>
+            <dd>
+                Select color for title attributes
+            </dd>
+        </dl>
+    </li>
+<?php } ?> 
 
-<?php if ($project == 'monstroid_2' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'bayden') { ?>
+
+
+<?php if ($project == 'monstroid_2' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'bayden' or $project == 'vitahealth' or $project == 'emanuella' or $project == 'newborn' or $project == 'heavyhandlers') { ?>
     <li>
         <dl class="inline-term">
             <dt>More menu button type</dt>
@@ -871,7 +993,7 @@ TOP PANEL END
 <?php } ?> 
 
 
-<?php if ($project == 'neurion' or  $project == 'waylard' or  $project == 'bettaso' or  $project == 'mechanna' or  $project == 'advisto' or  $project == 'confucius' or  $project == 'fenimore' or $project == 'builderry' or  $project == 'lawpress' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'ecolife' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'arlo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'salvatoro'  or $project == 'callum' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'stylefactory' or $project == 'hardwire'  or $project == 'prima' or $project == 'petstore' or $project == 'trudeau' or $project == 'uptime99') { ?>
+<?php if ($project == 'neurion' or  $project == 'waylard' or  $project == 'bettaso' or  $project == 'mechanna' or  $project == 'advisto' or  $project == 'confucius' or  $project == 'fenimore' or $project == 'builderry' or  $project == 'lawpress' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'leonardo' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'ecolife' or $project == 'happylearning' or $project == 'mizrahi' or $project == 'redhotgrill' or $project == 'arlo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'salvatoro'  or $project == 'callum' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'stylefactory' or $project == 'hardwire'  or $project == 'prima' or $project == 'petstore' or $project == 'trudeau' or $project == 'uptime99' or $project == 'preservarium' or $project == 'talkingbusiness' or $project == 'greenfield' or $project == 'stargaze') { ?>
     <li>
         <dl class="inline-term">
             <dt>Hidden menu items title</dt>
@@ -901,5 +1023,25 @@ TOP PANEL END
         </dl>
     </li>
 <?php } ?>  
+
+<?php if ($project == 'heavyhandlers') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Header call to action button</dt>
+            <dd>
+                Specify text that will be on the button
+            </dd>
+        </dl>
+    </li>
+     <li>
+        <dl class="inline-term">
+            <dt>Header call to action url</dt>
+            <dd>
+                Enter the url that will be on header
+            </dd>
+        </dl>
+    </li>
+<?php } ?>  
+
 
 </ul>

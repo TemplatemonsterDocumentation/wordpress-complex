@@ -2865,8 +2865,36 @@
 				"translations": {
 					"en": "Booked",
 					"ru": "Booked"
-
-
+				}
+			},			
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "Timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}
+		],
+		"talkingbusiness": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "Timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
 				}
 			},			
 			{
@@ -2876,6 +2904,86 @@
 					"ru": "Easy Twitter Widget"
 				}
 			}
+		],
+		"vitahealth": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}			
+		],			
+		"emanuella": [
+			{
+				"id": "Timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}			
+		],
+		"newborn": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "Timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}			
+		],
+		"heavyhandlers": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "wp-user-avatar",
+				"translations": {
+					"en": "WP User Avatar",
+					"ru": "WP User Avatar"
+				}
+			}			
+		],
+		"tattoized": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "Timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}			
 		]
 	}
 }

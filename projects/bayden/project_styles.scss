@@ -132,6 +132,7 @@ body:not([data-section="introduction"]) {
 	.tm-title-caption {	
 		top:168px;
 		width:198px;
+		left: 91px;
 	}
 }
 @media (max-width: 1800px) and (min-width: 1601px){
@@ -154,7 +155,7 @@ body:not([data-section="introduction"]) {
 	ul{
 		a{
 			&.focus{
-				color: $primary-color-second;
+				color: $primary-color;
 			}
 		}
 	}

@@ -13,11 +13,11 @@
 -->
 <?php if ($project != 'addison') { ?>
 
-<?php if ($project != 'roadway' && $project != 'tradex' && $project != 'italica' && $project != 'gutenberg' && $project != 'transit' && $project != 'jericho' && $project != 'monstroid_2' && $project != 'stylefactory' && $project != 'expenditorious' && $project != 'uptime99' && $project != 'helpinghand') { ?>
+<?php if ($project != 'roadway' && $project != 'tradex' && $project != 'italica' && $project != 'gutenberg' && $project != 'transit' && $project != 'jericho' && $project != 'monstroid_2' && $project != 'stylefactory' && $project != 'expenditorious' && $project != 'uptime99' && $project != 'helpinghand' && $project != 'preservarium' && $project != 'wheelmasters' && $project != 'talkingbusiness' && $project != 'greenfield' && $project != 'stargaze' && $project != 'vitahealth' && $project != 'emanuella' && $project != 'newborn' && $project != 'heavyhandlers') { ?>
 <h5>Layout type</h5>
 <?php } ?>
 
-<?php if ($project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gutenberg' or $project == 'transit' or $project == 'jericho' or $project == 'monstroid_2' or $project == 'stylefactory' or $project == 'prima' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'bayden' or $project == 'petstore' or $project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn' or $project == 'uptime99' or $project == 'helpinghand') { ?>
+<?php if ($project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gutenberg' or $project == 'transit' or $project == 'jericho' or $project == 'monstroid_2' or $project == 'stylefactory' or $project == 'prima' or $project == 'room4pics' or $project == 'rufusvr' or $project == 'bayden' or $project == 'petstore' or $project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn' or $project == 'uptime99' or $project == 'helpinghand' or $project == 'preservarium' or $project == 'wheelmasters' or $project == 'talkingbusiness' or $project == 'greenfield' or $project == 'stargaze' or $project == 'vitahealth' or $project == 'emanuella' or $project == 'newborn' or $project == 'heavyhandlers') { ?>
 <h5>Header type</h5>
 <?php } ?>
 
@@ -92,7 +92,7 @@
 <?php } ?>
 
 
-<?php if ($project != 'chefplaza' && $project != 'stylefactory' && $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline' && $project != 'cityherald' && $project != 'prima' && $project != 'viralnews' && $project != 'room4pics' && $project != 'rufusvr' && $project != 'bayden' && $project != 'petstore' && $project != 'expenditorious' && $project != 'trudeau' && $project != 'niceinn' && $project != 'uptime99' && $project != 'helpinghand') { ?>
+<?php if ($project != 'chefplaza' && $project != 'stylefactory' && $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline' && $project != 'cityherald' && $project != 'prima' && $project != 'viralnews' && $project != 'room4pics' && $project != 'rufusvr' && $project != 'bayden' && $project != 'petstore' && $project != 'expenditorious' && $project != 'trudeau' && $project != 'niceinn' && $project != 'uptime99' && $project != 'helpinghand' && $project != 'preservarium' && $project != 'wheelmasters' && $project != 'talkingbusiness' && $project != 'stargaze' && $project != 'greenfield' && $project != 'vitahealth' && $project != 'emanuella' && $project != 'newborn' && $project != 'heavyhandlers') { ?>
 <h5>Container Background Color (px)</h5>
 
 <p>Here you can select the background color. </p>

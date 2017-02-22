@@ -917,14 +917,56 @@
 	},
 	"wheelmasters": {
 		"textLogo": "",
-		"title": "WheelMasters",
-		"titleCaption": "Wordpress Theme",
+		"title": "CAR REPAIR",
+		"titleCaption": "",
 		"author": ""
 	},
 	"preservarium": {
 		"textLogo": "",
 		"title": "Preservarium",
 		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"talkingbusiness": {
+		"textLogo": "",
+		"title": "TALKING Business",
+		"titleCaption": "",
+		"author": ""
+	},
+	"greenfield": {
+		"textLogo": "",
+		"title": "Greenfield",
+		"titleCaption": "WORDPRESS THEME",
+		"author": ""
+	},
+	"stargaze": {
+		"textLogo": "",
+		"title": "STARGAZE",
+		"titleCaption": "WORDPRESS THEME",
+		"author": ""
+	},
+	"vitahealth": {
+		"textLogo": "",
+		"title": "VitaHealth",
+		"titleCaption": "",
+		"author": ""
+	},
+	"emanuella": {
+		"textLogo": "",
+		"title": "manuella",
+		"titleCaption": " ",
+		"author": ""
+	},
+	"newborn": {
+		"textLogo": "",
+		"title": "Newborn",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"heavyhandlers": {
+		"textLogo": "",
+		"title": "HEAVY",
+		"titleCaption": "HANDLERS",
 		"author": ""
 	},
 	"petstore": {

@@ -13,7 +13,7 @@
 
 <ul class="marked-list">
 
-<?php if ($project !='room4pics' && $project !='rufusvr' && $project !='helpinghand'){ ?>
+<?php if ($project !='room4pics' && $project !='rufusvr' && $project !='helpinghand' && $project !='wheelmasters' && $project !='greenfield' && $project !='stargaze' && $project !='vitahealth'){ ?>
     <li class="hide">
         <dl class="inline-term">
             <dt>Show social links in header</dt>
@@ -25,7 +25,7 @@
 <?php } ?>
 
     
-<?php if ($project =='room4pics' or $project =='rufusvr' or $project =='bayden' or $project =='petstore' or $project =='expenditorious' or $project =='trudeau' or $project =='niceinn' or $project =='uptime99' or $project =='helpinghand'){ ?>
+<?php if ($project =='room4pics' or $project =='rufusvr' or $project =='bayden' or $project =='petstore' or $project =='expenditorious' or $project =='trudeau' or $project =='niceinn' or $project =='uptime99' or $project =='helpinghand' or $project =='preservarium' or $project =='wheelmasters' or $project =='talkingbusiness' or $project =='greenfield' or $project =='stargaze' or $project =='vitahealth' or $project =='emanuella' or $project =='newborn' or $project =='heavyhandlers'){ ?>
     <li>
         <dl class="inline-term">
             <dt>Show social links in footer </dt>
@@ -36,7 +36,7 @@
     </li>
 <?php } ?>
 
-<?php if ($project =='room4pics' or $project =='rufusvr'){ ?>
+<?php if ($project =='room4pics' or $project =='rufusvr' or $project =='vitahealth'){ ?>
     <li class="hide">
         <dl class="inline-term">
             <dt>Show social links in top panel</dt>
@@ -48,7 +48,7 @@
 <?php } ?>
 
 
-<?php if ($project !='stylefactory' && $project !='hardwire' && $project !='thedailypost' && $project !='streamline' && $project !='cityherald' && $project !='viralnews' && $project !='petstore'  && $project !='trudeau'){ ?>
+<?php if ($project !='stylefactory' && $project !='hardwire' && $project !='thedailypost' && $project !='streamline' && $project !='cityherald' && $project !='viralnews' && $project !='petstore'  && $project !='trudeau' && $project !='preservarium' && $project !='talkingbusiness'){ ?>
     <li>
         <dl class="inline-term">
             <dt>Add social sharing to blog posts  </dt>
@@ -70,7 +70,7 @@
 </ul>
 <?php } ?>
 
-<?php if ($project =='stylefactory' or $project =='petstore' or $project =='trudeau') { ?>
+<?php if ($project =='stylefactory' or $project =='petstore' or $project =='trudeau' or $project =='preservarium' or $project =='talkingbusiness') { ?>
 
      <li>
         <dl class="inline-term">

@@ -74,7 +74,7 @@
         </dl>
     </li>
 
-<?php if ($project == 'globera' or $project == 'bedentist' or $project == 'finestgame' or $project == 'clubstome' or $project == 'neurion' or $project == 'fiona' or $project == 'cleaningpro' or $project == 'posh' or $project == 'plumberpro' or $project == 'smarthouse' or $project == 'focussity' or $project == 'grannali'  or $project == 'chateau' or $project == 'bellatoi' or $project == 'pokemania' or $project == 'builderry' or $project == 'bellaina' or  $project == 'talisman' or  $project == 'leonardo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro'  or $project == 'mohican' or $project == 'knox' or $project == 'organica' or $project == 'infobyte' or $project == 'walden' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'prima' or $project == 'viralnews' or $project == 'rufusvr' or $project == 'bayden'  or $project == 'expenditorious') { ?>
+<?php if ($project == 'globera' or $project == 'bedentist' or $project == 'finestgame' or $project == 'clubstome' or $project == 'neurion' or $project == 'fiona' or $project == 'cleaningpro' or $project == 'posh' or $project == 'plumberpro' or $project == 'smarthouse' or $project == 'focussity' or $project == 'grannali'  or $project == 'chateau' or $project == 'bellatoi' or $project == 'pokemania' or $project == 'builderry' or $project == 'bellaina' or  $project == 'talisman' or  $project == 'leonardo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'homepro'  or $project == 'mohican' or $project == 'knox' or $project == 'organica' or $project == 'infobyte' or $project == 'walden' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'prima' or $project == 'viralnews' or $project == 'rufusvr' or $project == 'bayden'  or $project == 'expenditorious' or $project == 'wheelmasters' or $project == 'greenfield' or $project == 'stargaze' or $project == 'emanuella') { ?>
 
     <li>
         <dl class="inline-term">
@@ -100,7 +100,7 @@
 
 <?php } ?>
 
-<?php if ($project == 'monstroid_2') { ?>
+<?php if ($project == 'monstroid_2' or $project == 'emanuella') { ?>
 
     <li>
         <dl class="inline-term">
@@ -113,7 +113,7 @@
 
 <?php } ?>
 
-<?php if ( $project == 'neurion') { ?>
+<?php if ( $project == 'neurion' or $project == 'heavyhandlers') { ?>
 
     <li>
         <dl class="inline-term">
@@ -171,7 +171,7 @@
 
 <?php } ?>
 
-<?php if ($project == 'ironmass' or $project == 'durand' or $project == 'shanti' or $project == 'fuel' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei' or $project == 'cookery' or $project == 'artwork' or $project == 'masterchef' or $project == 'inmotion' or $project == 'stylefactory' or $project == 'petstore' or $project == 'trudeau') { ?>
+<?php if ($project == 'ironmass' or $project == 'durand' or $project == 'shanti' or $project == 'fuel' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei' or $project == 'cookery' or $project == 'artwork' or $project == 'masterchef' or $project == 'inmotion' or $project == 'stylefactory' or $project == 'petstore' or $project == 'trudeau' or $project == 'preservarium' or $project == 'talkingbusiness' or $project == 'vitahealth' or $project == 'newborn') { ?>
 
     <li>
         <dl class="inline-term">

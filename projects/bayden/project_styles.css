@@ -94,7 +94,8 @@ body:not([data-section="introduction"]) .tm-title-caption {
 
   .tm-title-caption {
     top: 168px;
-    width: 198px; } }
+    width: 198px;
+    left: 91px; } }
 @media (max-width: 1800px) and (min-width: 1601px) {
   .rd-mobilepanel_title {
     top: 230px;
@@ -108,7 +109,7 @@ body:not([data-section="introduction"]) .tm-title-caption {
   background-color: #000; }
 
 .rd-mobilemenu_ul ul a.focus {
-  color: #fff; }
+  color: #f7c21f; }
 
 .toTop {
   background-color: #f7c21f;

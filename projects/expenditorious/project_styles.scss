@@ -6,6 +6,7 @@ $primary-color: #2e353e;
 $primary-color-second: #f9f9f9;
 $primary-color-dark: #303030;
 $primary-color-light: #fff;
+$secondary-color: #35a1e6;
 $header-background-image: '../../projects/expenditorious/img/header-bg.png';
 
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
@@ -151,7 +152,7 @@ body:not([data-section="introduction"]) {
 	ul{
 		a{
 			&.focus{
-				color: $primary-color-dark;
+				color: $secondary-color;
 			}
 		}
 	}
