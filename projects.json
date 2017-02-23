@@ -969,6 +969,42 @@
 		"titleCaption": "HANDLERS",
 		"author": ""
 	},
+		"glossylook": {
+		"textLogo": "",
+		"title": "Fashion",
+		"titleCaption": "",
+		"author": ""
+	},
+		"metadental": {
+		"textLogo": "",
+		"title": "MetaDental",
+		"titleCaption": "",
+		"author": ""
+	},
+		"petcenter": {
+		"textLogo": "",
+		"title": "Pet center",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+		"takeandspend": {
+		"textLogo": "",
+		"title": "Take & Spend",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+		"safescrap": {
+		"textLogo": "",
+		"title": "SAFESCRAP",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+		"calio": {
+		"textLogo": "",
+		"title": "Calio",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
 	"petstore": {
 		"textLogo": "",
 		"title": "Pettie",

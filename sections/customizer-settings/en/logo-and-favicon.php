@@ -35,7 +35,7 @@
 <p>Click the "Choose Media" button to select the logo image from the media library or upload your image.</p>
 
 
-<?php if ($project == 'monstroid_2') { ?>
+<?php if ($project == 'monstroid_2' or $project == 'calio') { ?>
 <h5>Invert Logo Upload</h5>
 
 <p> Upload invert logo. Displays only at style 1 header layout. </p>
@@ -52,7 +52,7 @@
 <p> Upload invert logo for retina-ready devices. Displays only at style 1 header layout. </p>
 <?php } ?>
 
-<?php if ($project != 'roadway' &&  $project != 'tradex' &&  $project != 'italica' &&  $project != 'mohican' &&  $project != 'gutenberg' &&  $project != 'knox' &&  $project != 'gaze' &&  $project != 'techlab' &&  $project != 'organica' &&  $project != 'infobyte' &&  $project != 'transit' &&  $project != 'jericho' &&  $project != 'walden' &&  $project != 'chefplaza' &&  $project != 'agrilloc' &&  $project != 'monstroid_2' &&  $project != 'stylefactory' &&  $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline' && $project != 'cityherald' && $project != 'prima' && $project != 'viralnews' && $project != 'room4pics' && $project != 'rufusvr' && $project != 'bayden' &&  $project != 'petstore' &&  $project != 'expenditorious' &&  $project != 'trudeau' &&  $project != 'niceinn' &&  $project != 'uptime99' &&  $project != 'helpinghand' &&  $project != 'preservarium' &&  $project != 'wheelmasters' &&  $project != 'talkingbusiness' &&  $project != 'greenfield' &&  $project != 'stargaze'  &&  $project != 'vitahealth' && $project != 'newborn' && $project != 'heavyhandlers') { ?>
+<?php if ($project != 'roadway' &&  $project != 'tradex' &&  $project != 'italica' &&  $project != 'mohican' &&  $project != 'gutenberg' &&  $project != 'knox' &&  $project != 'gaze' &&  $project != 'techlab' &&  $project != 'organica' &&  $project != 'infobyte' &&  $project != 'transit' &&  $project != 'jericho' &&  $project != 'walden' &&  $project != 'chefplaza' &&  $project != 'agrilloc' &&  $project != 'monstroid_2' &&  $project != 'stylefactory' &&  $project != 'hardwire' && $project != 'thedailypost' && $project != 'streamline' && $project != 'cityherald' && $project != 'prima' && $project != 'viralnews' && $project != 'room4pics' && $project != 'rufusvr' && $project != 'bayden' &&  $project != 'petstore' &&  $project != 'expenditorious' &&  $project != 'trudeau' &&  $project != 'niceinn' &&  $project != 'uptime99' &&  $project != 'helpinghand' &&  $project != 'preservarium' &&  $project != 'wheelmasters' &&  $project != 'talkingbusiness' &&  $project != 'greenfield' &&  $project != 'stargaze'  &&  $project != 'vitahealth' && $project != 'newborn' && $project != 'heavyhandlers' && $project != 'metadental' && $project != 'petcenter' && $project != 'takeandspend' && $project != 'safescrap') { ?>
 <h5>Retina Invert Logo Upload</h5>
 
 <p> Upload invert logo for retina-ready devices. Displays only at style 1 header layout. </p>

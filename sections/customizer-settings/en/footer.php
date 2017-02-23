@@ -10,7 +10,7 @@
 
 <h5>Footer Styles</h5>
 <ul class="marked-list">
-<?php if ($project != 'smarthouse' && $project != 'knox' && $project != 'emanuella') { ?>
+<?php if ($project != 'smarthouse' && $project != 'knox' && $project != 'emanuella' && $project != 'glossylook' && $project != 'calio') { ?>
     <li>
         <dl class="inline-term">
             <dt>Logo upload</dt>
@@ -51,7 +51,7 @@
     </li>
 <?php } ?> 
 
-<?php if ($project != 'infobyte') { ?>
+<?php if ($project != 'infobyte' && $project != 'glossylook') { ?>
     <li>
         <dl class="inline-term">
             <dt>Widget Area Columns</dt>
@@ -71,7 +71,7 @@
         </dl>
     </li>
 
-<?php if ($project != 'monstroid_2' && $project != 'emanuella') { ?>
+<?php if ($project != 'monstroid_2' && $project != 'emanuella' && $project != 'calio') { ?>
     <li>
         <dl class="inline-term">
             <dt>Footer Widgets Area color</dt>
@@ -115,7 +115,7 @@
 <?php } ?> 
 
 
-<?php if ($project == 'newborn' or $project == 'heavyhandlers') { ?>
+<?php if ($project == 'newborn' or $project == 'heavyhandlers' or $project == 'petcenter') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show footer widgets area</dt>
@@ -127,7 +127,7 @@
 <?php } ?> 
 
 
-<?php if ($project == 'monstroid_2' or $project == 'emanuella') { ?>
+<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'calio') { ?>
     <li>
         <dl class="inline-term">
             <dt>Footer Widgets Area Background color</dt>
@@ -136,6 +136,33 @@
             </dd>
         </dl>
     </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show footer widgets area</dt>
+            <dd>
+                Show/hide footer widgets area
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show footer logo</dt>
+            <dd>
+                Show/hide footer logo
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show footer menu</dt>
+            <dd>
+                Show/hide footer menu
+            </dd>
+        </dl>
+    </li>
+<?php } ?>  
+
+<?php if ($project == 'glossylook') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show footer widgets area</dt>
@@ -208,7 +235,7 @@
     </li>
 <?php } ?>  
 
-<?php if ($project == 'transit') { ?>
+<?php if ($project == 'transit' or $project == 'takeandspend') { ?>
     <li>
         <dl class="inline-term">
             <dt>Background Image</dt>
@@ -238,6 +265,20 @@
             <dt>Background Attachment</dt>
             <dd>
                 Set background attachment for footer image
+            </dd>
+        </dl>
+    </li>
+<?php } ?>  
+</ul>
+
+<?php if ($project == 'glossylook' or $project == 'calio') { ?>
+<h5>Footer Contact Block</h5>
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>Show footer contact block</dt>
+            <dd>
+                Show/hide footer contact block
             </dd>
         </dl>
     </li>

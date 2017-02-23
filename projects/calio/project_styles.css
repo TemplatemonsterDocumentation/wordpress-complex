@@ -1,0 +1,91 @@
+@import url(https://fonts.googleapis.com/css?family=Hind+Siliguri);
+h1 {
+  font-family: "Hind Siliguri", sans-serif;
+  color: #4d284e; }
+
+h2 {
+  color: #02afff; }
+
+h3 {
+  color: #000000; }
+
+h4 {
+  color: #000000; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #f2f2f2;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/calio/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+.rd-mobilepanel_toggle span {
+  background-color: #993971; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #993971; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_title {
+  font-size: 50px;
+  font-weight: 800;
+  top: 213px;
+  width: 400px;
+  line-height: 45px;
+  left: 119px; }
+  .rd-mobilepanel_title:before {
+    content: '';
+    position: absolute;
+    background-image: url(../../projects/calio/img/im.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    width: 84px;
+    height: 115px;
+    left: -80px;
+    top: -17px; }
+
+.tm-title-caption {
+  font-size: 32px !important;
+  top: 273px;
+  font-family: "Hind Siliguri", sans-serif;
+  color: #4d284e;
+  line-height: 36px;
+  width: 430px;
+  left: 50px; }
+
+.rd-mobilemenu .logo {
+  background-color: #fff; }
+
+.rd-mobilemenu_ul ul a.focus {
+  color: #993971; }
+
+.toTop {
+  background-color: #993971; }
+  .toTop:hover {
+    background: #333333; }

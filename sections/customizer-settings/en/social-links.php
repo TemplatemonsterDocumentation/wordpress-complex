@@ -13,7 +13,7 @@
 
 <ul class="marked-list">
 
-<?php if ($project !='room4pics' && $project !='rufusvr' && $project !='helpinghand' && $project !='wheelmasters' && $project !='greenfield' && $project !='stargaze' && $project !='vitahealth'){ ?>
+<?php if ($project !='room4pics' && $project !='rufusvr' && $project !='helpinghand' && $project !='wheelmasters' && $project !='greenfield' && $project !='stargaze' && $project !='vitahealth' && $project !='petcenter'){ ?>
     <li class="hide">
         <dl class="inline-term">
             <dt>Show social links in header</dt>
@@ -25,7 +25,7 @@
 <?php } ?>
 
     
-<?php if ($project =='room4pics' or $project =='rufusvr' or $project =='bayden' or $project =='petstore' or $project =='expenditorious' or $project =='trudeau' or $project =='niceinn' or $project =='uptime99' or $project =='helpinghand' or $project =='preservarium' or $project =='wheelmasters' or $project =='talkingbusiness' or $project =='greenfield' or $project =='stargaze' or $project =='vitahealth' or $project =='emanuella' or $project =='newborn' or $project =='heavyhandlers'){ ?>
+<?php if ($project =='room4pics' or $project =='rufusvr' or $project =='bayden' or $project =='petstore' or $project =='expenditorious' or $project =='trudeau' or $project =='niceinn' or $project =='uptime99' or $project =='helpinghand' or $project =='preservarium' or $project =='wheelmasters' or $project =='talkingbusiness' or $project =='greenfield' or $project =='stargaze' or $project =='vitahealth' or $project =='emanuella' or $project =='newborn' or $project =='heavyhandlers' or $project =='glossylook' or $project =='metadental' or $project =='petcenter' or $project =='takeandspend' or $project =='safescrap' or $project =='calio'){ ?>
     <li>
         <dl class="inline-term">
             <dt>Show social links in footer </dt>
@@ -36,7 +36,7 @@
     </li>
 <?php } ?>
 
-<?php if ($project =='room4pics' or $project =='rufusvr' or $project =='vitahealth'){ ?>
+<?php if ($project =='room4pics' or $project =='rufusvr' or $project =='vitahealth' or $project =='petcenter'){ ?>
     <li class="hide">
         <dl class="inline-term">
             <dt>Show social links in top panel</dt>

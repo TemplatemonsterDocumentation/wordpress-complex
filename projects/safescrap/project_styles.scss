@@ -1,0 +1,161 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #f9f9f9;
+$primary-color-second: #e0ecd4;
+$secondary-color: #b4c408;
+$secondary-color-dark: #454545;
+$secondary-color-light: #d97233;
+
+$header-background-image: '../../projects/safescrap/img/header-bg.png';
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700,bold,);
+$primary-font-family: 'Montserrat', sans-serif;
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: $secondary-color-dark;
+
+}
+h2 {
+	//font-family: $primary-font-family;
+}
+h3 {
+	//font-family: $primary-font-family;
+}
+h4 {
+	color: #000;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+			@media (max-width: 1440px) {
+    			background-position: 100% bottom;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color-second;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}
+}
+.rd-mobilepanel_toggle {
+	span{
+		background-color: $secondary-color-light;
+		&:before, &:after{
+			background-color: $secondary-color-light;
+		}
+	}
+	
+}
+
+.rd-mobilepanel_title {
+	font-size: 50px;
+	font-weight:300;
+	top:213px;
+	width: 400px;
+	line-height: 45px;
+	left: 119px;
+		&:before{
+			content: '';
+		    position: absolute;
+		    background-image: url(../../projects/safescrap/img/im.png);
+		    background-size: contain;
+		    background-repeat: no-repeat;
+		    display: block;
+		    width: 84px;
+		    height: 115px;
+		    left: -80px;
+		    top: -17px;
+		}
+}
+
+.tm-title-caption {
+	font-size: 26px !important;
+	top: 277px;
+	font-family: $primary-font-family;
+    color: $secondary-color-dark;
+    line-height: 36px;
+    width: 400px;
+    left: 123px;
+}
+@media (max-width: 1439px){
+	.rd-mobilepanel_title{
+		top:175px
+	}
+	.tm-title-caption {	
+		top:224px;
+	}
+}
+@media (max-width: 1600px) and (min-width: 1440px){
+	.rd-mobilepanel_title{
+		top:100px
+	}
+	.tm-title-caption {	
+		top:172px;
+		width:198px;
+	}
+}
+@media (max-width: 1800px) and (min-width: 1601px){
+	.rd-mobilepanel_title{
+		top:100px
+	}
+	.tm-title-caption {	
+		top:180px;
+		width:300px;
+	}
+}
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color;
+	}
+}
+.rd-mobilemenu_ul{
+	ul{
+		a{
+			&.focus{
+				color: $secondary-color-light;
+			}
+		}
+	}
+}  
+
+.toTop {
+	background-color: $secondary-color-light;
+	color: #ffffff;
+	&:hover {
+    	background-color:darken($primary-color-second,20%);
+	}
+}

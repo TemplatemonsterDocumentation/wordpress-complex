@@ -1,0 +1,107 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,700,bold,);
+h1 {
+  font-family: "Poppins", sans-serif;
+  color: #34b8c0; }
+
+h4 {
+  color: #000; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #f3f2f2;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/metadental/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_toggle span {
+  background-color: #34b8c0; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #34b8c0; }
+
+.rd-mobilepanel_title {
+  font-size: 52px;
+  font-weight: 400;
+  left: 130px;
+  top: 213px;
+  width: 400px;
+  line-height: 45px;
+  font-style: bold; }
+  .rd-mobilepanel_title:before {
+    content: '';
+    position: absolute;
+    background-image: url(../../projects/metadental/img/im.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    width: 68px;
+    height: 115px;
+    left: -89px;
+    top: -19px; }
+
+.tm-title-caption {
+  font-size: 30px;
+  top: 294px;
+  font-family: "Poppins", sans-serif;
+  color: #ffffff;
+  line-height: 36px;
+  width: 481px;
+  letter-spacing: 10px; }
+
+@media (max-width: 1439px) {
+  .rd-mobilepanel_title {
+    top: 188px; }
+
+  .tm-title-caption {
+    top: 180px; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 100px; }
+
+  .tm-title-caption {
+    top: 180px;
+    width: 198px; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 100px; }
+
+  .tm-title-caption {
+    top: 180px;
+    width: 300px; } }
+.rd-mobilemenu .logo {
+  background-color: #ffffff; }
+
+.rd-mobilemenu_ul ul a.focus {
+  color: #34b8c0; }
+
+.toTop {
+  background-color: #34b8c0;
+  color: #ffffff; }
+  .toTop:hover {
+    background-color: #c2bdbd; }
