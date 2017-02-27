@@ -2923,7 +2923,7 @@
 		],			
 		"emanuella": [
 			{
-				"id": "Timetable",
+				"id": "timetable",
 				"translations": {
 					"en": "Timetable",
 					"ru": "Timetable"
@@ -3043,6 +3043,82 @@
 					"ru": "Booked"
 				}
 			}			
+		],
+		"armyacademy": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "Timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}		
+		],
+		"universalcare": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "Timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}		
+		],
+		"sportware": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "woocommerce-fairystyle",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+				}
+			},  
+			{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+				}
+			},
+			{
+				"id": "yith-woocommerce-wishlist",
+				"translations": {
+					"en": "YITH WooCommerce Wishlist",
+					"ru": "YITH WooCommerce Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			},
+			{
+				"id": "motopress-slider",
+				"translations": {
+					"en": "MotoPress Slider",
+					"ru": "Слайдер MotoPress"
+				}
+			}
 		]
 	}
 }

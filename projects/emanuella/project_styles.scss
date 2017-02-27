@@ -145,7 +145,7 @@ body:not([data-section="introduction"]) {
 	ul{
 		a{
 			&.focus{
-				color: $primary-color-second;
+				color: $secondary-color;
 			}
 		}
 	}

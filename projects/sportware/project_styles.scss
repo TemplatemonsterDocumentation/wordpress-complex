@@ -1,0 +1,161 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #141414;
+$secondary-color: #4799e8;
+$secondary-color-dark: #000;
+$primary-color-second: #f7f7f7;
+$primary-color-light: #FFFFFF;
+$primary-color-logo: #ffffff;
+$header-background-image: '../../projects/sportware/img/header-bg.png';
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700,400);
+$primary-font-family: 'Montserrat', sans-serif;
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: $secondary-color;
+
+}
+h2 {
+	color: $secondary-color-dark;
+	//font-family: $primary-font-family;
+}
+h3 {
+	color: $secondary-color-dark;
+	//font-family: $primary-font-family;
+}
+h4 {
+	color: $secondary-color-dark;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+			@media (max-width: 1440px) {
+    			background-position: 100% bottom;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color-second;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}
+}
+
+ .rd-mobilepanel_title {
+	font-size: 52px;
+	font-weight: 400;
+	top:154px;
+	letter-spacing: 10px;
+}
+
+.tm-title-caption {
+	font-size: 28px;
+	top: 219px;
+	font-family: $primary-font-family;
+    color: #000;
+    line-height: 36px;
+    width: 430px;
+    left: 136px;
+}
+@media (max-width: 1439px){
+	.rd-mobilepanel_title{
+		top:100px
+	}
+	.tm-title-caption {	
+		top:180px;
+	}
+}
+@media (max-width: 1600px) and (min-width: 1440px){
+	.rd-mobilepanel_title{
+		top:109px;
+		left: 97px;
+	}
+	.tm-title-caption {	
+		top:180px;
+		width:198px;
+		left: 93px;
+	}
+}
+@media (max-width: 1800px) and (min-width: 1601px){
+	.rd-mobilepanel_title{
+		top:88px;
+		left: 98px;
+	}
+	.tm-title-caption {	
+		top:180px;
+		width:300px;
+	}
+}
+
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color-logo;
+	}
+}
+
+.rd-mobilemenu_ul{
+	ul{
+		a{
+			&.focus{
+				color: $secondary-color;
+			}
+		}
+	}
+}  
+
+.toTop {
+	background-color: $secondary-color;
+	&:hover {
+    	background: lighten($primary-color-second, 20%);
+	}
+}
+
+.rd-mobilepanel_toggle {
+	span{
+		background-color: $secondary-color;
+		&:before, &:after{
+			background-color: $secondary-color;
+		}
+	}
+	
+}
+.bold_text{
+font-weight: 600;
+}
+.it_text{
+font-weight: 400;
+font-style: italic;
+}

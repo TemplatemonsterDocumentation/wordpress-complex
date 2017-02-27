@@ -2443,6 +2443,86 @@
 				}
 			}
 		],
+		"armyacademy": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"universalcare": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"callista": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"quickwind": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"sportware": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
 		"bayden": [
 			{
 				"id": "menu-and-navigation-main",

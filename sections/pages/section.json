@@ -1328,6 +1328,51 @@
 				}
 			}
 		],
+		"armyacademy": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"universalcare": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"callista": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"quickwind": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"sportware": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
 		"rufusvr": [
 			{
 				"id": "page-settings-blog-theme",

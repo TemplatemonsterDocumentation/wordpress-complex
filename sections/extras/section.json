@@ -4444,6 +4444,156 @@
 					"ru": "Google Сервисы"
 				}
 			}
+		],
+		"armyacademy": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"universalcare": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"callista": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"quickwind": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
+		],
+		"sportware": [
+			{
+				"id": "help",
+				"translations": {
+					"en": "Help and Support",
+					"ru": "Помощь и поддержка"
+				}
+			},
+			{
+				"id": "cookies",
+				"translations": {
+					"en": "Cookies",
+					"ru": "Cookies"
+				}
+			},
+			{
+				"id": "documentation",
+				"translations": {
+					"en": "Documentation",
+					"ru": "Документация"
+				}
+			},
+			{
+				"id": "google-services",
+				"translations": {
+					"en": "Google Services",
+					"ru": "Google Сервисы"
+				}
+			}
 		]
 	}
 }

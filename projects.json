@@ -1005,9 +1005,39 @@
 		"titleCaption": "Wordpress Theme",
 		"author": ""
 	},
+		"armyacademy": {
+		"textLogo": "",
+		"title": "Army Academy",
+		"titleCaption": "THE BEST MILITARY SCHOOL IN THE US",
+		"author": ""
+	},
+		"universalcare": {
+		"textLogo": "",
+		"title": "Universal Care",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+		"callista": {
+		"textLogo": "",
+		"title": "Callista",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+		"quickwind": {
+		"textLogo": "",
+		"title": "QuickWind",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
 	"petstore": {
 		"textLogo": "",
 		"title": "Pettie",
+		"titleCaption": "WooCommerce theme",
+		"author": ""
+	},
+	"sportware": {
+		"textLogo": "",
+		"title": "SPORTWARE",
 		"titleCaption": "WooCommerce theme",
 		"author": ""
 	}
