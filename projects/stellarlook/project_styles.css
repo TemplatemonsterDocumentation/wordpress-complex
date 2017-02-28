@@ -1,0 +1,98 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,bold,);
+h1 {
+  font-family: "Open Sans", sans-serif;
+  color: #283243; }
+
+h4 {
+  color: #f9fafb; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 58% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 48% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #f9fafb;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/stellarlook/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_toggle span {
+  background-color: #ab917e; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #ab917e; }
+
+.rd-mobilepanel_title {
+  font-size: 50px;
+  font-weight: 800;
+  top: 237px;
+  left: 102px;
+  width: 500px; }
+
+.tm-title-caption {
+  font-size: 21px;
+  top: 294px;
+  font-family: "Open Sans", sans-serif;
+  color: #ab917e;
+  line-height: 36px;
+  width: 481px;
+  left: 146px; }
+
+@media (max-width: 1439px) {
+  .rd-mobilepanel_title {
+    top: 74px; }
+
+  .tm-title-caption {
+    top: 145px;
+    left: 35px; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 109px;
+    left: 97px; }
+
+  .tm-title-caption {
+    top: 180px;
+    width: 198px;
+    left: 66px; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 104px;
+    left: 98px; }
+
+  .tm-title-caption {
+    top: 180px;
+    width: 269px; } }
+.rd-mobilemenu .logo {
+  background-color: #ffffff; }
+
+.rd-mobilemenu_ul ul a.focus {
+  color: #ab917e; }
+
+.toTop {
+  background-color: #283243;
+  color: #ffffff; }
+  .toTop:hover {
+    background-color: #bcc7d2; }

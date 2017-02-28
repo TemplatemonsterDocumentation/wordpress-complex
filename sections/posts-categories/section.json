@@ -3546,6 +3546,144 @@
 					"ru": "Форматы постов"
 				}
 			}
-		]																			
+		],
+		"stellarlook": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"speedyfix": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"presstige": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"guillermo": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"sabbatico": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"exhibita": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		]																						
 	}
 }

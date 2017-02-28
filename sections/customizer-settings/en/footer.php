@@ -10,7 +10,7 @@
 
 <h5>Footer Styles</h5>
 <ul class="marked-list">
-<?php if ($project != 'smarthouse' && $project != 'knox' && $project != 'emanuella' && $project != 'glossylook' && $project != 'calio') { ?>
+<?php if ($project != 'smarthouse' && $project != 'knox' && $project != 'emanuella' && $project != 'glossylook' && $project != 'calio' && $project != 'guillermo') { ?>
     <li>
         <dl class="inline-term">
             <dt>Logo upload</dt>
@@ -71,7 +71,7 @@
         </dl>
     </li>
 
-<?php if ($project != 'monstroid_2' && $project != 'emanuella' && $project != 'calio') { ?>
+<?php if ($project != 'monstroid_2' && $project != 'emanuella' && $project != 'calio' && $project != 'guillermo') { ?>
     <li>
         <dl class="inline-term">
             <dt>Footer Widgets Area color</dt>
@@ -115,7 +115,7 @@
 <?php } ?> 
 
 
-<?php if ($project == 'newborn' or $project == 'heavyhandlers' or $project == 'petcenter' or $project == 'universalcare') { ?>
+<?php if ($project == 'newborn' or $project == 'heavyhandlers' or $project == 'petcenter' or $project == 'universalcare' or $project == 'stellarlook' or $project == 'presstige' or $project == 'sabbatico') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show footer widgets area</dt>
@@ -126,8 +126,19 @@
     </li>
 <?php } ?> 
 
+<?php if ($project == 'sabbatico') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Enable Footer gradient background</dt>
+            <dd>
+                Enable/disable Footer gradient background
+            </dd>
+        </dl>
+    </li>
+<?php } ?> 
 
-<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'calio') { ?>
+
+<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'calio' or $project == 'guillermo') { ?>
     <li>
         <dl class="inline-term">
             <dt>Footer Widgets Area Background color</dt>
@@ -235,7 +246,7 @@
     </li>
 <?php } ?>  
 
-<?php if ($project == 'transit' or $project == 'takeandspend' or $project == 'quickwind') { ?>
+<?php if ($project == 'transit' or $project == 'takeandspend' or $project == 'quickwind' or $project == 'speedyfix') { ?>
     <li>
         <dl class="inline-term">
             <dt>Background Image</dt>
@@ -271,7 +282,7 @@
 <?php } ?>  
 </ul>
 
-<?php if ($project == 'glossylook' or $project == 'calio') { ?>
+<?php if ($project == 'glossylook' or $project == 'calio' or $project == 'guillermo') { ?>
 <h5>Footer Contact Block</h5>
 <ul class="marked-list">
     <li>

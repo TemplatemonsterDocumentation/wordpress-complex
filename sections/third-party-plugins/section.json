@@ -3119,6 +3119,79 @@
 					"ru": "Слайдер MotoPress"
 				}
 			}
+		],
+		"stellarlook": [
+			{
+				"id": "timeline-master",
+				"translations": {
+					"en": "TM Timeline",
+					"ru": "TM Timeline"
+				}
+			}			
+		],
+		"speedyfix": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			}	
+		],
+		"presstige": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "wp-user-avatar",
+				"translations": {
+					"en": "WP User Avatar",
+					"ru": "WP User Avatar"
+				}
+			},
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			}
+		],
+		"guillermo": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			}	
+		],
+		"exhibita": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "Timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}		
 		]
 	}
 }

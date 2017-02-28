@@ -1029,6 +1029,18 @@
 		"titleCaption": "Wordpress Theme",
 		"author": ""
 	},
+		"stellarlook": {
+		"textLogo": "",
+		"title": "StellarLook",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+		"speedyfix": {
+		"textLogo": "",
+		"title": "SPEEDYFIX",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
 	"petstore": {
 		"textLogo": "",
 		"title": "Pettie",
@@ -1039,6 +1051,30 @@
 		"textLogo": "",
 		"title": "SPORTWARE",
 		"titleCaption": "WooCommerce theme",
+		"author": ""
+	},
+	"presstige": {
+		"textLogo": "",
+		"title": "PRESTIGE",
+		"titleCaption": "Woprdpress theme",
+		"author": ""
+	},
+	"guillermo": {
+		"textLogo": "",
+		"title": "guillermo",
+		"titleCaption": "Wordpress theme",
+		"author": ""
+	},
+	"sabbatico": {
+		"textLogo": "",
+		"title": "SABbatico",
+		"titleCaption": "Wordpress theme",
+		"author": ""
+	},
+	"exhibita": {
+		"textLogo": "",
+		"title": "ExhibitA",
+		"titleCaption": "Wordpress theme",
 		"author": ""
 	}
 
