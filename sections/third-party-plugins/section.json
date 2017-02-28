@@ -3192,6 +3192,47 @@
 					"ru": "Timetable"
 				}
 			}		
+		],
+		"yoozie": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "Timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}		
+		],
+		"legalalien": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			}		
+		],
+		"magnifio": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			}		
 		]
 	}
 }

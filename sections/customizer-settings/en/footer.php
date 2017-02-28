@@ -115,7 +115,7 @@
 <?php } ?> 
 
 
-<?php if ($project == 'newborn' or $project == 'heavyhandlers' or $project == 'petcenter' or $project == 'universalcare' or $project == 'stellarlook' or $project == 'presstige' or $project == 'sabbatico') { ?>
+<?php if ($project == 'newborn' or $project == 'heavyhandlers' or $project == 'petcenter' or $project == 'universalcare' or $project == 'stellarlook' or $project == 'presstige' or $project == 'sabbatico' or $project == 'yoozie') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show footer widgets area</dt>
@@ -246,7 +246,7 @@
     </li>
 <?php } ?>  
 
-<?php if ($project == 'transit' or $project == 'takeandspend' or $project == 'quickwind' or $project == 'speedyfix') { ?>
+<?php if ($project == 'transit' or $project == 'takeandspend' or $project == 'quickwind' or $project == 'speedyfix' or $project == 'legalalien' or $project == 'magnifio') { ?>
     <li>
         <dl class="inline-term">
             <dt>Background Image</dt>

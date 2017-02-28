@@ -25,7 +25,7 @@
 <?php } ?>
 
     
-<?php if ($project =='room4pics' or $project =='rufusvr' or $project =='bayden' or $project =='petstore' or $project =='expenditorious' or $project =='trudeau' or $project =='niceinn' or $project =='uptime99' or $project =='helpinghand' or $project =='preservarium' or $project =='wheelmasters' or $project =='talkingbusiness' or $project =='greenfield' or $project =='stargaze' or $project =='vitahealth' or $project =='emanuella' or $project =='newborn' or $project =='heavyhandlers' or $project =='glossylook' or $project =='metadental' or $project =='petcenter' or $project =='takeandspend' or $project =='safescrap' or $project =='calio' or $project =='armyacademy' or $project =='universalcare' or $project =='callista' or $project =='quickwind' or $project =='sportware' or $project =='stellarlook' or $project =='speedyfix' or $project == 'presstige' or $project == 'guillermo' or $project == 'sabbatico' or $project == 'exhibita'){ ?>
+<?php if ($project =='room4pics' or $project =='rufusvr' or $project =='bayden' or $project =='petstore' or $project =='expenditorious' or $project =='trudeau' or $project =='niceinn' or $project =='uptime99' or $project =='helpinghand' or $project =='preservarium' or $project =='wheelmasters' or $project =='talkingbusiness' or $project =='greenfield' or $project =='stargaze' or $project =='vitahealth' or $project =='emanuella' or $project =='newborn' or $project =='heavyhandlers' or $project =='glossylook' or $project =='metadental' or $project =='petcenter' or $project =='takeandspend' or $project =='safescrap' or $project =='calio' or $project =='armyacademy' or $project =='universalcare' or $project =='callista' or $project =='quickwind' or $project =='sportware' or $project =='stellarlook' or $project =='speedyfix' or $project == 'presstige' or $project == 'guillermo' or $project == 'sabbatico' or $project == 'exhibita' or $project == 'yoozie' or $project == 'legalalien' or $project == 'magnifio'){ ?>
     <li>
         <dl class="inline-term">
             <dt>Show social links in footer </dt>
@@ -48,7 +48,7 @@
 <?php } ?>
 
 
-<?php if ($project !='stylefactory' && $project !='hardwire' && $project !='thedailypost' && $project !='streamline' && $project !='cityherald' && $project !='viralnews' && $project !='petstore'  && $project !='trudeau' && $project !='preservarium' && $project !='talkingbusiness' && $project !='exhibita'){ ?>
+<?php if ($project !='stylefactory' && $project !='hardwire' && $project !='thedailypost' && $project !='streamline' && $project !='cityherald' && $project !='viralnews' && $project !='petstore'  && $project !='trudeau' && $project !='preservarium' && $project !='talkingbusiness' && $project !='exhibita' && $project !='yoozie'){ ?>
     <li>
         <dl class="inline-term">
             <dt>Add social sharing to blog posts  </dt>
@@ -70,7 +70,7 @@
 </ul>
 <?php } ?>
 
-<?php if ($project =='stylefactory' or $project =='petstore' or $project =='trudeau' or $project =='preservarium' or $project =='talkingbusiness' or $project == 'exhibita') { ?>
+<?php if ($project =='stylefactory' or $project =='petstore' or $project =='trudeau' or $project =='preservarium' or $project =='talkingbusiness' or $project == 'exhibita' or $project == 'yoozie') { ?>
 
      <li>
         <dl class="inline-term">

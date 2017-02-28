@@ -1,0 +1,154 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #ffffff;
+$primary-color-second: #384d59;
+$primary-color-dark: #2b2b2b;
+$secondary-color: #e91b1a;
+$secondary-color-light: #f1f2ef;
+
+$header-background-image: '../../projects/legalalien/img/header-bg.png';
+
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,bold,);
+$primary-font-family: 'Roboto Condensed', sans-serif;
+
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: #fff;
+
+}
+h2 {
+	//font-family: $primary-font-family;
+}
+h3 {
+	//font-family: $primary-font-family;
+}
+h4 {
+	color: #000;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 63% top;
+			@media (max-width: 1440px) {
+    			background-position: 48% bottom;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color-second;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}
+}
+.rd-mobilepanel_toggle {
+	span{
+		background-color: #fff;
+		&:before, &:after{
+			background-color: #fff;
+		}
+	}
+	
+}
+
+.rd-mobilepanel_title {
+	font-size: 60px;
+	font-weight:300;
+	top:237px;
+	left: 118px;
+	width: 500px;
+	letter-spacing: 3px;
+}
+
+.tm-title-caption {
+	font-size: 26px !important;
+	top: 308px;
+	font-family: $primary-font-family;
+    color: #fff;
+    line-height: 36px;
+    width: 481px;
+    left: 164px;
+}
+@media (max-width: 1439px){
+	.rd-mobilepanel_title{
+		top:59px
+	}
+	.tm-title-caption {	
+		top:140px;
+		left: 133px;
+	}
+}
+@media (max-width: 1600px) and (min-width: 1440px){
+	.rd-mobilepanel_title{
+		top:93px;
+		left: 97px;
+	}
+	.tm-title-caption {	
+		top:180px;
+		width:173px;
+	}
+}
+@media (max-width: 1800px) and (min-width: 1601px){
+	.rd-mobilepanel_title{
+		top:104px;
+		left: 98px;
+	}
+	.tm-title-caption {	
+		top:180px;
+		width:269px;
+		left: 117px;
+	}
+}
+.rd-mobilemenu {
+	.logo{
+		background-color: #fff;
+	}
+}
+.rd-mobilemenu_ul{
+	ul{
+		a{
+			&.focus{
+				color: $secondary-color;
+			}
+		}
+	}
+}  
+
+.toTop {
+	background-color: $primary-color-second;
+	color: #ffffff;
+	&:hover {
+    	background-color:darken($primary-color-second,20%);
+	}
+}

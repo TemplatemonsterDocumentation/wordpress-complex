@@ -1076,6 +1076,24 @@
 		"title": "ExhibitA",
 		"titleCaption": "Wordpress theme",
 		"author": ""
+	},
+	"yoozie": {
+		"textLogo": "",
+		"title": "Yoozie",
+		"titleCaption": "Wordpress theme",
+		"author": ""
+	},
+	"legalalien": {
+		"textLogo": "",
+		"title": "LEGALAlien",
+		"titleCaption": "Wordpress theme",
+		"author": ""
+	},
+	"magnifio": {
+		"textLogo": "",
+		"title": "magnifio",
+		"titleCaption": "WORDPRESS THEME",
+		"author": ""
 	}
 
 }

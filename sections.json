@@ -2189,5 +2189,47 @@
 		"tm-builder",
 		"tm-builder-modules",
 		"extras"
+	],
+	"yoozie": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"legalalien": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"magnifio": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
 	]
 }

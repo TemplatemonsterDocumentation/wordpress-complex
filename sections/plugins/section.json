@@ -5133,6 +5133,103 @@
 					"ru": "TM Photo Gallery"
 				}
 			}
+		],
+		"yoozie": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},		
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},			
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"legalalien": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},			
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"magnifio": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},			
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},				
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
 		]
 	}
 }

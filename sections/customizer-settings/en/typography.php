@@ -87,7 +87,7 @@
 
 <?php } ?>
 
-<?php if ($project == 'mechanna' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'happylearning' or $project == 'arlo'  or $project == 'callum' or $project == 'roadway' or $project == 'gutenberg' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza' or $project == 'monstroid_2' or $project == 'room4pics' or $project == 'niceinn' or $project == 'helpinghand' or $project == 'takeandspend' or $project == 'calio' or $project == 'callista' or $project == 'quickwind' or $project == 'sportware' or $project == 'speedyfix' or $project == 'presstige' or $project == 'guillermo' or $project == 'sabbatico') { ?>
+<?php if ($project == 'mechanna' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'happylearning' or $project == 'arlo'  or $project == 'callum' or $project == 'roadway' or $project == 'gutenberg' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza' or $project == 'monstroid_2' or $project == 'room4pics' or $project == 'niceinn' or $project == 'helpinghand' or $project == 'takeandspend' or $project == 'calio' or $project == 'callista' or $project == 'quickwind' or $project == 'sportware' or $project == 'speedyfix' or $project == 'presstige' or $project == 'guillermo' or $project == 'sabbatico' or $project == 'legalalien' or $project == 'magnifio') { ?>
 
     <li>
         <dl class="inline-term">
@@ -171,7 +171,7 @@
 
 <?php } ?>
 
-<?php if ($project == 'ironmass' or $project == 'durand' or $project == 'shanti' or $project == 'fuel' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei' or $project == 'cookery' or $project == 'artwork' or $project == 'masterchef' or $project == 'inmotion' or $project == 'stylefactory' or $project == 'petstore' or $project == 'trudeau' or $project == 'preservarium' or $project == 'talkingbusiness' or $project == 'vitahealth' or $project == 'newborn' or $project == 'metadental' or $project == 'petcenter' or $project == 'armyacademy' or $project == 'universalcare' or $project == 'exhibita') { ?>
+<?php if ($project == 'ironmass' or $project == 'durand' or $project == 'shanti' or $project == 'fuel' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei' or $project == 'cookery' or $project == 'artwork' or $project == 'masterchef' or $project == 'inmotion' or $project == 'stylefactory' or $project == 'petstore' or $project == 'trudeau' or $project == 'preservarium' or $project == 'talkingbusiness' or $project == 'vitahealth' or $project == 'newborn' or $project == 'metadental' or $project == 'petcenter' or $project == 'armyacademy' or $project == 'universalcare' or $project == 'exhibita' or $project == 'yoozie') { ?>
 
     <li>
         <dl class="inline-term">

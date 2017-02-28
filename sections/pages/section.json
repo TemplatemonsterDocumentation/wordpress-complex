@@ -1427,6 +1427,33 @@
 				}
 			}
 		],
+		"yoozie": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"legalalien": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"magnifio": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
 		"rufusvr": [
 			{
 				"id": "page-settings-blog-theme",
