@@ -46,13 +46,14 @@
 </ul>
 
 <h5>Additional functions</h5>
-<p>Using export files TM Style Switcher affords to put into action Skin Switcher or Style Switcher. Each skin is represented as registered preset</p>
+<p>The plugin allows to implement the so-called Skin Switcher or Style Switcher using the export files.
+</p>
+
+<p>Every skin is presented in the form of a registered preset. The presets can be found in the tab of TM Style Switcher customizer. When tapping on a preset the settings from a json file, which were attached to the preset in the registration process, will be imported.</p>
 
     <figure class="img-polaroid">
-        <img src="img/plugins/export-import.png" alt="" >
+        <img src="img/plugins/export-import2.png" alt="" >
     </figure>
-
-
 
 
 

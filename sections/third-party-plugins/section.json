@@ -800,7 +800,7 @@
 				}
 			},
 			{
-				"id": " ",
+				"id": "timetable",
 				"translations": {
 					"en": "Timetable",
 					"ru": "Timetable"
@@ -2875,7 +2875,7 @@
 				}
 			},
 			{
-				"id": "Timetable",
+				"id": "timetable",
 				"translations": {
 					"en": "Timetable",
 					"ru": "Timetable"
@@ -2891,7 +2891,7 @@
 				}
 			},
 			{
-				"id": "Timetable",
+				"id": "timetable",
 				"translations": {
 					"en": "Timetable",
 					"ru": "Timetable"
@@ -2939,7 +2939,7 @@
 				}
 			},
 			{
-				"id": "Timetable",
+				"id": "timetable",
 				"translations": {
 					"en": "Timetable",
 					"ru": "Timetable"
@@ -2978,7 +2978,7 @@
 				}
 			},
 			{
-				"id": "Timetable",
+				"id": "timetable",
 				"translations": {
 					"en": "Timetable",
 					"ru": "Timetable"
@@ -2994,7 +2994,7 @@
 				}
 			},
 			{
-				"id": "Timetable",
+				"id": "timetable",
 				"translations": {
 					"en": "Timetable",
 					"ru": "Timetable"
@@ -3010,7 +3010,7 @@
 				}
 			},
 			{
-				"id": "Timetable",
+				"id": "timetable",
 				"translations": {
 					"en": "Timetable",
 					"ru": "Timetable"
@@ -3053,7 +3053,7 @@
 				}
 			},
 			{
-				"id": "Timetable",
+				"id": "timetable",
 				"translations": {
 					"en": "Timetable",
 					"ru": "Timetable"
@@ -3069,7 +3069,7 @@
 				}
 			},
 			{
-				"id": "Timetable",
+				"id": "timetable",
 				"translations": {
 					"en": "Timetable",
 					"ru": "Timetable"
@@ -3186,7 +3186,7 @@
 				}
 			},
 			{
-				"id": "Timetable",
+				"id": "timetable",
 				"translations": {
 					"en": "Timetable",
 					"ru": "Timetable"
@@ -3209,7 +3209,7 @@
 				}
 			},
 			{
-				"id": "Timetable",
+				"id": "timetable",
 				"translations": {
 					"en": "Timetable",
 					"ru": "Timetable"
@@ -3233,6 +3233,128 @@
 					"ru": "Easy Twitter Widget"
 				}
 			}		
+		],
+		"pathter": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},	
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}
+		],
+		"fabrique": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}	
+		],
+		"hypernova": [
+			{
+				"id": "woocommerce-fairystyle",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+				}
+			},  
+			{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			},
+			{
+				"id": "motopress-slider",
+				"translations": {
+					"en": "MotoPress Slider",
+					"ru": "Слайдер MotoPress"
+				}
+			},
+			{
+				"id": "facebook-main",
+				"translations": {
+					"en": "Facebook Page Like Widget",
+					"ru": "Facebook Page Like Widget"
+				}
+			},
+			{
+				"id": "tiny-grid",
+				"translations": {
+					"en": "Tiny Grid",
+					"ru": "Tiny Grid"
+				}
+			}
+		],
+		"delicia": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "restaurant-menu",
+				"translations": {
+					"en": "Restaurant Menu",
+					"ru": "Restaurant Menu"
+				}
+			}
+		],
+		"roox": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}	
 		]
 	}
 }

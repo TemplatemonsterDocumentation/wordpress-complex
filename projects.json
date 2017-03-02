@@ -1094,6 +1094,37 @@
 		"title": "magnifio",
 		"titleCaption": "WORDPRESS THEME",
 		"author": ""
+	},
+	"pathter": {
+		"textLogo": "",
+		"title": "PATHTER",
+		"titleCaption": "WORDPRESS THEME",
+		"author": ""
+	},
+	"fabrique": {
+		"textLogo": "",
+		"title": "Fabrique",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"hypernova": {
+		"textLogo": "",
+		"title": "Hypernova",
+		"titleCaption": "WooCommerce theme",
+		"author": ""
+	},
+	"delicia": {
+		"textLogo": "",
+		"title": "Delicia",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"roox": {
+		"textLogo": "",
+		"title": "roox",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
 	}
+
 
 }

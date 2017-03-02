@@ -3728,6 +3728,154 @@
 					"ru": "Layout Options"
 				}
 			}
+		],
+		"pathter": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"fabrique": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"delicia": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"roox": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
 		]
 	}	
 }
