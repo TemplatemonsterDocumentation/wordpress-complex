@@ -1124,6 +1124,36 @@
 		"title": "roox",
 		"titleCaption": "Wordpress Theme",
 		"author": ""
+	},
+	"upbuild": {
+		"textLogo": "",
+		"title": "UPBUILD",
+		"titleCaption": "",
+		"author": ""
+	},
+	"shopable": {
+		"textLogo": "",
+		"title": "SHOPABLE",
+		"titleCaption": "WooCommerce Theme",
+		"author": ""
+	},
+	"malcolmy": {
+		"textLogo": "",
+		"title": "Malcolmy",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"itideas": {
+		"textLogo": "",
+		"title": "ITIDEAS",
+		"titleCaption": "",
+		"author": ""
+	},
+	"medkit": {
+		"textLogo": "",
+		"title": "MEDKIT",
+		"titleCaption": "WooCommerce Theme",
+		"author": ""
 	}
 
 

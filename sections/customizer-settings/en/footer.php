@@ -10,7 +10,7 @@
 
 <h5>Footer Styles</h5>
 <ul class="marked-list">
-<?php if ($project != 'smarthouse' && $project != 'knox' && $project != 'emanuella' && $project != 'glossylook' && $project != 'calio' && $project != 'guillermo' && $project != 'delicia') { ?>
+<?php if ($project != 'smarthouse' && $project != 'knox' && $project != 'emanuella' && $project != 'glossylook' && $project != 'calio' && $project != 'guillermo' && $project != 'delicia' && $project != 'itideas') { ?>
     <li>
         <dl class="inline-term">
             <dt>Logo upload</dt>
@@ -71,7 +71,7 @@
         </dl>
     </li>
 
-<?php if ($project != 'monstroid_2' && $project != 'emanuella' && $project != 'calio' && $project != 'guillermo') { ?>
+<?php if ($project != 'monstroid_2' && $project != 'emanuella' && $project != 'calio' && $project != 'guillermo' && $project != 'itideas') { ?>
     <li>
         <dl class="inline-term">
             <dt>Footer Widgets Area color</dt>
@@ -138,7 +138,7 @@
 <?php } ?> 
 
 
-<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia') { ?>
+<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas') { ?>
     <li>
         <dl class="inline-term">
             <dt>Footer Widgets Area Background color</dt>
@@ -173,7 +173,7 @@
     </li>
 <?php } ?>  
 
-<?php if ($project == 'glossylook') { ?>
+<?php if ($project == 'glossylook' or $project == 'malcolmy') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show footer widgets area</dt>
@@ -246,7 +246,7 @@
     </li>
 <?php } ?>  
 
-<?php if ($project == 'transit' or $project == 'takeandspend' or $project == 'quickwind' or $project == 'speedyfix' or $project == 'legalalien' or $project == 'magnifio') { ?>
+<?php if ($project == 'transit' or $project == 'takeandspend' or $project == 'quickwind' or $project == 'speedyfix' or $project == 'legalalien' or $project == 'magnifio' or $project == 'malcolmy') { ?>
     <li>
         <dl class="inline-term">
             <dt>Background Image</dt>
@@ -282,7 +282,7 @@
 <?php } ?>  
 </ul>
 
-<?php if ($project == 'glossylook' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia') { ?>
+<?php if ($project == 'glossylook' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas') { ?>
 <h5>Footer Contact Block</h5>
 <ul class="marked-list">
     <li>

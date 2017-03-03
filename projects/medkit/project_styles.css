@@ -1,0 +1,115 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700,400,bold,);
+h1 {
+  font-family: "Montserrat", sans-serif;
+  color: #3e3a48; }
+
+h2 {
+  color: #000; }
+
+h3 {
+  color: #000; }
+
+h4 {
+  color: #000; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 66% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 100% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #50d7dc;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/medkit/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_toggle span {
+  background-color: #fff; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #fff; }
+
+.rd-mobilepanel_title {
+  font-size: 64px;
+  font-weight: 550;
+  top: 213px;
+  width: 400px;
+  line-height: 45px;
+  font-style: bold;
+  left: 156px;
+  letter-spacing: 8px; }
+
+.tm-title-caption {
+  font-size: 20px;
+  top: 264px;
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  line-height: 36px;
+  width: 430px;
+  left: 186px; }
+
+@media (max-width: 1439px) {
+  .rd-mobilepanel_title {
+    top: 113px;
+    left: 100px; }
+
+  .tm-title-caption {
+    top: 168px;
+    left: 127px; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 93px;
+    left: 97px; }
+
+  .tm-title-caption {
+    top: 148px;
+    width: 173px;
+    left: 99px; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 104px;
+    left: 98px; }
+
+  .tm-title-caption {
+    top: 180px;
+    width: 269px;
+    left: 117px; } }
+.rd-mobilemenu .logo {
+  background-color: #fff; }
+
+.rd-mobilemenu_ul ul a.focus {
+  color: #50d7dc; }
+
+.toTop {
+  background-color: #50d7dc; }
+  .toTop:hover {
+    background: #a5eaed; }
+
+.bold_text {
+  font-weight: 600; }
+
+.it_text {
+  font-weight: 400;
+  font-style: italic; }

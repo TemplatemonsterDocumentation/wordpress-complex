@@ -259,4 +259,36 @@
         </dl>
     </li>
 </ul>
+
+<h3>Insert Cherry Shortcode</h3>
+
+<p> Cherry Search plugin contains a shortcode that allows to create unique forms of search with different settings. It makes changing of visual looks and settings of the search requests easy. </p>
+
+<figure class="img-polaroid">
+    <img src="projects/<?php echo $project;?>/img/images/shortcodes.png">
+</figure>
+
+<h5> How to apply a shortcode </h5>
+
+<ul class="marked-list">
+    <li>    
+        <dl class="inline-term">
+            <dt>    
+                Go to admin panel and open "Pages" tab.
+            </dt>
+        </dl>
+    </li>
+    <li>    
+        <dl class="inline-term">
+            <dt>    
+                Tap on Cherry Shortcodes button.
+            </dt>
+        </dl>
+    </li>
+</ul>
+
+<figure class="img-polaroid">
+    <img src="projects/<?php echo $project;?>/img/images/shortcodes2.png">
+</figure>
+
 <?php } ?>
