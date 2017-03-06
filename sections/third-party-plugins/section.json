@@ -3402,6 +3402,23 @@
 				}
 			}
 		],
+		"hotelbliss": [
+			{
+				"id": "restaurant-menu",
+				"translations": {
+					"en": "Restaurant Menu",
+					"ru": "Restaurant Menu"
+				}
+			},
+			{
+				"id": "hotel-booking",
+				"translations": {
+					"en": "Hotel Booking",
+					"ru": "Hotel booking"
+				
+				}
+			}
+		],
 		"shopable": [
 			{
 				"id": "woocommerce-fairystyle",

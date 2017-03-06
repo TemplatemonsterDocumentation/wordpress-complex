@@ -87,7 +87,7 @@
 
 <?php } ?>
 
-<?php if ($project == 'mechanna' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'happylearning' or $project == 'arlo'  or $project == 'callum' or $project == 'roadway' or $project == 'gutenberg' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza' or $project == 'monstroid_2' or $project == 'room4pics' or $project == 'niceinn' or $project == 'helpinghand' or $project == 'takeandspend' or $project == 'calio' or $project == 'callista' or $project == 'quickwind' or $project == 'sportware' or $project == 'speedyfix' or $project == 'presstige' or $project == 'guillermo' or $project == 'sabbatico' or $project == 'legalalien' or $project == 'magnifio' or $project == 'fabrique' or $project == 'hypernova' or $project == 'delicia' or $project == 'upbuild' or $project == 'shopable' or $project == 'malcolmy' or $project == 'itideas' or $project == 'medkit') { ?>
+<?php if ($project == 'mechanna' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'happylearning' or $project == 'arlo'  or $project == 'callum' or $project == 'roadway' or $project == 'gutenberg' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza' or $project == 'monstroid_2' or $project == 'room4pics' or $project == 'niceinn' or $project == 'helpinghand' or $project == 'takeandspend' or $project == 'calio' or $project == 'callista' or $project == 'quickwind' or $project == 'sportware' or $project == 'speedyfix' or $project == 'presstige' or $project == 'guillermo' or $project == 'sabbatico' or $project == 'legalalien' or $project == 'magnifio' or $project == 'fabrique' or $project == 'hypernova' or $project == 'delicia' or $project == 'upbuild' or $project == 'shopable' or $project == 'malcolmy' or $project == 'itideas' or $project == 'medkit' or $project == 'cupojava' or $project == 'hotelbliss') { ?>
 
     <li>
         <dl class="inline-term">
@@ -100,7 +100,7 @@
 
 <?php } ?>
 
-<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'glossylook' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas') { ?>
+<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'glossylook' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas' or $project == 'hotelbliss') { ?>
 
     <li>
         <dl class="inline-term">
@@ -392,6 +392,29 @@
     </li>
 
 <?php } ?>
+
+<?php if ( $project == 'hotelbliss') { ?>
+
+    <li>
+        <dl class="inline-term">
+            <dt>Main menu</dt>
+            <dd>
+                Main menu font settings
+             </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Buttons   </dt>
+            <dd>
+                Font settings for buttons
+             </dd>
+        </dl>
+    </li>
+<?php } ?>
+
+
+
 </ul>
 
 <h5>Font Family</h5>

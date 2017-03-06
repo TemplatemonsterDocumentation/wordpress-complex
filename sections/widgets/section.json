@@ -24784,12 +24784,6 @@
 				"ru": "Посты"
 			}
 		},  {
-			"id": "custom-post-widget-ver3",
-			"translations": {
-				"en": "Custom posts",
-				"ru": "Посты"
-			}
-		},  {
 			"id": "instagram-widget",
 			"translations": {
 				"en": "Instagram",
@@ -24911,12 +24905,6 @@
 				"en": " Custom Menu ",
 				"ru": " Custom Menu "
 			}		
-		},  {
-			"id": "custom-post-widget-ver3",
-			"translations": {
-				"en": "Custom posts",
-				"ru": "Посты"
-			}
 		},  {
 			"id": "custom-post-widget-ver3",
 			"translations": {
@@ -25310,12 +25298,6 @@
 				"ru": "Посты"
 			}
 		},  {
-			"id": "custom-post-widget-ver3",
-			"translations": {
-				"en": "Custom posts",
-				"ru": "Посты"
-			}
-		},  {
 			"id": "instagram-widget",
 			"translations": {
 				"en": "Instagram",
@@ -25475,12 +25457,6 @@
 				"ru": "Посты"
 			}
 		},  {
-			"id": "custom-post-widget-ver3",
-			"translations": {
-				"en": "Custom posts",
-				"ru": "Посты"
-			}
-		},  {
 			"id": "instagram-widget",
 			"translations": {
 				"en": "Instagram",
@@ -25601,12 +25577,6 @@
 				"en": " Custom Menu ",
 				"ru": " Custom Menu "
 			}		
-		},  {
-			"id": "custom-post-widget-ver3",
-			"translations": {
-				"en": "Custom posts",
-				"ru": "Посты"
-			}
 		},  {
 			"id": "custom-post-widget-ver3",
 			"translations": {
@@ -25988,12 +25958,6 @@
 				"ru": "Посты"
 			}
 		},  {
-			"id": "custom-post-widget-ver3",
-			"translations": {
-				"en": "Custom posts",
-				"ru": "Посты"
-			}
-		}, {
 			"id": "instagram-widget",
 			"translations": {
 				"en": "Instagram",
@@ -26132,12 +26096,6 @@
 				"en": " Custom Menu ",
 				"ru": " Custom Menu "
 			}		
-		},  {
-			"id": "custom-post-widget-ver3",
-			"translations": {
-				"en": "Custom posts",
-				"ru": "Посты"
-			}
 		},  {
 			"id": "custom-post-widget-ver3",
 			"translations": {
@@ -26462,6 +26420,320 @@
 			"translations": {
 				"en": "Taxonomy Tiles",
 				"ru": "Виджет категорий и тегов"
+			}
+		}],
+		"hotelbliss": [{
+			"id": "about",
+			"translations": {
+				"en": "About HotelBliss",
+				"ru": "О HotelBliss"
+			}
+		},	{
+			"id": "about-author-widget",
+			"translations": {
+				"en": "About Author",
+				"ru": "Информация об авторе"
+			}
+		},  {
+			"id": "banner",
+			"translations": {
+				"en": "Banner",
+				"ru": "Баннер"
+			}
+		},  {
+			"id": "archives",
+			"translations": {
+				"en": "Archives",
+				"ru": "Архив"
+			}
+		},  {
+			"id": "calendar",
+			"translations": {
+				"en": "Calendar",
+				"ru": "Календарь"
+			}
+		},	{
+			"id": "carousel-slider-widget",
+			"translations": {
+				"en": "Carousel Slider",
+				"ru": "Слайдер карусель"
+			}
+		}, {
+			"id": "featured-post-block",
+			"translations": {
+				"en": "Featured Post Block",
+				"ru": "Выбраные посты"
+			}
+		}, {
+			"id": "categories",
+			"translations": {
+				"en": "Categories",
+				"ru": "Категории"
+			}
+		},	{
+			"id": "contact-information",
+			"translations": {
+				"en": "Contact Information",
+				"ru": "Контактная информация"
+			}
+		},	{
+			"id": "custom-menu",
+			"translations": {
+				"en": " Custom Menu ",
+				"ru": " Custom Menu "
+			}		
+		},  {
+			"id": "custom-post-widget-ver3",
+			"translations": {
+				"en": "Custom posts",
+				"ru": "Посты"
+			}
+		},  {
+			"id": "downloads-list",
+			"translations": {
+				"en": "Downloads list",
+				"ru": "Список загрузок"
+			}
+		},	{
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {
+			"id": "image-grid-widget",
+			"translations": {
+				"en": "Image Grid",
+				"ru": "Сетка изображений"
+			}
+		}, 	{
+			"id": "news-smart-box",
+			"translations": {
+				"en": "News Smart box",
+				"ru": "Новостная лента"
+			}
+		},  {	
+			"id": "meta",
+			"translations": {
+				"en": "Meta",
+				"ru": "Meta"
+			}
+		},  {
+			"id": "recent-posts-widget",
+			"translations": {
+				"en": "Recent Posts",
+				"ru": "Новые публикации "
+			}
+		}, {
+			"id": "recent-comments-widget",
+			"translations": {
+				"en": "Recent Comments",
+				"ru": "Новые комментарии "
+			}
+		},	{
+			"id": "restaurant-menu-cart",
+			"translations": {
+				"en": "Restauranrt Menu Cart",
+				"ru": "Restauranrt Menu Cart"
+			}
+		},	{
+			"id": "restaurant-menu-categories",
+			"translations": {
+				"en": "Restauranrt Menu Categories",
+				"ru": "Restauranrt Menu Categories"
+			}
+		},	{
+			"id": "restaurant-menu-items",
+			"translations": {
+				"en": "Restauranrt Menu Items",
+				"ru": "Restauranrt Menu Items"
+			}
+		},	{
+			"id": "room-types",
+			"translations": {
+				"en": "Room types",
+				"ru": "Тип номера"
+			}
+		},	{
+			"id": "tag-cloud",
+			"translations": {
+				"en": "Tag Cloud",
+				"ru": "Облако тегов"
+			}
+		},	{			
+			"id": "pages",
+			"translations": {
+				"en": "Pages",
+				"ru": "Страницы"
+			}
+		},  {
+			"id": "rss",
+			"translations": {
+				"en": "RSS",
+				"ru": "RSS"
+			}
+		},  {
+			"id": "text",
+			"translations": {
+				"en": "Text",
+				"ru": "Текст"
+			}
+		},	{
+			"id": "taxonomy-tiles-widget",
+			"translations": {
+				"en": "Taxonomy Tiles",
+				"ru": "Виджет категорий и тегов"
+			}
+		},	{
+			"id": "playlist-slider",
+			"translations": {
+				"en": "Playlist Slider",
+				"ru": "Playlist Slider"
+			}
+		},  {
+			"id": "search",
+			"translations": {
+				"en": "Search",
+				"ru": "Поиск"
+			}
+		},	{
+			"id": "search-availability",
+			"translations": {
+				"en": "Search Availability",
+				"ru": "Search Availability"
+			}
+		},	{
+			"id": "smart-slider-widget",
+			"translations": {
+				"en": "Smart Slider",
+				"ru": "Умный слайдер"
+			}
+		}, {			
+			"id": "subscribe-and-follow-widget",
+			"translations": {
+				"en": "Subscribe and Follow",
+				"ru": "Подписка и Follow"
+			}
+		}],
+		"cupojava": [{
+			"id": "about",
+			"translations": {
+				"en": "About Cup o'Java",
+				"ru": "О Cup o'Java"
+			}
+		},	{
+			"id": "about-author-widget",
+			"translations": {
+				"en": "About Author",
+				"ru": "Информация об авторе"
+			}
+		},  {
+			"id": "banner",
+			"translations": {
+				"en": "Banner",
+				"ru": "Баннер"
+			}
+		},  {
+			"id": "archives",
+			"translations": {
+				"en": "Archives",
+				"ru": "Архив"
+			}
+		},  {
+			"id": "calendar",
+			"translations": {
+				"en": "Calendar",
+				"ru": "Календарь"
+			}
+		},	{
+			"id": "carousel-slider-widget",
+			"translations": {
+				"en": "Carousel Slider",
+				"ru": "Слайдер карусель"
+			}
+		}, {
+			"id": "categories",
+			"translations": {
+				"en": "Categories",
+				"ru": "Категории"
+			}
+		},	{
+			"id": "custom-menu",
+			"translations": {
+				"en": " Custom Menu ",
+				"ru": " Custom Menu "
+			}		
+		},  {
+			"id": "custom-post-widget-ver3",
+			"translations": {
+				"en": "Custom posts",
+				"ru": "Посты"
+			}
+		},  {
+			"id": "instagram-widget",
+			"translations": {
+				"en": "Instagram",
+				"ru": "Instagram"
+			}
+		},  {	
+			"id": "meta",
+			"translations": {
+				"en": "Meta",
+				"ru": "Meta"
+			}
+		},  {
+			"id": "recent-posts-widget",
+			"translations": {
+				"en": "Recent Posts",
+				"ru": "Новые публикации "
+			}
+		}, {
+			"id": "recent-comments-widget",
+			"translations": {
+				"en": "Recent Comments",
+				"ru": "Новые комментарии "
+			}
+		},	{
+			"id": "tag-cloud",
+			"translations": {
+				"en": "Tag Cloud",
+				"ru": "Облако тегов"
+			}
+		},	{			
+			"id": "pages",
+			"translations": {
+				"en": "Pages",
+				"ru": "Страницы"
+			}
+		},  {
+			"id": "rss",
+			"translations": {
+				"en": "RSS",
+				"ru": "RSS"
+			}
+		},  {
+			"id": "text",
+			"translations": {
+				"en": "Text",
+				"ru": "Текст"
+			}
+		},	{
+			"id": "taxonomy-tiles-widget",
+			"translations": {
+				"en": "Taxonomy Tiles",
+				"ru": "Виджет категорий и тегов"
+			}
+		},  {
+			"id": "search",
+			"translations": {
+				"en": "Search",
+				"ru": "Поиск"
+			}
+		}, {			
+			"id": "subscribe-and-follow-widget",
+			"translations": {
+				"en": "Subscribe and Follow",
+				"ru": "Подписка и Follow"
 			}
 		}]
 	}
