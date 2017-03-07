@@ -1178,6 +1178,24 @@
 		"title": "petInn",
 		"titleCaption": "",
 		"author": ""
+	},
+	"justizia": {
+		"textLogo": "",
+		"title": "Justizia",
+		"titleCaption": "",
+		"author": ""
+	},
+	"presidential": {
+		"textLogo": "",
+		"title": "PRESIDENTIAL",
+		"titleCaption": "Wordpress theme",
+		"author": ""
+	},
+	"propello": {
+		"textLogo": "",
+		"title": "PROPELLO",
+		"titleCaption": "",
+		"author": ""
 	}
 
 
