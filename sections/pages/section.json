@@ -1571,6 +1571,24 @@
 				}
 			}
 		],
+		"navyblue": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"petinn": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
 		"rufusvr": [
 			{
 				"id": "page-settings-blog-theme",

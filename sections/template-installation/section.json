@@ -4222,6 +4222,54 @@
 				}
 			}
 		],
+		"navyblue": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"petinn": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
 		"rufusvr": [
 			{
 				"id": "engine-installation",

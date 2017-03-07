@@ -3419,6 +3419,29 @@
 				}
 			}
 		],
+		"navyblue": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter",
+					"ru": "Easy Twitter"
+				}
+			},
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			},
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			}
+		],
 		"shopable": [
 			{
 				"id": "woocommerce-fairystyle",
