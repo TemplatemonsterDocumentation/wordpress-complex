@@ -13,7 +13,7 @@
 
 <ul class="marked-list">
 
-<?php if ($project !='room4pics' && $project !='rufusvr' && $project !='helpinghand' && $project !='wheelmasters' && $project !='greenfield' && $project !='stargaze' && $project !='vitahealth' && $project !='petcenter' && $project !='armyacademy' && $project !='universalcare' && $project !='sabbatico' && $project !='upbuild' && $project !='cupojava' && $project != 'petinn' && $project != 'presidential'){ ?>
+<?php if ($project !='room4pics' && $project !='rufusvr' && $project !='helpinghand' && $project !='wheelmasters' && $project !='greenfield' && $project !='stargaze' && $project !='vitahealth' && $project !='petcenter' && $project !='armyacademy' && $project !='universalcare' && $project !='sabbatico' && $project !='upbuild' && $project !='cupojava' && $project != 'petinn' && $project != 'presidential' && $project != 'healthrehub' && $project != 'itsagirl'){ ?>
     <li class="hide">
         <dl class="inline-term">
             <dt>Show social links in header</dt>
@@ -36,7 +36,7 @@
 <?php } ?>
 
     
-<?php if ($project =='room4pics' or $project =='rufusvr' or $project =='bayden' or $project =='petstore' or $project =='expenditorious' or $project =='trudeau' or $project =='niceinn' or $project =='uptime99' or $project =='helpinghand' or $project =='preservarium' or $project =='wheelmasters' or $project =='talkingbusiness' or $project =='greenfield' or $project =='stargaze' or $project =='vitahealth' or $project =='emanuella' or $project =='newborn' or $project =='heavyhandlers' or $project =='glossylook' or $project =='metadental' or $project =='petcenter' or $project =='takeandspend' or $project =='safescrap' or $project =='calio' or $project =='armyacademy' or $project =='universalcare' or $project =='callista' or $project =='quickwind' or $project =='sportware' or $project =='stellarlook' or $project =='speedyfix' or $project == 'presstige' or $project == 'guillermo' or $project == 'sabbatico' or $project == 'exhibita' or $project == 'yoozie' or $project == 'legalalien' or $project == 'magnifio' or $project == 'pathter' or $project == 'fabrique' or $project == 'hypernova' or $project == 'delicia' or $project == 'roox' or $project =='upbuild' or $project == 'shopable' or $project == 'malcolmy' or $project == 'itideas' or $project == 'medkit' or $project == 'cupojava' or $project == 'hotelbliss' or $project == 'petinn' or $project == 'navyblue' or $project == 'justizia' or $project == 'presidential' or $project == 'propello'){ ?>
+<?php if ($project =='room4pics' or $project =='rufusvr' or $project =='bayden' or $project =='petstore' or $project =='expenditorious' or $project =='trudeau' or $project =='niceinn' or $project =='uptime99' or $project =='helpinghand' or $project =='preservarium' or $project =='wheelmasters' or $project =='talkingbusiness' or $project =='greenfield' or $project =='stargaze' or $project =='vitahealth' or $project =='emanuella' or $project =='newborn' or $project =='heavyhandlers' or $project =='glossylook' or $project =='metadental' or $project =='petcenter' or $project =='takeandspend' or $project =='safescrap' or $project =='calio' or $project =='armyacademy' or $project =='universalcare' or $project =='callista' or $project =='quickwind' or $project =='sportware' or $project =='stellarlook' or $project =='speedyfix' or $project == 'presstige' or $project == 'guillermo' or $project == 'sabbatico' or $project == 'exhibita' or $project == 'yoozie' or $project == 'legalalien' or $project == 'magnifio' or $project == 'pathter' or $project == 'fabrique' or $project == 'hypernova' or $project == 'delicia' or $project == 'roox' or $project =='upbuild' or $project == 'shopable' or $project == 'malcolmy' or $project == 'itideas' or $project == 'medkit' or $project == 'cupojava' or $project == 'hotelbliss' or $project == 'petinn' or $project == 'navyblue' or $project == 'justizia' or $project == 'presidential' or $project == 'propello' or $project == 'blazingnews' or $project == 'healthrehub' or $project == 'itsagirl'){ ?>
     <li>
         <dl class="inline-term">
             <dt>Show social links in footer </dt>
@@ -47,7 +47,7 @@
     </li>
 <?php } ?>
 
-<?php if ($project =='room4pics' or $project =='rufusvr' or $project =='vitahealth' or $project =='petcenter' or $project =='armyacademy' or $project =='universalcare' or $project == 'sabbatico' or $project == 'presidential'){ ?>
+<?php if ($project =='room4pics' or $project =='rufusvr' or $project =='vitahealth' or $project =='petcenter' or $project =='armyacademy' or $project =='universalcare' or $project == 'sabbatico' or $project == 'presidential' or $project == 'healthrehub' or $project == 'itsagirl'){ ?>
     <li class="hide">
         <dl class="inline-term">
             <dt>Show social links in top panel</dt>
@@ -59,7 +59,7 @@
 <?php } ?>
 
 
-<?php if ($project !='stylefactory' && $project !='hardwire' && $project !='thedailypost' && $project !='streamline' && $project !='cityherald' && $project !='viralnews' && $project !='petstore'  && $project !='trudeau' && $project !='preservarium' && $project !='talkingbusiness' && $project !='exhibita' && $project !='yoozie' && $project != 'pathter' && $project != 'navyblue'){ ?>
+<?php if ($project !='stylefactory' && $project !='hardwire' && $project !='thedailypost' && $project !='streamline' && $project !='cityherald' && $project !='viralnews' && $project !='petstore'  && $project !='trudeau' && $project !='preservarium' && $project !='talkingbusiness' && $project !='exhibita' && $project !='yoozie' && $project != 'pathter' && $project != 'navyblue' && $project != 'blazingnews'){ ?>
     <li>
         <dl class="inline-term">
             <dt>Add social sharing to blog posts  </dt>

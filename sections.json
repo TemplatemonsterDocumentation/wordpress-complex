@@ -2457,5 +2457,45 @@
 		"tm-builder",
 		"tm-builder-modules",
 		"extras"
+	],
+	"blazingnews": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"extras"
+	],
+	"healthrehub": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"itsagirl": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
 	]
 }

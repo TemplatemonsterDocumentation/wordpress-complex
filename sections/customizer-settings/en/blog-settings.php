@@ -9,7 +9,7 @@
 -->
 
 <ul class="marked-list">
-<?php if ($project == 'bitnews' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews') { ?>
+<?php if ($project == 'bitnews' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews' or $project == 'blazingnews') { ?>
     <li>
         <dl class="inline-term">
             <dt>Title</dt>
@@ -121,7 +121,7 @@
             </dd>
         </dl>
     </li>
-<?php if ($project == 'thedailypost' or $project == 'viralnews') { ?>
+<?php if ($project == 'thedailypost' or $project == 'viralnews' or $project == 'blazingnews') { ?>
 
     <li>
         <dl class="inline-term">

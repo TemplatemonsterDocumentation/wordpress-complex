@@ -1196,6 +1196,30 @@
 		"title": "PROPELLO",
 		"titleCaption": "",
 		"author": ""
+	},
+	"blazingnews": {
+		"textLogo": "",
+		"title": "BLAZINGNEWS",
+		"titleCaption": "Wordpress Theme",
+		"author": ""
+	},
+	"healthrehub": {
+		"textLogo": "",
+		"title": "HealthREHAB",
+		"titleCaption": "Wordpress theme",
+		"author": ""
+	},
+	"itsagirl": {
+		"textLogo": "",
+		"title": "ItsaGirl",
+		"titleCaption": "",
+		"author": ""
+	},
+	"bookit": {
+		"textLogo": "",
+		"title": "BookIt",
+		"titleCaption": "",
+		"author": ""
 	}
 
 

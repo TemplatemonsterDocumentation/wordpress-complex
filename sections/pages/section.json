@@ -1616,6 +1616,33 @@
 				}
 			}
 		],
+		"blazingnews": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"healthrehub": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
+		"itsagirl": [
+			{
+				"id": "page-settings-blog-theme",
+				"translations": {
+					"en": "Page settings",
+					"ru": "Настройки страницы"
+				}
+			}
+		],
 		"rufusvr": [
 			{
 				"id": "page-settings-blog-theme",

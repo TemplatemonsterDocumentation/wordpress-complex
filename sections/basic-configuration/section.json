@@ -2954,6 +2954,54 @@
 					"ru": "Начало работы с Customizer"
 				}
 			}
+		],
+		"blazingnews": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"healthrehub": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"itsagirl": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
 		]
 	}
 }

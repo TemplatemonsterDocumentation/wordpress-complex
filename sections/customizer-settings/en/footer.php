@@ -115,7 +115,7 @@
 <?php } ?> 
 
 
-<?php if ($project == 'newborn' or $project == 'heavyhandlers' or $project == 'petcenter' or $project == 'universalcare' or $project == 'stellarlook' or $project == 'presstige' or $project == 'sabbatico' or $project == 'yoozie' or $project == 'roox' or $project == 'justizia' or $project == 'presidential') { ?>
+<?php if ($project == 'newborn' or $project == 'heavyhandlers' or $project == 'petcenter' or $project == 'universalcare' or $project == 'stellarlook' or $project == 'presstige' or $project == 'sabbatico' or $project == 'yoozie' or $project == 'roox' or $project == 'justizia' or $project == 'presidential' or $project == 'healthrehub' or $project == 'itsagirl') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show footer widgets area</dt>

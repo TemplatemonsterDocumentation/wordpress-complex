@@ -3465,6 +3465,61 @@
 				}
 			}
 		],
+		"blazingnews": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter",
+					"ru": "Easy Twitter"
+				}
+			},
+			{
+				"id": "facebook-main",
+				"translations": {
+					"en": "Facebook Page Like Widget",
+					"ru": "Facebook Page Like Widget"
+				}
+			}
+		],
+		"healthrehub": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}
+		],
+		"itsagirl": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			},
+			{
+				"id": "w3-total-cache",
+				"translations": {
+					"en": "W3 Total Cache",
+					"ru": "W3 Total Cache"
+				}
+			}
+		],
 		"shopable": [
 			{
 				"id": "woocommerce-fairystyle",
