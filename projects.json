@@ -1217,8 +1217,14 @@
 	},
 	"bookit": {
 		"textLogo": "",
-		"title": "BookIt",
+		"title": "BOOKIT",
 		"titleCaption": "",
+		"author": ""
+	},
+	"thelegalway": {
+		"textLogo": "",
+		"title": "The Legal Way",
+		"titleCaption": "Wordpress theme",
 		"author": ""
 	}
 

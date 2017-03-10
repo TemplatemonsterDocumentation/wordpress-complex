@@ -10,7 +10,7 @@
 
 <h5>Footer Styles</h5>
 <ul class="marked-list">
-<?php if ($project != 'smarthouse' && $project != 'knox' && $project != 'emanuella' && $project != 'glossylook' && $project != 'calio' && $project != 'guillermo' && $project != 'delicia' && $project != 'itideas' && $project != 'hotelbliss' && $project != 'propello') { ?>
+<?php if ($project != 'smarthouse' && $project != 'knox' && $project != 'emanuella' && $project != 'glossylook' && $project != 'calio' && $project != 'guillermo' && $project != 'delicia' && $project != 'itideas' && $project != 'hotelbliss' && $project != 'propello' && $project != 'bookit' && $project != 'thelegalway') { ?>
     <li>
         <dl class="inline-term">
             <dt>Logo upload</dt>
@@ -71,7 +71,7 @@
         </dl>
     </li>
 
-<?php if ($project != 'monstroid_2' && $project != 'emanuella' && $project != 'calio' && $project != 'guillermo' && $project != 'itideas' && $project != 'hotelbliss' && $project != 'propello') { ?>
+<?php if ($project != 'monstroid_2' && $project != 'emanuella' && $project != 'calio' && $project != 'guillermo' && $project != 'itideas' && $project != 'hotelbliss' && $project != 'propello' && $project != 'bookit') { ?>
     <li>
         <dl class="inline-term">
             <dt>Footer Widgets Area color</dt>
@@ -138,7 +138,7 @@
 <?php } ?> 
 
 
-<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas' or $project == 'hotelbliss' or $project == 'propello') { ?>
+<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas' or $project == 'hotelbliss' or $project == 'propello' or $project == 'bookit' or $project == 'thelegalway') { ?>
     <li>
         <dl class="inline-term">
             <dt>Footer Widgets Area Background color</dt>
@@ -282,7 +282,7 @@
 <?php } ?>  
 </ul>
 
-<?php if ($project == 'glossylook' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas' or $project == 'hotelbliss' or $project == 'propello') { ?>
+<?php if ($project == 'glossylook' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas' or $project == 'hotelbliss' or $project == 'propello' or $project == 'bookit' or $project == 'thelegalway') { ?>
 <h5>Footer Contact Block</h5>
 <ul class="marked-list">
     <li>

@@ -87,7 +87,7 @@
 
 <?php } ?>
 
-<?php if ($project == 'mechanna' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'happylearning' or $project == 'arlo'  or $project == 'callum' or $project == 'roadway' or $project == 'gutenberg' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza' or $project == 'monstroid_2' or $project == 'room4pics' or $project == 'niceinn' or $project == 'helpinghand' or $project == 'takeandspend' or $project == 'calio' or $project == 'callista' or $project == 'quickwind' or $project == 'sportware' or $project == 'speedyfix' or $project == 'presstige' or $project == 'guillermo' or $project == 'sabbatico' or $project == 'legalalien' or $project == 'magnifio' or $project == 'fabrique' or $project == 'hypernova' or $project == 'delicia' or $project == 'upbuild' or $project == 'shopable' or $project == 'malcolmy' or $project == 'itideas' or $project == 'medkit' or $project == 'cupojava' or $project == 'hotelbliss' or $project == 'petinn' or $project == 'justizia' or $project == 'presidential' or $project == 'propello' or $project == 'blazingnews') { ?>
+<?php if ($project == 'mechanna' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'addison' or $project == 'happylearning' or $project == 'arlo'  or $project == 'callum' or $project == 'roadway' or $project == 'gutenberg' or $project == 'gaze' or $project == 'techlab' or $project == 'transit' or $project == 'jericho' or $project == 'chefplaza' or $project == 'monstroid_2' or $project == 'room4pics' or $project == 'niceinn' or $project == 'helpinghand' or $project == 'takeandspend' or $project == 'calio' or $project == 'callista' or $project == 'quickwind' or $project == 'sportware' or $project == 'speedyfix' or $project == 'presstige' or $project == 'guillermo' or $project == 'sabbatico' or $project == 'legalalien' or $project == 'magnifio' or $project == 'fabrique' or $project == 'hypernova' or $project == 'delicia' or $project == 'upbuild' or $project == 'shopable' or $project == 'malcolmy' or $project == 'itideas' or $project == 'medkit' or $project == 'cupojava' or $project == 'hotelbliss' or $project == 'petinn' or $project == 'justizia' or $project == 'presidential' or $project == 'propello' or $project == 'blazingnews' or $project == 'bookit' or $project == 'thelegalway') { ?>
 
     <li>
         <dl class="inline-term">
@@ -100,7 +100,7 @@
 
 <?php } ?>
 
-<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'glossylook' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas' or $project == 'hotelbliss' or $project == 'propello') { ?>
+<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'glossylook' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas' or $project == 'hotelbliss' or $project == 'propello' or $project == 'bookit' or $project == 'thelegalway') { ?>
 
     <li>
         <dl class="inline-term">

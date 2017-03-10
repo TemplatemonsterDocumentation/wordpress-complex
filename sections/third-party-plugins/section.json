@@ -3520,6 +3520,32 @@
 				}
 			}
 		],
+		"bookit": [
+			{
+				"id": "restaurant-menu",
+				"translations": {
+					"en": "Restaurant Menu",
+					"ru": "Restaurant Menu"
+				}
+			},
+			{
+				"id": "hotel-booking",
+				"translations": {
+					"en": "Hotel Booking",
+					"ru": "Hotel booking"
+				
+				}
+			}
+		],
+		"thelegalway": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			}
+		],
 		"shopable": [
 			{
 				"id": "woocommerce-fairystyle",
