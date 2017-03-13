@@ -3546,6 +3546,15 @@
 				}
 			}
 		],
+		"dollarex": [
+			{
+				"id": "timeline-master",
+				"translations": {
+					"en": "TM Timeline",
+					"ru": "TM Timeline"
+				}
+			}
+		],
 		"shopable": [
 			{
 				"id": "woocommerce-fairystyle",

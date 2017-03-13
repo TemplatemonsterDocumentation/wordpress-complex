@@ -2525,5 +2525,45 @@
 		"tm-builder",
 		"tm-builder-modules",
 		"extras"
+	],
+	"dollarex": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"bloomie": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"scapex": [
+		"introduction",
+		"template-installation",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
 	]
 }

@@ -1,0 +1,100 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,700,bold,);
+h1 {
+  font-family: "Poppins", sans-serif;
+  color: #10162c; }
+
+h4 {
+  color: #000; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 62% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 48% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #fafafa;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/dollarex/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_toggle span {
+  background-color: #0bb4ce; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #0bb4ce; }
+
+.rd-mobilepanel_title {
+  font-size: 60px;
+  font-weight: 600;
+  top: 237px;
+  left: 118px;
+  width: 500px;
+  letter-spacing: 5px; }
+
+.tm-title-caption {
+  font-size: 23px !important;
+  top: 308px;
+  font-family: "Poppins", sans-serif;
+  color: #0bb4ce;
+  line-height: 36px;
+  width: 481px;
+  left: 123px;
+  letter-spacing: 3px; }
+
+@media (max-width: 1439px) {
+  .rd-mobilepanel_title {
+    top: 74px; }
+
+  .tm-title-caption {
+    top: 140px;
+    left: 104px; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 93px;
+    left: 97px; }
+
+  .tm-title-caption {
+    top: 180px;
+    width: 198px; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 104px;
+    left: 98px; }
+
+  .tm-title-caption {
+    top: 180px;
+    width: 269px;
+    left: 117px; } }
+.rd-mobilemenu .logo {
+  background-color: #fff; }
+
+.rd-mobilemenu_ul ul a.focus {
+  color: #0bb4ce; }
+
+.toTop {
+  background-color: #0bb4ce;
+  color: #ffffff; }
+  .toTop:hover {
+    background-color: #c7c7c7; }
