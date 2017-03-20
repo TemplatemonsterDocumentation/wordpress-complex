@@ -9,6 +9,28 @@
 -->
 
 <ul class="marked-list">
+<?php if ($project == 'tripi') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Sticky label type</dt>
+            <dd>
+                Text label, font icon, text with icon
+            </dd>
+        </dl>
+           
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Icon for sticky post</dt>
+            <dd>
+                Select the specific icon for sticky post
+            </dd>
+        </dl>
+           
+    </li>
+<?php } ?>
+
+<ul class="marked-list">
 <?php if ($project == 'bitnews' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews' or $project == 'blazingnews') { ?>
     <li>
         <dl class="inline-term">
@@ -35,6 +57,7 @@
     </div>
     
 <?php } ?>
+<?php if ($project != 'tripi') { ?>
     <li>
         <dl class="inline-term">
             <dt>Featured Post Label</dt>
@@ -43,6 +66,8 @@
             </dd>
         </dl>
     </li>
+<?php } ?>
+
     <li>
         <dl class="inline-term">
             <dt>Post content</dt>

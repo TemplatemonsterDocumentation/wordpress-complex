@@ -7,7 +7,7 @@
     <figure class="img-polaroid">
         <img src="img/blog-theme/installation/add-theme-dashboard.png" alt="" >
     </figure>
-<?php if ($project == 'bellaina') { ?>
+<?php if ($project == 'bellaina' or $project == 'contractor') { ?>
     <h4>Note: You should install the theme on a clean WordPress, and there should be no users except for Admin. </h4>
 <?php } ?>
     <p>Navigate to the <strong>Appearance > Themes</strong> section at the admin panel of the site and open  the  <strong>"theme"</strong> folder</p>
@@ -23,7 +23,7 @@
         <img src="img/blog-theme/installation/add-theme-success.png" alt="" >
     </figure>
 
-<?php if ($project != 'monstroid_2') { ?>
+<?php if ($project != 'monstroid_2' && $project != 'woostroid') { ?>
     <h4>Plugin Installation</h4>
 
     <p>After you install and activate the theme, you may need to install some additional plugins:</p>
@@ -54,7 +54,7 @@
     <p>
         Then you'll be redirected to the plugins activation page. Select "Return to the Dashboard" when it is completed.
     </p>
-<?php if ($project == 'bellaina' or $project == 'homepro' or $project == 'gutenberg' or $project == 'addison' or  $project == 'ecolife' or  $project == 'duval' or  $project == 'builderry' or  $project == 'legacy' or $project == 'neuton' or  $project == 'focussity' or $project == 'focussity') { ?>
+<?php if ($project == 'bellaina' or $project == 'homepro' or $project == 'gutenberg' or $project == 'addison' or  $project == 'ecolife' or  $project == 'duval' or  $project == 'builderry' or  $project == 'legacy' or $project == 'neuton' or  $project == 'focussity' or $project == 'focussity' or $project == 'contractor') { ?>
 <h4>Automatic Installation Using Cherry Installer </h4>
 <p>
     The theme comes with a pre installed Cherry Data Importer plugin that will help you upload the information quickly and easily.
@@ -63,7 +63,7 @@
 <?php } ?>
 
 
-<?php if ($project != 'bellaina' && $project != 'homepro' && $project != 'gutenberg' && $project != 'addison' &&  $project != 'ecolife' &&  $project != 'duval' &&  $project != 'builderry' &&  $project != 'legacy' &&  $project != 'neuton' &&  $project != 'focussity') { ?> 
+<?php if ($project != 'bellaina' && $project != 'homepro' && $project != 'gutenberg' && $project != 'addison' &&  $project != 'ecolife' &&  $project != 'duval' &&  $project != 'builderry' &&  $project != 'legacy' &&  $project != 'neuton' &&  $project != 'focussity' &&  $project != 'focussity' &&  $project != 'contractor') { ?> 
     <h4>In order to install theme sample data</h4>
 
     <p>Navigate to <strong>Tools > Import</strong></p>

@@ -1,5 +1,5 @@
 
-<?php if ($project == 'monstroid_2') { ?>
+<?php if ($project == 'monstroid_2' or $project == 'woostroid') { ?>
 <h3>TM Wizard Installation</h3>
 
     <p>

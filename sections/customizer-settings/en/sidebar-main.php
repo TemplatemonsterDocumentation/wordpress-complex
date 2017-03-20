@@ -49,7 +49,7 @@
     </ul>
 <?php } ?>
 
-<?php if ($project == 'uptime99' or $project == 'heavyhandlers' or $project == 'callista') { ?>
+<?php if ($project == 'uptime99' or $project == 'heavyhandlers' or $project == 'callista' or $project == 'therapino') { ?>
     <ul class="marked-list">
         <li>
             <dl class="inline-term">

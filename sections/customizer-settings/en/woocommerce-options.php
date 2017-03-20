@@ -7,10 +7,12 @@
     <img src="img/tm/customizer/.png" alt="" >
 </figure>
 -->
+
+<?php if ($project != 'woostroid') { ?>
 <p>
     Single product slider layout
 </p>
-<?php if ($project != 'stylefactory') { ?>
+<?php if ($project != 'stylefactory' && $project != 'woostroid') { ?>
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
@@ -40,7 +42,10 @@
     </li>
 </ul>
 <?php } ?> 
+<?php } ?> 
 
+
+<?php if ($project != 'woostroid') { ?>
 <h5>Woocommerce colors</h5>
 <ul class="marked-list">
 <?php if ($project == 'stylefactory') { ?>
@@ -93,4 +98,134 @@
         </dl>
     </li>
 
+<?php } ?> 
+
 <?php } ?>    
+
+<?php if ($project == 'woostroid') { ?>
+
+<h5>Woocommerce badge</h5>
+
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>Onsale badge color</dt>
+            <dd>
+                Select Color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Onsale badge bg</dt>
+            <dd>
+                Select Color
+            </dd>
+        </dl>
+    </li>
+</ul>
+
+
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>Featured badge color</dt>
+            <dd>
+                Select Color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Featured badge bg</dt>
+            <dd>
+                Select Color
+            </dd>
+        </dl>
+    </li>
+</ul>
+
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>New badge color</dt>
+            <dd>
+                Select Color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>In stock badge color</dt>
+            <dd>
+                Select Color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Out of stock badge color</dt>
+            <dd>
+                Select Color
+            </dd>
+        </dl>
+    </li>
+</ul>
+
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>VC vendors badge color</dt>
+            <dd>
+                Select Color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>VC vendors badge background</dt>
+            <dd>
+                Select Color
+            </dd>
+        </dl>
+    </li>
+</ul>
+
+
+<h5>Woocommerce page options</h5>
+
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>Enable single product carousel on the thumbnails</dt>
+            <dd>
+                Enable/disable single product carousel on the thumbnails
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>WooCommerce loop columns desktop</dt>
+            <dd>
+                Select the quantity of columns: 2 columns, 3 columns, 4 columns or 6 columns (4 with a sidebar)
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>WooCommerce loop columns laptop</dt>
+            <dd>
+                Select the quantity of columns: 2 columns, 3 columns, 4 columns
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>WooCommerce loop columns mobile</dt>
+            <dd>
+                Select the quantity of columns: 2 columns, 3 columns, 4 columns
+            </dd>
+        </dl>
+    </li>
+</ul>
+<?php } ?>   

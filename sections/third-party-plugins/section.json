@@ -3555,6 +3555,260 @@
 				}
 			}
 		],
+		"woostroid": [
+			
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+			
+				}
+			},
+			{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+
+				}
+			},
+			{
+				"id": "woocommerce-currency-switcher",
+				"translations": {
+					"en": "WooCommerce Currency Switcher",
+					"ru": "WooCommerce Currency Switcher"
+
+				}
+			},
+			{
+				"id": "motopress-slider",
+				"translations": {
+					"en": "MotoPress Slider",
+					"ru": "Слайдер MotoPress"
+				}
+			},
+			{
+				"id": "timeline-master",
+				"translations": {
+					"en": "TM Timeline",
+					"ru": "TM Timeline"
+				}
+			}
+		],
+		"therapino": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "wp-user-avatar",
+				"translations": {
+					"en": "WP User Avatar",
+					"ru": "WP User Avatar"
+				}
+			}
+		],
+		"bigventure": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			}
+		],
+		"spello": [
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}
+		],
+		"shieldon": [
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			}
+		],
+		"espero": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+
+
+				}
+			}
+		],
+		"interra": [
+			{
+				"id": "w3-total-cache",
+				"translations": {
+					"en": "W3 Total Cache",
+					"ru": "W3 Total Cache"
+				}
+			}
+		],
+		"highridgecenter": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+
+
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}
+
+		],
+		"globalhealth": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+
+
+				}
+			},
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}
+
+		],
+		"confevent": [
+			{
+				"id": "timeline-master",
+				"translations": {
+					"en": "TM Timeline",
+					"ru": "TM Timeline"
+				}
+			}
+
+		],
+		"buyinto": [
+			{
+				"id": "w3-total-cache",
+				"translations": {
+					"en": "W3 Total Cache",
+					"ru": "W3 Total Cache"
+				}
+			}
+
+		],
+		"smallsteps": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+
+
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}
+
+		],
+		"mikebridge": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+
+
+				}
+			},
+			{
+				"id": "twitter",
+				"translations": {
+					"en": "Easy Twitter Widget",
+					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}
+
+		],
+		"procount": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+
+
+				}
+			},
+			{
+				"id": "ecwid_cart",
+				"translations": {
+					"en": "Ecwid Shopping Cart",
+					"ru": "Ecwid Shopping Cart"
+				}
+			}
+
+		],
 		"shopable": [
 			{
 				"id": "woocommerce-fairystyle",

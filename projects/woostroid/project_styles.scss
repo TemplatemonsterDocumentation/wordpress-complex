@@ -1,0 +1,145 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #ffffff;
+$primary-color-second: #ff6a28;
+$primary-color-dark: #303030;
+$header-background-image: '../../projects/woostroid/img/header-bg.png';
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin:500');
+$primary-font-family:  'Libre Franklin', sans-serif;
+
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri:500');
+$secondary-font-family: 'Hind Siliguri', sans-serif;
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: $primary-color;
+
+}
+h2 {
+	color: $primary-color-dark;
+	//font-family: $primary-font-family;
+}
+h3 {
+	color: $primary-color-dark;
+	//font-family: $primary-font-family;
+}
+h4 {
+	color: $primary-color-dark;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 66% top;
+			@media (max-width: 1440px) {
+    			background-position: 100% bottom;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color-second;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+
+.video-wrap { padding-bottom: 100px; }
+
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}
+}
+
+ .rd-mobilepanel_title {
+	font-size: 42px;
+	font-weight: 400;
+	top:201px;
+	color: $primary-color;
+}
+
+.tm-title-caption {
+	font-size: 20px;
+	top: 274px;
+	font-family: $secondary-font-family;
+    color: $primary-color;
+    line-height: 36px;
+    width: 385px;
+}
+
+.rd-mobilemenu {
+	.logo{
+		background-color: $primary-color;
+	}
+}
+
+.rd-mobilemenu_ul{
+	ul{
+		a{
+			&.focus{
+				color: #ff6a28;
+			}
+		}
+	}
+}  
+
+.toTop {
+	background-color: #ff6a28;
+	&:hover {
+    	background: lighten($primary-color-second, 2%);
+	}
+}
+.bold_text{
+font-weight: 600;
+}
+.it_text{
+font-weight: 400;
+font-style: italic;
+}
+
+@media (max-width: 1600px) and (min-width: 1440px){
+	.rd-mobilepanel_title {
+		top:56px;
+		left: 37px;
+	}
+	.tm-title-caption {	
+		width:259px;
+		top:125px;
+		text-align: left;
+		left: 37px;
+	}
+}
+@media (max-width: 1800px) and (min-width: 1601px){
+	.rd-mobilepanel_title {
+
+	}
+	.tm-title-caption {	
+		width:300px;
+
+	}
+}

@@ -1,0 +1,101 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat,bold,);
+h1 {
+  font-family: "Montserrat", sans-serif;
+  color: #fff; }
+
+h4 {
+  color: #000; }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 62% top; }
+  @media (max-width: 1440px) {
+    .page-content.active .rd-mobilepanel {
+      background-position: 48% bottom; } }
+
+.rd-mobilepanel {
+  background-color: #171717;
+  background-position: right top;
+  -webkit-transition-property: height;
+          transition-property: height;
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s;
+  -webkit-transition-timing-function: linear;
+          transition-timing-function: linear;
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s; }
+  @media (max-width: 1440px) {
+    .rd-mobilepanel {
+      background-size: 60% auto;
+      background-position: 600px bottom; } }
+
+[data-section="introduction"] .rd-mobilepanel {
+  background-image: url("../../projects/trickleup/img/header-bg.png");
+  height: 600px; }
+  [data-section="introduction"] .rd-mobilepanel.fixed {
+    height: 56px;
+    background-image: none;
+    -webkit-transition: top 1s ease-out 0.5s;
+            transition: top 1s ease-out 0.5s; }
+
+body:not([data-section="introduction"]) .tm-title-caption {
+  display: none; }
+
+.rd-mobilepanel_toggle span {
+  background-color: #f9b707; }
+  .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
+    background-color: #f9b707; }
+
+.rd-mobilepanel_title {
+  font-size: 60px;
+  font-weight: 600;
+  top: 237px;
+  left: 78px;
+  width: 500px; }
+
+.tm-title-caption {
+  font-size: 23px !important;
+  font-weight: 100;
+  top: 308px;
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  line-height: 36px;
+  width: 481px;
+  left: 115px;
+  font-style: light; }
+
+@media (max-width: 1439px) {
+  .rd-mobilepanel_title {
+    top: 74px;
+    left: 85px; }
+
+  .tm-title-caption {
+    top: 140px;
+    left: 85px; } }
+@media (max-width: 1600px) and (min-width: 1440px) {
+  .rd-mobilepanel_title {
+    top: 93px;
+    left: 97px; }
+
+  .tm-title-caption {
+    top: 180px;
+    width: 198px; } }
+@media (max-width: 1800px) and (min-width: 1601px) {
+  .rd-mobilepanel_title {
+    top: 104px;
+    left: 98px; }
+
+  .tm-title-caption {
+    top: 180px;
+    width: 269px;
+    left: 117px; } }
+.rd-mobilemenu .logo {
+  background-color: #171717; }
+
+.rd-mobilemenu_ul ul a.focus {
+  color: #f9b707; }
+
+.toTop {
+  background-color: #f9b707;
+  color: #ffffff; }
+  .toTop:hover {
+    background-color: black; }
