@@ -3,7 +3,7 @@
 This plugin is designed to help you add testimonials and reviews to the site and customize their look in accordance with the design of the website. Testimonials can also be added via shortcodes to any page or post. 
 </p>
 <figure class="img-polaroid">
-    <img src="projects/<?php echo $project;?>/img/images/frontend.png">
+    <img src="projects/<?php echo $project;?>/img/images/testimonial.png">
 </figure>
 
 <h3>Adding new testimonials</h3>

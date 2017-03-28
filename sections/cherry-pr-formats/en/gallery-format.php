@@ -58,17 +58,3 @@ Gallery post format allows you to display images as a slider.
 <figure class="img-polaroid">
     <img src="projects/<?php echo $project;?>/img/images/image-format-frontend.png">
 </figure>
-
-<p>
-    You can also switch between two layout types to change the look of the project in accordance with your preferences. 
-</p>
-
-<h3>Masonry layout</h3>
-<figure class="img-polaroid">
-    <img src="projects/<?php echo $project;?>/img/images/masonry.png">
-</figure>
-
-<h3>Grid layout</h3>
-<figure class="img-polaroid">
-    <img src="projects/<?php echo $project;?>/img/images/grid.png">
-</figure>

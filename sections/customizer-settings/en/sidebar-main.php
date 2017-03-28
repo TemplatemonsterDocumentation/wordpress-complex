@@ -61,3 +61,16 @@
         </li>
     </ul>
 <?php } ?>
+
+ <ul class="marked-list">
+<?php if ($project == 'fashionia') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Enable sidebar on front page</dt>
+            <dd>
+                Enable/Disable sidebar on front page
+            </dd>
+        </dl>
+    </li>
+<?php } ?>
+</ul>

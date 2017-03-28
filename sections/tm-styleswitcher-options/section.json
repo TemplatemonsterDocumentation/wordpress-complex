@@ -1,0 +1,11 @@
+{
+	"id": "tm-styleswitcher-options",
+	"translations": {
+		"en": "Plugin Options",
+		"ru": "Опции Плагина"
+	},
+	"articles": {
+		"tm-styleswitcher": []
+	}
+}
+

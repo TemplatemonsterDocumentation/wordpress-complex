@@ -30360,6 +30360,2196 @@
 					"ru": "Contact Form 7"
 				}
 			}
+		],
+		"fashionia": [
+			{
+				"id": "accordion",
+				"translations": {
+					"en": "Accordion",
+					"ru": "Accordion"
+				}
+			},
+			{
+				"id": "audio",
+				"translations": {
+					"en": "Audio",
+					"ru": "Audio"
+				}
+			},
+			{
+				"id": "bar-counter",
+				"translations": {
+					"en": "Bar Counters",
+					"ru": "Bar Counters"
+				}
+			},
+			{
+				"id": "blog",
+				"translations": {
+					"en": "Blog",
+					"ru": "Blog"
+				}
+			},
+			{
+				"id": "blurb",
+				"translations": {
+					"en": "Blurb",
+					"ru": "Blurb"
+				}
+			},
+			{
+				"id": "booked-appointments",
+				"translations": {
+					"en": "Booked Appointments",
+					"ru": "Booked Appointments"
+				}
+			},
+			{
+				"id": "booked-calendar",
+				"translations": {
+					"en": "Booked Calendar",
+					"ru": "Booked Calendar"
+				}
+			},
+			{
+				"id": "booked-login",
+				"translations": {
+					"en": "Booked Login",
+					"ru": "Booked Login"
+				}
+			},
+			{
+				"id": "button",
+				"translations": {
+					"en": "Button",
+					"ru": "Button"
+				}
+			},
+			{
+				"id": "call-to-action",
+				"translations": {
+					"en": "Call to Action",
+					"ru": "Call to Action"
+				}
+			},
+			{
+				"id": "circle-counter",
+				"translations": {
+					"en": "Circle Counter",
+					"ru": "Circle Counter"
+				}
+			},
+			{
+				"id": "contact-form",
+				"translations": {
+					"en": "Contact Form",
+					"ru": "Contact Form"
+				}
+			},
+			{
+				"id": "countdown-timer",
+				"translations": {
+					"en": "Countdown Timer",
+					"ru": "Countdown Timer"
+				}
+			},
+			{
+				"id": "divider",
+				"translations": {
+					"en": "Divider",
+					"ru": "Divider"
+				}
+			},
+			{
+				"id": "image",
+				"translations": {
+					"en": "Image",
+					"ru": "Image"
+				}
+			},
+			{
+				"id": "map",
+				"translations": {
+					"en": "Map",
+					"ru": "Map"
+				}
+			},
+			{
+				"id": "number-count",
+				"translations": {
+					"en": "Number Counter",
+					"ru": "Number Counter"
+				}
+			},
+			{
+				"id": "person",
+				"translations": {
+					"en": "Person",
+					"ru": "Person"
+				}
+			},
+			{
+				"id": "post-slider",
+				"translations": {
+					"en": "Post Slider",
+					"ru": "Post Slider"
+				}
+			},
+			{
+				"id": "pricing-tables",
+				"translations": {
+					"en": "Pricing Tables",
+					"ru": "Pricing Tables"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Sidebar"
+				}
+			},
+			{
+				"id": "slider",
+				"translations": {
+					"en": "Slider",
+					"ru": "Slider"
+				}
+			},
+			{
+				"id": "sm-follow",
+				"translations": {
+					"en": "Social Media Follow",
+					"ru": "Social Media Follow"
+				}
+			},
+			{
+				"id": "tabs-module",
+				"translations": {
+					"en": "Tabs",
+					"ru": "Tabs"
+				}
+			},
+			{
+				"id": "testimonials",
+				"translations": {
+					"en": "Testimonials",
+					"ru": "Testimonials"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Projects",
+					"ru": "Projects"
+				}
+			},
+			{
+				"id": "text",
+				"translations": {
+					"en": "Text",
+					"ru": "Text"
+				}
+			},
+			{
+				"id": "toggle",
+				"translations": {
+					"en": "Toggle",
+					"ru": "Toggle"
+				}
+			},
+			{
+				"id": "video",
+				"translations": {
+					"en": "Video",
+					"ru": "Video"
+				}
+			},
+			{
+				"id": "video-slider",
+				"translations": {
+					"en": "Video Slider",
+					"ru": "Video Slider"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact Form 7",
+					"ru": "Contact Form 7"
+				}
+			}
+		],
+		"apollo": [
+			{
+				"id": "accordion",
+				"translations": {
+					"en": "Accordion",
+					"ru": "Accordion"
+				}
+			},
+			{
+				"id": "audio",
+				"translations": {
+					"en": "Audio",
+					"ru": "Audio"
+				}
+			},
+			{
+				"id": "bar-counter",
+				"translations": {
+					"en": "Bar Counters",
+					"ru": "Bar Counters"
+				}
+			},
+			{
+				"id": "blog",
+				"translations": {
+					"en": "Blog",
+					"ru": "Blog"
+				}
+			},
+			{
+				"id": "blurb",
+				"translations": {
+					"en": "Blurb",
+					"ru": "Blurb"
+				}
+			},
+			{
+				"id": "booked-appointments",
+				"translations": {
+					"en": "Booked Appointments",
+					"ru": "Booked Appointments"
+				}
+			},
+			{
+				"id": "booked-calendar",
+				"translations": {
+					"en": "Booked Calendar",
+					"ru": "Booked Calendar"
+				}
+			},
+			{
+				"id": "booked-login",
+				"translations": {
+					"en": "Booked Login",
+					"ru": "Booked Login"
+				}
+			},
+			{
+				"id": "button",
+				"translations": {
+					"en": "Button",
+					"ru": "Button"
+				}
+			},
+			{
+				"id": "call-to-action",
+				"translations": {
+					"en": "Call to Action",
+					"ru": "Call to Action"
+				}
+			},
+			{
+				"id": "circle-counter",
+				"translations": {
+					"en": "Circle Counter",
+					"ru": "Circle Counter"
+				}
+			},
+			{
+				"id": "contact-form",
+				"translations": {
+					"en": "Contact Form",
+					"ru": "Contact Form"
+				}
+			},
+			{
+				"id": "countdown-timer",
+				"translations": {
+					"en": "Countdown Timer",
+					"ru": "Countdown Timer"
+				}
+			},
+			{
+				"id": "divider",
+				"translations": {
+					"en": "Divider",
+					"ru": "Divider"
+				}
+			},
+			{
+				"id": "image",
+				"translations": {
+					"en": "Image",
+					"ru": "Image"
+				}
+			},
+			{
+				"id": "map",
+				"translations": {
+					"en": "Map",
+					"ru": "Map"
+				}
+			},
+			{
+				"id": "number-count",
+				"translations": {
+					"en": "Number Counter",
+					"ru": "Number Counter"
+				}
+			},
+			{
+				"id": "person",
+				"translations": {
+					"en": "Person",
+					"ru": "Person"
+				}
+			},
+			{
+				"id": "post-slider",
+				"translations": {
+					"en": "Post Slider",
+					"ru": "Post Slider"
+				}
+			},
+			{
+				"id": "pricing-tables",
+				"translations": {
+					"en": "Pricing Tables",
+					"ru": "Pricing Tables"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Sidebar"
+				}
+			},
+			{
+				"id": "slider",
+				"translations": {
+					"en": "Slider",
+					"ru": "Slider"
+				}
+			},
+			{
+				"id": "sm-follow",
+				"translations": {
+					"en": "Social Media Follow",
+					"ru": "Social Media Follow"
+				}
+			},
+			{
+				"id": "tabs-module",
+				"translations": {
+					"en": "Tabs",
+					"ru": "Tabs"
+				}
+			},
+			{
+				"id": "testimonials",
+				"translations": {
+					"en": "Testimonials",
+					"ru": "Testimonials"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Projects",
+					"ru": "Projects"
+				}
+			},
+			{
+				"id": "text",
+				"translations": {
+					"en": "Text",
+					"ru": "Text"
+				}
+			},
+			{
+				"id": "toggle",
+				"translations": {
+					"en": "Toggle",
+					"ru": "Toggle"
+				}
+			},
+			{
+				"id": "video",
+				"translations": {
+					"en": "Video",
+					"ru": "Video"
+				}
+			},
+			{
+				"id": "video-slider",
+				"translations": {
+					"en": "Video Slider",
+					"ru": "Video Slider"
+				}
+			},
+			{
+				"id": "contact-form-7",
+				"translations": {
+					"en": "Contact Form 7",
+					"ru": "Contact Form 7"
+				}
+			}
+		],
+		"dynasty": [
+			{
+				"id": "accordion",
+				"translations": {
+					"en": "Accordion",
+					"ru": "Accordion"
+				}
+			},
+			{
+				"id": "audio",
+				"translations": {
+					"en": "Audio",
+					"ru": "Audio"
+				}
+			},
+			{
+				"id": "bar-counter",
+				"translations": {
+					"en": "Bar Counters",
+					"ru": "Bar Counters"
+				}
+			},
+			{
+				"id": "blog",
+				"translations": {
+					"en": "Blog",
+					"ru": "Blog"
+				}
+			},
+			{
+				"id": "blurb",
+				"translations": {
+					"en": "Blurb",
+					"ru": "Blurb"
+				}
+			},
+			{
+				"id": "booked-appointments",
+				"translations": {
+					"en": "Booked Appointments",
+					"ru": "Booked Appointments"
+				}
+			},
+			{
+				"id": "booked-calendar",
+				"translations": {
+					"en": "Booked Calendar",
+					"ru": "Booked Calendar"
+				}
+			},
+			{
+				"id": "booked-login",
+				"translations": {
+					"en": "Booked Login",
+					"ru": "Booked Login"
+				}
+			},
+			{
+				"id": "button",
+				"translations": {
+					"en": "Button",
+					"ru": "Button"
+				}
+			},
+			{
+				"id": "call-to-action",
+				"translations": {
+					"en": "Call to Action",
+					"ru": "Call to Action"
+				}
+			},
+			{
+				"id": "circle-counter",
+				"translations": {
+					"en": "Circle Counter",
+					"ru": "Circle Counter"
+				}
+			},
+			{
+				"id": "contact-form",
+				"translations": {
+					"en": "Contact Form",
+					"ru": "Contact Form"
+				}
+			},
+			{
+				"id": "countdown-timer",
+				"translations": {
+					"en": "Countdown Timer",
+					"ru": "Countdown Timer"
+				}
+			},
+			{
+				"id": "divider",
+				"translations": {
+					"en": "Divider",
+					"ru": "Divider"
+				}
+			},
+			{
+				"id": "image",
+				"translations": {
+					"en": "Image",
+					"ru": "Image"
+				}
+			},
+			{
+				"id": "map",
+				"translations": {
+					"en": "Map",
+					"ru": "Map"
+				}
+			},
+			{
+				"id": "number-count",
+				"translations": {
+					"en": "Number Counter",
+					"ru": "Number Counter"
+				}
+			},
+			{
+				"id": "person",
+				"translations": {
+					"en": "Person",
+					"ru": "Person"
+				}
+			},
+			{
+				"id": "post-slider",
+				"translations": {
+					"en": "Post Slider",
+					"ru": "Post Slider"
+				}
+			},
+			{
+				"id": "pricing-tables",
+				"translations": {
+					"en": "Pricing Tables",
+					"ru": "Pricing Tables"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Sidebar"
+				}
+			},
+			{
+				"id": "slider",
+				"translations": {
+					"en": "Slider",
+					"ru": "Slider"
+				}
+			},
+			{
+				"id": "sm-follow",
+				"translations": {
+					"en": "Social Media Follow",
+					"ru": "Social Media Follow"
+				}
+			},
+			{
+				"id": "tabs-module",
+				"translations": {
+					"en": "Tabs",
+					"ru": "Tabs"
+				}
+			},
+			{
+				"id": "testimonials",
+				"translations": {
+					"en": "Testimonials",
+					"ru": "Testimonials"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Projects",
+					"ru": "Projects"
+				}
+			},
+			{
+				"id": "text",
+				"translations": {
+					"en": "Text",
+					"ru": "Text"
+				}
+			},
+			{
+				"id": "toggle",
+				"translations": {
+					"en": "Toggle",
+					"ru": "Toggle"
+				}
+			},
+			{
+				"id": "video",
+				"translations": {
+					"en": "Video",
+					"ru": "Video"
+				}
+			},
+			{
+				"id": "video-slider",
+				"translations": {
+					"en": "Video Slider",
+					"ru": "Video Slider"
+				}
+			},
+			{
+				"id": "contact-form-7",
+				"translations": {
+					"en": "Contact Form 7",
+					"ru": "Contact Form 7"
+				}
+			}
+		],
+		"marigold": [
+			{
+				"id": "accordion",
+				"translations": {
+					"en": "Accordion",
+					"ru": "Accordion"
+				}
+			},
+			{
+				"id": "audio",
+				"translations": {
+					"en": "Audio",
+					"ru": "Audio"
+				}
+			},
+			{
+				"id": "bar-counter",
+				"translations": {
+					"en": "Bar Counters",
+					"ru": "Bar Counters"
+				}
+			},
+			{
+				"id": "blog",
+				"translations": {
+					"en": "Blog",
+					"ru": "Blog"
+				}
+			},
+			{
+				"id": "blurb",
+				"translations": {
+					"en": "Blurb",
+					"ru": "Blurb"
+				}
+			},
+			{
+				"id": "booked-appointments",
+				"translations": {
+					"en": "Booked Appointments",
+					"ru": "Booked Appointments"
+				}
+			},
+			{
+				"id": "booked-calendar",
+				"translations": {
+					"en": "Booked Calendar",
+					"ru": "Booked Calendar"
+				}
+			},
+			{
+				"id": "booked-login",
+				"translations": {
+					"en": "Booked Login",
+					"ru": "Booked Login"
+				}
+			},
+			{
+				"id": "button",
+				"translations": {
+					"en": "Button",
+					"ru": "Button"
+				}
+			},
+			{
+				"id": "call-to-action",
+				"translations": {
+					"en": "Call to Action",
+					"ru": "Call to Action"
+				}
+			},
+			{
+				"id": "circle-counter",
+				"translations": {
+					"en": "Circle Counter",
+					"ru": "Circle Counter"
+				}
+			},
+			{
+				"id": "contact-form",
+				"translations": {
+					"en": "Contact Form",
+					"ru": "Contact Form"
+				}
+			},
+			{
+				"id": "countdown-timer",
+				"translations": {
+					"en": "Countdown Timer",
+					"ru": "Countdown Timer"
+				}
+			},
+			{
+				"id": "divider",
+				"translations": {
+					"en": "Divider",
+					"ru": "Divider"
+				}
+			},
+			{
+				"id": "image",
+				"translations": {
+					"en": "Image",
+					"ru": "Image"
+				}
+			},
+			{
+				"id": "map",
+				"translations": {
+					"en": "Map",
+					"ru": "Map"
+				}
+			},
+			{
+				"id": "number-count",
+				"translations": {
+					"en": "Number Counter",
+					"ru": "Number Counter"
+				}
+			},
+			{
+				"id": "person",
+				"translations": {
+					"en": "Person",
+					"ru": "Person"
+				}
+			},
+			{
+				"id": "post-slider",
+				"translations": {
+					"en": "Post Slider",
+					"ru": "Post Slider"
+				}
+			},
+			{
+				"id": "pricing-tables",
+				"translations": {
+					"en": "Pricing Tables",
+					"ru": "Pricing Tables"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Sidebar"
+				}
+			},
+			{
+				"id": "slider",
+				"translations": {
+					"en": "Slider",
+					"ru": "Slider"
+				}
+			},
+			{
+				"id": "sm-follow",
+				"translations": {
+					"en": "Social Media Follow",
+					"ru": "Social Media Follow"
+				}
+			},
+			{
+				"id": "tabs-module",
+				"translations": {
+					"en": "Tabs",
+					"ru": "Tabs"
+				}
+			},
+			{
+				"id": "testimonials",
+				"translations": {
+					"en": "Testimonials",
+					"ru": "Testimonials"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Projects",
+					"ru": "Projects"
+				}
+			},
+			{
+				"id": "text",
+				"translations": {
+					"en": "Text",
+					"ru": "Text"
+				}
+			},
+			{
+				"id": "toggle",
+				"translations": {
+					"en": "Toggle",
+					"ru": "Toggle"
+				}
+			},
+			{
+				"id": "video",
+				"translations": {
+					"en": "Video",
+					"ru": "Video"
+				}
+			},
+			{
+				"id": "video-slider",
+				"translations": {
+					"en": "Video Slider",
+					"ru": "Video Slider"
+				}
+			},
+			{
+				"id": "contact-form-7",
+				"translations": {
+					"en": "Contact Form 7",
+					"ru": "Contact Form 7"
+				}
+			}
+		],
+		"myfamilydoctor": [
+			{
+				"id": "accordion",
+				"translations": {
+					"en": "Accordion",
+					"ru": "Accordion"
+				}
+			},
+			{
+				"id": "audio",
+				"translations": {
+					"en": "Audio",
+					"ru": "Audio"
+				}
+			},
+			{
+				"id": "bar-counter",
+				"translations": {
+					"en": "Bar Counters",
+					"ru": "Bar Counters"
+				}
+			},
+			{
+				"id": "blog",
+				"translations": {
+					"en": "Blog",
+					"ru": "Blog"
+				}
+			},
+			{
+				"id": "blurb",
+				"translations": {
+					"en": "Blurb",
+					"ru": "Blurb"
+				}
+			},
+			{
+				"id": "booked-appointments",
+				"translations": {
+					"en": "Booked Appointments",
+					"ru": "Booked Appointments"
+				}
+			},
+			{
+				"id": "booked-calendar",
+				"translations": {
+					"en": "Booked Calendar",
+					"ru": "Booked Calendar"
+				}
+			},
+			{
+				"id": "booked-login",
+				"translations": {
+					"en": "Booked Login",
+					"ru": "Booked Login"
+				}
+			},
+			{
+				"id": "button",
+				"translations": {
+					"en": "Button",
+					"ru": "Button"
+				}
+			},
+			{
+				"id": "call-to-action",
+				"translations": {
+					"en": "Call to Action",
+					"ru": "Call to Action"
+				}
+			},
+			{
+				"id": "circle-counter",
+				"translations": {
+					"en": "Circle Counter",
+					"ru": "Circle Counter"
+				}
+			},
+			{
+				"id": "contact-form",
+				"translations": {
+					"en": "Contact Form",
+					"ru": "Contact Form"
+				}
+			},
+			{
+				"id": "countdown-timer",
+				"translations": {
+					"en": "Countdown Timer",
+					"ru": "Countdown Timer"
+				}
+			},
+			{
+				"id": "divider",
+				"translations": {
+					"en": "Divider",
+					"ru": "Divider"
+				}
+			},
+			{
+				"id": "image",
+				"translations": {
+					"en": "Image",
+					"ru": "Image"
+				}
+			},
+			{
+				"id": "map",
+				"translations": {
+					"en": "Map",
+					"ru": "Map"
+				}
+			},
+			{
+				"id": "number-count",
+				"translations": {
+					"en": "Number Counter",
+					"ru": "Number Counter"
+				}
+			},
+			{
+				"id": "person",
+				"translations": {
+					"en": "Person",
+					"ru": "Person"
+				}
+			},
+			{
+				"id": "post-slider",
+				"translations": {
+					"en": "Post Slider",
+					"ru": "Post Slider"
+				}
+			},
+			{
+				"id": "pricing-tables",
+				"translations": {
+					"en": "Pricing Tables",
+					"ru": "Pricing Tables"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Sidebar"
+				}
+			},
+			{
+				"id": "slider",
+				"translations": {
+					"en": "Slider",
+					"ru": "Slider"
+				}
+			},
+			{
+				"id": "sm-follow",
+				"translations": {
+					"en": "Social Media Follow",
+					"ru": "Social Media Follow"
+				}
+			},
+			{
+				"id": "tabs-module",
+				"translations": {
+					"en": "Tabs",
+					"ru": "Tabs"
+				}
+			},
+			{
+				"id": "testimonials",
+				"translations": {
+					"en": "Testimonials",
+					"ru": "Testimonials"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Projects",
+					"ru": "Projects"
+				}
+			},
+			{
+				"id": "text",
+				"translations": {
+					"en": "Text",
+					"ru": "Text"
+				}
+			},
+			{
+				"id": "toggle",
+				"translations": {
+					"en": "Toggle",
+					"ru": "Toggle"
+				}
+			},
+			{
+				"id": "video",
+				"translations": {
+					"en": "Video",
+					"ru": "Video"
+				}
+			},
+			{
+				"id": "video-slider",
+				"translations": {
+					"en": "Video Slider",
+					"ru": "Video Slider"
+				}
+			},
+			{
+				"id": "contact-form-7",
+				"translations": {
+					"en": "Contact Form 7",
+					"ru": "Contact Form 7"
+				}
+			}
+		],
+		"jonbin": [
+			{
+				"id": "accordion",
+				"translations": {
+					"en": "Accordion",
+					"ru": "Accordion"
+				}
+			},
+			{
+				"id": "audio",
+				"translations": {
+					"en": "Audio",
+					"ru": "Audio"
+				}
+			},
+			{
+				"id": "bar-counter",
+				"translations": {
+					"en": "Bar Counters",
+					"ru": "Bar Counters"
+				}
+			},
+			{
+				"id": "blog",
+				"translations": {
+					"en": "Blog",
+					"ru": "Blog"
+				}
+			},
+			{
+				"id": "blurb",
+				"translations": {
+					"en": "Blurb",
+					"ru": "Blurb"
+				}
+			},
+			{
+				"id": "booked-appointments",
+				"translations": {
+					"en": "Booked Appointments",
+					"ru": "Booked Appointments"
+				}
+			},
+			{
+				"id": "booked-calendar",
+				"translations": {
+					"en": "Booked Calendar",
+					"ru": "Booked Calendar"
+				}
+			},
+			{
+				"id": "booked-login",
+				"translations": {
+					"en": "Booked Login",
+					"ru": "Booked Login"
+				}
+			},
+			{
+				"id": "button",
+				"translations": {
+					"en": "Button",
+					"ru": "Button"
+				}
+			},
+			{
+				"id": "call-to-action",
+				"translations": {
+					"en": "Call to Action",
+					"ru": "Call to Action"
+				}
+			},
+			{
+				"id": "circle-counter",
+				"translations": {
+					"en": "Circle Counter",
+					"ru": "Circle Counter"
+				}
+			},
+			{
+				"id": "contact-form",
+				"translations": {
+					"en": "Contact Form",
+					"ru": "Contact Form"
+				}
+			},
+			{
+				"id": "countdown-timer",
+				"translations": {
+					"en": "Countdown Timer",
+					"ru": "Countdown Timer"
+				}
+			},
+			{
+				"id": "divider",
+				"translations": {
+					"en": "Divider",
+					"ru": "Divider"
+				}
+			},
+			{
+				"id": "image",
+				"translations": {
+					"en": "Image",
+					"ru": "Image"
+				}
+			},
+			{
+				"id": "map",
+				"translations": {
+					"en": "Map",
+					"ru": "Map"
+				}
+			},
+			{
+				"id": "number-count",
+				"translations": {
+					"en": "Number Counter",
+					"ru": "Number Counter"
+				}
+			},
+			{
+				"id": "person",
+				"translations": {
+					"en": "Person",
+					"ru": "Person"
+				}
+			},
+			{
+				"id": "post-slider",
+				"translations": {
+					"en": "Post Slider",
+					"ru": "Post Slider"
+				}
+			},
+			{
+				"id": "pricing-tables",
+				"translations": {
+					"en": "Pricing Tables",
+					"ru": "Pricing Tables"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Sidebar"
+				}
+			},
+			{
+				"id": "slider",
+				"translations": {
+					"en": "Slider",
+					"ru": "Slider"
+				}
+			},
+			{
+				"id": "sm-follow",
+				"translations": {
+					"en": "Social Media Follow",
+					"ru": "Social Media Follow"
+				}
+			},
+			{
+				"id": "tabs-module",
+				"translations": {
+					"en": "Tabs",
+					"ru": "Tabs"
+				}
+			},
+			{
+				"id": "testimonials",
+				"translations": {
+					"en": "Testimonials",
+					"ru": "Testimonials"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Projects",
+					"ru": "Projects"
+				}
+			},
+			{
+				"id": "text",
+				"translations": {
+					"en": "Text",
+					"ru": "Text"
+				}
+			},
+			{
+				"id": "toggle",
+				"translations": {
+					"en": "Toggle",
+					"ru": "Toggle"
+				}
+			},
+			{
+				"id": "video",
+				"translations": {
+					"en": "Video",
+					"ru": "Video"
+				}
+			},
+			{
+				"id": "video-slider",
+				"translations": {
+					"en": "Video Slider",
+					"ru": "Video Slider"
+				}
+			},
+			{
+				"id": "contact-form-7",
+				"translations": {
+					"en": "Contact Form 7",
+					"ru": "Contact Form 7"
+				}
+			}
+		],
+		"bizacumen": [
+			{
+				"id": "accordion",
+				"translations": {
+					"en": "Accordion",
+					"ru": "Accordion"
+				}
+			},
+			{
+				"id": "audio",
+				"translations": {
+					"en": "Audio",
+					"ru": "Audio"
+				}
+			},
+			{
+				"id": "bar-counter",
+				"translations": {
+					"en": "Bar Counters",
+					"ru": "Bar Counters"
+				}
+			},
+			{
+				"id": "blog",
+				"translations": {
+					"en": "Blog",
+					"ru": "Blog"
+				}
+			},
+			{
+				"id": "blurb",
+				"translations": {
+					"en": "Blurb",
+					"ru": "Blurb"
+				}
+			},
+			{
+				"id": "booked-appointments",
+				"translations": {
+					"en": "Booked Appointments",
+					"ru": "Booked Appointments"
+				}
+			},
+			{
+				"id": "booked-calendar",
+				"translations": {
+					"en": "Booked Calendar",
+					"ru": "Booked Calendar"
+				}
+			},
+			{
+				"id": "booked-login",
+				"translations": {
+					"en": "Booked Login",
+					"ru": "Booked Login"
+				}
+			},
+			{
+				"id": "button",
+				"translations": {
+					"en": "Button",
+					"ru": "Button"
+				}
+			},
+			{
+				"id": "call-to-action",
+				"translations": {
+					"en": "Call to Action",
+					"ru": "Call to Action"
+				}
+			},
+			{
+				"id": "circle-counter",
+				"translations": {
+					"en": "Circle Counter",
+					"ru": "Circle Counter"
+				}
+			},
+			{
+				"id": "contact-form",
+				"translations": {
+					"en": "Contact Form",
+					"ru": "Contact Form"
+				}
+			},
+			{
+				"id": "countdown-timer",
+				"translations": {
+					"en": "Countdown Timer",
+					"ru": "Countdown Timer"
+				}
+			},
+			{
+				"id": "divider",
+				"translations": {
+					"en": "Divider",
+					"ru": "Divider"
+				}
+			},
+			{
+				"id": "image",
+				"translations": {
+					"en": "Image",
+					"ru": "Image"
+				}
+			},
+			{
+				"id": "map",
+				"translations": {
+					"en": "Map",
+					"ru": "Map"
+				}
+			},
+			{
+				"id": "number-count",
+				"translations": {
+					"en": "Number Counter",
+					"ru": "Number Counter"
+				}
+			},
+			{
+				"id": "person",
+				"translations": {
+					"en": "Person",
+					"ru": "Person"
+				}
+			},
+			{
+				"id": "post-slider",
+				"translations": {
+					"en": "Post Slider",
+					"ru": "Post Slider"
+				}
+			},
+			{
+				"id": "pricing-tables",
+				"translations": {
+					"en": "Pricing Tables",
+					"ru": "Pricing Tables"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Sidebar"
+				}
+			},
+			{
+				"id": "slider",
+				"translations": {
+					"en": "Slider",
+					"ru": "Slider"
+				}
+			},
+			{
+				"id": "sm-follow",
+				"translations": {
+					"en": "Social Media Follow",
+					"ru": "Social Media Follow"
+				}
+			},
+			{
+				"id": "tabs-module",
+				"translations": {
+					"en": "Tabs",
+					"ru": "Tabs"
+				}
+			},
+			{
+				"id": "testimonials",
+				"translations": {
+					"en": "Testimonials",
+					"ru": "Testimonials"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Projects",
+					"ru": "Projects"
+				}
+			},
+			{
+				"id": "text",
+				"translations": {
+					"en": "Text",
+					"ru": "Text"
+				}
+			},
+			{
+				"id": "toggle",
+				"translations": {
+					"en": "Toggle",
+					"ru": "Toggle"
+				}
+			},
+			{
+				"id": "video",
+				"translations": {
+					"en": "Video",
+					"ru": "Video"
+				}
+			},
+			{
+				"id": "video-slider",
+				"translations": {
+					"en": "Video Slider",
+					"ru": "Video Slider"
+				}
+			},
+			{
+				"id": "contact-form-7",
+				"translations": {
+					"en": "Contact Form 7",
+					"ru": "Contact Form 7"
+				}
+			}
+		],
+		"fastway": [
+			{
+				"id": "accordion",
+				"translations": {
+					"en": "Accordion",
+					"ru": "Accordion"
+				}
+			},
+			{
+				"id": "audio",
+				"translations": {
+					"en": "Audio",
+					"ru": "Audio"
+				}
+			},
+			{
+				"id": "bar-counter",
+				"translations": {
+					"en": "Bar Counters",
+					"ru": "Bar Counters"
+				}
+			},
+			{
+				"id": "blog",
+				"translations": {
+					"en": "Blog",
+					"ru": "Blog"
+				}
+			},
+			{
+				"id": "blurb",
+				"translations": {
+					"en": "Blurb",
+					"ru": "Blurb"
+				}
+			},
+			{
+				"id": "booked-appointments",
+				"translations": {
+					"en": "Booked Appointments",
+					"ru": "Booked Appointments"
+				}
+			},
+			{
+				"id": "booked-calendar",
+				"translations": {
+					"en": "Booked Calendar",
+					"ru": "Booked Calendar"
+				}
+			},
+			{
+				"id": "booked-login",
+				"translations": {
+					"en": "Booked Login",
+					"ru": "Booked Login"
+				}
+			},
+			{
+				"id": "button",
+				"translations": {
+					"en": "Button",
+					"ru": "Button"
+				}
+			},
+			{
+				"id": "call-to-action",
+				"translations": {
+					"en": "Call to Action",
+					"ru": "Call to Action"
+				}
+			},
+			{
+				"id": "circle-counter",
+				"translations": {
+					"en": "Circle Counter",
+					"ru": "Circle Counter"
+				}
+			},
+			{
+				"id": "contact-form",
+				"translations": {
+					"en": "Contact Form",
+					"ru": "Contact Form"
+				}
+			},
+			{
+				"id": "countdown-timer",
+				"translations": {
+					"en": "Countdown Timer",
+					"ru": "Countdown Timer"
+				}
+			},
+			{
+				"id": "divider",
+				"translations": {
+					"en": "Divider",
+					"ru": "Divider"
+				}
+			},
+			{
+				"id": "image",
+				"translations": {
+					"en": "Image",
+					"ru": "Image"
+				}
+			},
+			{
+				"id": "map",
+				"translations": {
+					"en": "Map",
+					"ru": "Map"
+				}
+			},
+			{
+				"id": "number-count",
+				"translations": {
+					"en": "Number Counter",
+					"ru": "Number Counter"
+				}
+			},
+			{
+				"id": "person",
+				"translations": {
+					"en": "Person",
+					"ru": "Person"
+				}
+			},
+			{
+				"id": "post-slider",
+				"translations": {
+					"en": "Post Slider",
+					"ru": "Post Slider"
+				}
+			},
+			{
+				"id": "pricing-tables",
+				"translations": {
+					"en": "Pricing Tables",
+					"ru": "Pricing Tables"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Sidebar"
+				}
+			},
+			{
+				"id": "slider",
+				"translations": {
+					"en": "Slider",
+					"ru": "Slider"
+				}
+			},
+			{
+				"id": "sm-follow",
+				"translations": {
+					"en": "Social Media Follow",
+					"ru": "Social Media Follow"
+				}
+			},
+			{
+				"id": "tabs-module",
+				"translations": {
+					"en": "Tabs",
+					"ru": "Tabs"
+				}
+			},
+			{
+				"id": "testimonials",
+				"translations": {
+					"en": "Testimonials",
+					"ru": "Testimonials"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Projects",
+					"ru": "Projects"
+				}
+			},
+			{
+				"id": "text",
+				"translations": {
+					"en": "Text",
+					"ru": "Text"
+				}
+			},
+			{
+				"id": "toggle",
+				"translations": {
+					"en": "Toggle",
+					"ru": "Toggle"
+				}
+			},
+			{
+				"id": "video",
+				"translations": {
+					"en": "Video",
+					"ru": "Video"
+				}
+			},
+			{
+				"id": "video-slider",
+				"translations": {
+					"en": "Video Slider",
+					"ru": "Video Slider"
+				}
+			},
+			{
+				"id": "contact-form-7",
+				"translations": {
+					"en": "Contact Form 7",
+					"ru": "Contact Form 7"
+				}
+			}
+		],
+		"lowrise": [
+			{
+				"id": "accordion",
+				"translations": {
+					"en": "Accordion",
+					"ru": "Accordion"
+				}
+			},
+			{
+				"id": "audio",
+				"translations": {
+					"en": "Audio",
+					"ru": "Audio"
+				}
+			},
+			{
+				"id": "bar-counter",
+				"translations": {
+					"en": "Bar Counters",
+					"ru": "Bar Counters"
+				}
+			},
+			{
+				"id": "blog",
+				"translations": {
+					"en": "Blog",
+					"ru": "Blog"
+				}
+			},
+			{
+				"id": "blurb",
+				"translations": {
+					"en": "Blurb",
+					"ru": "Blurb"
+				}
+			},
+			{
+				"id": "booked-appointments",
+				"translations": {
+					"en": "Booked Appointments",
+					"ru": "Booked Appointments"
+				}
+			},
+			{
+				"id": "booked-calendar",
+				"translations": {
+					"en": "Booked Calendar",
+					"ru": "Booked Calendar"
+				}
+			},
+			{
+				"id": "booked-login",
+				"translations": {
+					"en": "Booked Login",
+					"ru": "Booked Login"
+				}
+			},
+			{
+				"id": "button",
+				"translations": {
+					"en": "Button",
+					"ru": "Button"
+				}
+			},
+			{
+				"id": "call-to-action",
+				"translations": {
+					"en": "Call to Action",
+					"ru": "Call to Action"
+				}
+			},
+			{
+				"id": "circle-counter",
+				"translations": {
+					"en": "Circle Counter",
+					"ru": "Circle Counter"
+				}
+			},
+			{
+				"id": "contact-form",
+				"translations": {
+					"en": "Contact Form",
+					"ru": "Contact Form"
+				}
+			},
+			{
+				"id": "countdown-timer",
+				"translations": {
+					"en": "Countdown Timer",
+					"ru": "Countdown Timer"
+				}
+			},
+			{
+				"id": "divider",
+				"translations": {
+					"en": "Divider",
+					"ru": "Divider"
+				}
+			},
+			{
+				"id": "image",
+				"translations": {
+					"en": "Image",
+					"ru": "Image"
+				}
+			},
+			{
+				"id": "map",
+				"translations": {
+					"en": "Map",
+					"ru": "Map"
+				}
+			},
+			{
+				"id": "number-count",
+				"translations": {
+					"en": "Number Counter",
+					"ru": "Number Counter"
+				}
+			},
+			{
+				"id": "person",
+				"translations": {
+					"en": "Person",
+					"ru": "Person"
+				}
+			},
+			{
+				"id": "post-slider",
+				"translations": {
+					"en": "Post Slider",
+					"ru": "Post Slider"
+				}
+			},
+			{
+				"id": "pricing-tables",
+				"translations": {
+					"en": "Pricing Tables",
+					"ru": "Pricing Tables"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Sidebar"
+				}
+			},
+			{
+				"id": "slider",
+				"translations": {
+					"en": "Slider",
+					"ru": "Slider"
+				}
+			},
+			{
+				"id": "sm-follow",
+				"translations": {
+					"en": "Social Media Follow",
+					"ru": "Social Media Follow"
+				}
+			},
+			{
+				"id": "tabs-module",
+				"translations": {
+					"en": "Tabs",
+					"ru": "Tabs"
+				}
+			},
+			{
+				"id": "testimonials",
+				"translations": {
+					"en": "Testimonials",
+					"ru": "Testimonials"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Projects",
+					"ru": "Projects"
+				}
+			},
+			{
+				"id": "text",
+				"translations": {
+					"en": "Text",
+					"ru": "Text"
+				}
+			},
+			{
+				"id": "toggle",
+				"translations": {
+					"en": "Toggle",
+					"ru": "Toggle"
+				}
+			},
+			{
+				"id": "video",
+				"translations": {
+					"en": "Video",
+					"ru": "Video"
+				}
+			},
+			{
+				"id": "video-slider",
+				"translations": {
+					"en": "Video Slider",
+					"ru": "Video Slider"
+				}
+			},
+			{
+				"id": "contact-form-7",
+				"translations": {
+					"en": "Contact Form 7",
+					"ru": "Contact Form 7"
+				}
+			}
+		],
+		"picalter": [
+			{
+				"id": "accordion",
+				"translations": {
+					"en": "Accordion",
+					"ru": "Accordion"
+				}
+			},
+			{
+				"id": "audio",
+				"translations": {
+					"en": "Audio",
+					"ru": "Audio"
+				}
+			},
+			{
+				"id": "bar-counter",
+				"translations": {
+					"en": "Bar Counters",
+					"ru": "Bar Counters"
+				}
+			},
+			{
+				"id": "blog",
+				"translations": {
+					"en": "Blog",
+					"ru": "Blog"
+				}
+			},
+			{
+				"id": "blurb",
+				"translations": {
+					"en": "Blurb",
+					"ru": "Blurb"
+				}
+			},
+			{
+				"id": "booked-appointments",
+				"translations": {
+					"en": "Booked Appointments",
+					"ru": "Booked Appointments"
+				}
+			},
+			{
+				"id": "booked-calendar",
+				"translations": {
+					"en": "Booked Calendar",
+					"ru": "Booked Calendar"
+				}
+			},
+			{
+				"id": "booked-login",
+				"translations": {
+					"en": "Booked Login",
+					"ru": "Booked Login"
+				}
+			},
+			{
+				"id": "button",
+				"translations": {
+					"en": "Button",
+					"ru": "Button"
+				}
+			},
+			{
+				"id": "call-to-action",
+				"translations": {
+					"en": "Call to Action",
+					"ru": "Call to Action"
+				}
+			},
+			{
+				"id": "circle-counter",
+				"translations": {
+					"en": "Circle Counter",
+					"ru": "Circle Counter"
+				}
+			},
+			{
+				"id": "contact-form",
+				"translations": {
+					"en": "Contact Form",
+					"ru": "Contact Form"
+				}
+			},
+			{
+				"id": "countdown-timer",
+				"translations": {
+					"en": "Countdown Timer",
+					"ru": "Countdown Timer"
+				}
+			},
+			{
+				"id": "divider",
+				"translations": {
+					"en": "Divider",
+					"ru": "Divider"
+				}
+			},
+			{
+				"id": "image",
+				"translations": {
+					"en": "Image",
+					"ru": "Image"
+				}
+			},
+			{
+				"id": "map",
+				"translations": {
+					"en": "Map",
+					"ru": "Map"
+				}
+			},
+			{
+				"id": "number-count",
+				"translations": {
+					"en": "Number Counter",
+					"ru": "Number Counter"
+				}
+			},
+			{
+				"id": "person",
+				"translations": {
+					"en": "Person",
+					"ru": "Person"
+				}
+			},
+			{
+				"id": "post-slider",
+				"translations": {
+					"en": "Post Slider",
+					"ru": "Post Slider"
+				}
+			},
+			{
+				"id": "pricing-tables",
+				"translations": {
+					"en": "Pricing Tables",
+					"ru": "Pricing Tables"
+				}
+			},
+			{
+				"id": "sidebar",
+				"translations": {
+					"en": "Sidebar",
+					"ru": "Sidebar"
+				}
+			},
+			{
+				"id": "slider",
+				"translations": {
+					"en": "Slider",
+					"ru": "Slider"
+				}
+			},
+			{
+				"id": "sm-follow",
+				"translations": {
+					"en": "Social Media Follow",
+					"ru": "Social Media Follow"
+				}
+			},
+			{
+				"id": "tabs-module",
+				"translations": {
+					"en": "Tabs",
+					"ru": "Tabs"
+				}
+			},
+			{
+				"id": "testimonials",
+				"translations": {
+					"en": "Testimonials",
+					"ru": "Testimonials"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Projects",
+					"ru": "Projects"
+				}
+			},
+			{
+				"id": "text",
+				"translations": {
+					"en": "Text",
+					"ru": "Text"
+				}
+			},
+			{
+				"id": "toggle",
+				"translations": {
+					"en": "Toggle",
+					"ru": "Toggle"
+				}
+			},
+			{
+				"id": "video",
+				"translations": {
+					"en": "Video",
+					"ru": "Video"
+				}
+			},
+			{
+				"id": "video-slider",
+				"translations": {
+					"en": "Video Slider",
+					"ru": "Video Slider"
+				}
+			},
+			{
+				"id": "contact-form-7",
+				"translations": {
+					"en": "Contact Form 7",
+					"ru": "Contact Form 7"
+				}
+			}
 		]
 	}
 }

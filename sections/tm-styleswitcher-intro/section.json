@@ -1,0 +1,10 @@
+{
+	"id": "tm-styleswitcher-intro",
+	"translations": {
+		"en": "Introduction",
+		"ru": "Введение"
+	},
+	"articles": {
+		"tm-styleswitcher": []
+	}
+}

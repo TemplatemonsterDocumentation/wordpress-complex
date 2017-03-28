@@ -1,0 +1,155 @@
+//========================================================
+//                     Variables
+//========================================================
+
+$primary-color: #1069aa;
+$primary-color-second: #fff;
+$primary-color-dark: #22272d;
+$secondary-color: #e91b1a;
+$secondary-color-light: #fff;
+
+$header-background-image: '../../projects/fastway/img/header-bg.png';
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+$primary-font-family: 'Montserrat', sans-serif;
+
+//========================================================
+//                     Color & Styles
+//========================================================
+
+h1 {
+	font-family: $primary-font-family;
+	color: $primary-color;
+
+}
+h2 {
+	//font-family: $primary-font-family;
+}
+h3 {
+	//font-family: $primary-font-family;
+}
+h4 {
+	color: #000;
+}
+
+.page-content {
+	&.active {
+		.rd-mobilepanel{
+			background-position: 62% top;
+			@media (max-width: 1440px) {
+    			background-position: 48% bottom;
+			}
+		}
+	}
+}
+	.rd-mobilepanel {
+		background-color: $primary-color-second;
+		background-position: right top;
+		transition-property: height;
+	    transition-duration: 2s;
+	    transition-timing-function: linear;
+	    transition-delay: 1s;
+		@media (max-width: 1440px) {
+	    	background-size: 60% auto;
+	    	background-position: 600px bottom;
+		}
+	}
+
+[data-section="introduction"] {
+	.rd-mobilepanel {
+		background-image: url($header-background-image);
+		height: 600px;
+		&.fixed {
+    		height: 56px;
+    		background-image: none;
+    		transition: top 1s ease-out 0.5s;
+    	}
+	}
+}
+body:not([data-section="introduction"]) {
+	.tm-title-caption {
+		display: none;
+	}
+}
+.rd-mobilepanel_toggle {
+	span{
+		background-color:#f9b707;
+		&:before, &:after{
+			background-color: #f9b707;
+		}
+	}
+	
+}
+
+.rd-mobilepanel_title {
+	font-size: 60px;
+	font-weight:600;
+	top:237px;
+	left: 116px;
+	width: 500px;
+}
+
+.tm-title-caption {
+	font-size: 23px !important;
+	font-weight: 100;
+	top: 308px;
+	font-family: $primary-font-family;
+    color: #000;
+    line-height: 36px;
+    width: 481px;
+    left: 155px;
+    font-style: light;
+}
+@media (max-width: 1439px){
+	.rd-mobilepanel_title{
+		top:74px;
+		left: 85px;
+	}
+	.tm-title-caption {	
+		top:140px;
+		left: 85px;
+	}
+}
+@media (max-width: 1600px) and (min-width: 1440px){
+	.rd-mobilepanel_title{
+		top:93px;
+		left: 97px;
+	}
+	.tm-title-caption {	
+		top:180px;
+		width:198px;
+	}
+}
+@media (max-width: 1800px) and (min-width: 1601px){
+	.rd-mobilepanel_title{
+		top:104px;
+		left: 98px;
+	}
+	.tm-title-caption {	
+		top:180px;
+		width:269px;
+		left: 117px;
+	}
+}
+.rd-mobilemenu {
+	.logo{
+		background-color: #fff;
+	}
+}
+.rd-mobilemenu_ul{
+	ul{
+		a{
+			&.focus{
+				color: #f9b707;
+			}
+		}
+	}
+}  
+
+.toTop {
+	background-color: #f9b707;
+	color: #ffffff;
+	&:hover {
+    	background-color:darken($primary-color-second,20%);
+	}
+}

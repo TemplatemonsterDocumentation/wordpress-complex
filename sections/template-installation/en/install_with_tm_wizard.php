@@ -132,6 +132,24 @@
         <img src="img/wizard_installation/import_finished.png" alt="" >
     </figure>
 
+     <p>
+        <strong>NOTICE!</strong>
+    </p>
+
+    <p>
+        To manage MotoPress Slider you have to go to MotoPress menu, choose 'Edit Slides' > 'Edit'.
+    </p>
+    <figure class="img-polaroid">
+        <img src="img/wizard_installation/111.png" alt="" >
+    </figure>
+    <p>
+        Slide settings will open.
+        Click on 'Save Slide' to save the settings again.
+    </p>
+    <figure class="img-polaroid">
+        <img src="img/wizard_installation/222.png" alt="" >
+    </figure>
+
 <?php } ?>
 
 

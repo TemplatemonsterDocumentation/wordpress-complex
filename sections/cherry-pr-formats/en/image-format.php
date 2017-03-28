@@ -55,7 +55,7 @@ Image post format offers the following settings:
 <p>On the front end the post will look like that</p>
 
 <figure class="img-polaroid">
-    <img src="projects/<?php echo $project;?>/img/images/image-format-frontend.png">
+    <img src="projects/<?php echo $project;?>/img/images/image-format-frontend1.png">
 </figure>
 
 <p>

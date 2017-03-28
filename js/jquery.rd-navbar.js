@@ -290,8 +290,6 @@
                      fix();
                      $('body').removeClass('navbar-stickup').addClass('navbar-fixed');
                  }
-
-                st_before = st;
             }
 
 			function handler() {

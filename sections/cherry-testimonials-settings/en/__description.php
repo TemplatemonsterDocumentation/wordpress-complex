@@ -1,281 +1,234 @@
 <h2>Plugin Settings</h2>
+
+<h3>General settings</h3>
+
 <p>
-    At the moment 2 plugin settings are available in version 1.0.0:
+    To make changes in Cherry Testimonials General Settings you have to go to Posts > Add new > Insert modules > Testimonials.
+    A window containing Cherry Testimonials General Settings will appear.
 </p>
 
 <figure class="img-polaroid">
     <img src="projects/<?php echo $project;?>/img/images/settings.png">
 </figure>
 
-<ul class="marked-list">
-    <li>
-        <dl class="inline-term">
-            <dt>Testimonials archive page</dt>
-            <dd>
-                Set page for testimonials archive
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>Posts number per archive page</dt>
-            <dd>
-                Тumber of testimonials on the archive page
-            </dd>
-        </dl>
-    </li>
-</ul>
-  
-<h3>Shortcode</h3>
-<ul class="marked-list">
-    <li>
-        <dl class="inline-term">
-            <dt>type </dt>
-            <dd>
-                Layout type (list, slider)
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>sup_title</dt>
-            <dd>
-                Specify the super title 
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>title </dt>
-            <dd>
-                Specify the title  
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>sub_title</dt>
-            <dd>
-                 Specify the subtitle 
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>divider </dt>
-            <dd>
-                Show/hide divider between titles and testimonials
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>limit </dt>
-            <dd>
-                Number of testimonials (limit="-1" – show all)
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>orderby</dt>
-            <dd>
-                Order testimonials by a specific attribute
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>order</dt>
-            <dd>
-                order testimonials
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>category</dt>
-            <dd>
-                Define the category from which testimonials will be displayed
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>ids</dt>
-            <dd>
-                Display testimonials with certain IDs (e.g  ids="1721,1723")
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>show_avatar</dt>
-            <dd>
-                Show/hide author avatar
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>size</dt>
-            <dd>
-                Photo/avatar width (in px)
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>content_length</dt>
-            <dd>
-                Content length (in words)
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>show_email </dt>
-            <dd>
-                Show/hide author email
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>show_position</dt>
-            <dd>
-                Show/hide testimonial author position
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>show_company</dt>
-            <dd>
-                Show/hide company name
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>template</dt>
-            <dd>
-                Template with macros which sets testimonial display structure 
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>custom_class</dt>
-            <dd>
-                Custom CSS-class
-            </dd>
-        </dl>
-    </li>
-</ul>
-
-<h4>The following attributes are applied for slider ( type="slider") only:</h4>
-<ul class="marked-list">
-    <li>
-        <dl class="inline-term">
-            <dt>autoplay</dt>
-            <dd>
-                Time between scrolled slides (ms)
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>effect</dt>
-            <dd>
-                "slide" or "coverflow"
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>loop </dt>
-            <dd>
-                Enable/disable slider "loop"
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>pagination </dt>
-            <dd>
-                Show/hide pagination
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>navigation  </dt>
-            <dd>
-                Show/hide prev/next buttons
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>slides_per_view</dt>
-            <dd>
-                Number of slides per view
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>space_between</dt>
-            <dd>
-                Ppadding between slides ( px)
-            </dd>
-        </dl>
-    </li>
-</ul>
-
-<div class="alert alert-info">
-    <p>
-        To use testimonials slider use Swiper script - <a href="http://idangero.us/swiper/">http://idangero.us/swiper/</a>  
-    </p>
-    <p>
-        Default script values can be changed with the help of <strong>tm_testimonials_slider_data_atts</strong> filter
-    </p>
-</div>
-
-<h3>Templates</h3>
-<ul class="marked-list">
-    <li>
-        <dl class="inline-term">
-            <dt>/templates/</dt>
-            <dd>
-                Subdirectory with templates for pages (single, archive)
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>/templates/shortcodes/testimonials/</dt>
-            <dd>
-                subdirectory with *.tmpl files
-            </dd>
-        </dl>
-    </li>
-</ul>
-
 <p>
-    If you need to change the template content, you need to rewrite it in the theme keeping the folder structure. For instance:
+    In this block you can manage the following settings:
 </p>
 
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
-            <dt>wp-content/themes/twentysixteen/templates/</dt>
+            <dt>Choose source</dt>
+            <dd>
+                Choose the source: categories or testimonial IDs
+            </dd>
         </dl>
     </li>
     <li>
         <dl class="inline-term">
-            <dt>wp-content/themes/twentysixteen/templates/shortcodes/testimonials/</dt>
+            <dt>Include categories</dt>
+            <dd>
+                Choose which categories would be suitable to include
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Posts count</dt>
+            <dd>
+                Set the count of posts to be shown (if all the posts are to be shown, pick "-1" )
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Order</dt>
+            <dd>
+                Set ascending or descending testimonials order
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Order by</dt>
+            <dd>
+                Order testimonials by date, ID, author, last modified date or choose the random order
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Super title</dt>
+            <dd>
+                Choose a super title for testimonials
+            </dd>
+        </dl>
+    </li>
+</ul>
+
+
+<figure class="img-polaroid">
+    <img src="projects/<?php echo $project;?>/img/images/settings1.png">
+</figure>
+
+
+<ul = class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>Title</dt>
+            <dd>
+                Pick a title for testimonials
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Sub title</dt>
+            <dd>
+                Set a sub title
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show divider</dt>
+            <dd>
+                Show/hide a divider
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show avatar</dt>
+            <dd>
+                Show/hide an avatar
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Avatar size</dt>
+            <dd>
+                Pick the necessary avatar size
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show E-mail</dt>
+            <dd>
+                Show/hide e-mail
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show company name</dt>
+            <dd>
+                Show/hide company name
+            </dd>
+        </dl>
+    </li>
+</ul>
+
+<figure class="img-polaroid">
+    <img src="projects/<?php echo $project;?>/img/images/settings2.png">
+</figure>
+
+
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>Content Length</dt>
+            <dd>
+                Set the length of the content
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Type</dt>
+            <dd>
+                Choose the content type: list or slider
+            </dd>
+        </dl>
+    </li>
+</ul>
+
+<figure class="img-polaroid">
+    <img src="projects/<?php echo $project;?>/img/images/settings3.png">
+</figure>
+
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>Auto play</dt>
+            <dd>
+                Set the timing in ms to use an auto play for the slider
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Effect</dt>
+            <dd>
+                Pick the preferable effect for the slider: slide or coverflow
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Enable loop mode</dt>
+            <dd>
+                Enable/disable repeating of the slides shown on page
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Display pagination</dt>
+            <dd>
+                 Use/disable display pagination
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Display navigation</dt>
+            <dd>
+                Use/disable display navigation
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Number of slides per view</dt>
+            <dd>
+                 Set the number of slides that will be shown on a page
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Distance between slides</dt>
+            <dd>
+                Choose the suitable distance in pixels between slides for a tablet or smartphone screen resolution
+            </dd>
+        </dl>
+    </li>
+</ul>
+
+<figure class="img-polaroid">
+    <img src="projects/<?php echo $project;?>/img/images/settings4.png">
+</figure>
+
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>Layout</dt>
+            <dd>
+                Pick the needed layout for testimonials: default or boxed
+            </dd>
         </dl>
     </li>
 </ul>

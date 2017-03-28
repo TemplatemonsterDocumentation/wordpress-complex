@@ -1,0 +1,11 @@
+{
+	"id": "cherry-switcher-plugin-opt",
+	"translations": {
+		"en": "Plugin Options",
+		"ru": "Опции Плагина"
+	},
+	"articles": {
+		"cherry_switcher": []
+	}
+}
+
