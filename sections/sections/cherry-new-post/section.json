@@ -1,0 +1,12 @@
+{
+	"id": "cherry-new-post",
+	"translations": {
+		"en": "Adding New Post",
+		"ru": "Adding New Post"
+	},
+	"articles": {
+		"cherry_team": [],
+		"cherry_services": []
+	}
+}
+

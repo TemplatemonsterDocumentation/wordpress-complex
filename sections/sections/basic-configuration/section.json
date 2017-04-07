@@ -1,0 +1,3983 @@
+
+
+{
+	"id": "basic-configuration",
+	"translations": {
+		"en": "Basic configuration",
+		"ru": "Базовые настройки"
+	},
+	"articles": {
+		"wildride": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"kingnews": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"gadnews": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"blogetti": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"cherryframework4": [],
+		"monstroid": [],
+		"wordpress": [],
+		"woocommerce": [],
+		"fitnesys": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"stylepark": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"kustrix": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"fairystyle": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"dailysports": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"weeklyjournal": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"globera": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"editorso": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"vegetexia": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"travelop": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"triptastic": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"wilson": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"cosmetro": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"bitnews": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"coffeera": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"jewello": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"bedentist": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"stylepark_tf": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"dailysports_tf": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"sketchfield_tf": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"neurion_tf": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"cosmetro_tf": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"finestgame": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"sketchfield": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"clubstome": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"neurion": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"waylard": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"pristine": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"samson": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"ironmass": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"bettaso": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"mechanna": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"advisto": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"fiona": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"cleaningpro": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"posh": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"confucius": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"plumberpro": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"smarthouse": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"madeleine": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"fenimore": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"focussity": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"durand": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"grannali": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"chateau": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"bellatoi": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"shanti": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"nolan": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"jorden": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"fuel": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"bellaina": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"pokemania": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"teddy": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"builderry": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"neuton": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"proedge": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"chromix": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"artwork": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"safedrive": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"sensei": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"legacy": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"lawpress": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"talisman": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"talisman": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"timberline": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"pettown": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"limittax": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"greenville": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"cookery": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"duval": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"keypress": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"crystalica": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"penn": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"leonardo": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"porto": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"odyssey": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"masterchef": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"chopchop": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"whitewhale": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"arden": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"burgerpalace": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"tanaka": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"addison": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"sections": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"hidalgo": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"mizrahi": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"redhotgrill": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"happylearning": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"inmotion": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"mohican": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"gutenberg": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"arlo": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"machinist": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"cascade": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"paintelle": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"helios": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"sportlabs": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"fleek": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"homepro": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"salvatoro": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"callum": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"roadway": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"tradex": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"italica": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"knox": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"gaze": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"techlab": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"organica": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"infobyte": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"transit": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"jericho": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"walden": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"chefplaza": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"agrilloc": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"monstroid_2": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"stylefactory": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"hardwire": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"general_doc": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"valentia": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"thedailypost": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"thedailypost": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"streamline": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"cityherald": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"prima": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"viralnews": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"room4pics": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"rufusvr": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"petstore": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"expenditorious": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"trudeau": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"niceinn": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"helpinghand": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"uptime99": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"wheelmasters": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"preservarium": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"talkingbusiness": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"greenfield": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"stargaze": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"vitahealth": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"emanuella": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"newborn": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"heavyhandlers": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"glossylook": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"metadental": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"petcenter": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"takeandspend": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"safescrap": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"calio": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"armyacademy": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"universalcare": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"callista": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"quickwind": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"sportware": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"stellarlook": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"speedyfix": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"presstige": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"guillermo": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"sabbatico": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"exhibita": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"yoozie": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"legalalien": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"magnifio": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"pathter": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"fabrique": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"bayden": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"hypernova": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"delicia": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"roox": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"upbuild": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"shopable": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"malcolmy": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"itideas": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"medkit": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"hotelbliss": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"cupojava": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"navyblue": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"petinn": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"justizia": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"presidential": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"propello": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"blazingnews": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"healthrehub": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"itsagirl": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"bookit": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"thelegalway": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"dollarex": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"bloomie": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"scapex": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"cellular": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"contractor": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"loandolphins": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"woostroid": [
+			{
+				"id": "menu-and-navigation",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"therapino": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"bigventure": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"spello": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"shieldon": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"espero": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"camphone": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"interra": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"highridgecenter": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"glossy_look": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"globalhealth": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"confevent": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"buyinto": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"carprotect": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"tripi": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"trickleup": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"smallsteps": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"rehealth": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"mikebridge": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"procount": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"fashionia": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"apollo": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"dynasty": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"marigold": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"myfamilydoctor": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"jonbin": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"bizacumen": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"fastway": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"lowrise": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"picalter": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"piperoni": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"rainbowscolors": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"ecopower": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"neobeat": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"griddling": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"adbreak": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"ivering": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"estadoz": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"slim": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"architera": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"counselor": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"maxwell": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"webbox": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"walton": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"downtheriver": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"housepress": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"maryville": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"dalton": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"lafood": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"dentist": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"stexchange": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"cared4": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		],
+		"identiz": [
+			{
+				"id": "menu-and-navigation-main",
+				"translations": {
+					"en": "Menu and navigation",
+					"ru": "Меню и навигация"
+				}
+			},
+			{
+				"id": "customizer",
+				"translations": {
+					"en": "Customizer overview",
+					"ru": "Начало работы с Customizer"
+				}
+			}
+		]
+	}
+}
