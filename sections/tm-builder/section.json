@@ -2312,7 +2312,7 @@
 				"translations": {
 					"en": "Easy Twitter Widget",
 					"ru": "Easy Twitter Widget"
-				
+
 				}
 			},
 			{
@@ -5752,6 +5752,1018 @@
 					"ru": "Layout Options"
 				}
 			}
+		],
+		"piperoni": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"rainbowscolors": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"ecopower": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"neobeat": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"griddling": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"adbreak": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"ivering": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"estadoz": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"slim": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"architera": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"counselor": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"maxwell": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"webbox": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"walton": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"downtheriver": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"housepress": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"maryville": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"dalton": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"lafood": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"dentist": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"stexchange": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"cared4": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
+		],
+		"identiz": [
+			{
+				"id": "elements",
+				"translations": {
+					"en": "Elements",
+					"ru": "Elements"
+				}
+			},
+			{
+				"id": "sections",
+				"translations": {
+					"en": "Sections",
+					"ru": "Sections"
+				}
+			},
+			{
+				"id": "rows",
+				"translations": {
+					"en": "Rows",
+					"ru": "Rows"
+				}
+			},
+			{
+				"id": "vertical_alignment",
+				"translations": {
+					"en": "Row Module Settings",
+					"ru": "Row Module Settings"
+				}
+			},
+			{
+				"id": "modules",
+				"translations": {
+					"en": "Modules",
+					"ru": "Modules"
+				}
+			},
+			{
+				"id": "layout-options",
+				"translations": {
+					"en": "Layout Options",
+					"ru": "Layout Options"
+				}
+			}
 		]
-	}	
+	}
 }

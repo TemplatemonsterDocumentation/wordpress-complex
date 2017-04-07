@@ -8,8 +8,8 @@
 </figure>
 -->
 
-<!------------------------------------  
-breadcrumbs path 
+<!------------------------------------
+breadcrumbs path
 ---------------------------------------->
 
 
@@ -39,7 +39,7 @@ breadcrumbs path
 
 
 
-<!------------------------------------  
+<!------------------------------------
  breadcrumbs area  Breadcrumbs
 ---------------------------------------->
 
@@ -66,8 +66,8 @@ breadcrumbs path
 <?php } ?>
 
 
-<!------------------------------------  
- breadcrumbs area 
+<!------------------------------------
+ breadcrumbs area
 ---------------------------------------->
 
 
@@ -83,12 +83,12 @@ breadcrumbs path
 <?php } ?>
 
 
-<!------------------------------------  
- Breadcrumbs on front page 
+<!------------------------------------
+ Breadcrumbs on front page
 ---------------------------------------->
 
 
-<?php if ($project == 'bedentist' or $project == 'pristine'  or $project == 'samson' or $project == 'ironmass' or $project == 'fenimore' or $project == 'durand' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei' or $project == 'bellaina' or $project == 'limittax' or $project == 'cookery' or $project == 'leonardo' or $project == 'masterchef' or $project == 'inmotion' or $project == 'homepro' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gutenberg' or $project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'monstroid_2' or $project == 'stylefactory' or $project == 'hardwire' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews' or $project == 'rufusvr' or $project == 'bayden' or $project == 'petstore' or $project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn' or $project == 'uptime99' or $project == 'helpinghand' or $project == 'talkingbusiness' or $project == 'wheelmasters' or $project == 'preservarium' or $project == 'greenfield' or $project == 'stargaze' or $project == 'vitahealth' or $project == 'emanuella' or $project == 'newborn' or $project == 'heavyhandlers' or $project == 'glossylook' or $project == 'metadental' or $project == 'petcenter' or $project == 'takeandspend' or $project == 'safescrap' or $project == 'calio' or $project == 'armyacademy' or $project == 'universalcare' or $project == 'callista' or $project == 'quickwind' or $project == 'sportware' or $project == 'stellarlook' or $project == 'speedyfix' or $project == 'presstige' or $project == 'guillermo' or $project == 'sabbatico' or $project == 'exhibita' or $project == 'yoozie' or $project == 'legalalien' or $project == 'magnifio' or $project == 'pathter' or $project == 'fabrique' or $project == 'hypernova' or $project == 'delicia' or $project == 'roox' or $project == 'upbuild' or $project == 'shopable' or $project == 'malcolmy' or $project == 'itideas' or $project == 'medkit' or $project == 'cupojava' or $project == 'hotelbliss' or $project == 'petinn' or $project == 'navyblue' or $project == 'justizia' or $project == 'presidential' or $project == 'propello' or $project == 'blazingnews' or $project == 'healthrehub' or $project == 'itsagirl' or $project == 'bookit' or $project == 'thelegalway' or $project == 'dollarex' or $project == 'bloomie' or $project == 'scapex' or $project == 'cellular' or $project == 'woostroid' or $project == 'contractor' or $project == 'loandolphins' or $project == 'therapino' or $project == 'bigventure' or $project == 'spello' or $project == 'shieldon' or $project == 'espero' or $project == 'camphone' or $project == 'interra' or $project == 'highridgecenter' or $project == 'glossy_look' or $project == 'globalhealth' or $project == 'confevent' or $project == 'buyinto' or $project == 'carprotect' or $project == 'tripi' or $project == 'trickleup' or $project == 'smallsteps' or $project == 'rehealth' or $project == 'mikebridge' or $project == 'procount' or $project == 'fashionia' or $project == 'apollo' or $project == 'dynasty' or $project == 'marigold' or $project == 'myfamilydoctor' or $project == 'jonbin' or $project == 'bizacumen' or $project == 'fastway' or $project == 'lowrise' or $project == 'picalter') { ?>
+<?php if ($project == 'bedentist' or $project == 'pristine'  or $project == 'samson' or $project == 'ironmass' or $project == 'fenimore' or $project == 'durand' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'artwork' or $project == 'safedrive' or $project == 'sensei' or $project == 'bellaina' or $project == 'limittax' or $project == 'cookery' or $project == 'leonardo' or $project == 'masterchef' or $project == 'inmotion' or $project == 'homepro' or $project == 'roadway' or $project == 'tradex' or $project == 'italica' or $project == 'gutenberg' or $project == 'knox' or $project == 'gaze' or $project == 'techlab' or $project == 'organica' or $project == 'infobyte' or $project == 'transit' or $project == 'jericho' or $project == 'walden' or $project == 'chefplaza' or $project == 'agrilloc' or $project == 'monstroid_2' or $project == 'stylefactory' or $project == 'hardwire' or $project == 'thedailypost' or $project == 'streamline' or $project == 'cityherald' or $project == 'viralnews' or $project == 'rufusvr' or $project == 'bayden' or $project == 'petstore' or $project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn' or $project == 'uptime99' or $project == 'helpinghand' or $project == 'talkingbusiness' or $project == 'wheelmasters' or $project == 'preservarium' or $project == 'greenfield' or $project == 'stargaze' or $project == 'vitahealth' or $project == 'emanuella' or $project == 'newborn' or $project == 'heavyhandlers' or $project == 'glossylook' or $project == 'metadental' or $project == 'petcenter' or $project == 'takeandspend' or $project == 'safescrap' or $project == 'calio' or $project == 'armyacademy' or $project == 'universalcare' or $project == 'callista' or $project == 'quickwind' or $project == 'sportware' or $project == 'stellarlook' or $project == 'speedyfix' or $project == 'presstige' or $project == 'guillermo' or $project == 'sabbatico' or $project == 'exhibita' or $project == 'yoozie' or $project == 'legalalien' or $project == 'magnifio' or $project == 'pathter' or $project == 'fabrique' or $project == 'hypernova' or $project == 'delicia' or $project == 'roox' or $project == 'upbuild' or $project == 'shopable' or $project == 'malcolmy' or $project == 'itideas' or $project == 'medkit' or $project == 'cupojava' or $project == 'hotelbliss' or $project == 'petinn' or $project == 'navyblue' or $project == 'justizia' or $project == 'presidential' or $project == 'propello' or $project == 'blazingnews' or $project == 'healthrehub' or $project == 'itsagirl' or $project == 'bookit' or $project == 'thelegalway' or $project == 'dollarex' or $project == 'bloomie' or $project == 'scapex' or $project == 'cellular' or $project == 'woostroid' or $project == 'contractor' or $project == 'loandolphins' or $project == 'therapino' or $project == 'bigventure' or $project == 'spello' or $project == 'shieldon' or $project == 'espero' or $project == 'camphone' or $project == 'interra' or $project == 'highridgecenter' or $project == 'glossy_look' or $project == 'globalhealth' or $project == 'confevent' or $project == 'buyinto' or $project == 'carprotect' or $project == 'tripi' or $project == 'trickleup' or $project == 'smallsteps' or $project == 'rehealth' or $project == 'mikebridge' or $project == 'procount' or $project == 'fashionia' or $project == 'apollo' or $project == 'dynasty' or $project == 'marigold' or $project == 'myfamilydoctor' or $project == 'jonbin' or $project == 'bizacumen' or $project == 'fastway' or $project == 'lowrise' or $project == 'picalter' or $project == 'piperoni' or $project == 'rainbowscolors' or $project == 'ecopower' or $project == 'neobeat' or $project == 'griddling' or $project == 'adbreak' or $project == 'ivering' or $project == 'estadoz' or $project == 'slim' or $project == 'architera' or $project == 'counselor' or $project == 'maxwell' or $project == 'webbox' or $project == 'walton' or $project == 'downtheriver' or $project == 'housepress' or $project == 'maryville' or $project == 'dalton' or $project == 'lafood' or $project == 'dentist' or $project == 'stexchange' or $project == 'cared4' or $project == 'identiz') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable Breadcrumbs on front page </dt>
@@ -101,7 +101,7 @@ breadcrumbs path
 </ul>
 
 
-<!------------------------------------  
+<!------------------------------------
 Enable Breadcrumbs   Breadcrumbs on front page   Enable page title in breadcrumbs area
 ---------------------------------------->
 
@@ -134,17 +134,17 @@ Enable Breadcrumbs   Breadcrumbs on front page   Enable page title in breadcrumb
             </dd>
         </dl>
     </li>
-</ul>    
+</ul>
 <?php } ?>
 
 
-<!------------------------------------  
-breadcrumbs path 
+<!------------------------------------
+breadcrumbs path
 ---------------------------------------->
 
 
 <?php if ($project != 'bedentist' && $project != 'pristine' && $project != 'samson' && $project != 'posh' && $project != 'madeleine' && $project != 'talisman' && $project != 'timberline' && $project != 'timberline' && $project != 'mohican' ){ ?>
-<div> 
+<div>
 
 <h5>Show full/minified breadcrumbs path</h5>
 
@@ -172,7 +172,7 @@ breadcrumbs path
 
 
 
-<!------------------------------------  
+<!------------------------------------
 page title in breadcrumbs area  Enable Breadcrumbs   Enable Breadcrumbs on front page
 ---------------------------------------->
 
@@ -208,7 +208,7 @@ page title in breadcrumbs area  Enable Breadcrumbs   Enable Breadcrumbs on front
         </dl>
     </li>
 
-</ul>    
+</ul>
 <?php } ?>
 
 <?php if ($project == 'stellarlook' or $project == 'presstige' or  $project == 'dollarex') { ?>
@@ -222,6 +222,6 @@ page title in breadcrumbs area  Enable Breadcrumbs   Enable Breadcrumbs on front
             </dd>
         </dl>
     </li>
-</ul>    
+</ul>
 <?php } ?>
 

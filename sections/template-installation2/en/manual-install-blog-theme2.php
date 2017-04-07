@@ -31,10 +31,6 @@
         Then press on "Begin installing plugins" at the top of the website to start  installation of the recommended plugins.
     </p>
 
-<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/tmpl-installation/themes-panel.png">
-</figure>
-
     <p>
         Select all the plugins, choose 'install' mode and confirm the action by pressing "Apply"
     </p>
@@ -64,7 +60,7 @@
 
 
 
-    
+
 
 
 

@@ -713,7 +713,7 @@
 		"title": "Transit",
 		"titleCaption": "Wordpress Theme",
 		"author": ""
-	
+
 	},
 	"cherry_popups": {
   		"textLogo": "",
@@ -721,55 +721,55 @@
   		"titleCaption": "WordPress Plugin",
  		 "author": ""
 
- 	}, 
+ 	},
  	"cherry_testimonials": {
   		"textLogo": "",
   		"title": "Cherry Testimonials",
   		"titleCaption": "WordPress Plugin",
   		"author": ""
- 
- 	}, 
+
+ 	},
  	"cherry_projects": {
   		"textLogo": "",
   		"title": "Cherry Projects",
   		"titleCaption": "WordPress Plugin",
   		"author": ""
- 	
- 	}, 
+
+ 	},
  	"cherry_sidebars": {
   		"textLogo": "",
  		"title": "Cherry Sidebars",
   		"titleCaption": "WordPress Plugin",
   		"author": ""
- 	
+
  	},
  	"cherry_timeline": {
   		"textLogo": "",
   		"title": "Cherry Timeline",
   		"titleCaption": "WordPress Plugin",
   		"author": ""
- 	
- 	}, 
+
+ 	},
  	"cherry_team": {
   		"textLogo": "",
   		"title": "Cherry Team Members",
   		"titleCaption": "WordPress Plugin",
   		"author": ""
- 
+
  	},
  	"cherry_services": {
   		"textLogo": "",
   		"title": "Cherry Services",
   		"titleCaption": "WordPress Plugin",
   		"author": ""
- 
+
 	},
  	"cherry_installer": {
   		"textLogo": "",
   		"title": "Cherry Installer",
   		"titleCaption": "WordPress Plugin",
   		"author": ""
- 
+
  	},
  	"cherry_trending_posts": {
   		"textLogo": "",
@@ -1445,8 +1445,146 @@
 	},
 	"picalter": {
 		"textLogo": "",
-		"title": "PICALTER",
-		"titleCaption": "Wordpress Theme",
+		"title": "Picalter",
+		"titleCaption": "",
+		"author": ""
+	},
+	"piperoni": {
+		"textLogo": "",
+		"title": "Piperoni",
+		"titleCaption": "",
+		"author": ""
+	},
+	"rainbowscolors": {
+		"textLogo": "",
+		"title": "Rainbow's Colors",
+		"titleCaption": "",
+		"author": ""
+	},
+	"ecopower": {
+		"textLogo": "",
+		"title": "Eco Power",
+		"titleCaption": "",
+		"author": ""
+	},
+	"neobeat": {
+		"textLogo": "",
+		"title": "NEOBEAT",
+		"titleCaption": "A NIGHT CLUB",
+		"author": ""
+	},
+	"griddling": {
+		"textLogo": "",
+		"title": "GRIDDLING",
+		"titleCaption": "",
+		"author": ""
+	},
+	"adbreak": {
+		"textLogo": "",
+		"title": "AdBREAK",
+		"titleCaption": "",
+		"author": ""
+	},
+	"ivering": {
+		"textLogo": "",
+		"title": "IVERING",
+		"titleCaption": "",
+		"author": ""
+	},
+	"estadoz": {
+		"textLogo": "",
+		"title": "ESTADOZ",
+		"titleCaption": "",
+		"author": ""
+	},
+	"slim": {
+		"textLogo": "",
+		"title": "Slim",
+		"titleCaption": "",
+		"author": ""
+	},
+	"architera": {
+		"textLogo": "",
+		"title": "ARCHITERA",
+		"titleCaption": "",
+		"author": ""
+	},
+	"counselor": {
+		"textLogo": "",
+		"title": "COUNSELOR",
+		"titleCaption": "",
+		"author": ""
+	},
+	"maxwell": {
+		"textLogo": "",
+		"title": "Maxwell",
+		"titleCaption": "Oil & Gas Company",
+		"author": ""
+	},
+	"webbox": {
+		"textLogo": "",
+		"title": "webbox",
+		"titleCaption": "",
+		"author": ""
+	},
+	"walton": {
+		"textLogo": "",
+		"title": "Walton",
+		"titleCaption": "",
+		"author": ""
+	},
+	"downtheriver": {
+		"textLogo": "",
+		"title": "DOWN the RIVER",
+		"titleCaption": "",
+		"author": ""
+	},
+	"housepress": {
+		"textLogo": "",
+		"title": "HousePress",
+		"titleCaption": "",
+		"author": ""
+	},
+	"maryville": {
+		"textLogo": "",
+		"title": "MaryVille",
+		"titleCaption": "",
+		"author": ""
+	},
+	"dalton": {
+		"textLogo": "",
+		"title": "Dalton",
+		"titleCaption": "",
+		"author": ""
+	},
+	"lafood": {
+		"textLogo": "",
+		"title": "LaFood",
+		"titleCaption": "",
+		"author": ""
+	},
+	"dentist": {
+		"textLogo": "",
+		"title": "Dentist",
+		"titleCaption": "",
+		"author": ""
+	},
+	"stexchange": {
+		"textLogo": "",
+		"title": "StexChange",
+		"titleCaption": "",
+		"author": ""
+	},
+	"cared4": {
+		"textLogo": "",
+		"title": "CARED4",
+		"titleCaption": "",
+		"author": ""
+	},
+	"identiz": {
+		"textLogo": "",
+		"title": "IDENTIZ",
+		"titleCaption": "",
 		"author": ""
 	}
 

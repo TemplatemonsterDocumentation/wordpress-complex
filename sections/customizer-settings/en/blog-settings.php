@@ -9,7 +9,7 @@
 -->
 
 <ul class="marked-list">
-<?php if ($project == 'tripi' or $project == 'fashionia') { ?>
+<?php if ($project == 'tripi' or $project == 'fashionia' or $project == 'identiz') { ?>
     <li>
         <dl class="inline-term">
             <dt>Sticky label type</dt>
@@ -17,7 +17,7 @@
                 Text label, font icon, text with icon
             </dd>
         </dl>
-           
+
     </li>
     <li>
         <dl class="inline-term">
@@ -26,7 +26,7 @@
                 Select the specific icon for sticky post
             </dd>
         </dl>
-           
+
     </li>
 <?php } ?>
 
@@ -39,7 +39,7 @@
                 Specify the title of the widget
             </dd>
         </dl>
-           
+
     </li>
 <?php } ?>
     <li>
@@ -49,15 +49,15 @@
                 Select the grid layout pattern for pages with custom blog layout
             </dd>
         </dl>
-           
+
     </li>
 <?php if ($project == 'weeklyjournal') { ?>
     <div class="alert alert-info">
         NOTE: If 2 sidebars are enabled, only one column layout will be available
     </div>
-    
+
 <?php } ?>
-<?php if ($project != 'tripi') { ?>
+<?php if ($project != 'tripi' && $project != 'identiz') { ?>
     <li>
         <dl class="inline-term">
             <dt>Featured Post Label</dt>
@@ -95,9 +95,9 @@
                 Show/hide Read More button
             </dd>
         </dl>
-           
+
     </li>
-<?php } ?>    
+<?php } ?>
     <li>
         <dl class="inline-term">
             <dt>Read More button text</dt>

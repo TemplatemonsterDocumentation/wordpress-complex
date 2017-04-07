@@ -2,16 +2,16 @@
 //                     Variables
 //========================================================
 
-$primary-color: #333333;
-$primary-color-second: #f6f6f7;
+$primary-color: #fff;
+$primary-color-second: #279f73;
 $primary-color-dark: #22272d;
 $secondary-color: #e91b1a;
 $secondary-color-light: #fff;
 
-$header-background-image: '../../projects/contractor/img/header-bg.png';
+$header-background-image: '../../projects/picalter/img/header-bg.png';
 
-@import url(https://fonts.googleapis.com/css?family=Montserrat,bold,);
-$primary-font-family: 'Montserrat', sans-serif;
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+$primary-font-family: 'Poppins', sans-serif;
 
 //========================================================
 //                     Color & Styles
@@ -73,9 +73,9 @@ body:not([data-section="introduction"]) {
 }
 .rd-mobilepanel_toggle {
 	span{
-		background-color:#f9b707;
+		background-color:#fff;
 		&:before, &:after{
-			background-color: #f9b707;
+			background-color: #fff;
 		}
 	}
 	
@@ -85,7 +85,7 @@ body:not([data-section="introduction"]) {
 	font-size: 60px;
 	font-weight:600;
 	top:237px;
-	left: 78px;
+	left: 173px;
 	width: 500px;
 }
 
@@ -94,7 +94,7 @@ body:not([data-section="introduction"]) {
 	font-weight: 100;
 	top: 308px;
 	font-family: $primary-font-family;
-    color: #333333;
+    color: #fff;
     line-height: 36px;
     width: 481px;
     left: 78px;
@@ -140,14 +140,14 @@ body:not([data-section="introduction"]) {
 	ul{
 		a{
 			&.focus{
-				color: #f9b707;
+				color: #279f73;
 			}
 		}
 	}
 }  
 
 .toTop {
-	background-color: #f9b707;
+	background-color: #279f73;
 	color: #ffffff;
 	&:hover {
     	background-color:darken($primary-color-second,20%);

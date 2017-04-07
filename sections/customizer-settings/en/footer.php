@@ -22,7 +22,7 @@
     </li>
 <?php } ?>
 
-<?php if ($project == 'highridgecenter') { ?>
+<?php if ($project == 'highridgecenter' or $project == 'lafood') { ?>
     <li>
         <dl class="inline-term">
             <dt>Background image</dt>
@@ -31,11 +31,11 @@
             </dd>
         </dl>
     </li>
-<?php } ?> 
+<?php } ?>
 </ul>
 
 <ul class="marked-list">
-<?php if ($project != 'smarthouse' && $project != 'knox' && $project != 'emanuella' && $project != 'glossylook' && $project != 'calio' && $project != 'guillermo' && $project != 'delicia' && $project != 'itideas' && $project != 'hotelbliss' && $project != 'propello' && $project != 'bookit' && $project != 'thelegalway' && $project != 'contractor' && $project != 'loandolphins' && $project != 'spello' && $project != 'espero' && $project != 'camphone' && $project != 'glossy_look' && $project != 'confevent' && $project != 'buyinto' && $project != 'trickleup' && $project != 'procount' && $project != 'apollo' && $project != 'marigold' && $project != 'jonbin' && $project != 'bizacumen' && $project != 'lowrise' && $project != 'picalter') { ?>
+<?php if ($project != 'smarthouse' && $project != 'knox' && $project != 'emanuella' && $project != 'glossylook' && $project != 'calio' && $project != 'guillermo' && $project != 'delicia' && $project != 'itideas' && $project != 'hotelbliss' && $project != 'propello' && $project != 'bookit' && $project != 'thelegalway' && $project != 'contractor' && $project != 'loandolphins' && $project != 'spello' && $project != 'espero' && $project != 'camphone' && $project != 'glossy_look' && $project != 'confevent' && $project != 'buyinto' && $project != 'trickleup' && $project != 'procount' && $project != 'apollo' && $project != 'marigold' && $project != 'jonbin' && $project != 'bizacumen' && $project != 'lowrise' && $project != 'picalter' && $project != 'neobeat' && $project != 'griddling' && $project != 'adbreak' && $project != 'ivering' && $project != 'estadoz' && $project != 'architera' && $project != 'webbox' && $project != 'downtheriver' && $project != 'housepress' && $project != 'dalton' && $project != 'stexchange' && $project != 'cared4') { ?>
     <li>
         <dl class="inline-term">
             <dt>Logo upload</dt>
@@ -44,7 +44,7 @@
             </dd>
         </dl>
     </li>
-<?php } ?>    
+<?php } ?>
     <li>
         <dl class="inline-term">
             <dt>Copyright text</dt>
@@ -60,10 +60,10 @@
             <dt>Text center</dt>
             <dd>
                 Write text for footer area
-            </dd> 
+            </dd>
         </dl>
     </li>
-<?php } ?>  
+<?php } ?>
 
 <?php if ($project == 'gaze' or $project == 'infobyte') { ?>
     <li>
@@ -71,12 +71,12 @@
             <dt>Footer text</dt>
             <dd>
                 Write text for footer area
-            </dd> 
+            </dd>
         </dl>
     </li>
-<?php } ?> 
+<?php } ?>
 
-<?php if ($project != 'infobyte' && $project != 'glossylook' && $project != 'cellular' && $project != 'jonbin') { ?>
+<?php if ($project != 'infobyte' && $project != 'glossylook' && $project != 'cellular' && $project != 'jonbin' && $project != 'piperoni' && $project != 'rainbowscolors' && $project != 'neobeat' && $project != 'estadoz' && $project != 'architera') { ?>
     <li>
         <dl class="inline-term">
             <dt>Widget Area Columns</dt>
@@ -85,7 +85,7 @@
             </dd>
         </dl>
     </li>
-<?php } ?>   
+<?php } ?>
 
     <li>
         <dl class="inline-term">
@@ -96,7 +96,7 @@
         </dl>
     </li>
 
-<?php if ($project != 'monstroid_2' && $project != 'emanuella' && $project != 'calio' && $project != 'guillermo' && $project != 'itideas' && $project != 'hotelbliss' && $project != 'propello' && $project != 'bookit' && $project != 'cellular' && $project != 'contractor' && $project != 'loandolphins' && $project != 'espero' && $project != 'camphone' && $project != 'glossy_look' && $project != 'confevent' && $project != 'buyinto' && $project != 'carprotect' && $project != 'trickleup' && $project != 'procount' && $project != 'fashionia' && $project != 'apollo' && $project != 'marigold' && $project != 'jonbin' && $project != 'bizacumen' && $project != 'lowrise'  && $project != 'picalter') { ?>
+<?php if ($project != 'monstroid_2' && $project != 'emanuella' && $project != 'calio' && $project != 'guillermo' && $project != 'itideas' && $project != 'hotelbliss' && $project != 'propello' && $project != 'bookit' && $project != 'cellular' && $project != 'contractor' && $project != 'loandolphins' && $project != 'espero' && $project != 'camphone' && $project != 'glossy_look' && $project != 'confevent' && $project != 'buyinto' && $project != 'carprotect' && $project != 'trickleup' && $project != 'procount' && $project != 'fashionia' && $project != 'apollo' && $project != 'marigold' && $project != 'jonbin' && $project != 'bizacumen' && $project != 'lowrise'  && $project != 'picalter' && $project != 'piperoni' && $project != 'rainbowscolors' && $project != 'neobeat' && $project != 'griddling' && $project != 'adbreak' && $project != 'ivering' && $project != 'estadoz' && $project != 'architera' && $project != 'webbox' && $project != 'walton' && $project != 'downtheriver' && $project != 'housepress' && $project != 'dalton' && $project != 'lafood' && $project != 'stexchange' && $project != 'cared4') { ?>
     <li>
         <dl class="inline-term">
             <dt>Footer Widgets Area color</dt>
@@ -105,8 +105,8 @@
             </dd>
         </dl>
     </li>
-<?php } ?> 
-    
+<?php } ?>
+
     <li>
         <dl class="inline-term">
             <dt>Footer Background color</dt>
@@ -115,7 +115,7 @@
             </dd>
         </dl>
     </li>
- 
+
 
  <?php if ($project == 'greenfield') { ?>
     <li>
@@ -126,7 +126,7 @@
             </dd>
         </dl>
     </li>
-<?php } ?> 
+<?php } ?>
 
  <?php if ($project == 'greenfield') { ?>
     <li>
@@ -137,10 +137,10 @@
             </dd>
         </dl>
     </li>
-<?php } ?> 
+<?php } ?>
 
 
-<?php if ($project == 'newborn' or $project == 'heavyhandlers' or $project == 'petcenter' or $project == 'universalcare' or $project == 'stellarlook' or $project == 'presstige' or $project == 'sabbatico' or $project == 'yoozie' or $project == 'roox' or $project == 'justizia' or $project == 'presidential' or $project == 'healthrehub' or $project == 'itsagirl' or $project == 'dollarex' or $project == 'scapex' or $project == 'therapino' or $project == 'globalhealth' or $project == 'tripi' or $project == 'rehealth' or $project == 'mikebridge' or $project == 'myfamilydoctor') { ?>
+<?php if ($project == 'newborn' or $project == 'heavyhandlers' or $project == 'petcenter' or $project == 'universalcare' or $project == 'stellarlook' or $project == 'presstige' or $project == 'sabbatico' or $project == 'yoozie' or $project == 'roox' or $project == 'justizia' or $project == 'presidential' or $project == 'healthrehub' or $project == 'itsagirl' or $project == 'dollarex' or $project == 'scapex' or $project == 'therapino' or $project == 'globalhealth' or $project == 'tripi' or $project == 'rehealth' or $project == 'mikebridge' or $project == 'myfamilydoctor' or $project == 'ecopower' or $project == 'counselor' or $project == 'dentist') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show footer widgets area</dt>
@@ -149,9 +149,9 @@
             </dd>
         </dl>
     </li>
-<?php } ?> 
+<?php } ?>
 
-<?php if ($project == 'sabbatico' or $project == 'presidential') { ?>
+<?php if ($project == 'sabbatico' or $project == 'presidential' or $project == 'ecopower') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable Footer gradient background</dt>
@@ -160,10 +160,10 @@
             </dd>
         </dl>
     </li>
-<?php } ?> 
+<?php } ?>
 
 
-<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas' or $project == 'hotelbliss' or $project == 'propello' or $project == 'bookit' or $project == 'thelegalway' or $project == 'contractor' or $project == 'loandolphins' or $project == 'espero' or $project == 'camphone' or $project == 'glossy_look' or $project == 'confevent' or $project == 'buyinto' or $project == 'carprotect' or $project == 'trickleup' or $project == 'procount' or $project == 'fashionia' or $project == 'apollo' or $project == 'marigold' or $project == 'bizacumen' or $project == 'lowrise') { ?>
+<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas' or $project == 'hotelbliss' or $project == 'propello' or $project == 'bookit' or $project == 'thelegalway' or $project == 'contractor' or $project == 'loandolphins' or $project == 'espero' or $project == 'camphone' or $project == 'glossy_look' or $project == 'confevent' or $project == 'buyinto' or $project == 'carprotect' or $project == 'trickleup' or $project == 'procount' or $project == 'fashionia' or $project == 'apollo' or $project == 'marigold' or $project == 'bizacumen' or $project == 'lowrise' or $project == 'griddling' or $project == 'adbreak' or $project == 'ivering' or $project == 'webbox' or $project == 'downtheriver' or $project == 'housepress' or $project == 'dalton' or $project == 'lafood' or $project == 'stexchange') { ?>
     <li>
         <dl class="inline-term">
             <dt>Footer Widgets Area Background color</dt>
@@ -196,9 +196,9 @@
             </dd>
         </dl>
     </li>
-<?php } ?>  
+<?php } ?>
 
-<?php if ($project == 'glossylook' or $project == 'malcolmy' or $project == 'cellular' or $project == 'spello' or $project == 'dynasty' or $project == 'jonbin' or $project == 'picalter') { ?>
+<?php if ($project == 'glossylook' or $project == 'malcolmy' or $project == 'cellular' or $project == 'spello' or $project == 'dynasty' or $project == 'jonbin' or $project == 'picalter' or $project == 'piperoni' or $project == 'rainbowscolors' or $project == 'neobeat' or $project == 'estadoz' or $project == 'slim' or $project == 'architera' or $project == 'walton' or $project == 'cared4') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show footer widgets area</dt>
@@ -223,9 +223,9 @@
             </dd>
         </dl>
     </li>
-<?php } ?>     
+<?php } ?>
 
-<?php if ($project == 'builderry' or $project == 'bayden' or $project == 'niceinn' or $project == 'callista' or $project == 'quickwind' or $project == 'fabrique' or $project == 'interra' or $project == 'fastway') { ?>
+<?php if ($project == 'builderry' or $project == 'bayden' or $project == 'niceinn' or $project == 'callista' or $project == 'quickwind' or $project == 'fabrique' or $project == 'interra' or $project == 'fastway' or $project == 'maxwell' or $project == 'maryville') { ?>
     <li>
         <dl class="inline-term">
             <dt>Show footer logo</dt>
@@ -242,7 +242,7 @@
             </dd>
         </dl>
     </li>
-<?php } ?>  
+<?php } ?>
 
 <?php if ($project == 'greenfield') { ?>
     <li>
@@ -269,9 +269,9 @@
             </dd>
         </dl>
     </li>
-<?php } ?>  
+<?php } ?>
 
-<?php if ($project == 'transit' or $project == 'takeandspend' or $project == 'quickwind' or $project == 'speedyfix' or $project == 'legalalien' or $project == 'magnifio' or $project == 'malcolmy' or $project == 'spello' or $project == 'shieldon') { ?>
+<?php if ($project == 'transit' or $project == 'takeandspend' or $project == 'quickwind' or $project == 'speedyfix' or $project == 'legalalien' or $project == 'magnifio' or $project == 'malcolmy' or $project == 'spello' or $project == 'shieldon' or $project == 'rainbowscolors') { ?>
     <li>
         <dl class="inline-term">
             <dt>Background Image</dt>
@@ -304,10 +304,10 @@
             </dd>
         </dl>
     </li>
-<?php } ?>  
+<?php } ?>
 </ul>
 
-<?php if ($project == 'glossylook' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas' or $project == 'hotelbliss' or $project == 'propello' or $project == 'bookit' or $project == 'thelegalway' or $project == 'cellular' or $project == 'contractor' or $project == 'loandolphins' or $project == 'espero' or $project == 'camphone' or $project == 'glossy_look' or $project == 'confevent' or $project == 'buyinto' or $project == 'carprotect' or $project == 'trickleup' or $project == 'procount' or $project == 'apollo' or $project == 'marigold' or $project == 'jonbin' or $project == 'bizacumen' or $project == 'lowrise' or $project == 'picalter') { ?>
+<?php if ($project == 'glossylook' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas' or $project == 'hotelbliss' or $project == 'propello' or $project == 'bookit' or $project == 'thelegalway' or $project == 'cellular' or $project == 'contractor' or $project == 'loandolphins' or $project == 'espero' or $project == 'camphone' or $project == 'glossy_look' or $project == 'confevent' or $project == 'buyinto' or $project == 'carprotect' or $project == 'trickleup' or $project == 'procount' or $project == 'apollo' or $project == 'marigold' or $project == 'jonbin' or $project == 'bizacumen' or $project == 'lowrise' or $project == 'picalter' or $project == 'rainbowscolors' or $project == 'griddling' or $project == 'adbreak' or $project == 'ivering' or $project == 'estadoz' or $project == 'architera' or $project == 'webbox' or $project == 'walton' or $project == 'housepress' or $project == 'dalton' or $project == 'lafood' or $project == 'stexchange' or $project == 'cared4') { ?>
 <h5>Footer Contact Block</h5>
 <ul class="marked-list">
     <li>
@@ -318,11 +318,11 @@
             </dd>
         </dl>
     </li>
-<?php } ?>  
+<?php } ?>
 </ul>
 
 
-<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'spello' or $project == 'fashionia') { ?>
+<?php if ($project == 'monstroid_2' or $project == 'emanuella' or $project == 'spello' or $project == 'fashionia' or $project == 'piperoni' or $project == 'neobeat' or $project == 'downtheriver') { ?>
 <h5>Footer Contact Block</h5>
 <ul class="marked-list">
     <li>
@@ -349,7 +349,7 @@
             </li>
         </ul>
     </li>
-    
+
     <li>
         <dl class="inline-term">
             <dt>Contact item 1</dt>
@@ -383,5 +383,5 @@
             </li>
         </ul>
     </li>
-<?php } ?>  
+<?php } ?>
 </ul>

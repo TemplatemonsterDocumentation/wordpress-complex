@@ -12,7 +12,7 @@
 	],
 	"kingnews": [
 		"introduction",
-		"template-installation",
+		"template-installation2",
 		"basic-configuration",
 		"customizer-settings",
 		"posts-categories",
@@ -3021,6 +3021,17 @@
 		"plugins",
 		"tm-builder",
 		"tm-builder-modules",
+		"extras"
+	],
+	"identiz": [
+		"introduction",
+		"template-installation2",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
 		"extras"
 	]
 }

@@ -56,7 +56,7 @@
                     </dl>
 
                     <ul>
-                         <?php if ($project != 'contractor') { ?> 
+                         <?php if ($project != 'contractor') { ?>
                         <li>
                             <dl class="inline-term">
                                 <dt>
@@ -67,19 +67,7 @@
                                 </dd>
                             </dl>
                         </li>
-                        <?php } ?> 
-                    <?php if ($project != 'bellaina' && $project != 'homepro' && $project != 'gutenberg' && $project != 'addison' && $project != 'ecolife' && $project != 'duval' && $project != 'builderry' && $project != 'neuton' && $project != 'focussity'  && $project != 'legacy' && $project != 'contractor' && $project != 'hardwire' && $project != 'valentia' && $project != 'thedailypost' && $project != 'streamline' && $project != 'cityherald' && $project != 'prima' && $project != 'viralnews' && $project != 'room4pics' && $project != 'rufusvr' && $project != 'expenditorious' && $project != 'bayden' && $project != 'petstore' && $project != 'trudeau' && $project != 'niceinn' && $project != 'helpinghand' && $project != 'uptime99' && $project != 'wheelmasters' && $project != 'preservarium' && $project != 'greenfield' && $project != 'stargaze' && $project != 'vitahealth' && $project != 'emanuella' && $project != 'newborn' && $project != 'heavyhandlers' && $project != 'glossylook' && $project != 'metadental' && $project != 'petcenter' && $project != 'takeandspend' && $project != 'safescrap' && $project != 'calio' && $project != 'armyacademy' && $project != 'universalcare' && $project != 'callista' && $project != 'quickwind' && $project != 'sportware' && $project != 'talkingbusiness' && $project != 'stellarlook' && $project != 'presstige' && $project != 'guillermo' && $project != 'speedyfix' && $project != 'sabbatico' && $project != 'exhibita' && $project != 'yoozie' && $project != 'legalalien' && $project != 'magnifio' && $project != 'pathter' && $project != 'fabrique' && $project != 'hypernova' && $project != 'delicia' && $project != 'roox' && $project != 'shopable' && $project != 'upbuild' && $project != 'malcolmy' && $project != 'itideas' && $project != 'medkit' && $project != 'hotelbliss' && $project != 'cupojava' && $project != 'navyblue' && $project != 'petinn' && $project != 'justizia' && $project != 'presidential' && $project != 'propello' && $project != 'blazingnews' && $project != 'healthrehub' && $project != 'itsagirl' && $project != 'bookit' && $project != 'thelegalway' && $project != 'dollarex' && $project != 'bloomie' && $project != 'scapex' && $project != 'cellular' && $project != 'loandolphins' && $project != 'therapino' && $project != 'bigventure' && $project != 'spello' && $project != 'shieldon' && $project != 'espero' && $project != 'camphone' && $project != 'interra' && $project != 'highridgecenter' && $project != 'glossy_look' && $project != 'globalhealth' && $project != 'confevent' && $project != 'buyinto' && $project != 'carprotect' && $project != 'tripi' && $project != 'trickleup' && $project != 'smallsteps' && $project != 'rehealth' && $project != 'mikebridge' && $project != 'procount' && $project != 'fashionia' && $project != 'apollo' && $project != 'marigold' && $project != 'myfamilydoctor' && $project != 'jonbin' && $project != 'bizacumen' && $project != 'fastway' && $project != 'lowrise' && $project != 'picalter') { ?> 
-                        <li>
-                            <dl class="inline-term">
-                                <dt>
-                                    <i class="fa fa-file"></i> <strong>widgets.wie</strong>
-                                </dt>
-                                <dd>
-                                    contains widgets settings.
-                                </dd>
-                            </dl>
-                        </li>
-                    <?php } ?>    
+                        <?php } ?>
                     </ul>
                 </li>
                 <li class="folder">
@@ -226,7 +214,7 @@
                                             database file (contains theme content)
                                         </dd>
                                     </dl>
-                                </li> 
+                                </li>
                             </ul>
                         </li>
                         <li>
@@ -461,7 +449,7 @@
                                             database file (contains theme content)
                                         </dd>
                                     </dl>
-                                </li> 
+                                </li>
                             </ul>
                         </li>
                         <li>
@@ -525,7 +513,7 @@
     <p>Before you start working with the WordPress template, you should download the required software. You can check the required software on the template preview page.<br>
     The requirements can alter from template to template, so we will list the most important ones:</p>
  <?php if ($project != 'bettaso' && $project != 'bedentist' && $project != 'pristine' && $project != 'samson' && $project != 'advisto' && $project != 'ironmass' && $project != 'mechanna' && $project != 'fiona' && $project != 'cleaningpro' && $project != 'confucius'  && $project != 'plumberpro' && $project != 'madeleine' && $project != 'fenimore' && $project != 'focussity'  && $project != 'durand' && $project != 'chateau' && $project != 'shanti' && $project != 'nolan' && $project != 'jorden' && $project != 'fuel' && $project != 'neuton' && $project != 'proedge' && $project != 'chromix' && $project != 'artwork' && $project != 'safedrive' && $project != 'sensei' && $project != 'legacy' &&  $project != 'lawpress' && $project != 'limittax' && $project != 'cookery' && $project != 'duval' && $project != 'keypress' && $project != 'crystalica' && $project != 'penn'  && $project != 'porto' && $project != 'odyssey' && $project != 'masterchef' && $project != 'chopchop' && $project != 'whitewhale' && $project != 'tanaka' && $project != 'addison' && $project != 'ecolife' && $project != 'hidalgo' && $project != 'happylearning' && $project != 'mizrahi' && $project != 'redhotgrill' && $project != 'inmotion' && $project != 'machinist' && $project != 'cascade' && $project != 'paintelle' ) { ?>
- 
+
         <ol class="index-list">
         	<li>First of all, you will need the right software to extract files from the password protected sources_#########.zip archive. You can use WinZip 9 or a later version (if you have Windows OS) or Stuffit Expander 10 or a later version (if you have Mac OS).</li>
         	<li>You might also need Adobe Photoshop. It is used to edit the source .PSD files in case you need to change the graphic design and images of the template.</li>

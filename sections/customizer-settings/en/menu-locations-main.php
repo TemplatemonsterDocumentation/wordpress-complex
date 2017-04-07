@@ -41,7 +41,7 @@ Footer Menu   Main Menu  Social Network Menu
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
+        </li>
 
     </ul>
 <?php } ?>
@@ -79,8 +79,8 @@ Footer Menu   Main Menu  Top Menu
                     Select navigation menu, that will be displayed in site header
                 </dd>
             </dl>
-        </li> 
-        
+        </li>
+
     </ul>
 <?php } ?>
 
@@ -107,8 +107,8 @@ Clothing  Footer Menu  Main Menu  Shop Menu  Social
                    Select navigation menu, that will be displayed in the footer area
                 </dd>
             </dl>
-        </li> 
-            
+        </li>
+
         <li>
             <dl class="inline-term">
                 <dt>Main Menu</dt>
@@ -116,7 +116,7 @@ Clothing  Footer Menu  Main Menu  Shop Menu  Social
                    Select primary navigation menu
                 </dd>
             </dl>
-        </li> 
+        </li>
 
         <li>
             <dl class="inline-term">
@@ -125,7 +125,7 @@ Clothing  Footer Menu  Main Menu  Shop Menu  Social
                     Select navigation items for the shop menu
                 </dd>
             </dl>
-        </li> 
+        </li>
 
         <li>
             <dl class="inline-term">
@@ -134,7 +134,7 @@ Clothing  Footer Menu  Main Menu  Shop Menu  Social
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
+        </li>
 
     </ul>
 <?php } ?>
@@ -180,7 +180,7 @@ Footer Menu  Main Menu  Privacy  Social  Top
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
+        </li>
 
          <li>
             <dl class="inline-term">
@@ -189,8 +189,8 @@ Footer Menu  Main Menu  Privacy  Social  Top
                     Select navigation menu, that will be displayed in site header
                 </dd>
             </dl>
-        </li> 
-        
+        </li>
+
     </ul>
 <?php } ?>
 
@@ -225,8 +225,8 @@ Top  Main   Social  Social for Subscribe
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
-      
+        </li>
+
         <li>
             <dl class="inline-term">
                 <dt>Social for Subscribe widget</dt>
@@ -234,7 +234,7 @@ Top  Main   Social  Social for Subscribe
                     This location is specially designed for Social and Subscribe widget
                 </dd>
             </dl>
-        </li> 
+        </li>
     </ul>
 <?php } ?>
 
@@ -269,8 +269,8 @@ Main   Shop Menu  Social  Сosmetics
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
-      
+        </li>
+
         <li>
             <dl class="inline-term">
                 <dt>Сosmetics</dt>
@@ -278,7 +278,7 @@ Main   Shop Menu  Social  Сosmetics
                     This location is specially designed for Cosmetics menu
                 </dd>
             </dl>
-        </li>    
+        </li>
     </ul>
 <?php } ?>
 
@@ -320,8 +320,8 @@ Footer   Footer Privacy  Main  Social  Top
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
-      
+        </li>
+
         <li>
             <dl class="inline-term">
                 <dt>Top</dt>
@@ -329,12 +329,12 @@ Footer   Footer Privacy  Main  Social  Top
                     Select navigation items for the top menu
                 </dd>
             </dl>
-        </li> 
+        </li>
     </ul>
 <?php } ?>
 
 <!------------------------------
-Main Menu  Social Menu  Top Menu 
+Main Menu  Social Menu  Top Menu
 ---------------------------->
 
 <?php if ($project == 'bitnews' or $project == 'neurion' or $project == 'waylard' or $project == 'focussity') { ?>
@@ -355,8 +355,8 @@ Main Menu  Social Menu  Top Menu
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
-      
+        </li>
+
         <li>
             <dl class="inline-term">
                 <dt>Top Menu</dt>
@@ -364,7 +364,7 @@ Main Menu  Social Menu  Top Menu
                     Select navigation items for the top menu
                 </dd>
             </dl>
-        </li> 
+        </li>
     </ul>
 <?php } ?>
 
@@ -390,8 +390,8 @@ Custom Widget Menu  Footer Menu  Main Menu  Social  Top Menu
                    Select navigation menu, that will be displayed in the footer area
                 </dd>
             </dl>
-        </li> 
-            
+        </li>
+
         <li>
             <dl class="inline-term">
                 <dt>Main Menu</dt>
@@ -399,7 +399,7 @@ Custom Widget Menu  Footer Menu  Main Menu  Social  Top Menu
                    Select primary navigation menu
                 </dd>
             </dl>
-        </li> 
+        </li>
 
         <li>
             <dl class="inline-term">
@@ -408,7 +408,7 @@ Custom Widget Menu  Footer Menu  Main Menu  Social  Top Menu
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
+        </li>
 
         <li>
             <dl class="inline-term">
@@ -417,7 +417,7 @@ Custom Widget Menu  Footer Menu  Main Menu  Social  Top Menu
                     Select navigation items for the top menu
                 </dd>
             </dl>
-        </li> 
+        </li>
     </ul>
 <?php } ?>
 
@@ -451,8 +451,8 @@ Custom Widget Menu Elements Menu Footer Menu  Main Menu  Social Menu
                    Select navigation menu, that will be displayed in the footer area
                 </dd>
             </dl>
-        </li> 
-            
+        </li>
+
         <li>
             <dl class="inline-term">
                 <dt>Main Menu</dt>
@@ -460,7 +460,7 @@ Custom Widget Menu Elements Menu Footer Menu  Main Menu  Social Menu
                    Select primary navigation menu
                 </dd>
             </dl>
-        </li> 
+        </li>
 
         <li>
             <dl class="inline-term">
@@ -469,7 +469,7 @@ Custom Widget Menu Elements Menu Footer Menu  Main Menu  Social Menu
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
+        </li>
     </ul>
 <?php } ?>
 
@@ -496,8 +496,8 @@ Customer Service  Footer Menu  Main Menu  Shop Menu  Social
                    Select navigation menu, that will be displayed in the footer area
                 </dd>
             </dl>
-        </li> 
-            
+        </li>
+
         <li>
             <dl class="inline-term">
                 <dt>Main Menu</dt>
@@ -505,7 +505,7 @@ Customer Service  Footer Menu  Main Menu  Shop Menu  Social
                    Select primary navigation menu
                 </dd>
             </dl>
-        </li> 
+        </li>
 
         <li>
             <dl class="inline-term">
@@ -514,7 +514,7 @@ Customer Service  Footer Menu  Main Menu  Shop Menu  Social
                     Select navigation items for the shop menu
                 </dd>
             </dl>
-        </li> 
+        </li>
 
         <li>
             <dl class="inline-term">
@@ -523,7 +523,7 @@ Customer Service  Footer Menu  Main Menu  Shop Menu  Social
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
+        </li>
 
     </ul>
 <?php } ?>
@@ -542,7 +542,7 @@ Help Menu  Main Menu  Social  Top Menu
                     Select Help navigation menu
                 </dd>
             </dl>
-        </li>  
+        </li>
 
         <li>
             <dl class="inline-term">
@@ -560,8 +560,8 @@ Help Menu  Main Menu  Social  Top Menu
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
-      
+        </li>
+
         <li>
             <dl class="inline-term">
                 <dt>Top Menu</dt>
@@ -569,7 +569,7 @@ Help Menu  Main Menu  Social  Top Menu
                     Select navigation items for the top menu
                 </dd>
             </dl>
-        </li> 
+        </li>
     <div class="alert alert-info">
         Note: if more than one item is added to the menu, they will be displayed as a dropdown list.
     </div>
@@ -598,7 +598,7 @@ Main Menu  Services-Menu Social Menu Top Menu
                     Select items for services-menu
                 </dd>
             </dl>
-        </li> 
+        </li>
 
         <li>
             <dl class="inline-term">
@@ -607,8 +607,8 @@ Main Menu  Services-Menu Social Menu Top Menu
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
-      
+        </li>
+
         <li>
             <dl class="inline-term">
                 <dt>Top Menu</dt>
@@ -616,7 +616,7 @@ Main Menu  Services-Menu Social Menu Top Menu
                     Select navigation items for the top menu
                 </dd>
             </dl>
-        </li> 
+        </li>
     </ul>
 <?php } ?>
 
@@ -642,7 +642,7 @@ Main Menu  Services-Menu Social Menu Static Elements Static Elements 2
                     Select items for services-menu
                 </dd>
             </dl>
-        </li> 
+        </li>
 
         <li>
             <dl class="inline-term">
@@ -651,8 +651,8 @@ Main Menu  Services-Menu Social Menu Static Elements Static Elements 2
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
-      
+        </li>
+
         <li>
             <dl class="inline-term">
                 <dt>Static Elements</dt>
@@ -660,7 +660,7 @@ Main Menu  Services-Menu Social Menu Static Elements Static Elements 2
                     Select static elements for the menu
                 </dd>
             </dl>
-        </li> 
+        </li>
     </ul>
 <?php } ?>
 
@@ -697,7 +697,7 @@ Footer  Main Social Top
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
+        </li>
     <?php if ($project != 'bettaso' && $project != 'advisto' &&  $project != 'lawpress' && $project != 'chopchop' && $project != 'tanaka' && $project != 'ecolife' && $project != 'mizrahi' && $project != 'redhotgrill') { ?>
         <li>
             <dl class="inline-term">
@@ -706,7 +706,7 @@ Footer  Main Social Top
                     Select navigation items for the top menu
                 </dd>
             </dl>
-        </li>    
+        </li>
     <?php } ?>
     </ul>
 <?php } ?>
@@ -761,8 +761,8 @@ Custom Menu Elements Menu Footer  Main Menu Social
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
-      
+        </li>
+
     </ul>
 <?php } ?>
 
@@ -798,7 +798,7 @@ Elements Menu  Main Menu  Services  Social
                     Select items for services-menu
                 </dd>
             </dl>
-        </li> 
+        </li>
 
         <li>
             <dl class="inline-term">
@@ -807,7 +807,7 @@ Elements Menu  Main Menu  Services  Social
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
+        </li>
     </ul>
 <?php } ?>
 
@@ -816,7 +816,7 @@ Elements Menu  Main Menu  Services  Social
 Top  Main   Footer  Social
 ---------------------------->
 
-<?php if ($project == 'posh' or $project == 'fenimore' or $project == 'durand' or $project == 'grannali' or $project == 'chateau' or $project == 'bellatoi' or $project == 'shanti' or $project == 'nolan' or $project == 'pokemania' or $project == 'teddy' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'legacy' or $project == 'bellaina' or  $project == 'talisman' or $project == 'timberline' or $project == 'pettown' or $project == 'limittax' or $project == 'greenville' or $project == 'cookery' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'masterchef' or $project == 'whitewhale' or $project == 'addison' or $project == 'hidalgo' or $project == 'happylearning'  or $project == 'mohican' or $project == 'arlo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'helios' or $project == 'sportlabs' or $project == 'fleek' or $project == 'homepro' or $project == 'salvatoro'  or $project == 'callum' or $project == 'roadway' or $project == 'tradex' or $project == 'monstroid_2' or $project == 'bayden' or $project == 'petstore' or $project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn' or $project == 'preservarium' or $project == 'wheelmasters' or $project == 'talkingbusiness' or $project == 'greenfield' or $project == 'stargaze' or $project == 'glossylook' or $project == 'metadental' or $project == 'petcenter' or $project == 'takeandspend' or $project == 'safescrap' or $project == 'calio' or $project == 'armyacademy' or $project == 'universalcare' or $project == 'callista' or $project == 'quickwind' or $project == 'sportware' or $project == 'stellarlook' or $project == 'speedyfix' or $project == 'presstige' or $project == 'guillermo' or $project == 'sabbatico' or $project == 'exhibita' or $project == 'yoozie' or $project == 'legalalien' or $project == 'magnifio' or $project == 'pathter' or $project == 'fabrique' or $project == 'hypernova' or $project == 'delicia' or $project == 'roox' or $project == 'upbuild' or $project == 'shopable' or $project == 'itideas' or $project == 'malcolmy' or $project == 'medkit' or $project == 'cupojava' or $project == 'hotelbliss' or $project == 'petinn' or $project == 'navyblue' or $project == 'justizia' or $project == 'presidential' or $project == 'propello' or $project == 'blazingnews' or $project == 'healthrehub' or $project == 'itsagirl' or $project == 'bookit' or $project == 'thelegalway' or $project == 'dollarex' or $project == 'bloomie' or $project == 'scapex' or $project == 'cellular' or $project == 'contractor' or $project == 'woostroid' or $project == 'loandolphins' or $project == 'therapino' or $project == 'bigventure' or $project == 'spello' or $project == 'shieldon' or $project == 'espero' or $project == 'camphone' or $project == 'interra' or $project == 'highridgecenter' or $project == 'glossy_look' or $project == 'globalhealth' or $project == 'confevent' or $project == 'buyinto' or $project == 'carprotect' or $project == 'tripi' or $project == 'trickleup' or $project == 'smallsteps' or $project == 'rehealth' or $project == 'mikebridge' or $project == 'procount' or $project == 'fashionia' or $project == 'apollo' or $project == 'dynasty' or $project == 'marigold' or $project == 'myfamilydoctor' or $project == 'jonbin' or $project == 'bizacumen' or $project == 'fastway' or $project == 'lowrise' or $project == 'picalter') { ?>
+<?php if ($project == 'posh' or $project == 'fenimore' or $project == 'durand' or $project == 'grannali' or $project == 'chateau' or $project == 'bellatoi' or $project == 'shanti' or $project == 'nolan' or $project == 'pokemania' or $project == 'teddy' or $project == 'builderry' or $project == 'neuton' or $project == 'proedge' or $project == 'chromix' or $project == 'legacy' or $project == 'bellaina' or  $project == 'talisman' or $project == 'timberline' or $project == 'pettown' or $project == 'limittax' or $project == 'greenville' or $project == 'cookery' or $project == 'keypress' or $project == 'crystalica' or $project == 'penn' or $project == 'porto' or $project == 'odyssey' or $project == 'masterchef' or $project == 'whitewhale' or $project == 'addison' or $project == 'hidalgo' or $project == 'happylearning'  or $project == 'mohican' or $project == 'arlo' or $project == 'machinist' or $project == 'cascade' or $project == 'paintelle' or $project == 'helios' or $project == 'sportlabs' or $project == 'fleek' or $project == 'homepro' or $project == 'salvatoro'  or $project == 'callum' or $project == 'roadway' or $project == 'tradex' or $project == 'monstroid_2' or $project == 'bayden' or $project == 'petstore' or $project == 'expenditorious' or $project == 'trudeau' or $project == 'niceinn' or $project == 'preservarium' or $project == 'wheelmasters' or $project == 'talkingbusiness' or $project == 'greenfield' or $project == 'stargaze' or $project == 'glossylook' or $project == 'metadental' or $project == 'petcenter' or $project == 'takeandspend' or $project == 'safescrap' or $project == 'calio' or $project == 'armyacademy' or $project == 'universalcare' or $project == 'callista' or $project == 'quickwind' or $project == 'sportware' or $project == 'stellarlook' or $project == 'speedyfix' or $project == 'presstige' or $project == 'guillermo' or $project == 'sabbatico' or $project == 'exhibita' or $project == 'yoozie' or $project == 'legalalien' or $project == 'magnifio' or $project == 'pathter' or $project == 'fabrique' or $project == 'hypernova' or $project == 'delicia' or $project == 'roox' or $project == 'upbuild' or $project == 'shopable' or $project == 'itideas' or $project == 'malcolmy' or $project == 'medkit' or $project == 'cupojava' or $project == 'hotelbliss' or $project == 'petinn' or $project == 'navyblue' or $project == 'justizia' or $project == 'presidential' or $project == 'propello' or $project == 'blazingnews' or $project == 'healthrehub' or $project == 'itsagirl' or $project == 'bookit' or $project == 'thelegalway' or $project == 'dollarex' or $project == 'bloomie' or $project == 'scapex' or $project == 'cellular' or $project == 'contractor' or $project == 'woostroid' or $project == 'loandolphins' or $project == 'therapino' or $project == 'bigventure' or $project == 'spello' or $project == 'shieldon' or $project == 'espero' or $project == 'camphone' or $project == 'interra' or $project == 'highridgecenter' or $project == 'glossy_look' or $project == 'globalhealth' or $project == 'confevent' or $project == 'buyinto' or $project == 'carprotect' or $project == 'tripi' or $project == 'trickleup' or $project == 'smallsteps' or $project == 'rehealth' or $project == 'mikebridge' or $project == 'procount' or $project == 'fashionia' or $project == 'apollo' or $project == 'dynasty' or $project == 'marigold' or $project == 'myfamilydoctor' or $project == 'jonbin' or $project == 'bizacumen' or $project == 'fastway' or $project == 'lowrise' or $project == 'picalter' or $project == 'piperoni' or $project == 'rainbowscolors' or $project == 'ecopower' or $project == 'neobeat' or $project == 'griddling' or $project == 'adbreak' or $project == 'ivering' or $project == 'estadoz' or $project == 'slim' or $project == 'architera' or $project == 'counselor' or $project == 'maxwell' or $project == 'webbox' or $project == 'walton' or $project == 'downtheriver' or $project == 'housepress' or $project == 'maryville' or $project == 'dalton' or $project == 'lafood' or $project == 'dentist' or $project == 'stexchange' or $project == 'cared4' or $project == 'identiz') { ?>
     <ul class="marked-list">
          <li>
             <dl class="inline-term">
@@ -836,7 +836,7 @@ Top  Main   Footer  Social
             </dl>
         </li>
 
-<?php if ($project == 'monstroid_2' or $project == 'glossylook' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas' or $project == 'hotelbliss' or $project == 'propello' or $project == 'bookit' or $project == 'thelegalway' or $project == 'cellular' or $project == 'contractor' or $project == 'loandolphins' or $project == 'spello' or $project == 'espero' or $project == 'camphone' or $project == 'confevent' or $project == 'buyinto' or $project == 'carprotect' or $project == 'trickleup' or $project == 'procount' or $project == 'apollo' or $project == 'marigold' or $project == 'jonbin' or $project == 'bizacumen' or $project == 'lowrise' or $project == 'picalter') { ?>
+<?php if ($project == 'monstroid_2' or $project == 'glossylook' or $project == 'calio' or $project == 'guillermo' or $project == 'delicia' or $project == 'itideas' or $project == 'hotelbliss' or $project == 'propello' or $project == 'bookit' or $project == 'thelegalway' or $project == 'cellular' or $project == 'contractor' or $project == 'loandolphins' or $project == 'spello' or $project == 'espero' or $project == 'camphone' or $project == 'confevent' or $project == 'buyinto' or $project == 'carprotect' or $project == 'trickleup' or $project == 'procount' or $project == 'apollo' or $project == 'marigold' or $project == 'jonbin' or $project == 'bizacumen' or $project == 'lowrise' or $project == 'picalter' or $project == 'piperoni' or $project == 'rainbowscolors' or $project == 'neobeat' or $project == 'griddling' or $project == 'adbreak' or $project == 'ivering' or $project == 'estadoz' or $project == 'architera' or $project == 'webbox' or $project == 'walton' or $project == 'downtheriver' or $project == 'housepress' or $project == 'maryville' or $project == 'dalton' or $project == 'lafood' or $project == 'stexchange' or $project == 'cared4' or $project == 'identiz') { ?>
         <li>
             <dl class="inline-term">
                 <dt>Landing Main</dt>
@@ -846,7 +846,7 @@ Top  Main   Footer  Social
             </dl>
         </li>
 <?php } ?>
-        
+
         <li>
             <dl class="inline-term">
                 <dt>Footer</dt>
@@ -854,7 +854,7 @@ Top  Main   Footer  Social
                     Select items for services-menu
                 </dd>
             </dl>
-        </li> 
+        </li>
 
         <li>
             <dl class="inline-term">
@@ -863,7 +863,7 @@ Top  Main   Footer  Social
                     Select navigation menu, that will be used for social networks
                 </dd>
             </dl>
-        </li> 
+        </li>
     </ul>
 <?php } ?>
 

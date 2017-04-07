@@ -1,0 +1,9709 @@
+wp-user{
+	"id": "plugins",
+	"translations": {
+		"en": "Plugins",
+		"ru": "Плагины"
+	},
+	"articles": {
+		"wildride": [
+			{
+				"id": "cherry-bar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "easy-twitter-feed-widget",
+				"translations": {
+					"en": "Easy Twitter Feed Widget",
+					"ru": "Easy Twitter Feed Widget"
+				}
+			},
+			{
+				"id": "facebook-widget",
+				"translations": {
+					"en": "Facebook Widget",
+					"ru": "Facebook Widget"
+				}
+			},
+			{
+				"id": "give-donation-plugin",
+				"translations": {
+					"en": "Give - Donation Plugin",
+					"ru": "Give - Donation Plugin"
+				}
+			},
+			{
+				"id": "track-kickstarter-project",
+				"translations": {
+					"en": "Track Kickstarter Project",
+					"ru": "Track Kickstarter Project"
+				}
+			},
+			{
+				"id": "widget-importer-exporter",
+				"translations": {
+					"en": "Widget Importer & Exporter",
+					"ru": "Widget Importer & Exporter"
+				}
+			},
+			{
+				"id": "wordpress-importer",
+				"translations": {
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
+				}
+			}
+		],
+		"gadnews": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "easy-twitter-feed-widget",
+				"translations": {
+					"en": "Easy Twitter Feed Widget",
+					"ru": "Easy Twitter Feed Widget"
+				}
+			},
+			{
+				"id": "widget-importer-exporter",
+				"translations": {
+					"en": "Widget Importer & Exporter",
+					"ru": "Widget Importer & Exporter"
+				}
+			},
+			{
+				"id": "wordpress-importer",
+				"translations": {
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
+				}
+			}
+		],
+		"blogetti": [],
+		"fitnesys": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "easy-twitter-feed-widget",
+				"translations": {
+					"en": "Easy Twitter Feed Widget",
+					"ru": "Easy Twitter Feed Widget"
+				}
+			},
+			{
+				"id": "widget-importer-exporter",
+				"translations": {
+					"en": "Widget Importer & Exporter",
+					"ru": "Widget Importer & Exporter"
+				}
+			},
+			{
+				"id": "wordpress-importer",
+				"translations": {
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
+				}
+			}
+		],
+		"stylepark": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"kustrix": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			}
+		],
+		"kingnews": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "easy-twitter-feed-widget",
+				"translations": {
+					"en": "Easy Twitter Feed Widget",
+					"ru": "Easy Twitter Feed Widget"
+				}
+			},
+			{
+				"id": "facebook-widget",
+				"translations": {
+					"en": "Facebook Widget",
+					"ru": "Facebook Widget"
+				}
+			},
+			{
+				"id": "widget-importer-exporter",
+				"translations": {
+					"en": "Widget Importer & Exporter",
+					"ru": "Widget Importer & Exporter"
+				}
+			},
+			{
+				"id": "wordpress-importer",
+				"translations": {
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
+				}
+			}
+		],
+		"fairystyle": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "widget-importer-exporter",
+				"translations": {
+					"en": "Widget Importer & Exporter",
+					"ru": "Widget Importer & Exporter"
+				}
+			},
+			{
+				"id": "wordpress-importer",
+				"translations": {
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
+				}
+			}
+		],
+		"dailysports": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "widget-importer-exporter",
+				"translations": {
+					"en": "Widget Importer & Exporter",
+					"ru": "Widget Importer & Exporter"
+				}
+			},
+			{
+				"id": "wordpress-importer",
+				"translations": {
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
+				}
+			}
+		],
+		"weeklyjournal": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"globera": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"editorso": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"vegetexia": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"stylepark_tf": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"dailysports_tf": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "widget-importer-exporter",
+				"translations": {
+					"en": "Widget Importer & Exporter",
+					"ru": "Widget Importer & Exporter"
+				}
+			},
+			{
+				"id": "wordpress-importer",
+				"translations": {
+					"en": "WordPress Importer",
+					"ru": "WordPress Importer"
+				}
+			}
+		],
+		"neurion_tf": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"sketchfield_tf": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			}
+		],
+		"clubstome": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"bedentist": [
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-popups",
+				"translations": {
+					"en": "Cherry PopUps",
+					"ru": "Cherry PopUps"
+				}
+			}
+		],
+		"neurion": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"waylard": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"pristine": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"samson": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"ironmass": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"bettaso": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"mechanna": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"advisto": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "header-banner",
+				"translations": {
+					"en": "TM Header Banner",
+					"ru": "TM Header Banner"
+				}
+			}
+		],
+		"fiona": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"cleaningpro": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"posh": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"confucius": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"plumberpro": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"smarthouse": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"madeleine": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"fenimore": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "tm-header-banner",
+				"translations": {
+					"en": "TM Header Banner",
+					"ru": "TM Header Banner"
+				}
+			}
+		],
+		"focussity": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			}
+		],
+		"durand": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			}
+		],
+		"grannali": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"chateau": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"bellatoi": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			}
+		],
+		"shanti": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			}
+		],
+		"nolan": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "header-banner",
+				"translations": {
+					"en": "TM Header Banner",
+					"ru": "TM Header Banner"
+				}
+			}
+		],
+		"jorden": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"fuel": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"bellaina": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "real-estate",
+				"translations": {
+					"en": "Cherry Real Estate",
+					"ru": "Cherry Real Estate"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			}
+		],
+		"teddy": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"builderry": [
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			}
+		],
+		"neuton": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "tm-header-banner",
+				"translations": {
+					"en": "TM Header Banner",
+					"ru": "TM Header Banner"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			}
+		],
+		"proedge": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "tm-header-banner",
+				"translations": {
+					"en": "TM Header Banner",
+					"ru": "TM Header Banner"
+				}
+			}
+		],
+		"chromix": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "tm-header-banner",
+				"translations": {
+					"en": "TM Header Banner",
+					"ru": "TM Header Banner"
+				}
+			}
+		],
+		"artwork": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"safedrive": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"sensei": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"legacy": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "header-banner",
+				"translations": {
+					"en": "TM Header Banner",
+					"ru": "TM Header Banner"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			}
+		],
+		"lawpress": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "header-banner",
+				"translations": {
+					"en": "TM Header Banner",
+					"ru": "TM Header Banner"
+				}
+			}
+		],
+		"talisman": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"timberline": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare Wishlist",
+					"ru": "TM Woocommerce Compare Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+
+		],
+		"pettown": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare Wishlist",
+					"ru": "TM Woocommerce Compare Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"limittax": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "tm-header-banner",
+				"translations": {
+					"en": "TM Header Banner",
+					"ru": "TM Header Banner"
+				}
+			}
+		],
+		"greenville": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			}
+		],
+		"cookery": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"duval": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			}
+		],
+		"keypress": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"crystalica": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"cosmetro_tf": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"penn": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"leonardo": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"porto": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"odyssey": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"masterchef": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"chopchop": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"whitewhale": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"arden": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"tanaka": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"addison": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			}
+		],
+		"ecolife": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "header-banner",
+				"translations": {
+					"en": "TM Header Banner",
+					"ru": "TM Header Banner"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			}
+		],
+		"hidalgo": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"mizrahi": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"redhotgrill": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"happylearning": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"inmotion": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"mohican": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare Wishlist",
+					"ru": "TM Woocommerce Compare Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"arlo": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"machinist": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"cascade": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"paintelle": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"helios": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			}
+		],
+		"sportlabs": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"fleek": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			}
+		],
+		"homepro": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "real-estate",
+				"translations": {
+					"en": "Cherry Real Estate",
+					"ru": "Cherry Real Estate"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			}
+		],
+		"salvatoro": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"callum": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"roadway": [
+				{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"tradex": [
+				{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "header-banner",
+				"translations": {
+					"en": "TM Header Banner",
+					"ru": "TM Header Banner"
+				}
+			}
+		],
+		"italica": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"gutenberg": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			}
+		],
+		"knox": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"gaze": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare Wishlist",
+					"ru": "TM Woocommerce Compare Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"techlab": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"organica": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"infobyte": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"transit": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"jericho": [{
+				"id": "smart-slider-widget",
+				"translations": {
+					"en": "Smart Slider",
+					"ru": "Умный слайдер"
+				}
+			},  {
+				"id": "categories",
+				"translations": {
+					"en": "Categories",
+					"ru": "Категории"
+				}
+			},  {
+				"id": "calendar",
+				"translations": {
+					"en": "Calendar",
+					"ru": "Календарь"
+				}
+			},  {
+				"id": "banner",
+				"translations": {
+					"en": "Banner",
+					"ru": "Баннер"
+				}
+			},  {
+				"id": "custom-post-widget-ver3",
+				"translations": {
+					"en": "Custom posts",
+					"ru": "Посты"
+				}
+			},  {
+				"id": "recent-comments-widget",
+				"translations": {
+					"en": "Recent Comments",
+					"ru": "Новые комментарии "
+				}
+			},  {
+				"id": "recent-posts-widget-v2",
+				"translations": {
+					"en": "Recent Posts",
+					"ru": "Новые публикации "
+				}
+			},  {
+				"id": "tag-cloud",
+				"translations": {
+					"en": "Tag Cloud",
+					"ru": "Облако тегов"
+				}
+			},  {
+				"id": "taxonomy-tiles-widget",
+				"translations": {
+					"en": "Taxonomy Tiles",
+					"ru": "Виджет категорий и тегов"
+				}
+			},  {
+				"id": "about-author-widget",
+				"translations": {
+					"en": "About Author",
+					"ru": "Информация об авторе"
+				}
+			},  {
+				"id": "about",
+				"translations": {
+					"en": "About Focussity",
+					"ru": "О Focussity"
+				}
+			},  {
+				"id": "subscribe-and-follow-widget",
+				"translations": {
+					"en": "Subscribe and Follow",
+					"ru": "Подписка и Follow"
+				}
+			},  {
+				"id": "archives",
+				"translations": {
+					"en": "Archives",
+					"ru": "Архив"
+				}
+			},  {
+				"id": "custom-menu",
+				"translations": {
+					"en": " Custom Menu ",
+					"ru": " Custom Menu "
+				}
+			},  {
+				"id": "text",
+				"translations": {
+					"en": "Text",
+					"ru": "Текст"
+				}
+			},  {
+				"id": "meta",
+				"translations": {
+					"en": "Meta",
+					"ru": "Meta"
+				}
+			},  {
+				"id": "pages",
+				"translations": {
+					"en": "Pages",
+					"ru": "Страницы"
+				}
+			},  {
+				"id": "rss",
+				"translations": {
+					"en": "RSS",
+					"ru": "RSS"
+				}
+			},  {
+				"id": "image-grid-widget",
+				"translations": {
+					"en": "Image Grid",
+					"ru": "Сетка изображений"
+				}
+			},  {
+				"id": "carousel-widget",
+				"translations": {
+					"en": "Carousel Widget",
+					"ru": "Виджет карусель"
+				}
+			}
+		],
+		"walden": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"chefplaza": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare Wishlist",
+					"ru": "TM Woocommerce Compare Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"agrilloc": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"monstroid_2": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "tm-dashboard",
+				"translations": {
+					"en": "TM Dashboard",
+					"ru": "TM Dashboard"
+
+				}
+			}
+		],
+		"stylefactory": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "cherry-popups",
+				"translations": {
+					"en": "Cherry PopUps",
+					"ru": "Cherry PopUps"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"hardwire": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+
+				}
+			},
+			{
+				"id": "cherry-popups",
+				"translations": {
+					"en": "Cherry PopUps",
+					"ru": "Cherry PopUps"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"general_doc": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "facebook-widget",
+				"translations": {
+					"en": "Facebook Widget",
+					"ru": "Facebook Widget"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "cherry-popups",
+				"translations": {
+					"en": "Cherry PopUps",
+					"ru": "Cherry PopUps"
+				}
+			}
+		],
+		"valentia": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			}
+		],
+		"thedailypost": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "widget-importer-exporter",
+				"translations": {
+					"en": "Widget Importer & Exporter",
+					"ru": "Widget Importer & Exporter"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+
+		],
+		"streamline": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+
+		],
+		"cityherald": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"prima": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			}
+		],
+		"viralnews": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"room4pics": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"rufusvr": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"bayden": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			}
+		],
+		"petstore": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-popups",
+				"translations": {
+					"en": "Cherry PopUps",
+					"ru": "Cherry PopUps"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"expenditorious": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"trudeau": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"niceinn": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"helpinghand": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"uptime99": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"wheelmasters": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"preservarium": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"talkingbusiness": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"greenfield": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"stargaze": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"vitahealth": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"emanuella": [
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"newborn": [
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			}
+		],
+		"heavyhandlers": [
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			}
+		],
+		"glossylook": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			}
+		],
+		"metadental": [
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			}
+		],
+		"petcenter": [
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"takeandspend": [
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			}
+		],
+		"safescrap": [
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			}
+		],
+		"calio": [
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			}
+		],
+		"armyacademy": [
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"universalcare": [
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"callista": [
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			}
+		],
+		"quickwind": [
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			}
+		],
+		"sportware": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"stellarlook": [
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"speedyfix": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"presstige": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			}
+		],
+		"guillermo": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"sabbatico": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"exhibita": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"yoozie": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"legalalien": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"magnifio": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"pathter": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"fabrique": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			}
+		],
+		"hypernova": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-popups",
+				"translations": {
+					"en": "Cherry PopUps",
+					"ru": "Cherry PopUps"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-megamenu",
+				"translations": {
+					"en": "TM Mega Menu",
+					"ru": "TM Mega Menu"
+				}
+			}
+		],
+		"delicia": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			}
+		],
+		"roox": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"upbuild": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"shopable": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-popups",
+				"translations": {
+					"en": "Cherry PopUps",
+					"ru": "Cherry PopUps"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-megamenu",
+				"translations": {
+					"en": "TM Mega Menu",
+					"ru": "TM Mega Menu"
+				}
+			}
+		],
+		"malcolmy": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"itideas": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"medkit": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			}
+		],
+		"hotelbliss": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"cupojava": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"navyblue": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"petinn": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"justizia": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			}
+		],
+		"presidential": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"propello": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"blazingnews": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"healthrehub": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"itsagirl": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"bookit": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"thelegalway": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"dollarex": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"bloomie": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"scapex": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"cellular": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"contractor": [
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"loandolphins": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"woostroid": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+
+				}
+			},
+			{
+				"id": "cherry-popups",
+				"translations": {
+					"en": "Cherry PopUps",
+					"ru": "Cherry PopUps"
+				}
+			},
+			{
+				"id": "woo-compare-wishlist",
+				"translations": {
+					"en": "TM Woocommerce Compare & Wishlist",
+					"ru": "TM Woocommerce Compare & Wishlist"
+				}
+			},
+			{
+				"id": "tm-megamenu",
+				"translations": {
+					"en": "TM Mega Menu",
+					"ru": "TM Mega Menu"
+				}
+			},
+			{
+				"id": "tm-woocommerce-package",
+				"translations": {
+					"en": "TM WooCommerce Package",
+					"ru": "TM WooCommerce Package"
+
+				}
+			},
+			{
+				"id": "tm-style-switcher",
+				"translations": {
+					"en": "TM Style Switcher",
+					"ru": "TM Style Switcher"
+
+				}
+			},
+			{
+				"id": "tm-woocommerce-ajax-filter",
+				"translations": {
+					"en": "TM WooCommerce Ajax Filters",
+					"ru": "TM WooCommerce Ajax Filters"
+
+				}
+			},
+			{
+				"id": "tm-woocommerce-quick-view",
+				"translations": {
+					"en": "TM WooCommerce Quick View",
+					"ru": "TM WooCommerce Quick View"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			}
+		],
+		"therapino": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"bigventure": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"spello": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"shieldon": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"espero": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"camphone": [
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"interra": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			}
+		],
+		"highridgecenter": [
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"glossy_look": [
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"globalhealth": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"confevent": [
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"buyinto": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"carprotect": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"tripi": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-sidebars",
+				"translations": {
+					"en": "Cherry Sidebars",
+					"ru": "Cherry Sidebars"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"trickleup": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"smallsteps": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			}
+		],
+		"rehealth": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			}
+		],
+		"mikebridge": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"procount": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			}
+		],
+		"fashionia": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			}
+		],
+		"apollo": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			}
+		],
+		"dynasty": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"marigold": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			}
+		],
+		"myfamilydoctor": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"jonbin": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			}
+		],
+		"bizacumen": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			}
+		],
+		"fastway": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"lowrise": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			}
+		],
+		"picalter": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			}
+		],
+		"piperoni": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			}
+		],
+		"rainbowscolors": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"ecopower": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			}
+		],
+		"neobeat": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			}
+		],
+		"griddling": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			}
+		],
+		"adbreak": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			}
+		],
+		"ivering": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			}
+		],
+		"estadoz": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			}
+		],
+		"slim": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			}
+		],
+		"architera": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			}
+		],
+		"counselor": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			}
+		],
+		"maxwell": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "simple-file-downloader",
+				"translations": {
+					"en": "Simple File Downloader",
+					"ru": "Simple File Downloader"
+				}
+			}
+		],
+		"webbox": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			}
+		],
+		"walton": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			}
+		],
+		"downtheriver": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"housepress": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			}
+		],
+		"maryville": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			}
+		],
+		"dalton": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			}
+		],
+		"lafood": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "projects",
+				"translations": {
+					"en": "Cherry Projects",
+					"ru": "Cherry Projects"
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			}
+		],
+		"dentist": [
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Data Importer",
+					"ru": "Cherry Data Importer"
+				}
+			},
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-search",
+				"translations": {
+					"en": "Cherry Search",
+					"ru": "Cherry Search"
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-photo-gallery",
+				"translations": {
+					"en": "TM Photo Gallery",
+					"ru": "TM Photo Gallery"
+				}
+			}
+		],
+		"stexchange": [
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			}
+		],
+		"cared4": [
+			{
+				"id": "builder",
+				"translations": {
+					"en": "Power Builder",
+					"ru": "Power Builder"
+				}
+			},
+			{
+				"id": "builder-integrator",
+				"translations": {
+					"en": "Power Builder Integrator",
+					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "cherry-sidebar-manager",
+				"translations": {
+					"en": "Cherry Sidebar Manager",
+					"ru": "Cherry Sidebar Manager"
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "contact-form-seven",
+				"translations": {
+					"en": "Contact form 7",
+					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
+				}
+			},
+			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			}
+		]
+
+	}
+}
