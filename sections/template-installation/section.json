@@ -2802,7 +2802,7 @@
 				}
 			},
 			{
-				"id": "manual-update",
+				"id": "manual-update-m",
 				"translations": {
 					"en": "Manual Update",
 					"ru": "Обновление темы"
@@ -2810,6 +2810,29 @@
 			}
 		],
 		"stylefactory": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"interra": [
 			{
 				"id": "engine-installation",
 				"translations": {
@@ -2888,7 +2911,7 @@
 				}
 			},
 			{
-				"id": "manual-update",
+				"id": "manual-update-w",
 				"translations": {
 					"en": "Manual Update",
 					"ru": "Обновление темы"

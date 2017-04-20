@@ -5616,6 +5616,121 @@
 					"ru": "Форматы постов"
 				}
 			}
+		],
+		"latteccino": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"spatulas": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"inigo": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"akhmada": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
+		],
+		"firedup": [
+			{
+				"id": "blog-post",
+				"translations": {
+					"en": "Adding blog post",
+					"ru": "Создание записи блога"
+				}
+			},
+			{
+				"id": "adding-category",
+				"translations": {
+					"en": "Adding a category",
+					"ru": "Добавление категории"
+				}
+			},
+			{
+				"id": "post-formats",
+				"translations": {
+					"en": "Post formats",
+					"ru": "Форматы постов"
+				}
+			}
 		]
 	}
 }

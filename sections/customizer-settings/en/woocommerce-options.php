@@ -12,7 +12,7 @@
 <p>
     Single product slider layout
 </p>
-<?php if ($project != 'stylefactory' && $project != 'woostroid') { ?>
+<?php if ($project != 'stylefactory' && $project != 'woostroid' && $project != 'firedup') { ?>
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
@@ -41,11 +41,11 @@
         </dl>
     </li>
 </ul>
-<?php } ?> 
-<?php } ?> 
+<?php } ?>
+<?php } ?>
 
 
-<?php if ($project != 'woostroid') { ?>
+<?php if ($project != 'woostroid' && $project != 'firedup') { ?>
 <h5>Woocommerce colors</h5>
 <ul class="marked-list">
 <?php if ($project == 'stylefactory') { ?>
@@ -98,11 +98,11 @@
         </dl>
     </li>
 
-<?php } ?> 
+<?php } ?>
 
-<?php } ?>    
+<?php } ?>
 
-<?php if ($project == 'woostroid') { ?>
+<?php if ($project == 'woostroid' or $project == 'firedup') { ?>
 
 <h5>Woocommerce badge</h5>
 
@@ -228,4 +228,4 @@
         </dl>
     </li>
 </ul>
-<?php } ?>   
+<?php } ?>

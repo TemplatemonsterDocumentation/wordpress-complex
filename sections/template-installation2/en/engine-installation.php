@@ -1,5 +1,5 @@
 
-    <h3>WordPress installation</h3>
+    <h3>WordPress Installation</h3>
 
     <p>Download the required WordPress version. You can check which release is required on the template preview page in
        the requirements list. Make sure you download the correct version.</p>
@@ -33,29 +33,29 @@
     <ul class="marked-list">
         <li><i class="icon-info-sign"></i>
             <a target="_blank" href="http://www.templatemonster.com/help/extract-archived-files-mac-os.html">
-                Unpacking archive (MAC OS)
+                Unpacking archive (MAC OS).
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
             <a target="_blank" href="http://www.templatemonster.com/help/extract-archived-files-windows-os.html">
-                Unpacking archive (Windows OS)
+                Unpacking archive (Windows OS).
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
             <a target="_blank" href="http://www.templatemonster.com/help/downloading-and-installing-winzip.html">
-                How to download and install WinZip
+                How to download and install WinZip.
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
             <a target="_blank" href="http://www.templatemonster.com/help/how-unzip-template-mac.html">
-                How to unpack the template (MAC OS)
+                How to unpack the template (MAC OS).
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
             <a target="_blank" href="http://www.templatemonster.com/help/how-unzip-template-mac.html">
-                How to unpack the template
+                How to unpack the template.
             </a>
-            <a target="_blank" href="http://www.templatemonster.com/help/unzipping-your-template.html">(Windows OS)</a>
+            <a target="_blank" href="http://www.templatemonster.com/help/unzipping-your-template.html">(Windows OS).</a>
         </li>
     </ul>
 
@@ -80,11 +80,11 @@
     <ul class="marked-list">
         <li>
             <a target="_blank" href="http://www.templatemonster.com/help/how-upload-files-server-2.html">
-                How to upload the files to server
+                How to upload the files to server.
             </a>
         <li>
             <a target="_blank" href="http://www.templatemonster.com/help/how-to-upload-files-to-a-server-using-cpanel-webhost-manager-whm.html">
-                How to upload the files to server using cPanel (WebHost Manager, WHM)
+                How to upload the files to server using cPanel (WebHost Manager, WHM).
             </a>
         </li>
     </ul>
@@ -106,13 +106,13 @@
             </figure>
         </li>
         <li>
-            <p>Enter database name in the "Create new database" field.</p>
+            <p>Enter database name in the <strong>Create new database</strong> field.</p>
             <figure class="img-polaroid">
                 <img src="img/database-create-2.jpg" alt=""/>
             </figure>
         </li>
         <li>
-            <p>Click the "Create" "button.</p>
+            <p>Click the <strong>Create</strong> button.</p>
             <figure class="img-polaroid">
                 <img src="img/database-create-3.jpg" alt=""/>
             </figure>
@@ -130,11 +130,11 @@
         <li class="first"><i class="icon-info-sign"></i>
             <a target="_blank" href="http://www.templatemonster.com/help/how-create-database.html">How to create
                                                                                                   database
-            </a>
+          .  </a>
         </li>
         <li class="last"><i class="icon-info-sign"></i>
             <a target="_blank" href="http://www.templatemonster.com/help/how-to-create-mysql-database-with-godaddy.html">
-                How to create MySQL database with GoDaddy
+                How to create MySQL database with GoDaddy.
             </a>
         </li>
     </ul>
@@ -145,20 +145,20 @@
     </p>
 
     <h4>
-        Creating the configuration file
+        Creating the Configuration File
     </h4>
 
     <p>
         WordPress installation screen will inform you that
-        the configuration file is missing. Click "Create
-        Configuration File" to create it.
+        the configuration file is missing. Click <strong>Create
+        Configuration File</strong> to create it.
     </p>
 
     <figure class="img-polaroid"><img src="img/wordpress/wp-install-1-b.jpg" alt="Creating configuration file."></figure>
 
 
     <h4>
-        Database details
+        Database Details
     </h4>
 
     <div class="alert alert-info">
@@ -173,7 +173,7 @@
 
 
     <h4>
-        Website details
+        Website Details
     </h4>
 
     <p>
@@ -187,7 +187,7 @@
     </ol>
 
     <p>
-        Click "Install WordPress"
+        Click <strong>Install WordPress</strong>
     </p>
 
     <figure class="img-polaroid"><img src="img/wordpress/wp-install-6-b.jpg" alt="Inserting website details."></figure>

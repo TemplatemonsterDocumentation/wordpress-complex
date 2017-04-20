@@ -1,4 +1,7 @@
 <h2>Introduction</h2>
+
+
+
 <h5>Thank you for purchasing a WordPress template. This documentation consists of several parts and covers the entire process of installing and setting up a WordPress website from scratch.</h5>
 <article id="whatiswordpress">
     <h3>What is WordPress CMS?</h3>
@@ -68,6 +71,18 @@
                             </dl>
                         </li>
                         <?php } ?>
+                        <?php if ($project == 'interra') { ?>
+                        <li>
+                            <dl class="inline-term">
+                                <dt>
+                                    <i class="fa fa-file"></i> <strong>widgets.wie</strong>
+                                </dt>
+                                <dd>
+                                    contains widgets settings.
+                                </dd>
+                            </dl>
+                        </li>
+                    <?php } ?>
                     </ul>
                 </li>
                 <li class="folder">
@@ -543,8 +558,8 @@
     		</li>
     		<li>in <strong>.htaccess</strong> file: 'php_value max_execution_time' => 60;</li>
     		<li>in <strong>wp-config.php</strong>: 'set_time_limit' => 60;</li>
-    		<li>50 MB of disk space</li>
-    		<li>memory limit per process: 64mb (128mb or more recommended)</li>
+    		<li>50 MB of disk space;</li>
+    		<li>memory limit per process: 64mb (128mb or more recommended).</li>
     	</ol>
 
 
@@ -555,18 +570,19 @@
     	<p>Recommended settings are: </p>
 
     	<ol class="index-list">
-    		<li>PHP 5.4</li>
-    		<li>MySQL 5.5 or later</li>
-    		<li>mod_rewrite</li>
-    		<li>php fopen</li>
-    		<li>suPHP</li>
+    		<li>PHP 5.4;</li>
+    		<li>MySQL 5.5 or later;</li>
+    		<li>mod_rewrite;</li>
+    		<li>php fopen;</li>
+    		<li>suPHP.</li>
     	</ol>
 
     	<p>You can also install WordPress on your PC or laptop through a local server. You can use the following software to create a local server: <strong>WAMP</strong>, <strong>AppServ</strong>, <strong>MAMP</strong>, etc. All of these support WordPress and can be installed as a regular software.</p>
     	<p>These tutorials will help you set up the local server:</p>
     	<ul class="marked-list">
-    		<li><a href="http://www.templatemonster.com/help/how-to-install-appserv-web-development-environment.html" target="_blank">How to install AppServ web development environment</a></li>
-    	<li><a href="http://www.templatemonster.com/help/how-to-install-wamp-web-development-environment.html" target="_blank">How to install WAMP web development environment</a></li>
-    	<li><a href="http://www.templatemonster.com/help/how-to-install-xamp-web-development-environment.html" target="_blank">How to install XAMP web development environment</a></li>
+    		<li><a href="https://www.templatemonster.com/help/how-to-install-appserv-web-development-environment.html" target="_blank">How to install AppServ web development environment</a></li>
+    	<li><a href="https://www.templatemonster.com/help/how-to-install-wamp-web-development-environment.html" target="_blank">How to install WAMP web development environment</a></li>
+    	<li><a href="https://www.templatemonster.com/help/how-to-install-xamp-web-development-environment.html" target="_blank">How to install XAMP web development environment</a></li>
     </ul>
+
 </article>

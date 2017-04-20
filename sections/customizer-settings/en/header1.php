@@ -10,6 +10,19 @@
 
 <h5>Header Styles</h5>
 
+<?php if ($project == 'latteccino') { ?>
+<ul class="marked-list">
+    <li>
+        <dl class="inline-term">
+            <dt>Show Header Logo in Front Page</dt>
+                <dd>
+                    Here you can show/hide Header Logo on Front Page
+                </dd>
+        </dl>
+    </li>
+</ul>
+<?php } ?>
+
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
@@ -53,6 +66,35 @@
         </dl>
     </li>
 
+<?php if ($project == 'firedup') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Enable search</dt>
+                <dd>
+                    Enable / Disable search form in header
+                </dd>
+        </dl>
+    </li>
+<?php } ?>
+
+<?php if ($project == 'spatulas') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Enable search</dt>
+                <dd>
+                    Enable / Disable search form in header
+                </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Header call to action button</dt>
+                <dd>
+                    Customize header call to action button
+                </dd>
+        </dl>
+    </li>
+<?php } ?>
 </ul>
 
 <ul class="marked-list">
@@ -97,9 +139,47 @@
             </dd>
         </dl>
     </li>
+
+    <?php if ($project == 'firedup') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Background color</dt>
+                <dd>
+                    Here you can define header top panel background color
+                </dd>
+        </dl>
+    </li>
+<?php } ?>
+
+<?php if ($project == 'spatulas') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Disclaimer Text</dt>
+                <dd>
+                    Here you can define header top panel text content
+                </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Background color</dt>
+                <dd>
+                    Here you can define header top panel background color
+                </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt> Enable top menu </dt>
+                <dd>
+                    Enable/disable top menu
+                </dd>
+        </dl>
+    </li>
+<?php } ?>
 </ul>
 
-
+<?php if ($project != 'spatulas' && $project != 'firedup') { ?>
 <h5>Header Elements</h5>
 <p> You can set header elements here.</p>
 <ul class="marked-list">
@@ -120,6 +200,7 @@
         </dl>
     </li>
 </ul>
+<?php } ?>
 
 <h5>Header Contact Block</h5>
 <ul class="marked-list">
@@ -197,6 +278,7 @@
             </dd>
         </dl>
     </li>
+<?php if ($project != 'latteccino' && $project != 'spatulas' && $project != 'firedup') { ?>
     <li>
         <dl class="inline-term">
             <dt>Enable title attributes</dt>
@@ -205,6 +287,17 @@
             </dd>
         </dl>
     </li>
+<?php } ?>
+<?php if ($project == 'latteccino' or $project == 'spatulas' or $project == 'firedup') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Enable item description</dt>
+            <dd>
+                Enable/disable item description
+            </dd>
+        </dl>
+    </li>
+<?php } ?>
     <li>
         <dl class="inline-term">
             <dt>More menu button type</dt>

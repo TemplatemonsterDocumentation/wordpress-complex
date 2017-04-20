@@ -32,13 +32,13 @@
         Then press on "Begin installing plugins" at the top of the website to start  installation of the recommended plugins.
     </p>
 
-<?php if ($project != 'cosmetro_tf' && $project != 'neurion_tf' && $project != 'sketchfield_tf') { ?> 
+<?php if ($project != 'cosmetro_tf' && $project != 'neurion_tf' && $project != 'sketchfield_tf') { ?>
     <figure class="img-polaroid">
         <img src="img/blog-theme/installation/themes-panel.png" alt="" >
     </figure>
 <?php } ?>
 
-<?php if ($project == 'cosmetro_tf' or $project == 'neurion_tf' or $project == 'sketchfield_tf') { ?> 
+<?php if ($project == 'cosmetro_tf' or $project == 'neurion_tf' or $project == 'sketchfield_tf') { ?>
 <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/tmpl-installation/themes-panel.png">
 </figure>
@@ -58,12 +58,12 @@
 <h4>Automatic Installation Using Cherry Installer </h4>
 <p>
     The theme comes with a pre installed Cherry Data Importer plugin that will help you upload the information quickly and easily.
-    <a href="http://documentation.templatemonster.com/index.php?project=bellaina&lang=en&section=plugins#cherry-data-importer">Check a step by step guide here </a>
+    <a href="https://documentation.templatemonster.com/index.php?project=bellaina&lang=en&section=plugins#cherry-data-importer">Check a step by step guide here </a>
 </p>
 <?php } ?>
 
 
-<?php if ($project != 'bellaina' && $project != 'homepro' && $project != 'gutenberg' && $project != 'addison' &&  $project != 'ecolife' &&  $project != 'duval' &&  $project != 'builderry' &&  $project != 'legacy' &&  $project != 'neuton' &&  $project != 'focussity' &&  $project != 'focussity' &&  $project != 'contractor') { ?> 
+<?php if ($project != 'bellaina' && $project != 'homepro' && $project != 'gutenberg' && $project != 'addison' &&  $project != 'ecolife' &&  $project != 'duval' &&  $project != 'builderry' &&  $project != 'legacy' &&  $project != 'neuton' &&  $project != 'focussity' &&  $project != 'focussity' &&  $project != 'contractor') { ?>
     <h4>In order to install theme sample data</h4>
 
     <p>Navigate to <strong>Tools > Import</strong></p>
@@ -145,7 +145,7 @@
 
 <?php } ?>
 
-    
+
 
 
 

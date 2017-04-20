@@ -3511,13 +3511,6 @@
 					"en": "Timetable",
 					"ru": "Timetable"
 				}
-			},
-			{
-				"id": "w3-total-cache",
-				"translations": {
-					"en": "W3 Total Cache",
-					"ru": "W3 Total Cache"
-				}
 			}
 		],
 		"bookit": [
@@ -3664,15 +3657,6 @@
 				}
 			}
 		],
-		"interra": [
-			{
-				"id": "w3-total-cache",
-				"translations": {
-					"en": "W3 Total Cache",
-					"ru": "W3 Total Cache"
-				}
-			}
-		],
 		"highridgecenter": [
 			{
 				"id": "booked-appointment",
@@ -3724,16 +3708,6 @@
 				"translations": {
 					"en": "TM Timeline",
 					"ru": "TM Timeline"
-				}
-			}
-
-		],
-		"buyinto": [
-			{
-				"id": "w3-total-cache",
-				"translations": {
-					"en": "W3 Total Cache",
-					"ru": "W3 Total Cache"
 				}
 			}
 
@@ -4065,6 +4039,131 @@
 				"translations": {
 					"en": "Booked",
 					"ru": "Booked"
+				}
+			}
+		],
+		"latteccino": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "restaurant-menu",
+				"translations": {
+					"en": "Restaurant Menu",
+					"ru": "Restaurant Menu"
+				}
+			}
+		],
+		"spatulas": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "restaurant-menu",
+				"translations": {
+					"en": "Restaurant Menu",
+					"ru": "Restaurant Menu"
+				}
+			}
+		],
+		"inigo": [
+			{
+				"id": "booked-appointment",
+				"translations": {
+					"en": "Booked",
+					"ru": "Booked"
+				}
+			},
+			{
+				"id": "restaurant-menu",
+				"translations": {
+					"en": "Restaurant Menu",
+					"ru": "Restaurant Menu"
+				}
+			},
+			{
+				"id": "shortcode-widget",
+				"translations": {
+					"en": "Shortcode Widget Plugin",
+					"ru": " "
+				}
+			},
+			{
+				"id": "events-calendar",
+				"translations": {
+					"en": "The Events Calendar",
+					"ru": " "
+				}
+			},
+			{
+				"id": "events-calendar-shortcodes",
+				"translations": {
+					"en": "The Events Calendar Shortcode",
+					"ru": " "
+				}
+			},
+			{
+				"id": "tiny-button",
+				"translations": {
+					"en": "Tiny MCE Small Button",
+					"ru": " "
+				}
+			}
+		],
+		"akhmada": [
+			{
+				"id": "timetable",
+				"translations": {
+					"en": "Timetable",
+					"ru": "Timetable"
+				}
+			}
+		],
+		"firedup": [
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "WooCommerce",
+					"ru": "WooCommerce"
+
+				}
+			},
+			{
+				"id": "woocommerce-sm-buttons",
+				"translations": {
+					"en": "Woocommerce Social Media Share Buttons",
+					"ru": "Woocommerce Social Media Share Buttons"
+
+				}
+			},
+			{
+				"id": "woocommerce-currency-switcher",
+				"translations": {
+					"en": "WooCommerce Currency Switcher",
+					"ru": "WooCommerce Currency Switcher"
+
+				}
+			},
+			{
+				"id": "motopress-slider",
+				"translations": {
+					"en": "MotoPress Slider",
+					"ru": "Слайдер MotoPress"
+				}
+			},
+			{
+				"id": "timeline-master",
+				"translations": {
+					"en": "TM Timeline",
+					"ru": "TM Timeline"
 				}
 			}
 		],

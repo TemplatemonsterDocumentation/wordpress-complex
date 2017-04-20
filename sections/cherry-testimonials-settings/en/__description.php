@@ -2,8 +2,28 @@
 
 <h3>General settings</h3>
 
+<p>To create a new testimonial you have to go to <strong> Administration Panel >Testimonials > Add New</strong>. A page will open offering you to add a new testimonal.</p>
+
+<figure class="img-polaroid">
+    <img src="projects/<?php echo $project;?>/img/images/testt55.png">
+</figure>
+
+<p>You can also organize your tesimonials by creating and using categories. To do this just go to <strong> Testimonials > Categories </strong>. Here you'll see a block for adding a new calegory. </p>
+
+<figure class="img-polaroid">
+    <img src="projects/<?php echo $project;?>/img/images/test6666.png">
+</figure>
+
+<p> To manage your testimonials settings go to <strong> Testimonials > Settings </strong>. Here you'll be able to choose the archive page of your testimonials and select posts number for any chosen page. </p>
+
+<figure class="img-polaroid">
+    <img src="projects/<?php echo $project;?>/img/images/test7777.png">
+</figure>
+
+<h2> Plugin Module Settings </h2>
+
 <p>
-    To make changes in Cherry Testimonials General Settings you have to go to Posts > Add new > Insert modules > Testimonials.
+    To make changes in Cherry Testimonials Module General Settings you have to go to Posts > Add new > Insert modules > Testimonials.
     A window containing Cherry Testimonials General Settings will appear.
 </p>
 

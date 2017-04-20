@@ -13,14 +13,14 @@
 </ol>
 
 
-<h4>Manual sample data installation</h4>
+<h4>Manual Sample Data Installation</h4>
 
 
 <h5>For installing the sample data manualy please follow the instructions listed below.</h5>
 
 <p>1. Open the <strong>theme\manual_install</strong> folder of your downloaded template package.</p>
 <p>2. Upload the “uploads” folder to the wp-content directory of your WordPress installation, accept folder(s) replacement. Please note that your images may be replaced with sample images.</p>
-<p>3. Open the <strong>theme-name.sql</strong> file that is located in the <strong>theme/manual_install/</strong> folder in any text editor (preferably Sublime Text or Notepad) and replace all instances of "<strong>your_website_url_here</strong>" with your website URL in the entire document using the <strong>Find and Replace</strong> tool (hit Ctrl+H hot keys to open this window). E.g.: http://www.mywebsite.com. Please, make sure that you do not have the forward slash "/" sign at the end of the address and the url starts with http://www. Save your changes and close the file.
+<p>3. Open the <strong>theme-name.sql</strong> file that is located in the <strong>theme/manual_install/</strong> folder in any text editor (preferably Sublime Text or Notepad) and replace all instances of <strong>your_website_url_here</strong> with your website URL in the entire document using the <strong>Find and Replace</strong> tool (hit Ctrl+H hot keys to open this window). E.g.: http://www.mywebsite.com. Please, make sure that you do not have the forward slash "/" sign at the end of the address and the url starts with http://www. Save your changes and close the file.
 </p>
 
 <figure class="img-polaroid">

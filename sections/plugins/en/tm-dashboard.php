@@ -96,7 +96,7 @@ There is also a variety of settings for backups. Here they are:</p>
         <dl class="inline-term">
             <dt>Scheduled Backup</dt>
             <dd>
-                Here you can enadle a sheduled backup
+                Here you can enable a sheduled backup
             </dd>
         </dl>
     </li>
@@ -104,7 +104,7 @@ There is also a variety of settings for backups. Here they are:</p>
         <dl class="inline-term">
             <dt>Backup</dt>
             <dd>
-                 In this field you can set the specific qrequency whem the backup is to be made
+                 In this field you can set the specific frequency when the backup is to be made
             </dd>
         </dl>
     </li>

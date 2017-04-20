@@ -9,8 +9,8 @@
 -->
 
 <h5>Footer Styles</h5>
-
 <ul class="marked-list">
+
     <li>
         <dl class="inline-term">
             <dt>Show footer logo</dt>
@@ -19,6 +19,8 @@
             </dd>
         </dl>
     </li>
+
+<?php if ($project == 'latteccino' or $project == 'spatulas' or $project == 'inigo' or $project == 'firedup') { ?>
     <li>
         <dl class="inline-term">
             <dt>Logo upload</dt>
@@ -27,6 +29,7 @@
             </dd>
         </dl>
     </li>
+<?php } ?>
     <li>
         <dl class="inline-term">
             <dt>Copyright text</dt>
@@ -43,6 +46,7 @@
             </dd>
         </dl>
     </li>
+<?php if ($project != 'firedup') { ?>
     <li>
         <dl class="inline-term">
             <dt>Widget Area Columns</dt>
@@ -51,6 +55,7 @@
             </dd>
         </dl>
     </li>
+<?php } ?>
     <li>
         <dl class="inline-term">
             <dt>Layout</dt>
@@ -59,7 +64,7 @@
             </dd>
         </dl>
     </li>
-
+<?php if ($project != 'latteccino' && $project != 'spatulas' && $project != 'inigo' && $project != 'firedup') { ?>
     <li>
         <dl class="inline-term">
             <dt>Footer Widgets Area color</dt>
@@ -68,7 +73,7 @@
             </dd>
         </dl>
     </li>
-
+<?php } ?>
 
     <li>
         <dl class="inline-term">
@@ -78,9 +83,148 @@
             </dd>
         </dl>
     </li>
+<?php if ($project == 'latteccino' or $project == 'spatulas') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Footer Widgets Area Background color</dt>
+            <dd>
+                Here you can define the Widget Area background color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show footer menu</dt>
+            <dd>
+                Show/hide footer menu
+            </dd>
+        </dl>
+    </li>
+<?php } ?>
 </ul>
 
+<ul class="marked-list">
+<?php if ($project == 'inigo') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Background Repeat</dt>
+            <dd>
+                Set background repeat for footer image
+            </dd>
+        </dl>
+    </li>
+     <li>
+        <dl class="inline-term">
+            <dt>Background Position</dt>
+            <dd>
+                Set background position for footer image
+            </dd>
+        </dl>
+    </li>
+     <li>
+        <dl class="inline-term">
+            <dt>Background Attachment</dt>
+            <dd>
+                Set background attachment for footer image
+            </dd>
+        </dl>
+    </li>
+<?php } ?>
 
+<?php if ($project == 'firedup') { ?>
+    <li>
+        <dl class="inline-term">
+            <dt>Top Widget Area Columns</dt>
+            <dd>
+                Here you can set a number of columns for site widgets, 1 to 4
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Bottom Widget Area Columns</dt>
+            <dd>
+                Here you can set a number of columns for site widgets, 1 to 4
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Footer Widgets Top Area Background</dt>
+            <dd>
+                Here you can define the Widget Area background color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Footer Widgets Bottom Area Background Color</dt>
+            <dd>
+                Here you can define the Widget Area background color
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Footer Widgets Top Area Background Image</dt>
+            <dd>
+                Here you can define the Widget Area background image
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Footer Widgets Bottom Area Background Image</dt>
+            <dd>
+                Here you can define the Widget Area background image
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show Second Footer Widgets Area</dt>
+            <dd>
+                Here you can show/hide the second footer widgets area
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show Footer Menu</dt>
+            <dd>
+                Here you can show/hide footer menu
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Show Pay Systems in Footer</dt>
+            <dd>
+                Here you can show/hide pay systems in footer area
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Image pay system link</dt>
+            <dd>
+                Here you can define the link of the pay system
+            </dd>
+        </dl>
+    </li>
+    <li>
+        <dl class="inline-term">
+            <dt>Image pay system upload</dt>
+            <dd>
+                Here you can define the image for your pay system
+            </dd>
+        </dl>
+    </li>
+<?php } ?>
+
+
+
+<?php if ($project != 'inigo') { ?>
 <h5>Footer Contact Block</h5>
 <ul class="marked-list">
     <li>
@@ -142,3 +286,4 @@
         </ul>
     </li>
 </ul>
+<?php } ?>

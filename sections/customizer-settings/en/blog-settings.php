@@ -9,7 +9,7 @@
 -->
 
 <ul class="marked-list">
-<?php if ($project == 'tripi' or $project == 'fashionia' or $project == 'identiz') { ?>
+<?php if ($project == 'tripi' or $project == 'fashionia' or $project == 'identiz' or $project == 'spatulas' or $project == 'firedup') { ?>
     <li>
         <dl class="inline-term">
             <dt>Sticky label type</dt>
@@ -57,7 +57,7 @@
     </div>
 
 <?php } ?>
-<?php if ($project != 'tripi' && $project != 'identiz') { ?>
+<?php if ($project != 'tripi' && $project != 'identiz' && $project != 'spatulas') { ?>
     <li>
         <dl class="inline-term">
             <dt>Featured Post Label</dt>

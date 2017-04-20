@@ -1458,7 +1458,8 @@
 	"cherry_testimonials": [
 		  "cherry-testimonials-intro",
 		  "cherry-testimonials-opt",
-		  "cherry-testimonials-settings"
+		  "cherry-testimonials-settings",
+		  "cherry-testimonials-shortcodes"
 	],
 	"infobyte": [
 		"introduction",
@@ -2705,14 +2706,13 @@
 	],
 	"interra": [
 		"introduction",
-		"template-installation2",
+		"template-installation",
 		"basic-configuration",
 		"customizer-settings",
 		"posts-categories",
 		"pages",
 		"widgets",
 		"plugins",
-		"third-party-plugins",
 		"tm-builder",
 		"tm-builder-modules",
 		"extras"
@@ -2781,7 +2781,6 @@
 		"pages",
 		"widgets",
 		"plugins",
-		"third-party-plugins",
 		"tm-builder",
 		"tm-builder-modules",
 		"extras"
@@ -3371,5 +3370,77 @@
 		"tm-builder",
 		"tm-builder-modules",
 		"extras"
+	],
+	"latteccino": [
+		"introduction",
+		"template-installation2",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"spatulas": [
+		"introduction",
+		"template-installation2",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"inigo": [
+		"introduction",
+		"template-installation2",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"akhmada": [
+		"introduction",
+		"template-installation2",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"firedup": [
+		"introduction",
+		"template-installation2",
+		"basic-configuration",
+		"customizer-settings",
+		"posts-categories",
+		"pages",
+		"widgets",
+		"plugins",
+		"third-party-plugins",
+		"tm-builder",
+		"tm-builder-modules",
+		"extras"
+	],
+	"woostroid-update": [
+		"introduction"
 	]
 }
