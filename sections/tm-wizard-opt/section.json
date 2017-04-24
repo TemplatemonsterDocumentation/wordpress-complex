@@ -1,0 +1,11 @@
+{
+	"id": "tm-wizard-opt",
+	"translations": {
+		"en": "TM Wizard Options",
+		"ru": "Опции изарда"
+	},
+	"articles": {
+		"tm-wizard": []
+	}
+}
+

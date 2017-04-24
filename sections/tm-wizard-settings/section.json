@@ -1,0 +1,11 @@
+{
+	"id": "tm-wizard-settings",
+	"translations": {
+		"en": "Plugin Settings",
+		"ru": "Опции Wizard"
+	},
+	"articles": {
+		"tm-wizard": []
+	}
+}
+

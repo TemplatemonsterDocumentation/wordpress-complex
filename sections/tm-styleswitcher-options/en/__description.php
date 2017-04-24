@@ -8,12 +8,16 @@
 
 <p><strong>Cherry Live Demo Mods Switcher </strong> helps to save and import or export customizer settings such as sidebar position, header settings etc.</p>
 
+<p>To find it you have to go to <strong> Customizer</strong>, and there you'll find <strong> TM Style Switcher</strong> tab.</p>
+
+<p> There are such  options: </p>
+
 <ul class="marked-list">
     <li>
         <dl class="inline-term">
             <dt>Export</dt>
             <dd>
-                'Export' button generates and downloads customizer settings in one file 
+                'Export' button generates and downloads customizer settings in one file
             </dd>
         </dl>
     </li>

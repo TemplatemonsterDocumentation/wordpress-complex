@@ -3442,5 +3442,15 @@
 	],
 	"woostroid-update": [
 		"introduction"
+	],
+	"cherry-wizard": [
+		  "cherry-wizard-intro",
+		  "cherry-wizard-theme",
+		  "cherry-wizard-plugins",
+		  "cherry-wizard-demo"
+	],
+	"cherry-socialize": [
+		  "cherry-socialize-intro",
+		  "cherry-socialize-widget"
 	]
 }
