@@ -3094,7 +3094,7 @@
 			{
 				"id": "tm-dashboard",
 				"translations": {
-					"en": "TM Dashboard",
+					"en": "Jetimpex Dashboard",
 					"ru": "TM Dashboard"
 
 				}
@@ -6841,6 +6841,14 @@
 					"ru": "Cherry Testimonials"
 
 				}
+			},
+			{
+				"id": "tm-dashboard",
+				"translations": {
+					"en": "Jetimpex Dashboard",
+					"ru": ""
+
+				}
 			}
 		],
 		"therapino": [
@@ -9545,7 +9553,7 @@
 				}
 			}
 		],
-		"dentist": [
+		"dentalcenter": [
 			{
 				"id": "cherry-data-importer",
 				"translations": {
@@ -9663,6 +9671,13 @@
 					"en": "Cherry Testimonials",
 					"ru": "Cherry Testimonials"
 
+				}
+			},
+			{
+				"id": "tm-wizard",
+				"translations": {
+					"en": "TM Wizard",
+					"ru": " "
 				}
 			}
 		],

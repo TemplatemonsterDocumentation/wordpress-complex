@@ -9522,7 +9522,7 @@ wp-user{
 				}
 			}
 		],
-		"dentist": [
+		"dentalcenter": [
 			{
 				"id": "cherry-data-importer",
 				"translations": {

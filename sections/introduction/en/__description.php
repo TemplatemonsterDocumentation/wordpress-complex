@@ -59,7 +59,7 @@
                     </dl>
 
                     <ul>
-                         <?php if ($project != 'contractor') { ?>
+                         <?php if ($project != 'contractor' && $project != 'stexchange') { ?>
                         <li>
                             <dl class="inline-term">
                                 <dt>
@@ -71,7 +71,7 @@
                             </dl>
                         </li>
                         <?php } ?>
-                        <?php if ($project == 'interra') { ?>
+                        <?php if ($project == 'interra' or $project == 'valentia') { ?>
                         <li>
                             <dl class="inline-term">
                                 <dt>

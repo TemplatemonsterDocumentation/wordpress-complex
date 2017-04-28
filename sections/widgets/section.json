@@ -36175,7 +36175,7 @@
 				"ru": "Booked calendar"
 			}
 		}],
-		"dentist": [{
+		"dentalcenter": [{
 			"id": "about",
 			"translations": {
 				"en": "About Dentist",

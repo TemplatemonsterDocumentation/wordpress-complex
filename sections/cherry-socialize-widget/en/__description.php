@@ -91,3 +91,7 @@
         </dl>
     </li>
 </ul>
+
+     <div class="alert alert-info">
+        Be aware that your Instagram images will be saved to a cache for 1 hour by default settings. That's why your new photos wouldn't be shown immediately. Wait for an hour for the cache to be renewed and your new photos will appear.
+    </div>

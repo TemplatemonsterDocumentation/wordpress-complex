@@ -2922,7 +2922,7 @@
 				}
 			}
 		],
-		"dentist": [
+		"dentalcenter": [
 			{
 				"id": "engine-installation",
 				"translations": {
@@ -2959,6 +2959,14 @@
 				"translations": {
 					"en": "Manual Theme Installation",
 					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "install_with_tm_wizard",
+				"translations": {
+					"en": "TM Wizard Installation",
+					"ru": "Автоматическая установка плагинов."
 
 				}
 			},

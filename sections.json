@@ -1628,7 +1628,7 @@
 	],
 	"valentia": [
 		"introduction",
-		"template-installation2",
+		"template-installation",
 		"basic-configuration",
 		"customizer-settings",
 		"posts-categories",
@@ -3316,7 +3316,7 @@
 		"tm-builder-modules",
 		"extras"
 	],
-	"dentist": [
+	"dentalcenter": [
 		"introduction",
 		"template-installation2",
 		"basic-configuration",

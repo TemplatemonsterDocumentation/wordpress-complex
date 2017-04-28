@@ -50,7 +50,7 @@
     </p>
 
     <p>
-        <a href="http://documentation.templatemonster.com/index.php?project=bellaina&lang=en&section=plugins#cherry-data-importer">Check a step by step guide here </a>
+        <a href="https://www.templatemonster.com/help/cherryframework-4-re-install-sample-data-manually-using-cherry-import.html#gref">Check a step by step guide here </a>
     </p>
 
      <div class="alert alert-info">
