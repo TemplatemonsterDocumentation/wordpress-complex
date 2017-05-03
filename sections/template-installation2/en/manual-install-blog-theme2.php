@@ -23,26 +23,6 @@
         <img src="img/blog-theme/installation/add-theme-success.png" alt="" >
     </figure>
 
-    <h4>Plugin Installation</h4>
-
-    <p>After you install and activate the theme, you may need to install some additional plugins.</p>
-
-    <p>
-        Then press on <strong>Begin installing plugins</strong> at the top of the website to start installation of the recommended plugins.
-    </p>
-
-    <p>
-        Select all the plugins, choose <strong>Install</strong> mode and confirm the action by pressing  <strong>Apply</strong>.
-    </p>
-
-    <figure class="img-polaroid">
-        <img src="img/blog-theme/installation/required-plugins.png" alt="" >
-    </figure>
-
-    <p>
-        Then you'll be redirected to the plugins activation page. Select <strong>Return to the Dashboard</strong> when it is completed.
-    </p>
-
     <h5>Automatic Installation Using Cherry Installer</h5>
 
     <p>

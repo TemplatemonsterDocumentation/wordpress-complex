@@ -13,6 +13,44 @@
 </ol>
 
 
+
+
+
+<h4>Manual Plugin Installation</h4>
+
+<p>If you need to install plugins manually, you can do it this way.</p>
+
+<p><li>Install plugins from <strong>theme/(your theme name)/assets/includes/plugins</strong>.</li></p>
+
+<p><li>Go to <a href="https://wordpress.org/" target="_blank">Wordpress.org</a> and download the necessary plugins. You can see which ones are recommended
+
+
+<a href="http://documentation.templatemonster.com/index.php?project=<?php echo $project;?>&lang=en&section=plugins#" target="_blank"> here </a>.</p></li>
+
+<p><li>Go to <strong> plugins</strong> tab on your administration panel and click on <strong> add new</strong> button. </li></p>
+
+<figure class="img-polaroid">
+    <img src="img/blog-theme/installation/pl1.png" alt="">
+</figure>
+
+<p><li>You will see the the search field that can help you search the necessary plugins by keywords, you can install them from your administration panel at once.</li></p>
+
+<figure class="img-polaroid">
+    <img src="img/blog-theme/installation/pl3.png" alt="">
+</figure>
+
+<p><li>You can also upload the plugins from your PC if you already have them on your computer in .zip format. Just click on <strong> upload plugin</strong> button and choose the needed files. </li></p>
+
+<figure class="img-polaroid">
+    <img src="img/blog-theme/installation/pl2.png" alt="">
+</figure>
+
+
+
+
+
+
+
 <h4>Manual Sample Data Installation</h4>
 
 

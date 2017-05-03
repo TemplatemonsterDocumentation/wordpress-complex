@@ -1227,30 +1227,6 @@
 				}
 			}
 		],
-		"shopable": [
-			{
-				"id": "engine-installation",
-				"translations": {
-					"en": "WordPress Engine Installation",
-					"ru": "Установка движка WordPress"
-				}
-			},
-			{
-				"id": "manual-install-blog-theme2",
-				"translations": {
-					"en": "Manual Theme Installation",
-					"ru": "Установка темы вручную."
-
-				}
-			},
-			{
-				"id": "ftp-installation",
-				"translations": {
-					"en": "Upload via FTP",
-					"ru": "Автоматическая установка темы "
-				}
-			}
-		],
 		"malcolmy": [
 			{
 				"id": "engine-installation",

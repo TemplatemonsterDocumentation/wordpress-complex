@@ -71,7 +71,7 @@
                             </dl>
                         </li>
                         <?php } ?>
-                        <?php if ($project == 'interra' or $project == 'valentia') { ?>
+                        <?php if ($project == 'interra' or $project == 'valentia' or $project == 'shopable') { ?>
                         <li>
                             <dl class="inline-term">
                                 <dt>
