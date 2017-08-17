@@ -15,7 +15,7 @@
     <p>WordPress template is a theme for the WordPress CMS platform. You can easily change your website appearance by installing a new WordPress template in a few easy steps. Despite its simplicity, a WordPress template contains all the necessary source files that can be altered the way you need.</p>
 </article>
 
-<?php if ($project != 'monstroid_2' && $project != 'woostroid') { ?>
+<?php if ($project != 'woostroid') { ?>
 <article id="structure">
     <h3>Template Structure</h3>
     <p>The template package includes several folders. Let's check what's inside:</p>

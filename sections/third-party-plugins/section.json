@@ -2417,73 +2417,6 @@
 				}
 			}
 		],
-		"monstroid_2": [
-
-			{
-				"id": "woocommerce",
-				"translations": {
-					"en": "WooCommerce",
-					"ru": "WooCommerce"
-
-				}
-			},
-			{
-				"id": "woocommerce-sm-buttons",
-				"translations": {
-					"en": "Woocommerce Social Media Share Buttons",
-					"ru": "Woocommerce Social Media Share Buttons"
-
-				}
-			},
-			{
-				"id": "woocommerce-currency-switcher",
-				"translations": {
-					"en": "WooCommerce Currency Switcher",
-					"ru": "WooCommerce Currency Switcher"
-
-				}
-			},
-			{
-				"id": "booked-appointment",
-				"translations": {
-					"en": "Booked Appointments",
-					"ru": "Booked Appointments"
-
-				}
-			},
-			{
-				"id": "restaurant-menu",
-				"translations": {
-					"en": "Restaurant Menu",
-					"ru": "Restaurant Menu"
-
-				}
-			},
-			{
-				"id": "bbpress",
-				"translations": {
-					"en": "BB Press",
-					"ru": "BB Press"
-
-				}
-			},
-			{
-				"id": "buddypress",
-				"translations": {
-					"en": "BuddyPress",
-					"ru": "BuddyPress"
-
-				}
-			},
-			{
-				"id": "timetable",
-				"translations": {
-					"en": "Timetable and Event Schedule",
-					"ru": "Timetable and Event Schedule"
-
-				}
-			}
-		],
 		"stylefactory": [
 
 			{
@@ -2856,6 +2789,13 @@
 				"translations": {
 					"en": "Easy Twitter Widget",
 					"ru": "Easy Twitter Widget"
+				}
+			},
+			{
+				"id": "elementor",
+				"translations": {
+					"en": "Elementor",
+					"ru": "Elementor"
 				}
 			}
 		],

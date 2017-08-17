@@ -2798,7 +2798,7 @@
 		"tm-builder-modules",
 		"extras"
 	],
-	"tripi": [
+	"tripri": [
 		"introduction",
 		"template-installation2",
 		"basic-configuration",
@@ -3022,7 +3022,7 @@
 		"tm-builder-modules",
 		"extras"
 	],
-	"picalter": [
+	"pictalter": [
 		"introduction",
 		"template-installation2",
 		"basic-configuration",
@@ -3452,5 +3452,12 @@
 	"cherry-socialize": [
 		  "cherry-socialize-intro",
 		  "cherry-socialize-widget"
+	],
+	"jetelements": [
+		"introduction",
+		"jetelements-installation",
+		"jetelements-start",
+		"jetelements-modules",
+		"jetelements-advanced"
 	]
 }

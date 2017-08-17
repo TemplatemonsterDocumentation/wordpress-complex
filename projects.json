@@ -1341,7 +1341,7 @@
 		"titleCaption": "Wordpress Theme",
 		"author": ""
 	},
-	"tripi": {
+	"tripri": {
 		"textLogo": "",
 		"title": "TriPri",
 		"titleCaption": "Wordpress Theme",
@@ -1443,9 +1443,9 @@
 		"titleCaption": "Wordpress Theme",
 		"author": ""
 	},
-	"picalter": {
+	"pictalter": {
 		"textLogo": "",
-		"title": "Picalter",
+		"title": "Pictalter",
 		"titleCaption": "",
 		"author": ""
 	},
@@ -1633,6 +1633,12 @@
 		"textLogo": "",
 		"title": "Cherry Socialize",
 		"titleCaption": "WordPress Plugin",
+		"author": ""
+	},
+	"jetelements": {
+		"textLogo": "",
+		"title": "JetElements",
+		"titleCaption": "",
 		"author": ""
 	}
 

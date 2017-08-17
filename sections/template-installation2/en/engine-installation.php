@@ -16,15 +16,15 @@
         format to unpack the <strong>ZIP</strong> file.
     </p>
 
-    <p>
+     <p>
         These tutorials will show you how to unpack the archived files, if you have
-        <a target="_blank" href="http://www.templatemonster.com/help/unzipping-your-template.html">
+        <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/archived-files-extraction-for-windows/">
             <strong>Windows OS (using WinZip)</strong>
         </a>
 
         and if you have
 
-        <a target="_blank" href="http://www.templatemonster.com/help/how-unzip-template-mac.html">
+        <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/template-extraction-on-mac-os/">
             <strong>MAC OS (using StuffitExpander)</strong>
         </a>
         .
@@ -32,30 +32,24 @@
 
     <ul class="marked-list">
         <li><i class="icon-info-sign"></i>
-            <a target="_blank" href="http://www.templatemonster.com/help/extract-archived-files-mac-os.html">
-                Unpacking archive (MAC OS).
+            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/archived-files-extraction/">
+                Archived Files Extraction
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
-            <a target="_blank" href="http://www.templatemonster.com/help/extract-archived-files-windows-os.html">
-                Unpacking archive (Windows OS).
+            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/winzip-downloading-and-installation/">
+                WinZip Downloading and Installation
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
-            <a target="_blank" href="http://www.templatemonster.com/help/downloading-and-installing-winzip.html">
-                How to download and install WinZip.
+            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/archived-files-extraction-for-windows/">
+                Archived Files Extraction for Windows
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
-            <a target="_blank" href="http://www.templatemonster.com/help/how-unzip-template-mac.html">
-                How to unpack the template (MAC OS).
+            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/template-extraction-on-mac-os/">
+                Template Extraction on MAC OS
             </a>
-        </li>
-        <li><i class="icon-info-sign"></i>
-            <a target="_blank" href="http://www.templatemonster.com/help/how-unzip-template-mac.html">
-                How to unpack the template.
-            </a>
-            <a target="_blank" href="http://www.templatemonster.com/help/unzipping-your-template.html">(Windows OS).</a>
         </li>
     </ul>
 
@@ -79,12 +73,12 @@
 
     <ul class="marked-list">
         <li>
-            <a target="_blank" href="http://www.templatemonster.com/help/how-upload-files-server-2.html">
-                How to upload the files to server.
+            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/uploading-files-to-a-server-using-ftp/">
+                Uploading Files to a Server Using FTP.
             </a>
         <li>
-            <a target="_blank" href="http://www.templatemonster.com/help/how-to-upload-files-to-a-server-using-cpanel-webhost-manager-whm.html">
-                How to upload the files to server using cPanel (WebHost Manager, WHM).
+            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/uploading-files-to-a-server-with-cpanel/">
+                Uploading Files to a Server with cPanel.
             </a>
         </li>
     </ul>
@@ -128,13 +122,13 @@
 
     <ul class="marked-list">
         <li class="first"><i class="icon-info-sign"></i>
-            <a target="_blank" href="http://www.templatemonster.com/help/how-create-database.html">How to create
+            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/creating-a-database/">Creating
                                                                                                   database
           .  </a>
         </li>
         <li class="last"><i class="icon-info-sign"></i>
-            <a target="_blank" href="http://www.templatemonster.com/help/how-to-create-mysql-database-with-godaddy.html">
-                How to create MySQL database with GoDaddy.
+            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/creating-mysql-database-with-godaddy/">
+                Creating MySQL Database with GoDaddy.
             </a>
         </li>
     </ul>
@@ -201,28 +195,28 @@
 
     <ul class="marked-list">
         <li><i class="icon-info-sign"></i>
-            <a href="http://www.templatemonster.com/help/WordPress-how-to-install-the-engine-to-hostgator-server-manual-installation.html"
-               target="_blank">How to install WordPress engine to HostGator (manual installation)
+            <a href="https://jetimpex.com/wordpress/support/knowledge-base/manual-wordpress-installation-to-hostgator-server/"
+               target="_blank">Manual WordPress Installation to HostGator Server
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
-            <a href="http://www.templatemonster.com/help/WordPress-how-to-install-the-engine-to-bluehost-server-manual-installation.html"
-               target="_blank">How to install WordPress engine to Bluehost (manual installation)
+            <a href="https://jetimpex.com/wordpress/support/knowledge-base/manual-wordpress-installation-bluehost/"
+               target="_blank">Manual WordPress Installation to BlueHost Server
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
-            <a href="http://www.templatemonster.com/help/WordPress-how-to-install-the-engine-to-siteground-server-manual-installation.html"
-               target="_blank">How to install WordPress engine to SiteGround (manual installation)
+            <a href="https://jetimpex.com/wordpress/support/knowledge-base/manual-wordpress-installation-to-siteground-server/"
+               target="_blank">Manual WordPress Installation to SiteGround Server
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
-            <a href="http://www.templatemonster.com/help/how-to-install-WordPress-to-godaddy-server-manual-installation.html"
-               target="_blank"> How to install WordPress engine to GoDaddy (manual installation)
+            <a href="https://jetimpex.com/wordpress/support/knowledge-base/manual-wordpress-installation-to-godaddy-server/"
+               target="_blank"> Manual WordPress Installation to GoDaddy Server
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
-            <a href="http://www.templatemonster.com/help/WordPress-how-to-install-the-engine-to-just-host-server-manual-installation.html"
-               target="_blank">How to install JustHost engine to Bluehost (manual installation)
+            <a href="https://jetimpex.com/wordpress/support/knowledge-base/manual-wordpress-installation-to-justhost-server/"
+               target="_blank">Manual WordPress Installation to JustHost Server
             </a>
         </li>
     </ul>

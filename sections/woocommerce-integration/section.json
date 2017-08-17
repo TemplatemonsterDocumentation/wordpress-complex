@@ -33,7 +33,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -146,7 +146,7 @@
 					"ru": "Сортировка товаров"
 				}
 			}
-			
+
 		],
 		"wilson": [
 			{
@@ -176,7 +176,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -289,7 +289,7 @@
 					"ru": "Сортировка товаров"
 				}
 			}
-			
+
 		],
 		"coffeera": [
 			{
@@ -319,7 +319,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -432,7 +432,7 @@
 					"ru": "Сортировка товаров"
 				}
 			}
-			
+
 		],
 		"cosmetro": [
 			{
@@ -462,7 +462,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -604,7 +604,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -746,7 +746,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -858,7 +858,7 @@
 					"en": "Sorting Products by Custom Meta Fields",
 					"ru": "Сортировка товаров"
 				}
-			}		
+			}
 		],
 		"posh": [
 			{
@@ -888,7 +888,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -1001,7 +1001,7 @@
 					"ru": "Сортировка товаров"
 				}
 			}
-			
+
 		],
 		"teddy": [
 			{
@@ -1031,149 +1031,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
-			{
-				"id": "recent_products",
-				"translations": {
-					"en": "Recent Products",
-					"ru": "Последние товары"
-				}
 			},
-			{
-				"id": "featured_products",
-				"translations": {
-					"en": "Featured Products",
-					"ru": "Рекомендуемые товары"
-				}
-			},
-			{
-				"id": "product",
-				"translations": {
-					"en": "Product",
-					"ru": "Товар"
-				}
-			},
-			{
-				"id": "products",
-				"translations": {
-					"en": "Products",
-					"ru": "Товары"
-				}
-			},
-			{
-				"id": "add_to_cart",
-				"translations": {
-					"en": "Add to Cart",
-					"ru": "Добавить в Корзину"
-				}
-			},
-			{
-				"id": "add_to_cart_url",
-				"translations": {
-					"en": "Add to Cart URL",
-					"ru": "URL Добавить в Корзину"
-				}
-			},
-			{
-				"id": "product_page",
-				"translations": {
-					"en": "Product Page",
-					"ru": "Страница Товара"
-				}
-			},
-			{
-				"id": "product_category",
-				"translations": {
-					"en": "Product Category",
-					"ru": "Категория товара"
-				}
-			},
-			{
-				"id": "product_categories",
-				"translations": {
-					"en": "Product Categories",
-					"ru": "Категории товаров"
-				}
-			},
-			{
-				"id": "sale_products",
-				"translations": {
-					"en": "Sale Products",
-					"ru": "Товары в распродаже"
-				}
-			},
-			{
-				"id": "best_selling_products",
-				"translations": {
-					"en": "Best Selling Products",
-					"ru": "Наиболее продаваемые товары"
-				}
-			},
-			{
-				"id": "top_rated_products",
-				"translations": {
-					"en": "Top Rated Products",
-					"ru": "Наиболее популярные товары"
-				}
-			},
-			{
-				"id": "product_attribute",
-				"translations": {
-					"en": "Product Attribute",
-					"ru": "Характеристики товара"
-				}
-			},
-			{
-				"id": "related_products",
-				"translations": {
-					"en": "Related Products",
-					"ru": "Похожие товары"
-				}
-			},
-			{
-				"id": "messed_up_shortcodes",
-				"translations": {
-					"en": "Messed-Up Shortcodes",
-					"ru": "Ошибки использования шорткодов"
-				}
-			},
-			{
-				"id": "sorting_products_by",
-				"translations": {
-					"en": "Sorting Products by Custom Meta Fields",
-					"ru": "Сортировка товаров"
-				}
-			}		
-		],
-		"talisman": [
-			{
-				"id": "cart",
-				"translations": {
-					"en": "Cart",
-					"ru": "Корзина"
-				}
-			},
-			{
-				"id": "checkout",
-				"translations": {
-					"en": "Checkout",
-					"ru": "Оформление"
-				}
-			},
-			{
-				"id": "order_tracking_form",
-				"translations": {
-					"en": "Order Tracking Form",
-					"ru": "Форма заказа"
-				}
-			},
-			{
-				"id": "my_account",
-				"translations": {
-					"en": "My Account",
-					"ru": "Аккаунт"
-				}
-			},  
 			{
 				"id": "recent_products",
 				"translations": {
@@ -1286,7 +1144,149 @@
 					"ru": "Сортировка товаров"
 				}
 			}
-			
+		],
+		"talisman": [
+			{
+				"id": "cart",
+				"translations": {
+					"en": "Cart",
+					"ru": "Корзина"
+				}
+			},
+			{
+				"id": "checkout",
+				"translations": {
+					"en": "Checkout",
+					"ru": "Оформление"
+				}
+			},
+			{
+				"id": "order_tracking_form",
+				"translations": {
+					"en": "Order Tracking Form",
+					"ru": "Форма заказа"
+				}
+			},
+			{
+				"id": "my_account",
+				"translations": {
+					"en": "My Account",
+					"ru": "Аккаунт"
+				}
+			},
+			{
+				"id": "recent_products",
+				"translations": {
+					"en": "Recent Products",
+					"ru": "Последние товары"
+				}
+			},
+			{
+				"id": "featured_products",
+				"translations": {
+					"en": "Featured Products",
+					"ru": "Рекомендуемые товары"
+				}
+			},
+			{
+				"id": "product",
+				"translations": {
+					"en": "Product",
+					"ru": "Товар"
+				}
+			},
+			{
+				"id": "products",
+				"translations": {
+					"en": "Products",
+					"ru": "Товары"
+				}
+			},
+			{
+				"id": "add_to_cart",
+				"translations": {
+					"en": "Add to Cart",
+					"ru": "Добавить в Корзину"
+				}
+			},
+			{
+				"id": "add_to_cart_url",
+				"translations": {
+					"en": "Add to Cart URL",
+					"ru": "URL Добавить в Корзину"
+				}
+			},
+			{
+				"id": "product_page",
+				"translations": {
+					"en": "Product Page",
+					"ru": "Страница Товара"
+				}
+			},
+			{
+				"id": "product_category",
+				"translations": {
+					"en": "Product Category",
+					"ru": "Категория товара"
+				}
+			},
+			{
+				"id": "product_categories",
+				"translations": {
+					"en": "Product Categories",
+					"ru": "Категории товаров"
+				}
+			},
+			{
+				"id": "sale_products",
+				"translations": {
+					"en": "Sale Products",
+					"ru": "Товары в распродаже"
+				}
+			},
+			{
+				"id": "best_selling_products",
+				"translations": {
+					"en": "Best Selling Products",
+					"ru": "Наиболее продаваемые товары"
+				}
+			},
+			{
+				"id": "top_rated_products",
+				"translations": {
+					"en": "Top Rated Products",
+					"ru": "Наиболее популярные товары"
+				}
+			},
+			{
+				"id": "product_attribute",
+				"translations": {
+					"en": "Product Attribute",
+					"ru": "Характеристики товара"
+				}
+			},
+			{
+				"id": "related_products",
+				"translations": {
+					"en": "Related Products",
+					"ru": "Похожие товары"
+				}
+			},
+			{
+				"id": "messed_up_shortcodes",
+				"translations": {
+					"en": "Messed-Up Shortcodes",
+					"ru": "Ошибки использования шорткодов"
+				}
+			},
+			{
+				"id": "sorting_products_by",
+				"translations": {
+					"en": "Sorting Products by Custom Meta Fields",
+					"ru": "Сортировка товаров"
+				}
+			}
+
 		],
 		"timberline": [
 			{
@@ -1316,7 +1316,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -1428,7 +1428,7 @@
 					"en": "Sorting Products by Custom Meta Fields",
 					"ru": "Сортировка товаров"
 				}
-			}		
+			}
 		],
 		"pettown": [
 			{
@@ -1458,7 +1458,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -1570,7 +1570,7 @@
 					"en": "Sorting Products by Custom Meta Fields",
 					"ru": "Сортировка товаров"
 				}
-			}		
+			}
 		],
 		"greenville": [
 			{
@@ -1600,7 +1600,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -1712,7 +1712,7 @@
 					"en": "Sorting Products by Custom Meta Fields",
 					"ru": "Сортировка товаров"
 				}
-			}		
+			}
 		],
 		"arden": [
 			{
@@ -1742,7 +1742,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -1854,7 +1854,7 @@
 					"en": "Sorting Products by Custom Meta Fields",
 					"ru": "Сортировка товаров"
 				}
-			}		
+			}
 		],
 		"mohican": [
 			{
@@ -1884,7 +1884,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -1996,7 +1996,7 @@
 					"en": "Sorting Products by Custom Meta Fields",
 					"ru": "Сортировка товаров"
 				}
-			}		
+			}
 		],
 		"helios": [
 			{
@@ -2026,7 +2026,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -2138,7 +2138,7 @@
 					"en": "Sorting Products by Custom Meta Fields",
 					"ru": "Сортировка товаров"
 				}
-			}		
+			}
 		],
 		"fleek": [
 			{
@@ -2168,7 +2168,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -2280,7 +2280,7 @@
 					"en": "Sorting Products by Custom Meta Fields",
 					"ru": "Сортировка товаров"
 				}
-			}		
+			}
 		],
 		"sportlabs": [
 			{
@@ -2310,7 +2310,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -2422,7 +2422,7 @@
 					"en": "Sorting Products by Custom Meta Fields",
 					"ru": "Сортировка товаров"
 				}
-			}		
+			}
 		],
 		"smarthouse": [
 			{
@@ -2452,7 +2452,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -2564,7 +2564,7 @@
 					"en": "Sorting Products by Custom Meta Fields",
 					"ru": "Сортировка товаров"
 				}
-			}		
+			}
 		],
 		"knox": [
 			{
@@ -2594,7 +2594,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -2706,7 +2706,7 @@
 					"en": "Sorting Products by Custom Meta Fields",
 					"ru": "Сортировка товаров"
 				}
-			}		
+			}
 		],
 		"gaze": [
 			{
@@ -2736,7 +2736,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -2848,7 +2848,7 @@
 					"en": "Sorting Products by Custom Meta Fields",
 					"ru": "Сортировка товаров"
 				}
-			}		
+			}
 		],
 		"techlab": [
 			{
@@ -2878,7 +2878,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -2990,7 +2990,7 @@
 					"en": "Sorting Products by Custom Meta Fields",
 					"ru": "Сортировка товаров"
 				}
-			}		
+			}
 		],
 		"organica": [
 			{
@@ -3020,7 +3020,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -3162,7 +3162,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -3274,7 +3274,7 @@
 					"en": "Sorting Products by Custom Meta Fields",
 					"ru": "Сортировка товаров"
 				}
-			}		
+			}
 		],
 		"walden": [
 			{
@@ -3304,7 +3304,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -3446,7 +3446,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -3588,149 +3588,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
-			{
-				"id": "recent_products",
-				"translations": {
-					"en": "Recent Products",
-					"ru": "Последние товары"
-				}
 			},
-			{
-				"id": "featured_products",
-				"translations": {
-					"en": "Featured Products",
-					"ru": "Рекомендуемые товары"
-				}
-			},
-			{
-				"id": "product",
-				"translations": {
-					"en": "Product",
-					"ru": "Товар"
-				}
-			},
-			{
-				"id": "products",
-				"translations": {
-					"en": "Products",
-					"ru": "Товары"
-				}
-			},
-			{
-				"id": "add_to_cart",
-				"translations": {
-					"en": "Add to Cart",
-					"ru": "Добавить в Корзину"
-				}
-			},
-			{
-				"id": "add_to_cart_url",
-				"translations": {
-					"en": "Add to Cart URL",
-					"ru": "URL Добавить в Корзину"
-				}
-			},
-			{
-				"id": "product_page",
-				"translations": {
-					"en": "Product Page",
-					"ru": "Страница Товара"
-				}
-			},
-			{
-				"id": "product_category",
-				"translations": {
-					"en": "Product Category",
-					"ru": "Категория товара"
-				}
-			},
-			{
-				"id": "product_categories",
-				"translations": {
-					"en": "Product Categories",
-					"ru": "Категории товаров"
-				}
-			},
-			{
-				"id": "sale_products",
-				"translations": {
-					"en": "Sale Products",
-					"ru": "Товары в распродаже"
-				}
-			},
-			{
-				"id": "best_selling_products",
-				"translations": {
-					"en": "Best Selling Products",
-					"ru": "Наиболее продаваемые товары"
-				}
-			},
-			{
-				"id": "top_rated_products",
-				"translations": {
-					"en": "Top Rated Products",
-					"ru": "Наиболее популярные товары"
-				}
-			},
-			{
-				"id": "product_attribute",
-				"translations": {
-					"en": "Product Attribute",
-					"ru": "Характеристики товара"
-				}
-			},
-			{
-				"id": "related_products",
-				"translations": {
-					"en": "Related Products",
-					"ru": "Похожие товары"
-				}
-			},
-			{
-				"id": "messed_up_shortcodes",
-				"translations": {
-					"en": "Messed-Up Shortcodes",
-					"ru": "Ошибки использования шорткодов"
-				}
-			},
-			{
-				"id": "sorting_products_by",
-				"translations": {
-					"en": "Sorting Products by Custom Meta Fields",
-					"ru": "Сортировка товаров"
-				}
-			}
-		],
-		"monstroid_2": [
-			{
-				"id": "cart",
-				"translations": {
-					"en": "Cart",
-					"ru": "Корзина"
-				}
-			},
-			{
-				"id": "checkout",
-				"translations": {
-					"en": "Checkout",
-					"ru": "Оформление"
-				}
-			},
-			{
-				"id": "order_tracking_form",
-				"translations": {
-					"en": "Order Tracking Form",
-					"ru": "Форма заказа"
-				}
-			},
-			{
-				"id": "my_account",
-				"translations": {
-					"en": "My Account",
-					"ru": "Аккаунт"
-				}
-			},  
 			{
 				"id": "recent_products",
 				"translations": {
@@ -3872,7 +3730,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -4014,7 +3872,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -4156,7 +4014,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -4298,7 +4156,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -4411,7 +4269,7 @@
 					"ru": "Сортировка товаров"
 				}
 			}
-			
+
 		],
 		"sportware": [
 			{
@@ -4441,7 +4299,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -4554,7 +4412,7 @@
 					"ru": "Сортировка товаров"
 				}
 			}
-			
+
 		],
 		"hypernova": [
 			{
@@ -4584,7 +4442,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -4697,7 +4555,7 @@
 					"ru": "Сортировка товаров"
 				}
 			}
-			
+
 		],
 		"shopable": [
 			{
@@ -4727,7 +4585,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -4840,7 +4698,7 @@
 					"ru": "Сортировка товаров"
 				}
 			}
-			
+
 		],
 		"medkit": [
 			{
@@ -4870,7 +4728,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {
@@ -4983,7 +4841,7 @@
 					"ru": "Сортировка товаров"
 				}
 			}
-			
+
 		],
 		"woostroid": [
 			{
@@ -5013,7 +4871,7 @@
 					"en": "My Account",
 					"ru": "Аккаунт"
 				}
-			},  
+			},
 			{
 				"id": "recent_products",
 				"translations": {

@@ -3013,93 +3013,6 @@
 				}
 			}
 		],
-		"monstroid_2": [
-			{
-				"id": "contact-form-seven",
-				"translations": {
-					"en": "Contact form 7",
-					"ru": "Contact form 7"
-				}
-			},
-			{
-				"id": "cherry-sidebars",
-				"translations": {
-					"en": "Cherry Sidebars",
-					"ru": "Cherry Sidebars"
-
-				}
-			},
-			{
-				"id": "projects",
-				"translations": {
-					"en": "Cherry Projects",
-					"ru": "Cherry Projects"
-				}
-
-			},
-			{
-				"id": "woo-compare-wishlist",
-				"translations": {
-					"en": "TM Woocommerce Compare & Wishlist",
-					"ru": "TM Woocommerce Compare & Wishlist"
-				}
-			},
-			{
-				"id": "tm-woocommerce-package",
-				"translations": {
-					"en": "TM WooCommerce Package",
-					"ru": "TM WooCommerce Package"
-
-				}
-			},
-			{
-				"id": "builder-integrator",
-				"translations": {
-					"en": "Power Builder Integrator",
-					"ru": "Power Builder Integrator"
-
-				}
-			},
-			{
-				"id": "cherry-data-importer",
-				"translations": {
-					"en": "Cherry Data Importer",
-					"ru": "Cherry Data Importer"
-				}
-			},
-			{
-				"id": "cherry-services-list",
-				"translations": {
-					"en": "Cherry Services List",
-					"ru": "Cherry Services List"
-
-				}
-			},
-			{
-				"id": "cherry-team-members",
-				"translations": {
-					"en": "Cherry Team Members",
-					"ru": "Cherry Team Members"
-
-				}
-			},
-			{
-				"id": "cherry-testimonials",
-				"translations": {
-					"en": "Cherry Testimonials",
-					"ru": "Cherry Testimonials"
-
-				}
-			},
-			{
-				"id": "tm-dashboard",
-				"translations": {
-					"en": "Jetimpex Dashboard",
-					"ru": "TM Dashboard"
-
-				}
-			}
-		],
 		"stylefactory": [
 			{
 				"id": "contact-form-seven",
@@ -3859,6 +3772,20 @@
 				}
 			},
 			{
+				"id": "cherry-data-importer",
+				"translations": {
+					"en": "Cherry Installer",
+					"ru": "Cherry Installer"
+				}
+			},
+			{
+				"id": "tm-wizard",
+				"translations": {
+					"en": "TM Wizard",
+					"ru": " "
+				}
+			},
+			{
 				"id": "builder-integrator",
 				"translations": {
 					"en": "Power Builder Integrator",
@@ -3877,6 +3804,38 @@
 				"translations": {
 					"en": "Contact form 7",
 					"ru": "Contact form 7"
+				}
+			},
+			{
+				"id": "tm-style-switcher",
+				"translations": {
+					"en": "TM Style Switcher",
+					"ru": "TM Style Switcher"
+
+				}
+			},
+			{
+				"id": "cherry-services-list",
+				"translations": {
+					"en": "Cherry Services List",
+					"ru": "Cherry Services List"
+
+				}
+			},
+			{
+				"id": "cherry-team-members",
+				"translations": {
+					"en": "Cherry Team Members",
+					"ru": "Cherry Team Members"
+
+				}
+			},
+			{
+				"id": "cherry-testimonials",
+				"translations": {
+					"en": "Cherry Testimonials",
+					"ru": "Cherry Testimonials"
+
 				}
 			}
 		],

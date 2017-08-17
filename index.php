@@ -49,7 +49,7 @@ if (!isset($sections)) {
  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
  })(window,document,'script','dataLayer','GTM-5WB7JQ');</script>
  <!-- End Google Tag Manager -->
- 
+
 <div class="page-wrap">
     <div class="rd-mobilemenu active">
         <div class="logo logo__<?php echo $project; ?>">
@@ -75,8 +75,8 @@ if (!isset($sections)) {
             </div> -->
 
         </div>
-        <p class="copyright">TemplateMonster ©
-            <a href="http://www.templatemonster.com/privacy-policy.php">Privacy Policy</a>
+        <p class="copyright">JetImpex ©
+            <a href="https://jetimpex.com/privacy-policy/" target= "blank">Privacy Policy</a>
         </p>
     </div>
     <div class="page-content active">

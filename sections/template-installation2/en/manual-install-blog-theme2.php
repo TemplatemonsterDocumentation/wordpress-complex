@@ -30,19 +30,13 @@
     </p>
 
     <p>
-        <a href="https://www.templatemonster.com/help/cherryframework-4-re-install-sample-data-manually-using-cherry-import.html#gref">Check a step by step guide here </a>
+        <a href="http://documentation.templatemonster.com/index.php?project=<?php echo $project;?>&lang=en&section=plugins#cherry-data-importer
+">Check a step by step guide here </a>
     </p>
 
      <div class="alert alert-info">
         If there are problems with installing the theme via the admin panel, here's an alternative way to do it.
     </div>
-
-
-
-
-
-
-
 
 
 

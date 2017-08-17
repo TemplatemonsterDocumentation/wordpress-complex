@@ -8,7 +8,7 @@ $primary-color-dark: #22272d;
 $secondary-color: #e91b1a;
 $secondary-color-light: #fff;
 
-$header-background-image: '../../projects/tripi/img/header-bg.png';
+$header-background-image: '../../projects/tripri/img/header-bg.png';
 
 @import url(https://fonts.googleapis.com/css?family=Orbitron);
 $primary-font-family: 'Orbitron', sans-serif;
@@ -78,7 +78,7 @@ body:not([data-section="introduction"]) {
 			background-color: #477cbf;
 		}
 	}
-	
+
 }
 
 .rd-mobilepanel_title {
@@ -105,7 +105,7 @@ body:not([data-section="introduction"]) {
 		top:74px;
 		left: 85px;
 	}
-	.tm-title-caption {	
+	.tm-title-caption {
 		top:140px;
 		left: 85px;
 	}
@@ -115,7 +115,7 @@ body:not([data-section="introduction"]) {
 		top:93px;
 		left: 97px;
 	}
-	.tm-title-caption {	
+	.tm-title-caption {
 		top:180px;
 		width:198px;
 		left: 100px;
@@ -126,7 +126,7 @@ body:not([data-section="introduction"]) {
 		top:104px;
 		left: 98px;
 	}
-	.tm-title-caption {	
+	.tm-title-caption {
 		top:180px;
 		width:269px;
 		left: 117px;
@@ -145,7 +145,7 @@ body:not([data-section="introduction"]) {
 			}
 		}
 	}
-}  
+}
 
 .toTop {
 	background-color: #477cbf;

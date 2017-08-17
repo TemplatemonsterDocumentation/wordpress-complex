@@ -1,0 +1,112 @@
+{
+	"id": "jetelements-modules",
+	"translations": {
+		"en": "JetElements Modules",
+		"ru": ""
+	},
+	"articles": {
+		"jetelements": [{
+			"id": "advanced-carousel",
+			"translations": {
+				"en": "Advanced Carousel",
+				"ru": ""
+			}
+		},	{
+			"id": "advanced-map",
+			"translations": {
+				"en": "Advanced Map",
+				"ru": ""
+			}
+		},	{
+			"id": "animated-box",
+			"translations": {
+				"en": "Animated Box",
+				"ru": ""
+			}
+		},	{
+			"id": "animated-text",
+			"translations": {
+				"en": "Animated Text",
+				"ru": ""
+			}
+		},	{
+			"id": "banner",
+			"translations": {
+				"en": "Banner",
+				"ru": ""
+			}
+		},	{
+			"id": "brands",
+			"translations": {
+				"en": "Brands",
+				"ru": ""
+			}
+		},	{
+			"id": "circle-progress",
+			"translations": {
+				"en": "Circle Progress",
+				"ru": ""
+			}
+		},	{
+			"id": "countdown-timer",
+			"translations": {
+				"en": "Countdown Timer",
+				"ru": ""
+			}
+		},	{
+			"id": "posts",
+			"translations": {
+				"en": "Posts",
+				"ru": ""
+			}
+		},	{
+			"id": "pricing-table",
+			"translations": {
+				"en": "Pricing Table",
+				"ru": ""
+			}
+		},	{
+			"id": "woocommerce-recent-products",
+			"translations": {
+				"en": "WooCommerce Recent Products",
+				"ru": ""
+			}
+		},	{
+			"id": "woocommerce-featured-products",
+			"translations": {
+				"en": "WooCommerce Featured Products",
+				"ru": ""
+			}
+		},	{
+			"id": "woocommerce-sale-products",
+			"translations": {
+				"en": "WooCommerce Sale Products",
+				"ru": ""
+			}
+		},	{
+			"id": "woocommerce-bestsellers",
+			"translations": {
+				"en": "WooCommerce Bestsellers",
+				"ru": ""
+			}
+		},	{
+			"id": "woocommerce-top-rated-products",
+			"translations": {
+				"en": "WooCommerce Top Rated Products",
+				"ru": ""
+			}
+		},	{
+			"id": "woocommerce-product",
+			"translations": {
+				"en": "WooCommerce Product",
+				"ru": ""
+			}
+		},	{
+			"id": "contact-form-7",
+			"translations": {
+				"en": "Contact Form 7",
+				"ru": ""
+			}
+		}]
+	}
+}

@@ -37,7 +37,6 @@
     </li>
 </ul>
 
-	<figure class="img-polaroid"><img src="img/tm/page/page-layout-settings_monstroid_2.png" alt=""></figure>
 
 	<!--
 	<figure class="img-polaroid">

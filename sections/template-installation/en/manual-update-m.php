@@ -1,4 +1,4 @@
-<?php if ($project == 'monstroid_2' or $project == 'woostroid') { ?>
+<?php if ($project == 'woostroid') { ?>
 <h3>Manual Update</h3>
 
 <p>Manually replacing your current version of Monstroid 2 with an updated version is as easy as 1-2-6! First off, you’ll need to download the updated version of the theme, which includes both the main theme and the child theme (which serves as a backup for all the custom changes you make to your styles etc).

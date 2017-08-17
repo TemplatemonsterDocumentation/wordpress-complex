@@ -1,4 +1,4 @@
-<?php if ($project == 'monstroid_2' or $project == 'woostroid') { ?>
+<?php if ($project == 'woostroid') { ?>
 <h3>Manual Update</h3>
 
 <p>Manually replacing your current version of Monstroid 2 with an updated version is as easy as 1-2-6! First off, you’ll need to download the updated version of the theme, which includes both the main theme and the child theme (which serves as a backup for all the custom changes you make to your styles etc).
@@ -21,7 +21,7 @@
         </ul>
     </li>
      <li>
-        Afterwards proceed to the "Appearance → Themes", switch to any other default Wordpress theme as your current one, and be sure to delete the Monstroid theme from that list. 
+        Afterwards proceed to the "Appearance → Themes", switch to any other default Wordpress theme as your current one, and be sure to delete the Monstroid theme from that list.
     </li>
 
     <li>
@@ -43,12 +43,12 @@
     <li>
         After installing this updated Monstroid theme anew, proceed to update the Plugins, by going to the sidebar on your left → Updates.
     <p>
-        Then  tick all the checkboxes for the listed plugins and click the “Update All” button at the top. 
+        Then  tick all the checkboxes for the listed plugins and click the “Update All” button at the top.
     </p>
     </li>
 
     <li>
-        Now you’ll need to import back those settings which you’ve exported in a previous step. 
+        Now you’ll need to import back those settings which you’ve exported in a previous step.
         <ul class="marked-list">
             <p>
                  5.1 To do that go to your Monstroid admin dashboard ->> then on your left go to the “Customizing” section → Export/Import → and choose the “Import” option.
@@ -67,8 +67,8 @@
 
 
 
-  
-<?php } ?>  
+
+<?php } ?>
 </ol>
 
 

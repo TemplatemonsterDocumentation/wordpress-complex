@@ -1,3 +1,4 @@
+<?php if ($project != 'jetelements') { ?>
 <h2>Introduction</h2>
 
 
@@ -18,7 +19,7 @@
     <p>WordPress template is a theme for the WordPress CMS platform. You can easily change your website appearance by installing a new WordPress template in a few easy steps. Despite its simplicity, a WordPress template contains all the necessary source files that can be altered the way you need.</p>
 </article>
 
-<?php if ($project != 'monstroid_2' && $project != 'woostroid') { ?>
+<?php if ($project != 'monstroid_2' && $project != 'woostroid' && $project != 'contractor') { ?>
 <article id="structure">
     <h3>Template Structure</h3>
     <p>The template package includes several folders. Let's check what's inside:</p>
@@ -71,7 +72,7 @@
                             </dl>
                         </li>
                         <?php } ?>
-                        <?php if ($project == 'interra' or $project == 'valentia' or $project == 'shopable') { ?>
+                        <?php if ($project == 'interra' or $project == 'valentia' or $project == 'shopable' or $project == 'wheelmasters') { ?>
                         <li>
                             <dl class="inline-term">
                                 <dt>
@@ -580,9 +581,60 @@
     	<p>You can also install WordPress on your PC or laptop through a local server. You can use the following software to create a local server: <strong>WAMP</strong>, <strong>AppServ</strong>, <strong>MAMP</strong>, etc. All of these support WordPress and can be installed as a regular software.</p>
     	<p>These tutorials will help you set up the local server:</p>
     	<ul class="marked-list">
-    		<li><a href="https://www.templatemonster.com/help/how-to-install-appserv-web-development-environment.html" target="_blank">How to install AppServ web development environment</a></li>
-    	<li><a href="https://www.templatemonster.com/help/how-to-install-wamp-web-development-environment.html" target="_blank">How to install WAMP web development environment</a></li>
-    	<li><a href="https://www.templatemonster.com/help/how-to-install-xamp-web-development-environment.html" target="_blank">How to install XAMP web development environment</a></li>
+    		<li><a href="https://jetimpex.com/wordpress/support/knowledge-base/app-serv-web-development-environment-installation/" target="_blank">App Serv Web Development Environment Installation</a></li>
+    	<li><a href="https://jetimpex.com/wordpress/support/knowledge-base/wamp-web-development-environment-installation/" target="_blank">WAMP Web Development Environment Installation</a></li>
+    	<li><a href="https://jetimpex.com/wordpress/support/knowledge-base/xamp-web-development-environment-installation/" target="_blank">XAMP Web Development Environment Installation</a></li>
     </ul>
 
 </article>
+<?php } ?>
+
+<?php if ($project == 'jetelements') { ?>
+
+<article><h2>Introduction</h2>
+
+<h5>Thank you for purchasing JetElements for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up JetElements plugin from scratch.
+You will also find information on how to enable and customize JetElements addons. </h5>
+
+    <h3>What Is JetElements Plugin?</h3>
+
+
+<p>JetElements is a plugin that adds extensive modules for Elementor live page builder, allowing to build different kinds of content with easiness and efficiency. </p>
+
+<p>With JetElements You can add various custom blocks to your website’s page layout, containing additional modules, which are not included in the standard Elementor page builder elements bundle. </p>
+
+<p>Use JetElements to extend Your content with 19 diverse modules, devised especially to add timers, pricing tables and advanced sliders to Your website’s pages. </p>
+
+    <h3>JetElements Overview</h3>
+
+<ul class="marked-list">
+<p><li><b>Advanced Carousel</b>  module displays slides in an attractive way. You can display from 1 to 10 slides at one time using Advanced Carousel module, set versatile animation options, create vivid backgrounds, enrich slides content with clear typography. With Advanced Carousel you can create as many slides as you need to.</li></p>
+<p><li><b>Advanced Map</b>  module is the perfect solution if you need to display a map on your website, and add pins to it to locate the places. You can add multiple pins, change map style, enable switching from satellite to map view. The module is easily customizable and has friendly user interface.</li></p>
+<p><li><b>Animated Box</b>  module creates an attractive info block on the website’s page, which consists of two sides, that switch from one to other. You can add icons, buttons, titles and content to the animated box. Every element is easily customizable.</li></p>
+<p><li><b>Animated Text</b> module was specially devised to deliver your ideas in the form of attractively animated text. With the help of ths module you can add animated words and phrases to your website’s pages, customize them, and add plain text to complement animated text.</li></p>
+<p><li><b>Banner</b> module allows you to add custom banners to your website’s content. The module has multiple style settings, that include animation settings. It provides you with the means to customize banner background, title and content.</li></p>
+<p><li><b>Brands</b> module helps you to showcase brands and companies on your website’s page. You can add brands, visualize them using brand logos, apply links to them, and customize them in the matter of several clicks.</li></p>
+<p><li><b>Circle Progress</b> module allows you to display progress in the attractive form of circle progress bar. The module has versatile style settings, such as content style, value type, etc.</li></p>
+<p><li><b>Countdown Timer</b> module is a helpful tool if you need to embed a timer with a countdown to your website’s page. The module has multiple settings, such as digits color, font settings, and custom background for the timer.</li></p>
+<p><li><b>Posts</b> module is a multipurpose tool, that can create attractive post grid layouts, sort posts by categories, IDs or the date of publishing. This module is also helpful when creating post sliders and post carousels.</li></p>
+<p><li><b>Pricing Table</b> module is helpful beyond measures when you need to showcase the prices and services your company provides in an attractive and clear way. The module has multiple options, versatile customization settings, and is easy to use.</li></p>
+
+<!-------------------------------------
+<p><li><b>Cherry Team</b> module is extremely useful when you need to add team members to the website’s page. The module helps to define the type of information about team members, that you want to display, sort the team members by teams. It also ensures responsiveness for different types of screens.</li></p>
+<p><li><b>Cherry Services</b> module helps to display the services you provide in an attractive way. The module showcases services using categories or ID. It provides full responsiveness and allows you to set featured images and description length for the services you offer.</li></p>
+---------------------------------------->
+<p><li><b>WooCommerce Recent Products</b> module helps you to showcase the products on your website’s page and sort them using custom order.</li></p>
+<p><li><b>WooCommerce Featured Products</b> module helps you to display featured products in an attractive way on your website’s page, and sort them using custom order.</li></p>
+<p><li><b>WooCommerce Sale Products</b> helps you to display sale products on your website’s page, and sort them using custom order.</li></p>
+<p><li><b>WooCommerce Best Sellers</b> module is extremely helpful if you need to show the most sold products on your website’s page, and arrange them in columns.</li></p>
+<p><li><b>WooCommerce Top Rated Products</b> module can be used if you want to showcase the products that have the highest rating according to the customers reviews. With this module you can set the number of products to show per page and the number of columns in which the products will be organized.</li></p>
+<p><li><b>WooCommerce Product</b> module can help you to display custom products on your website page in a classy way.</li></p>
+<p><li><b>Contact Form 7</b> module helps you to display your existing contact forms. You have to create a contact form using Contact Form 7 plugin before placing it to your website’s page.</li></p>
+</ul>
+
+
+    <div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetElements! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+    </article>
+
+<?php } ?>

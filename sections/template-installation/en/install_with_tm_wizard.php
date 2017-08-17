@@ -1,10 +1,10 @@
 
-<?php if ($project == 'monstroid_2' or $project == 'woostroid') { ?>
+<?php if ($project == 'woostroid') { ?>
 <h3>TM Wizard Installation</h3>
 
     <p>
 
-    After theme activation you will get a notice which offers you to install TM Wizard plugin. 
+    After theme activation you will get a notice which offers you to install TM Wizard plugin.
     To continue plugins and demo contents installation with TM Wizard just hit <strong>Begin installing plugin</strong> link.
     You will be transfered to the page where you can select the needed plugins
 
@@ -23,7 +23,7 @@
     <p>
 
         After TM Wizard plugin has been successfully installed and activated click on <strong>Return to the Dashboard</strong> link
-    
+
     </p>
 
     <figure class="img-polaroid">
@@ -36,7 +36,7 @@
         After installation and activation TM Wizard plugin you will get a notice which offers you to continue the plugins and demo contents installation with TM Wizard.
         Then click on <strong>START INSTALL</strong> on the top of the page to start installation of the recommended plugins
     </p>
-    
+
 
     <figure class="img-polaroid">
         <img src="img/wizard_installation/step4.png" alt="" >
@@ -68,7 +68,7 @@
     <p>
         <strong>PAY ATTENTION!</strong>
     <br>
-       If your server configurations don't meet the WordPress minimal requirements and you couldn't install Full Version, try Lite one 
+       If your server configurations don't meet the WordPress minimal requirements and you couldn't install Full Version, try Lite one
     </p>
 
     <figure class="img-polaroid">

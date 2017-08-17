@@ -29,7 +29,7 @@ h4 {
       background-position: 600px bottom; } }
 
 [data-section="introduction"] .rd-mobilepanel {
-  background-image: url("../../projects/tripi/img/header-bg.png");
+  background-image: url("../../projects/tripri/img/header-bg.png");
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
@@ -100,3 +100,5 @@ body:not([data-section="introduction"]) .tm-title-caption {
   color: #ffffff; }
   .toTop:hover {
     background-color: silver; }
+
+/*# sourceMappingURL=project_styles.css.map */

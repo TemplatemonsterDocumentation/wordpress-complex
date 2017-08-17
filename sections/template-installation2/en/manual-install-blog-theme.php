@@ -23,7 +23,7 @@
         <img src="img/blog-theme/installation/add-theme-success.png" alt="" >
     </figure>
 
-<?php if ($project != 'monstroid_2' && $project != 'woostroid') { ?>
+<?php if ($project != 'woostroid') { ?>
     <h4>Plugin Installation</h4>
 
     <p>After you install and activate the theme, you may need to install some additional plugins:</p>
@@ -32,13 +32,13 @@
         Then press on "Begin installing plugins" at the top of the website to start  installation of the recommended plugins.
     </p>
 
-<?php if ($project != 'cosmetro_tf' && $project != 'neurion_tf' && $project != 'sketchfield_tf') { ?> 
+<?php if ($project != 'cosmetro_tf' && $project != 'neurion_tf' && $project != 'sketchfield_tf') { ?>
     <figure class="img-polaroid">
         <img src="img/blog-theme/installation/themes-panel.png" alt="" >
     </figure>
 <?php } ?>
 
-<?php if ($project == 'cosmetro_tf' or $project == 'neurion_tf' or $project == 'sketchfield_tf') { ?> 
+<?php if ($project == 'cosmetro_tf' or $project == 'neurion_tf' or $project == 'sketchfield_tf') { ?>
 <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/tmpl-installation/themes-panel.png">
 </figure>
@@ -65,7 +65,7 @@
 
 
 
-    
+
 
 
 

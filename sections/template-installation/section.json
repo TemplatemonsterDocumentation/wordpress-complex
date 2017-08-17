@@ -2770,45 +2770,6 @@
 				}
 			}
 		],
-		"monstroid_2": [
-			{
-				"id": "engine-installation",
-				"translations": {
-					"en": "WordPress Engine Installation",
-					"ru": "Установка движка WordPress"
-				}
-			},
-			{
-				"id": "manual-install-blog-theme",
-				"translations": {
-					"en": "Manual Theme Installation",
-					"ru": "Установка темы вручную."
-
-				}
-			},
-			{
-				"id": "install_with_tm_wizard",
-				"translations": {
-					"en": "TM Wizard Installation",
-					"ru": "Автоматическая установка плагинов."
-
-				}
-			},
-			{
-				"id": "ftp-installation",
-				"translations": {
-					"en": "Upload via FTP",
-					"ru": "Автоматическая установка темы "
-				}
-			},
-			{
-				"id": "manual-update-m",
-				"translations": {
-					"en": "Manual Update",
-					"ru": "Обновление темы"
-				}
-			}
-		],
 		"stylefactory": [
 			{
 				"id": "engine-installation",
@@ -2967,6 +2928,30 @@
 			}
 		],
 		"shopable": [
+			{
+				"id": "engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": "Установка движка WordPress"
+				}
+			},
+			{
+				"id": "manual-install-blog-theme",
+				"translations": {
+					"en": "Manual Theme Installation",
+					"ru": "Установка темы вручную."
+
+				}
+			},
+			{
+				"id": "ftp-installation",
+				"translations": {
+					"en": "Upload via FTP",
+					"ru": "Автоматическая установка темы "
+				}
+			}
+		],
+		"wheelmasters": [
 			{
 				"id": "engine-installation",
 				"translations": {

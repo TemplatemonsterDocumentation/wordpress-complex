@@ -1,13 +1,10 @@
 <h3>Booked - Appointment Booking</h3>
 
 <p>Booked <a href="https://getbooked.io/" target="_blank"> booked </a> is a powerful and easy-to-use appointment booking plugin for WordPress.</p>
-<figure class="img-polaroid">
-        <img src="projects/monstroid_2/img/third-party-plugins/booked.png">
-</figure>
 
 <h4>Create a Profile Page</h4>
 
-<p>If you would like your customers to manage their own appointments and edit their profile, you'll want to activate the profile page. It's an easy process though, just follow the guide below:</p> 
+<p>If you would like your customers to manage their own appointments and edit their profile, you'll want to activate the profile page. It's an easy process though, just follow the guide below:</p>
 
 <ol>
 	<li>Create a page and give it a title. "Profile" works too, but it can be whatever you want it to be.</li>
@@ -86,13 +83,13 @@
 		Choose a time slot and click the "New Appointment..." button.
 	</li>
 	<li>
-		If this is a current customer, you can simply select them from the user dropdown.		
+		If this is a current customer, you can simply select them from the user dropdown.
 	</li>
 	<li>
-		If this is a new customer, you can quickly add them as a new user by using the registration fields. The first name and email are the only required fields.		
+		If this is a new customer, you can quickly add them as a new user by using the registration fields. The first name and email are the only required fields.
 	</li>
 	<li>
-		When the appointment is booked, the user will get an email welcoming them to the site (with a username/password) as well as an appointment confirmation email. These emails can be customized/turned off from the Booked Settings panel.		
+		When the appointment is booked, the user will get an email welcoming them to the site (with a username/password) as well as an appointment confirmation email. These emails can be customized/turned off from the Booked Settings panel.
 	</li>
 </ol>
 

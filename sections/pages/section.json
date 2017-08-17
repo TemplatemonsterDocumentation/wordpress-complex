@@ -1040,15 +1040,6 @@
 				}
 			}
 		],
-		"monstroid_2": [
-			{
-				"id": "page-settings-monstroid_2",
-				"translations": {
-					"en": "Page settings",
-					"ru": "Настройки страницы"
-				}
-			}
-		],
 		"stylefactory": [
 			{
 				"id": "page-settings-blog-theme",
