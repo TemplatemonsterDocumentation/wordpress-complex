@@ -30,8 +30,8 @@
     </p>
 
     <p>
-        <a href="http://documentation.templatemonster.com/index.php?project=<?php echo $project;?>&lang=en&section=plugins#cherry-data-importer
-">Check a step by step guide here </a>
+        <a href="http://documentation.jetimpex.com/wordpress/index.php?project=<?php echo $project;?>&lang=en&section=plugins#cherry-data-importer
+">Check a step by step guide here. </a>
     </p>
 
      <div class="alert alert-info">

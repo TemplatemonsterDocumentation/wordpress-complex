@@ -845,6 +845,13 @@
 					"en": "TM WooCommerce Package",
 					"ru": "TM WooCommerce Package"
 				}
+			},
+			{
+				"id": "tm-timeline",
+				"translations": {
+					"en": "TM Timeline",
+					"ru": ""
+				}
 			}
 		],
 		"madeleine": [
@@ -4844,6 +4851,13 @@
 					"en": "Contact form 7",
 					"ru": "Contact form 7"
 				}
+			},
+			{
+				"id": "tm-timeline",
+				"translations": {
+					"en": "TM Timeline",
+					"ru": "TM Timeline"
+				}
 			}
 		],
 		"speedyfix": [
@@ -6449,6 +6463,13 @@
 					"en": "Power Builder Integrator",
 					"ru": "Power Builder Integrator"
 				}
+			},
+			{
+				"id": "tm-timeline",
+				"translations": {
+					"en": "TM Timeline",
+					"ru": "TM Timeline"
+				}
 			}
 		],
 		"bloomie": [
@@ -6805,6 +6826,14 @@
 				"id": "tm-dashboard",
 				"translations": {
 					"en": "Jetimpex Dashboard",
+					"ru": ""
+
+				}
+			},
+			{
+				"id": "tm-timeline",
+				"translations": {
+					"en": "TM Timeline",
 					"ru": ""
 
 				}
@@ -7280,6 +7309,13 @@
 				"translations": {
 					"en": "Power Builder Integrator",
 					"ru": "Power Builder Integrator"
+				}
+			},
+			{
+				"id": "tm-timeline",
+				"translations": {
+					"en": "TM Timeline",
+					"ru": "TM Timeline"
 				}
 			}
 		],
@@ -10031,6 +10067,13 @@
 				"id": "tm-wizard",
 				"translations": {
 					"en": "TM Wizard",
+					"ru": " "
+				}
+			},
+			{
+				"id": "tm-timeline",
+				"translations": {
+					"en": "TM Timeline",
 					"ru": " "
 				}
 			}

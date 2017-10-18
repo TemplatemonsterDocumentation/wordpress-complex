@@ -3060,15 +3060,6 @@
 				}
 			}
 		],
-		"stellarlook": [
-			{
-				"id": "timeline-master",
-				"translations": {
-					"en": "TM Timeline",
-					"ru": "TM Timeline"
-				}
-			}
-		],
 		"speedyfix": [
 			{
 				"id": "twitter",
@@ -3479,15 +3470,6 @@
 				}
 			}
 		],
-		"dollarex": [
-			{
-				"id": "timeline-master",
-				"translations": {
-					"en": "TM Timeline",
-					"ru": "TM Timeline"
-				}
-			}
-		],
 		"woostroid": [
 
 			{
@@ -3519,13 +3501,6 @@
 				"translations": {
 					"en": "MotoPress Slider",
 					"ru": "Слайдер MotoPress"
-				}
-			},
-			{
-				"id": "timeline-master",
-				"translations": {
-					"en": "TM Timeline",
-					"ru": "TM Timeline"
 				}
 			}
 		],
@@ -3638,16 +3613,6 @@
 				"translations": {
 					"en": "Timetable",
 					"ru": "Timetable"
-				}
-			}
-
-		],
-		"confevent": [
-			{
-				"id": "timeline-master",
-				"translations": {
-					"en": "TM Timeline",
-					"ru": "TM Timeline"
 				}
 			}
 
@@ -4097,13 +4062,6 @@
 				"translations": {
 					"en": "MotoPress Slider",
 					"ru": "Слайдер MotoPress"
-				}
-			},
-			{
-				"id": "timeline-master",
-				"translations": {
-					"en": "TM Timeline",
-					"ru": "TM Timeline"
 				}
 			}
 		],

@@ -58,6 +58,7 @@ Posts module is a multipurpose tool, that can create attractive post grid layout
 <ul class="marked-list">
 <p><li><b>Posts Number</b> — here you need to define how many posts you need to display with this module. </li></p>
 <p><li><b>Columns</b> — in this block you need to choose the number of columns to use from the dropdown menu. You can select from 1 to 6 columns to show per block. </li></p>
+<p><li><b>Equal Columns Height</b> — in this block you can enable or disable the same height for all the module columns. </li></p>
 <p><li><b>Query Posts By</b> — here you can specify, if you want to filter and show  posts by categories, or by IDs. You can also show only the latest posts. </li></p>
 <p><li><b>Show Posts Title</b> — enable this option if you want to display post title in the module. </li></p>
 <p><li><b>Show Posts Featured Image</b> — enable this option to display featured images for the posts that are shown in the module.</li></p>
@@ -94,6 +95,7 @@ Posts module is a multipurpose tool, that can create attractive post grid layout
 
 <ul class="marked-list">
 <p><li><b>Enable Carousel</b> — turn on this option to create post slider or carousel. </li></p>
+<p><li><b>Slides Minimal Height</b> — here you can define the necessary height for the slides. </li></p>
 <p><li><b>Slides to Scroll</b> — here you need to define how many slides you want to scroll when autoplay or using navigation arrows. </li></p>
 <p><li><b>Show Arrows Navigation</b> — here you can enable or disable navigation arrows to provide easier navigation from slide to slide for the visitors. </li></p>
 

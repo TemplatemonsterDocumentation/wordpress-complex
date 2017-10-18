@@ -1427,7 +1427,10 @@
 	"cherry_popups": [
 		"cherry-popups-intro",
 		"cherry-popups-plugin-opt",
-		"cherry-popups-opt"
+		"cherry-popups-opt",
+		"cherry-popups-login",
+		"cherry-popups-sign-in",
+		"cherry-popups-social-login"
 	],
 	"techlab": [
 		"introduction",
@@ -1491,7 +1494,10 @@
 		 "cherry_popups": [
 		  "cherry-popups-intro",
 		  "cherry-popups-plugin-opt",
-		  "cherry-popups-opt"
+		  "cherry-popups-opt",
+		  "cherry-popups-login",
+		  "cherry-popups-sign-in",
+		  "cherry-popups-social-login"
 	],
 		 "cherry_testimonials": [
 		  "cherry-testimonials-intro",
@@ -3458,6 +3464,9 @@
 		"jetelements-installation",
 		"jetelements-start",
 		"jetelements-modules",
-		"jetelements-advanced"
+		"jetelements-advanced",
+		"jetelements-templates",
+		"jetelements-dummydata",
+		"jetelements-changelog"
 	]
 }

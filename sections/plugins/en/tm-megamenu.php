@@ -14,15 +14,15 @@ This TM Mega Menu plugin allows you to create multi-column menu drop-downs. It a
 Here you can work with Mega Menu.
 
 	<ul class="marked-list">
-		<li>	
+		<li>
 			<dl class="inline-term">
 				<dt>Enable Mega Menu for current item</dt>
 				 <dd>
-				This property allows to enadle/disable Mega Menu for the items of the general menu strusture
+				This property allows to enable/disable Mega Menu for the items of the general menu strusture
            		</dd>
 			</dl>
 		</li>
-		<li>	
+		<li>
 			<dl class="inline-term">
 				<dt>Settings</dt>
 				 <dd>
@@ -30,7 +30,7 @@ Here you can work with Mega Menu.
            		</dd>
 			</dl>
 		</li>
-		<li>	
+		<li>
 			<dl class="inline-term">
 				<dt>Media</dt>
 				 <dd>

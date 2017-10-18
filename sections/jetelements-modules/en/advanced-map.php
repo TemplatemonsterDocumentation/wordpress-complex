@@ -48,3 +48,22 @@ Advanced Map module is the perfect solution if you need to display a map on your
 <p><li><b>Pin Description</b> — in this field you have to fill in the description of the place you’ve selected to be pinned.</li></p>
 <p><li><b>Pin Icon</b> — here you can select from the media library or upload your custom pin icon. </li></p>
 <p><li><b>Initial Size</b> — here you can choose, if you want the initial size to be visible or hidden. </li></p></ul>
+
+
+<h4>Adding API Key to Advanced Map Module</h4>
+
+<ul class="marked-list">
+<p><li>To add an API key please navigate to <b>Elementor > Jet Elements Settings</b> tab on the left of the Dashboard.</li></p>
+
+<p><li>Here you need to paste <b>API key</b> to the <b>API Key</b> field.</li></p>
+
+<p><li>Let's get <b>API key</b> for the map module. Go to <b>Google Developers</b> page and select <b>Maps Embed API</b>.</li></p>
+
+<p><li>Here click on <b>Create Key</b> button and select the project to which you want to add a key. If you still don't have any projects, click on <b>Create a New Project</b> button.</li></p>
+
+<p><li>Name the project and click on <b>Create and Enable API</b>.</li></p>
+
+<p><li>Copy the key to the clipboard and paste to the <b>API Key</b> field in your Dashboard. </li></p>
+
+<p><li>Save the changes. </li></p></ul>
+

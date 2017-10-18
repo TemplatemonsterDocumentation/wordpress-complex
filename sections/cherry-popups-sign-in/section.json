@@ -1,0 +1,11 @@
+{
+	"id": "cherry-popups-sign-in",
+	"translations": {
+		"en": "Popup Sign In Form",
+		"ru": ""
+	},
+	"articles": {
+		"cherry_popups": []
+	}
+}
+

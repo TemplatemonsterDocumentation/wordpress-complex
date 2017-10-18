@@ -54,6 +54,18 @@
 				"ru": ""
 			}
 		},	{
+			"id": "download-button",
+			"translations": {
+				"en": "Download Button",
+				"ru": ""
+			}
+		},	{
+			"id": "images-layout",
+			"translations": {
+				"en": "Images Layout",
+				"ru": ""
+			}
+		},	{
 			"id": "posts",
 			"translations": {
 				"en": "Posts",
@@ -63,6 +75,12 @@
 			"id": "pricing-table",
 			"translations": {
 				"en": "Pricing Table",
+				"ru": ""
+			}
+		},	{
+			"id": "slider",
+			"translations": {
+				"en": "Slider",
 				"ru": ""
 			}
 		},	{

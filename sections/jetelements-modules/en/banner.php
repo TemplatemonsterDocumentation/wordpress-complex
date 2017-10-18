@@ -24,6 +24,8 @@ Banner module allows you to add custom banners to your website’s content. The 
 <ul class="marked-list">
 <p><li><b>Image</b>  — here you can upload or choose from the media library any image to use as a banner.
 </li></p>
+<p><li><b>Image Size</b>  — here you can set the preferable size for the banner module.
+</li></p>
 <p><li><b>Title</b> — in this block you need to input the title to use it for the banner.</li></p>
 <p><li><b>Description</b> — here you have to add content to the banner. You can use HTML markup to separate text lines and quotes.
 </li></p>

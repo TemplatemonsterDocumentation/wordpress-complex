@@ -59,7 +59,8 @@
 
 <p>
     The theme comes with a pre installed Cherry Data Importer plugin that will help you upload the information quickly and easily.
-    <a href="http://documentation.templatemonster.com/index.php?project=bellaina&lang=en&section=plugins#cherry-data-importer">Check a step by step guide here </a>
+        <a href="http://documentation.jetimpex.com/wordpress/index.php?project=<?php echo $project;?>&lang=en&section=plugins#cherry-data-importer
+">Check a step by step guide here. </a>
 </p>
 
 

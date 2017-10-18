@@ -37,6 +37,7 @@ Advanced Carousel module displays slides in an attractive way. You can display f
 
 <ul class="marked-list">
 <p><li><b>Items Layout</b> — here you need to define the the layout in which the slides will be shown. You can apply Simple layout or Banners layout to display slides and its content in different ways.</li></p>
+<p><li><b>Equal Columns Height</b> — here you can enable or disable the equal columns height option to apply the same height for the columns.</li></p>
 <p><li><b>Animation Effect</b> — here you can change animation effect for the slides. Choose one of the effects from the dropdown menu to change current animation effects. </li></p>
 <p><li><b>Slides to Show</b> — define the number of slides to show at one time. You can show up to 10 slides at one time, or set “1” to use the module as a simple slider.</li></p>
 <p><li><b>Slides to Scroll</b> — here you can define how many slides you want to scroll.</li></p>

@@ -137,6 +137,20 @@
 
 
     <p>After the successful installation, all widgets settings will be applied.</p>
+
+
+<p>After sample data installation you’ll need to select menus locations. To do it, please, navigate to “Appearance > Menus > Manage Locations” in WordPress Dashboard. Here select the locations for each of the menus to make them look as in the live demo.</p>
+
+    <figure class="img-polaroid">
+        <img src="img/blog-theme/installation/menu-loc.png" alt="" >
+    </figure>
+
+<p>Now navigate to “Settings > Reading” on the left of WordPress Dashboard and select “Static Front Page” as the main page in order to activate a newly uploaded main page from sample data.</p>
+
+    <figure class="img-polaroid">
+        <img src="img/blog-theme/installation/stat-page.png" alt="" >
+    </figure>
+
 <?php } ?>
 
     <div class="alert alert-info">

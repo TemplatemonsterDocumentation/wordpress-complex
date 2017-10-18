@@ -3,9 +3,9 @@
 All plugin settings are gathered in Popups > Settings
 </p>
 
-<h3>General Settings Sections</h3>
+<h3>General Settings Section</h3>
 <p>
-	Here ou can define where and for which users to display popups. 
+	Here you can define where and for which users to display popups.
 </p>
 <figure class="img-polaroid">
     <img src="projects/<?php echo $project;?>/img/images/settings.png">
@@ -24,7 +24,7 @@ All plugin settings are gathered in Popups > Settings
         <dl class="inline-term">
             <dt>Enable Plugin on Mobile Devices</dt>
             <dd>
-                Show/hide popups on mobile devices 
+                Show/hide popups on mobile devices
             </dd>
         </dl>
     </li>
@@ -36,11 +36,11 @@ All plugin settings are gathered in Popups > Settings
             </dd>
         </dl>
     </li>
-</ul>  
+</ul>
 
 <h3>Open page Settings</h3>
 <p>
-	
+The settings, that allow to show popup window at the beginning of the session on one of the website's pages.
 </p>
 <figure class="img-polaroid">
     <img src="projects/<?php echo $project;?>/img/images/open-page-settings.png">
@@ -63,9 +63,14 @@ All plugin settings are gathered in Popups > Settings
             </dd>
         </dl>
     </li>
-</ul>    
+</ul>
 
 <h3>Close page settings</h3>
+<p>
+The settings, that allow to show popup window at the end of the session on one of the website's pages.</p>
+
+
+
 <figure class="img-polaroid">
     <img src="projects/<?php echo $project;?>/img/images/cherry-popup-settings-2.png">
 </figure>
@@ -83,15 +88,15 @@ All plugin settings are gathered in Popups > Settings
         <dl class="inline-term">
             <dt>Close page popup display in</dt>
             <dd>
-                Pages identification for the default popup 
+                Pages identification for the default popup
             </dd>
         </dl>
     </li>
-</ul>    
+</ul>
 
 <h3>Mailing List Manager</h3>
 <p>
-	MailChimp mailing list settings
+	MailChimp mailing list settings.
 </p>
 <figure class="img-polaroid">
     <img src="projects/<?php echo $project;?>/img/images/mailing.png">
@@ -114,4 +119,4 @@ All plugin settings are gathered in Popups > Settings
             </dd>
         </dl>
     </li>
-</ul>    
+</ul>
