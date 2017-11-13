@@ -124,7 +124,7 @@ Be aware, that before embedding Contact Form 7 module You will need to create a 
         <img src="projects/<?php echo $project;?>/img/modules/addnewcont.png">
   	</figure>
 
-<p><li>Here you need to  name the contact form and create the form. Feel free to read <a href="https://jetimpex.com/wordpress/support/how-to/create-custom-layout-contact-forms/" target="_blank">How to Create Custom Layout for Contact Forms Using Contact Form 7</a> tutorial in order to learn how to change contact form layouts. </li></p>
+<p><li>Here you need to  name the contact form and create the form. Feel free to read <a href="https://zemez.io/wordpress/support/how-to/create-custom-layout-contact-forms/" target="_blank">How to Create Custom Layout for Contact Forms Using Contact Form 7</a> tutorial in order to learn how to change contact form layouts. </li></p>
 <p><li>When everything is ready click on <b>Save</b> button to save all the changes. </li></p></ol>
 
  	<figure class="img-polaroid">

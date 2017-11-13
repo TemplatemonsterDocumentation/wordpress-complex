@@ -1,10 +1,10 @@
 <h3>TM WooCommerce Ajax Filters</h3>
 
 <p>
-	<a href="http://documentation.jetimpex.com/wordpress/index.php?project=woo-ajax&lang=en&section=woo-ajax-intro" target="_blank">TM WooCommerce Ajax Filters</a> plugin helps to implement the filters that are necessary to make the search of products much easier. When the Ajax Filter is working, the products will be displayed in accordance of the filter that was selected. The plugin makes it easy for customers to find all the necessary goods they are looking for.
+	<a href="http://documentation.zemez.io/wordpress/index.php?project=woo-ajax&lang=en&section=woo-ajax-intro" target="_blank">TM WooCommerce Ajax Filters</a> plugin helps to implement the filters that are necessary to make the search of products much easier. When the Ajax Filter is working, the products will be displayed in accordance of the filter that was selected. The plugin makes it easy for customers to find all the necessary goods they are looking for.
 </p>
 <figure class="img-polaroid">
-        <img src="http://documentation.jetimpex.com/wordpress/projects/woo-ajax/img/widgets/price-slider.png">
+        <img src="http://documentation.zemez.io/wordpress/projects/woo-ajax/img/widgets/price-slider.png">
   	</figure>
 
 <h4>AJAX Filter Location</h4>

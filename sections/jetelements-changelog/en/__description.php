@@ -3,6 +3,26 @@
 <h5>In this block you can view the latest updates for JetElements plugin.</h5>
 
 
+<h4>Version 1.4.0 (November 7, 2017)</h4>
+
+<ul class="marked-list">
+<p><li>Added new JetElements modules:
+<ul class="marked-list">
+<p><li>Button;</li></p>
+<p><li>Image Comparison.</li></p></ul>
+</li></p>
+</ul>
+
+<h4>Version 1.3.0 (October 26, 2017)</h4>
+
+<ul class="marked-list">
+<p><li>Added​ ​new​ ​JetElements​ ​modules:
+<ul class="marked-list">
+<p><li>Services;</li></p>
+<p><li>Team Member;</li></p>
+<p><li>Testimonials;</li></p>
+</ul></li></p>
+<p><li>Added​ ​minor​ ​fixes.</li></p>
 
 <h4>Version 1.2.0 (September 28, 2017)</h4>
 

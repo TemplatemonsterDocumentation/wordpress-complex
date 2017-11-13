@@ -1640,6 +1640,12 @@
 		"title": "JetElements",
 		"titleCaption": "",
 		"author": ""
+	},
+	"jetmenu": {
+		"textLogo": "",
+		"title": "JetMenu",
+		"titleCaption": "",
+		"author": ""
 	}
 
 

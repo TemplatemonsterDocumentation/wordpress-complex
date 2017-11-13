@@ -75,8 +75,8 @@ if (!isset($sections)) {
             </div> -->
 
         </div>
-        <p class="copyright">JetImpex ©
-            <a href="https://jetimpex.com/privacy-policy/" target= "blank">Privacy Policy</a>
+        <p class="copyright">Zemez ©
+            <a href="https://zemez.io/privacy-policy/" target= "blank">Privacy Policy</a>
         </p>
     </div>
     <div class="page-content active">

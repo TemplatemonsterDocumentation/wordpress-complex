@@ -42,6 +42,12 @@
 				"ru": ""
 			}
 		},	{
+			"id": "button",
+			"translations": {
+				"en": "Button",
+				"ru": ""
+			}
+		},	{
 			"id": "circle-progress",
 			"translations": {
 				"en": "Circle Progress",
@@ -60,6 +66,12 @@
 				"ru": ""
 			}
 		},	{
+			"id": "image-comparison",
+			"translations": {
+				"en": "Image Comparison",
+				"ru": ""
+			}
+		},  {
 			"id": "images-layout",
 			"translations": {
 				"en": "Images Layout",
@@ -78,9 +90,27 @@
 				"ru": ""
 			}
 		},	{
+			"id": "services",
+			"translations": {
+				"en": "Services",
+				"ru": ""
+			}
+		},	{
 			"id": "slider",
 			"translations": {
 				"en": "Slider",
+				"ru": ""
+			}
+		},	{
+			"id": "team-member",
+			"translations": {
+				"en": "Team Member",
+				"ru": ""
+			}
+		},	{
+			"id": "testimonials",
+			"translations": {
+				"en": "Testimonials",
 				"ru": ""
 			}
 		},	{

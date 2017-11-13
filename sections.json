@@ -3468,5 +3468,15 @@
 		"jetelements-templates",
 		"jetelements-dummydata",
 		"jetelements-changelog"
+	],
+	"jetmenu": [
+		"introduction",
+		"jetmenu-installation",
+		"jetmenu-settings",
+		"jetmenu-export-import",
+		"jetmenu-editing",
+		"jetmenu-dummydata",
+		"jetmenu-module",
+		"jetmenu-changelog"
 	]
 }

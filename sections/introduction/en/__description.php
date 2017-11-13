@@ -1,4 +1,4 @@
-<?php if ($project != 'jetelements') { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu') { ?>
 <h2>Introduction</h2>
 
 
@@ -581,9 +581,9 @@
     	<p>You can also install WordPress on your PC or laptop through a local server. You can use the following software to create a local server: <strong>WAMP</strong>, <strong>AppServ</strong>, <strong>MAMP</strong>, etc. All of these support WordPress and can be installed as a regular software.</p>
     	<p>These tutorials will help you set up the local server:</p>
     	<ul class="marked-list">
-    		<li><a href="https://jetimpex.com/wordpress/support/knowledge-base/app-serv-web-development-environment-installation/" target="_blank">App Serv Web Development Environment Installation</a></li>
-    	<li><a href="https://jetimpex.com/wordpress/support/knowledge-base/wamp-web-development-environment-installation/" target="_blank">WAMP Web Development Environment Installation</a></li>
-    	<li><a href="https://jetimpex.com/wordpress/support/knowledge-base/xamp-web-development-environment-installation/" target="_blank">XAMP Web Development Environment Installation</a></li>
+    		<li><a href="https://zemez.io/wordpress/support/knowledge-base/app-serv-web-development-environment-installation/" target="_blank">App Serv Web Development Environment Installation</a></li>
+    	<li><a href="https://zemez.io/wordpress/support/knowledge-base/wamp-web-development-environment-installation/" target="_blank">WAMP Web Development Environment Installation</a></li>
+    	<li><a href="https://zemez.io/wordpress/support/knowledge-base/xamp-web-development-environment-installation/" target="_blank">XAMP Web Development Environment Installation</a></li>
     </ul>
 
 </article>
@@ -614,13 +614,18 @@ You will also find information on how to enable and customize JetElements addons
 <p><li><b>Animated Text</b> module was specially devised to deliver your ideas in the form of attractively animated text. With the help of ths module you can add animated words and phrases to your website’s pages, customize them, and add plain text to complement animated text.</li></p>
 <p><li><b>Banner</b> module allows you to add custom banners to your website’s content. The module has multiple style settings, that include animation settings. It provides you with the means to customize banner background, title and content.</li></p>
 <p><li><b>Brands</b> module helps you to showcase brands and companies on your website’s page. You can add brands, visualize them using brand logos, apply links to them, and customize them in the matter of several clicks.</li></p>
+<p><li><b>Button</b> module will assist you in creating buttons with your custom text and links, eye-catching icons and versatile hover effects! With this module you can easily add a button whenever you need it and style it up according to your vision!</li></p>
 <p><li><b>Circle Progress</b> module allows you to display progress in the attractive form of circle progress bar. The module has versatile style settings, such as content style, value type, etc.</li></p>
 <p><li><b>Countdown Timer</b> module is a helpful tool if you need to embed a timer with a countdown to your website’s page. The module has multiple settings, such as digits color, font settings, and custom background for the timer.</li></p>
 <p><li><b>Download Button</b> module will assist You in creating versatile buttons that will allow the visitors downloading files in one click! You won't need to install additional plugins to add this kind of functionality to the website! All You need is to use Download Button module and have the file stored in the Media Library!</li></p>
+<p><li><b>Image Comparison</b> module is the perfect tool that will assist you in creating slides with image comparisons in an attractive and stylish way. From now on you wield the power to showcase the results of your work in an engaging Before and After form! </li></p>
 <p><li><b>Images Layout</b> module displays images using different eye-catching layout types, such as Masonry, Justify or List. Add images and customize layouts in several clicks to get the stunning results and adorn Your website pages with beautiful imagery!</li></p>
 <p><li><b>Posts</b> module is a multipurpose tool, that can create attractive post grid layouts, sort posts by categories, IDs or the date of publishing. This module is also helpful when creating post sliders and post carousels.</li></p>
 <p><li><b>Pricing Table</b> module is helpful beyond measures when you need to showcase the prices and services your company provides in an attractive and clear way. The module has multiple options, versatile customization settings, and is easy to use.</li></p>
+<p><li><b>Services</b> module is devised to add attractive services blocks to your website pages in a smooth and easy way! Use it to showcase the services provided by your company. With Services module you can manage the service title, description, and there are still lots of style settings you can manage. </li></p>
 <p><li><b>Slider</b> module is invaluable if You need to liven up Your website page with a bright and attractive slider! This module is easily customizable, has multiple navigation options. It provides profound content and style settings, which make working on slider as simple as it can be!</li></p>
+<p><li><b>Team Member</b> module is the perfect solution when it comes to displaying your team members, and if you need to introduce your team to your website visitors. There are multiple content and style settings, that can be changed at will! </li></p>
+<p><li><b>Testimonials</b> module is useful beyond compare when it comes to adding your clients’ positive feedbacks to your site. Feel free to style up the testimonials and add the beautiful testimonials carousel right to your web page in several clicks! </li></p>
 
 <!-------------------------------------
 <p><li><b>Cherry Team</b> module is extremely useful when you need to add team members to the website’s page. The module helps to define the type of information about team members, that you want to display, sort the team members by teams. It also ensures responsiveness for different types of screens.</li></p>
@@ -638,6 +643,24 @@ You will also find information on how to enable and customize JetElements addons
 
     <div class="alert alert-info">
         You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetElements! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+    </article>
+
+<?php } ?>
+
+<?php if ($project == 'jetmenu') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank you for purchasing JetMenu addon for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up JetMenu plugin from scratch. You will also find information on how to create a menu and customize it using JetMenu addon.</p>
+
+<article><h2>What Is JetMenu Plugin?</h2>
+
+<p>JetMenu is a plugin that assists you in creating and styling up mega menu. You’ll be able to create content for the menu items and customize items appearance, add menu badges and icons, change menu item background - all this with JetMenu plugin, which is easy-to-use and has intuitive and clear interface. </p>
+
+<p>With JetMenu you can style menu items using different fonts and all colors of the world. There are multiple settings to set the menu item shadows, customization options for Active and Hover mode, etc. </p>
+
+<p>The plugin works in tandem with Elementor live page builder, allowing to add content to menu items in a drag-and-drop way. The content and style settings share the same treats with Elementor and JetElements. You’ll also get Custom Menu module for Elementor, which allows you to add your menu to any page layout section you want. </p>
+
     </article>
 
 <?php } ?>

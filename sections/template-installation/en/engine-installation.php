@@ -18,13 +18,13 @@
 
     <p>
         These tutorials will show you how to unpack the archived files, if you have
-        <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/archived-files-extraction-for-windows/">
+        <a target="_blank" href="https://zemez.io/wordpress/support/knowledge-base/archived-files-extraction-for-windows/">
             <strong>Windows OS (using WinZip)</strong>
         </a>
 
         and if you have
 
-        <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/template-extraction-on-mac-os/">
+        <a target="_blank" href="https://zemez.io/wordpress/support/knowledge-base/template-extraction-on-mac-os/">
             <strong>MAC OS (using StuffitExpander)</strong>
         </a>
         .
@@ -32,22 +32,22 @@
 
     <ul class="marked-list">
         <li><i class="icon-info-sign"></i>
-            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/archived-files-extraction/">
+            <a target="_blank" href="https://zemez.io/wordpress/support/knowledge-base/archived-files-extraction/">
                 Archived Files Extraction
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
-            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/winzip-downloading-and-installation/">
+            <a target="_blank" href="https://zemez.io/wordpress/support/knowledge-base/winzip-downloading-and-installation/">
                 WinZip Downloading and Installation
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
-            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/archived-files-extraction-for-windows/">
+            <a target="_blank" href="https://zemez.io/wordpress/support/knowledge-base/archived-files-extraction-for-windows/">
                 Archived Files Extraction for Windows
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
-            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/template-extraction-on-mac-os/">
+            <a target="_blank" href="https://zemez.io/wordpress/support/knowledge-base/template-extraction-on-mac-os/">
                 Template Extraction on MAC OS
             </a>
         </li>
@@ -73,11 +73,11 @@
 
     <ul class="marked-list">
         <li>
-            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/uploading-files-to-a-server-using-ftp/">
+            <a target="_blank" href="https://zemez.io/wordpress/support/knowledge-base/uploading-files-to-a-server-using-ftp/">
                 Uploading Files to a Server Using FTP.
             </a>
         <li>
-            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/uploading-files-to-a-server-with-cpanel/">
+            <a target="_blank" href="https://zemez.io/wordpress/support/knowledge-base/uploading-files-to-a-server-with-cpanel/">
                 Uploading Files to a Server with cPanel.
             </a>
         </li>
@@ -122,12 +122,12 @@
 
     <ul class="marked-list">
         <li class="first"><i class="icon-info-sign"></i>
-            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/creating-a-database/">Creating
+            <a target="_blank" href="https://zemez.io/wordpress/support/knowledge-base/creating-a-database/">Creating
                                                                                                   database
             </a>
         </li>
         <li class="last"><i class="icon-info-sign"></i>
-            <a target="_blank" href="https://jetimpex.com/wordpress/support/knowledge-base/creating-mysql-database-with-godaddy/">
+            <a target="_blank" href="https://zemez.io/wordpress/support/knowledge-base/creating-mysql-database-with-godaddy/">
                 Creating MySQL Database with GoDaddy.
             </a>
         </li>
@@ -195,27 +195,27 @@
 
     <ul class="marked-list">
         <li><i class="icon-info-sign"></i>
-            <a href="https://jetimpex.com/wordpress/support/knowledge-base/manual-wordpress-installation-to-hostgator-server/"
+            <a href="https://zemez.io/wordpress/support/knowledge-base/manual-wordpress-installation-to-hostgator-server/"
                target="_blank">Manual WordPress Installation to HostGator Server
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
-            <a href="https://jetimpex.com/wordpress/support/knowledge-base/manual-wordpress-installation-bluehost/"
+            <a href="https://zemez.io/wordpress/support/knowledge-base/manual-wordpress-installation-bluehost/"
                target="_blank">Manual WordPress Installation to BlueHost Server
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
-            <a href="https://jetimpex.com/wordpress/support/knowledge-base/manual-wordpress-installation-to-siteground-server/"
+            <a href="https://zemez.io/wordpress/support/knowledge-base/manual-wordpress-installation-to-siteground-server/"
                target="_blank">Manual WordPress Installation to SiteGround Server
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
-            <a href="https://jetimpex.com/wordpress/support/knowledge-base/manual-wordpress-installation-to-godaddy-server/"
+            <a href="https://zemez.io/wordpress/support/knowledge-base/manual-wordpress-installation-to-godaddy-server/"
                target="_blank"> Manual WordPress Installation to GoDaddy Server
             </a>
         </li>
         <li><i class="icon-info-sign"></i>
-            <a href="https://jetimpex.com/wordpress/support/knowledge-base/manual-wordpress-installation-to-justhost-server/"
+            <a href="https://zemez.io/wordpress/support/knowledge-base/manual-wordpress-installation-to-justhost-server/"
                target="_blank">Manual WordPress Installation to JustHost Server
             </a>
         </li>

@@ -1,7 +1,7 @@
-<h3>Jetimpex Dashboard</h3>
+<h3>Dashboard</h3>
 
 <p>
-	Jetimpex Dashboard is a service plugin. It will help you to update and backup template version easily.
+	Dashboard is a service plugin. It will help you to update and backup template version easily.
 </p>
 
 <p>After plugin installation it adds two new blocks: <strong>Dashdoard</strong> and <strong>Updates</strong>.</p>

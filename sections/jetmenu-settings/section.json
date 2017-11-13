@@ -1,0 +1,47 @@
+{
+	"id": "jetmenu-settings",
+	"translations": {
+		"en": "JetMenu Settings",
+		"ru": ""
+	},
+	"articles": {
+		"jetmenu": [{
+			"id": "general",
+			"translations": {
+				"en": "General Settings",
+				"ru": ""
+			}
+		},	{
+			"id": "styles",
+			"translations": {
+				"en": "Styles",
+				"ru": ""
+			}
+		},	{
+			"id": "main-item-styles",
+			"translations": {
+				"en": "Main Menu Item Styles",
+				"ru": ""
+			}
+		},	{
+			"id": "sub-item-styles",
+			"translations": {
+				"en": "Sub Menu Item Styles",
+				"ru": ""
+			}
+		},	{
+			"id": "mobile",
+			"translations": {
+				"en": "Mobile Menu Settings",
+				"ru": ""
+			}
+		},	{
+			"id": "advanced",
+			"translations": {
+				"en": "Advanced Settings",
+				"ru": ""
+			}
+		}]
+	}
+}
+
