@@ -1646,6 +1646,24 @@
 		"title": "JetMenu",
 		"titleCaption": "",
 		"author": ""
+	},
+	"woo-quickstart-kit": {
+		"textLogo": "",
+		"title": "WooCommerce QuickStart Kit",
+		"titleCaption": "",
+		"author": ""
+	},
+	"jetblog": {
+		"textLogo": "",
+		"title": "JetBlog",
+		"titleCaption": "",
+		"author": ""
+	},
+	"jetreviews": {
+		"textLogo": "",
+		"title": "JetReviews",
+		"titleCaption": "",
+		"author": ""
 	}
 
 

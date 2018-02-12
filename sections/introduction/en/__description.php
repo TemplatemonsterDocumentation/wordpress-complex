@@ -1,4 +1,6 @@
-<?php if ($project != 'jetelements' && $project != 'jetmenu') { ?>
+
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog') { ?>
+
 <h2>Introduction</h2>
 
 
@@ -48,29 +50,12 @@
                         </dd>
                     </dl>
                 </li>
-                <li>
-                    <dl class="inline-term">
-                        <dt>
-                            <i class="fa fa-folder"></i> <strong>sample_data</strong>
-                        </dt>
-                        <dd>
-                            contains the files that make the WordPress website look like on our live
-                            demo.
-                        </dd>
-                    </dl>
+                
 
                     <ul>
                          <?php if ($project != 'contractor' && $project != 'stexchange') { ?>
-                        <li>
-                            <dl class="inline-term">
-                                <dt>
-                                    <i class="fa fa-file"></i> <strong>sample_data.xml</strong>
-                                </dt>
-                                <dd>
-                                    contains all template sample data (posts, pages, categories, etc).
-                                </dd>
-                            </dl>
-                        </li>
+                       
+                
                         <?php } ?>
                         <?php if ($project == 'interra' or $project == 'valentia' or $project == 'shopable' or $project == 'wheelmasters') { ?>
                         <li>
@@ -538,6 +523,8 @@
         </ol>
 <?php } ?>
     	<h4>Hosting</h4>
+       
+
     	<p>Since WordPress CMS is a PHP/MySQL platform, you need to have the hosting server prepared for it.</p>
     	<p>In case you already have a hosting server, you need to check whether it is compatibile with <a href="http://wordpress.org/about/requirements/" target="_blank"> WordPress hosting requirements </a> or not. In other words, whether you can host a WordPress website with it.</p>
 
@@ -618,10 +605,13 @@ You will also find information on how to enable and customize JetElements addons
 <p><li><b>Circle Progress</b> module allows you to display progress in the attractive form of circle progress bar. The module has versatile style settings, such as content style, value type, etc.</li></p>
 <p><li><b>Countdown Timer</b> module is a helpful tool if you need to embed a timer with a countdown to your website’s page. The module has multiple settings, such as digits color, font settings, and custom background for the timer.</li></p>
 <p><li><b>Download Button</b> module will assist You in creating versatile buttons that will allow the visitors downloading files in one click! You won't need to install additional plugins to add this kind of functionality to the website! All You need is to use Download Button module and have the file stored in the Media Library!</li></p>
+<p><li><b>Headline</b> module is the perfect tool for creating stunningly beautiful headlines in order to decorate the website’s pages with attractive textual titles. Its content is fully flexible, as well as its multiple style settings, devised to assist you in creating really beautiful headings within minutes! </li></p>
 <p><li><b>Image Comparison</b> module is the perfect tool that will assist you in creating slides with image comparisons in an attractive and stylish way. From now on you wield the power to showcase the results of your work in an engaging Before and After form! </li></p>
+<p><li><b>Instagram</b> module mpowers you to showcase Instagram publications on yuor website's pages in an attractive way, with text captions, meta information (the number of likes and comments). You'll be able to style up this module according to your vision in order to make it the truly outstanding part of your website! </li></p>
 <p><li><b>Images Layout</b> module displays images using different eye-catching layout types, such as Masonry, Justify or List. Add images and customize layouts in several clicks to get the stunning results and adorn Your website pages with beautiful imagery!</li></p>
 <p><li><b>Posts</b> module is a multipurpose tool, that can create attractive post grid layouts, sort posts by categories, IDs or the date of publishing. This module is also helpful when creating post sliders and post carousels.</li></p>
 <p><li><b>Pricing Table</b> module is helpful beyond measures when you need to showcase the prices and services your company provides in an attractive and clear way. The module has multiple options, versatile customization settings, and is easy to use.</li></p>
+<p><li><b>Scroll Navigation</b> module has multiple style and content settings, allowing to set icons, use labels, define the elements position, background type, and there is so much more for you to customize to make the module look its best! </li></p>
 <p><li><b>Services</b> module is devised to add attractive services blocks to your website pages in a smooth and easy way! Use it to showcase the services provided by your company. With Services module you can manage the service title, description, and there are still lots of style settings you can manage. </li></p>
 <p><li><b>Slider</b> module is invaluable if You need to liven up Your website page with a bright and attractive slider! This module is easily customizable, has multiple navigation options. It provides profound content and style settings, which make working on slider as simple as it can be!</li></p>
 <p><li><b>Team Member</b> module is the perfect solution when it comes to displaying your team members, and if you need to introduce your team to your website visitors. There are multiple content and style settings, that can be changed at will! </li></p>
@@ -662,5 +652,45 @@ You will also find information on how to enable and customize JetElements addons
 <p>The plugin works in tandem with Elementor live page builder, allowing to add content to menu items in a drag-and-drop way. The content and style settings share the same treats with Elementor and JetElements. You’ll also get Custom Menu module for Elementor, which allows you to add your menu to any page layout section you want. </p>
 
     </article>
+
+<?php } ?>
+
+
+<?php if ($project == 'woo-quickstart-kit') { ?>
+
+
+<article><h2>Introduction</h2>
+
+<p>Thank you for purchasing WooCommerce QuickStrat Kit for Cherry Framework 5 - based WooCommerce themes. This documentation consists of several parts and covers the entire process of installing and setting up WooCommerce online store from scratch with the help of WooCommerce QuickStrat Kit plugin. </p>
+
+<p>You'll also find information on how to tune up WooCommerce online store, add products dummy data and create the basic WooCommerce pages necessary for launchind a full-fledged online store.</p>
+
+<article><h2>What Is WooCommerce QuickStrat Kit Plugin?</h2>
+
+<p>WooCommerce QuickStrat Kit is a plugin that assists you in styling up WooCommerce pages, helps you install and use WooCommerce package, which includes multiple WooCommerce widgets, and stuffs your website with products dummy data. </p>
+
+<p>Get a head start when creating an online store and set everything within an hour using WooCommerce Quick Start Kit, which will effectively introduce products and style up your web store pages in a classy way!
+</p>
+
+</article>
+
+<?php } ?>
+
+<?php if ($project == 'jetblog') { ?>
+
+<article><h2>Introduction</h2>
+
+<h5>Thank you for purchasing JetBlog addon for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up JetBlog  plugin from scratch. You will also find information on how to add JetBlog modules to the pages built with Elementor, and how to change JetBlog settings. </h5>
+
+<h3>What Is JetBlog Plugin? </h3>
+
+<p><b>JetBlog</b> is a plugin that enriches the website’s content with multiple modules, that will suit not only for creating blog pages, but will also liven up your website with different dynamic modules, such as <b>Smart Tiles, Text Tickers, Video Playlists, Smart Posts List</b>. </p>
+
+<p>With <b>JetBlog</b> one can add content modules on the page built with <b>Elementor</b>, and style up the content appearance to match the general webpage style. Using <b>JetBlog</b> you can customize the modules backgrounds, layouts, responsiveness, add borders and apply shadows, change typography, and there are still so many more options to discover for each of the content modules. </p>
+
+
+
+
+</article>
 
 <?php } ?>

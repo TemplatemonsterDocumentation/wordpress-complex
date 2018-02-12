@@ -1,0 +1,11 @@
+{
+	"id": "wookit-dummy-data",
+	"translations": {
+		"en": "Step 5. Dummy Data Installation",
+		"ru": ""
+	},
+	"articles": {
+		"woo-quickstart-kit": []
+	}
+}
+

@@ -3463,10 +3463,12 @@
 		"introduction",
 		"jetelements-installation",
 		"jetelements-start",
+		"jetelements-parallax",
 		"jetelements-modules",
 		"jetelements-advanced",
 		"jetelements-templates",
 		"jetelements-dummydata",
+		"jetelements-settings",
 		"jetelements-changelog"
 	],
 	"jetmenu": [
@@ -3474,9 +3476,30 @@
 		"jetmenu-installation",
 		"jetmenu-settings",
 		"jetmenu-export-import",
+		"jetmenu-presets",
 		"jetmenu-editing",
 		"jetmenu-dummydata",
-		"jetmenu-module",
+		"jetmenu-modules",
 		"jetmenu-changelog"
+	],
+	"woo-quickstart-kit": [
+		"introduction",
+		"wookit-theme-installation",
+		"wookit-woo-installation",
+		"wookit-creating-pages",
+		"wookit-plugin-installation",
+		"wookit-dummy-data"
+	],
+	"jetblog": [
+		"introduction",
+		"jetblog-installation",
+		"jetblog-adding-content",
+		"jetblog-modules",
+		"jetblog-changelog"
+	],
+	"jetreviews": [
+		"introduction",
+		"jetreviews-start",
+		"jetreviews-widget"
 	]
 }

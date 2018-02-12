@@ -2,6 +2,80 @@
 
 <h5>In this block you can view the latest updates for JetElements plugin.</h5>
 
+<h4>Version 1.7.1.2 (January 30, 2018)</h4>
+
+<ul class="marked-list">
+<p><li>Updated changing control type from Text to URL for link controls;</li></p>
+<p><li>Added fixes for incon controls.</li></p>
+</ul>
+
+<h4>Version 1.7.1.1 (January 17, 2018)</h4>
+
+<ul class="marked-list">
+<p><li>Added Animation Prop Type option for parallax items;</li></p>
+<p><li>Added fixes for cherry.js core available check.</li></p>
+</ul>
+
+<h4>Version 1.7.1 (January 10, 2018)</h4>
+
+<ul class="marked-list">
+<p><li>Added functionality allowing to disable widgets in JetElements Settings block;</li></p>
+<p><li>Added Available Widgets option in JetElements Settings block.</li></p>
+<p><li>Added Adaptive Height option to Testimonials widget;</li></p>
+<p><li>Updated .pot translation file;</li></p>
+<p><li>Fixed block section scrolling (for OceanWP theme);</li></p>
+<p><li>Added minor fixes.</li></p>
+</ul>
+
+<h4>Version 1.7.0.2 (January 3, 2018)</h4>
+
+<ul class="marked-list">
+<p><li>Added fixes for Instagram request;</li></p>
+<p><li>Added fixes for Scroll Navigation waypoint trigger.</li></p>
+</ul>
+
+<h4>Version 1.7.0.1 (January 2, 2018)</h4>
+
+<ul class="marked-list">
+<p><li>Added updated to .pot file.</li></p>
+</ul>
+
+
+<h4>Version 1.7.0 (December 28, 2017)</h4>
+
+<ul class="marked-list">
+<p><li>Added 3 home page templates:
+<ul class="marked-list">
+<p><li>Consulting page template;</li></p>
+<p><li>Beauty salon page template;</li></p>
+<p><li>Car repair page template.</li></p></ul>
+</li></p>
+</ul>
+
+
+<h4>Version 1.6.0 (December 19, 2017)</h4>
+
+<ul class="marked-list">
+<p><li>Added new JetElements modules:
+<ul class="marked-list">
+<p><li>Subscribe form.</li></p></ul>
+</li></p>
+<p><li>Added parallax effect for section;</li></p>
+<p><li>Added fixes for Scroll Navigation module.</li></p>
+</ul>
+
+<h4>Version 1.5.0 (November 22, 2017)</h4>
+
+<ul class="marked-list">
+<p><li>Added new JetElements modules:
+<ul class="marked-list">
+<p><li>Headline;</li></p>
+<p><li>Instagram Gallery;</li></p>
+<p><li>Scroll Navigation.</li></p></ul>
+</li></p>
+<p><li>Added​ ​minor​ ​fixes.</li></p>
+</ul>
+
 
 <h4>Version 1.4.0 (November 7, 2017)</h4>
 

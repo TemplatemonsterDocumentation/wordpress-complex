@@ -10,6 +10,15 @@
 
 <ul class="marked-list">
 	<p><li><b>Animation</b> - choose the animation effect you want to use for the menu (<b>fade, move up, move down</b>). </li></p>
-	<p><li><b>Menu rollUp</b> - enable this option in order to reduce the menu size by grouping extra menu items  and hiding them under the suspension dots. The items will show up on hover.</li></p></ul>
+	<p><li><b>Menu rollUp</b> - enable this option in order to reduce the menu size by grouping extra menu items  and hiding them under the suspension dots. The items will show up on hover.</li></p>
+	<p><li><b>Mouse Leave Delay</b> - specify the delay time in ms.</li></p>
+	<p><li><b>Mega menu base width</b> - select the preferable base width to use it for the menu:
+		<ul class="marked-list">
+	<li><b>Width same as main container width</b>;</li>
+	<li><b>Width same as total items width</b>;</li>
+	<li><b>Width same as Custom css selector width</b>.</li></ul>
+	</li></p></ul>
+	<p><li><b>Mega menu width selector</b> - in the case you've selected Custom CSS selector width, here you need to specify the width selector.</li></p>
+	<p><li><b>Disable default theme integration file</b> - in the case you want to disable the theme integration files (e.g., if you're using PRO versions of the OceanWP, Astra, etc.).</li></p></
 
 

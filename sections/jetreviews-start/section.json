@@ -1,0 +1,34 @@
+{
+	"id": "jetblog-modules",
+	"translations": {
+		"en": "JetBlog Modules",
+		"ru": ""
+	},
+	"articles": {
+		"jetblog": [{
+			"id": "smart-posts-listing",
+			"translations": {
+				"en": "Smart Posts Listing",
+				"ru": ""
+			}
+		},	{
+			"id": "smart-post-tiles",
+			"translations": {
+				"en": "Smart Post Tiles",
+				"ru": ""
+			}
+		},	{
+			"id": "text-ticker",
+			"translations": {
+				"en": "Text Ticker",
+				"ru": ""
+			}
+		},	{
+			"id": "video-playlist",
+			"translations": {
+				"en": "Video Playlist",
+				"ru": ""
+			}
+		}]
+	}
+}

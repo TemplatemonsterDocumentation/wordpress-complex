@@ -1,0 +1,35 @@
+{
+	"id": "jetelements-settings",
+	"translations": {
+		"en": "JetElements Settings",
+		"ru": ""
+	},
+	"articles": {
+		"jetelements": [{
+			"id": "general-settings",
+			"translations": {
+				"en": "General Settings",
+				"ru": ""
+			}
+		},	{
+			"id": "google-map-options",
+			"translations": {
+				"en": "Google Map Options",
+				"ru": ""
+			}
+		},	{
+			"id": "mailing-list-manager",
+			"translations": {
+				"en": "Mailing List Manager",
+				"ru": ""
+			}
+		},	{
+			"id": "available-widgets",
+			"translations": {
+				"en": "Available Widgets",
+				"ru": ""
+			}
+		}]
+	}
+}
+

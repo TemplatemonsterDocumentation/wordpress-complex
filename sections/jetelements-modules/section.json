@@ -60,6 +60,12 @@
 				"ru": ""
 			}
 		},	{
+			"id": "headline",
+			"translations": {
+				"en": "Headline",
+				"ru": ""
+			}
+		},	{
 			"id": "download-button",
 			"translations": {
 				"en": "Download Button",
@@ -69,6 +75,12 @@
 			"id": "image-comparison",
 			"translations": {
 				"en": "Image Comparison",
+				"ru": ""
+			}
+		},	{
+			"id": "instagram",
+			"translations": {
+				"en": "Instagram",
 				"ru": ""
 			}
 		},  {
@@ -90,6 +102,12 @@
 				"ru": ""
 			}
 		},	{
+			"id": "scroll-navigation",
+			"translations": {
+				"en": "Scroll Navigation",
+				"ru": ""
+			}
+		},	{
 			"id": "services",
 			"translations": {
 				"en": "Services",
@@ -99,6 +117,12 @@
 			"id": "slider",
 			"translations": {
 				"en": "Slider",
+				"ru": ""
+			}
+		},	{
+			"id": "subscribe-form",
+			"translations": {
+				"en": "Subscribe Form",
 				"ru": ""
 			}
 		},	{

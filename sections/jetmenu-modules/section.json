@@ -1,0 +1,23 @@
+{
+	"id": "jetmenu-modules",
+	"translations": {
+		"en": "JetMenu Modules",
+		"ru": ""
+	},
+	"articles": {
+		"jetmenu": [{
+			"id": "custom-menu",
+			"translations": {
+				"en": "Custom Menu",
+				"ru": ""
+			}
+		},	{
+			"id": "mega-menu",
+			"translations": {
+				"en": "Mega Menu",
+				"ru": ""
+			}
+		}]
+	}
+}
+
