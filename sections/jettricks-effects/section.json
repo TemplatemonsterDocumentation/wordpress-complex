@@ -1,0 +1,41 @@
+{
+	"id": "jettricks-effects",
+	"translations": {
+		"en": "JetTricks Effects",
+		"ru": ""
+	},
+	"articles": {
+		"jettricks": [{
+			"id": "sticky",
+			"translations": {
+				"en": "Sticky Column",
+				"ru": ""
+			}
+		},	{
+			"id": "hotspots",
+			"translations": {
+				"en": "Hotspots",
+				"ru": ""
+			}
+		},	{
+			"id": "unfold",
+			"translations": {
+				"en": "Unfold",
+				"ru": ""
+			}
+		},	{
+			"id": "view-more",
+			"translations": {
+				"en": "View More",
+				"ru": ""
+			}
+		},	{
+			"id": "parallax",
+			"translations": {
+				"en": "Parallax Element",
+				"ru": ""
+			}
+		}]
+	}
+}
+

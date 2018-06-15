@@ -1,0 +1,23 @@
+{
+	"id": "crocoblock-quickstart",
+	"translations": {
+		"en": "Quick Start",
+		"ru": ""
+	},
+	"articles": {
+		"crocoblock": [{
+			"id": "account",
+			"translations": {
+				"en": "Managing Account",
+				"ru": ""
+			}
+		},	{
+			"id": "affiliate",
+			"translations": {
+				"en": "Affiliate Area",
+				"ru": ""
+			}
+		}]
+	}
+}
+

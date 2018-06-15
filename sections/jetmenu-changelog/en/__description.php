@@ -3,6 +3,21 @@
 <h5>In this block you can view the latest updates for JetMenu plugin.
  </h5>
 
+
+  <h4>Version 1.3.5 (June 1, 2018)</h4>
+
+<ul class="marked-list">
+<li>Added an opening event option for menu sub items;</li>
+<li>Improved compatibility with Avada theme.</li></p>
+
+  <h4>Version 1.3.4 (May 22, 2018)</h4>
+
+<ul class="marked-list">
+<li>Impoved compatibility with Astra theme; </li>
+<li>Added PolyLang compatibility; </li>
+<li>Added fix for preventing conflicts with 3-rd party optimization pluigns.</li>
+</ul>
+
  <h4>Version 1.3.1 (January 29, 2018)</h4>
 
 <ul class="marked-list">

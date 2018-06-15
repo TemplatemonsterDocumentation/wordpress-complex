@@ -1,0 +1,65 @@
+{
+	"id": "jetblocks-widgets",
+	"translations": {
+		"en": "JetBlocks Widgets",
+		"ru": ""
+	},
+	"articles": {
+		"jetblocks": [{
+			"id": "auth-links",
+			"translations": {
+				"en": "Authorization Links",
+				"ru": ""
+			}
+		},	{
+			"id": "breadcrumbs",
+			"translations": {
+				"en": "Breadcrumbs",
+				"ru": ""
+			}
+		},	{
+			"id": "hamburger",
+			"translations": {
+				"en": "Hamburger Panel",
+				"ru": ""
+			}
+		},	{
+			"id": "login-form",
+			"translations": {
+				"en": "Login Form",
+				"ru": ""
+			}
+		},	{
+			"id": "site-logo",
+			"translations": {
+				"en": "Site Logo",
+				"ru": ""
+			}
+		},	{
+			"id": "nav-menu",
+			"translations": {
+				"en": "Nav Menu",
+				"ru": ""
+			}
+		},	{
+			"id": "search",
+			"translations": {
+				"en": "Search",
+				"ru": ""
+			}
+		},	{
+			"id": "reg",
+			"translations": {
+				"en": "Registration Form",
+				"ru": ""
+			}
+		},	{
+			"id": "cart",
+			"translations": {
+				"en": "WooCommerce Shopping Cart",
+				"ru": ""
+			}
+		}]
+	}
+}
+

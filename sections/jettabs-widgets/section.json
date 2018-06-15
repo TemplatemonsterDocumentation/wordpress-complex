@@ -1,0 +1,28 @@
+{
+	"id": "jettabs-widgets",
+	"translations": {
+		"en": "JetTabs Widgets",
+		"ru": ""
+	},
+	"articles": {
+		"jettabs": [{
+			"id": "accordion",
+			"translations": {
+				"en": "Accordion",
+				"ru": ""
+			}
+		},	{
+			"id": "image-accordion",
+			"translations": {
+				"en": "Image Accordion",
+				"ru": ""
+			}
+		},	{
+			"id": "tabs",
+			"translations": {
+				"en": "Tabs",
+				"ru": ""
+			}
+		}]
+	}
+}

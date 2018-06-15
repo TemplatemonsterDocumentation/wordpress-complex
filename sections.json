@@ -3500,6 +3500,53 @@
 	"jetreviews": [
 		"introduction",
 		"jetreviews-start",
-		"jetreviews-widget"
+		"jetreviews-widget",
+		"jetreviews-changelog"
+	],
+	"jettabs": [
+		"introduction",
+		"jettabs-installation",
+		"jettabs-start",
+		"jettabs-widgets",
+		"jettabs-changelog"
+	],
+	"jetparallax": [
+		"introduction",
+		"jetparallax-installation",
+		"jetparallax-creating"
+	],
+	"jetwoobuilder": [
+		"introduction",
+		"jetwoobuilder-installation",
+		"jetwoobuilder-start",
+		"jetwoobuilder-creating-template",
+		"jetwoobuilder-widgets",
+		"jetwoobuilder-advanced",
+		"jetwoobuilder-changelog"
+	],
+	"crocoblock": [
+		"introduction",
+		"crocoblock-quickstart",
+		"crocoblock-installation",
+		"crocoblock-theme",
+		"crocoblock-dashboard",
+		"crocoblock-plugins",
+		"crocoblock-jetthemecore",
+		"crocoblock-changelog"
+	],
+	"jetblocks": [
+		"introduction",
+		"jetblocks-installation",
+		"jetblocks-start",
+		"jetblocks-sticky-header",
+		"jetblocks-widgets",
+		"jetblocks-advanced",
+		"jetblocks-changelog"
+	],
+	"jettricks": [
+		"introduction",
+		"jettricks-installation",
+		"jettricks-effects",
+		"jettricks-changelog"
 	]
 }

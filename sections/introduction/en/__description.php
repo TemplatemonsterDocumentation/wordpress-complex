@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog') { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks') { ?>
 
 <h2>Introduction</h2>
 
@@ -50,12 +50,12 @@
                         </dd>
                     </dl>
                 </li>
-                
+
 
                     <ul>
                          <?php if ($project != 'contractor' && $project != 'stexchange') { ?>
-                       
-                
+
+
                         <?php } ?>
                         <?php if ($project == 'interra' or $project == 'valentia' or $project == 'shopable' or $project == 'wheelmasters') { ?>
                         <li>
@@ -523,7 +523,7 @@
         </ol>
 <?php } ?>
     	<h4>Hosting</h4>
-       
+
 
     	<p>Since WordPress CMS is a PHP/MySQL platform, you need to have the hosting server prepared for it.</p>
     	<p>In case you already have a hosting server, you need to check whether it is compatibile with <a href="http://wordpress.org/about/requirements/" target="_blank"> WordPress hosting requirements </a> or not. In other words, whether you can host a WordPress website with it.</p>
@@ -661,13 +661,13 @@ You will also find information on how to enable and customize JetElements addons
 
 <article><h2>Introduction</h2>
 
-<p>Thank you for purchasing WooCommerce QuickStrat Kit for Cherry Framework 5 - based WooCommerce themes. This documentation consists of several parts and covers the entire process of installing and setting up WooCommerce online store from scratch with the help of WooCommerce QuickStrat Kit plugin. </p>
+<p>Thank you for purchasing WooCommerce QuickStart Kit for Cherry Framework 5 - based WooCommerce themes. This documentation consists of several parts and covers the entire process of installing and setting up WooCommerce online store from scratch with the help of WooCommerce QuickStart Kit plugin. </p>
 
 <p>You'll also find information on how to tune up WooCommerce online store, add products dummy data and create the basic WooCommerce pages necessary for launchind a full-fledged online store.</p>
 
-<article><h2>What Is WooCommerce QuickStrat Kit Plugin?</h2>
+<article><h2>What Is WooCommerce QuickStart Kit Plugin?</h2>
 
-<p>WooCommerce QuickStrat Kit is a plugin that assists you in styling up WooCommerce pages, helps you install and use WooCommerce package, which includes multiple WooCommerce widgets, and stuffs your website with products dummy data. </p>
+<p>WooCommerce QuickStart Kit is a plugin that assists you in styling up WooCommerce pages, helps you install and use WooCommerce package, which includes multiple WooCommerce widgets, and stuffs your website with products dummy data. </p>
 
 <p>Get a head start when creating an online store and set everything within an hour using WooCommerce Quick Start Kit, which will effectively introduce products and style up your web store pages in a classy way!
 </p>
@@ -687,10 +687,299 @@ You will also find information on how to enable and customize JetElements addons
 <p><b>JetBlog</b> is a plugin that enriches the website’s content with multiple modules, that will suit not only for creating blog pages, but will also liven up your website with different dynamic modules, such as <b>Smart Tiles, Text Tickers, Video Playlists, Smart Posts List</b>. </p>
 
 <p>With <b>JetBlog</b> one can add content modules on the page built with <b>Elementor</b>, and style up the content appearance to match the general webpage style. Using <b>JetBlog</b> you can customize the modules backgrounds, layouts, responsiveness, add borders and apply shadows, change typography, and there are still so many more options to discover for each of the content modules. </p>
+</article>
 
+<?php } ?>
+
+
+<?php if ($project == 'jetreviews') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank you for purchasing <b>JetReviews</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up <b>JetReviews</b> plugin from scratch. You will also find information on how to add and customize <b>Review</b> widget.</p>
+
+<h3>What Is JetReviews Plugin? </h3>
+
+<p><b>JetReviews</b> is a plugin that assists in creating reviews and adding them to the pages, built with Elementor live page builder. It can display both manually input reviews and the ones added via WordPress Dashboard. </p>
+
+<p>The plugin has multiple content and style settings, allowing to make the <b>Review</b> blocks look spectacular. </p>
+
+
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetReviews! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+
+
+<p>The plugin possesses everything needed for creating and displaying reviews, which happen to be the essential part of the blogging websites and online stores.</p>
+
+<p>The reviews are proven to influence the person’s opinion in lots of ways, so if You’re bound on sharing Your opinion with the visitors, You’ll find JetReview plugin extremely efficient!</p>
+
+<p>Represent the rating values in the form of stars, rating bars and numbers in order to make the review more evident and eye-catching! </p>
+
+<p>Review widget is just what one needs when thinking of adding eye-catching rating bars and review blocks, which display the percents, stars etc. This widget possesses every means to deliver your ideas and share your opinion on different matters just in few clicks.</p>
+
+<p>It is astonishing how many options are out there for creating a review with a rating bar!</p>
+
+<p>You can master the widget’s blocks responsiveness by changing the elements’ height and width for different devices. The plugin has a fully responsive appearance, making it perfectly fitted for almost all kinds of screens, from mobile devices to tablets and desktops.</p>
+
+<p>As a result Your content will look magnificent on both large and smaller screens!</p>
+
+<p>It is easy to use JetReviews to add reviews in practically several clicks! The interface is clear and simple.</p>
+
+<p>If you’re looking for a really powerful plugin to showcase the reviews and create attractively-looking ratings, here it is. Its design is carefully thought-through, built to suit your needs.</p>
+
+<p>And, what is the most important about JetReviews, is that one doesn’t need any coding skills in order to use it. </p>
+
+<p>You can add reviews by dragging and dropping the Review widget to the needed column in the page’s structure!</p>
+
+
+<p>JetReviews is a really easy-to-use plugin for everyone needing to showcase reviews created via Dashboard or directly in Elementor live page builder.</p>
+
+
+</article>
+
+<?php } ?>
+
+<?php if ($project == 'jettabs') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank you for purchasing <b>JetTabs</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up <b>JetTabs</b> plugin from scratch. You will also find information on how to add and customize <b>Accordion</b>, <b>Image Accordion</b> and <b>Tabs</b> widgets.</p>
+
+
+<h3>What Is JetTabs Plugin?</h3>
+
+
+<p><b>JetTabs</b> is a plugin that allows adding stylish tabs and accordion widgets with vertical and horizontal layouts and building content inside them using Elementor live page builder widgets. </p>
+
+<p>The plugin makes it simple to create a template with Elementor and add it to the <b>Accordion</b> or <b>Tabs</b> widget. It helps organize content and style it up according to one’s needs and preferences. </p>
+
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetTabs! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+
+
+
+<p>While using JetTabs you’ll be astonished how easy You can create content and place it into well-structured tabs and accordion blocks, making Your web page look neat and classy at the same time.</p>
+
+<p>You’ll be able to customize the content and looks of the <b>JetTabs</b> accordion and tabs blocks to make them totally fit for the page’s appearance! The vast number of style settings will become a huge asset for everyone fond of pixel-perfect design and clean typography, and there are still so many more options to discover!</p>
+
+<p>Discover the ultimate potential of the Tabs widget, which makes the process of adding content into the tab blocks as easy as it can be. All You’ll have to do is create the templates in Elementor live page builder with the needed layout, background and content, and them select it from the list of existing templates and pages to assign it to one of the tabs! </p>
+
+<p>And there are also loads of style settings, allowing to change the tabs appearance at will, and even create the tabs within the existing tabs! </p>
+
+<p>If You're fond of organizing content on the pages into neat and classy-looking Accordion blocks? In this case You’ll definitely enjoy the Classic Accordion widget, which allows placing the previously made templates into the Accordion blocks, which can be unfolded and folded whenever there is a need. </p>
+
+<p>The widget really adds lots of extra points to the page’s general neat appearance and compactness of the content, allowing to add more content even when there’s not so many place left for it!</p>
+
+<p>Image Accordion is one of the most spectacular widgets for Elementor live page builder! It becomes a real asset for You when it comes to displaying imagery in a totally eye-catching way of vertical and horizontal accordions! </p>
+
+<p>Enjoy playing around with the overlays, border radius values, inner content, like buttons and text passages, all placed into the Image Accordion blocks, switching smoothly on hover!</p>
+
+<p><b>JetTabs</b> plugin  is an easy-to-use addon allowing to add stylish tabs and accordion blocks to the webpages and enrich them with content, which can be built using Elementor widgets and sections structure. </p>
+
+<p>The plugin is simple in customization, and can become a true asset for those who value style and efficiency!
+</p>
 
 
 
 </article>
+
+<?php } ?>
+
+<?php if ($project == 'jetparallax') { ?>
+
+<article><h2>Introduction</h2>
+<p>Thank you for purchasing <b>JetParallax</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and using <b>JetParallax</b> plugin for creating magnificent parallax section backgrounds! </p>
+</article>
+
+
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetParallax! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+<?php } ?>
+
+<?php if ($project == 'jetwoobuilder') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank You for purchasing <b>JetWooBuilder</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up <b>JetWooBuilder</b> plugin from scratch.</p>
+
+<p>You will also find here information how to create the template for the <b>Single product</b> page, apply to the certain product.</p>
+
+<h3>What Is JetWooBuilder plugin?</h3>
+
+<p><b>JetWooBuilder</b> is a plugin that allows creating <b>WooCommerce Single Product</b> pages with Elementor live page builder functionality using multiple dynamic content widgets.</p>
+
+<p>With <b>JetWooBuilder</b> it is easy to create the exact page structure one needs for the <b>WooCommerce product</b> page without ever touching a single line of code. The sections and columns can be built in seconds and filled up with content in a drag-n-drop way.</p>
+
+<p>Use <b>JetWooBuilder</b> to create unique WooCommerce <b>Single Product</b> page templates and use them for the products represented on Your site.</p>
+
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetWooBuilder! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+
+<h3>JetWooBuilder Overview</h3>
+
+<ul class="marked-list">
+<p><li>
+    <b>Single Add to Cart</b> widget adds the <b>Add to Cart</b> button along with the number of pieces of product for purchasing. The button is needed when one has to add the product to cart.
+</li></p>
+
+<p><li>
+    <b>Single Attributes</b> widget is used to display the attributes which are added in the <b>Product > Product Data</b> in the <b>Attributes</b> block.
+</li></p>
+<p><li>
+    <b>Single Content</b> widget is used to display the content which is added in the <b>Product content</b> block. It has several style settings and allows displaying the already created content.
+</li></p>
+<p><li>
+    <b>Single Excerpt</b> widget is perfect for displaying the excerpt which is added in the <b>Product Short Description</b> field on the <b>Product</b> page.
+</li></p>
+<p><li>
+    <b>Single Images</b> widget makes it simple to add the product featured image to the product page and has stylization options available for setting up.
+</li></p>
+<p><li>
+    <b>Single Meta</b> widget embeds the SKU number, category and tag used for the product to the page, and allows changing the color, typography and alignment for this information.
+</li></p>
+<p><li>
+    <b>Single Price</b> widget makes it easy to embed the product price and sale price to the <b>Single Product</b> page. One can also customize the prices along with the currency signs.
+</li></p>
+<p><li>
+    <b>Single Rating</b>widget is invaluable when adding the product rating to the <b>Single Product</b> page and styling it up according to one’s vision.
+</li></p>
+<p><li>
+    <b>Single Related Products</b> widget makes it possible to display the related products list and style the colors and the typography for them. Note, that in the related products the widget displays the recently added products that have similar tags or categories.
+</li></p>
+<p><li>
+    <b>Single Reviews Form</b> widget allows displaying the reviews for the product along with the field for adding a new review. The <b>Single Reviews Form</b> widget is necessary when one wants the customers to be able to leave reviews.
+</li></p>
+<p><li>
+    <b>Single Sale Badge</b> widget makes it simple to add the Sale badge to the product’s page. Note, that one should set the Sale price in <b>Products > Product Data Sale Price</b> field to enable this functionality.
+</li></p>
+<p><li>
+    <b>Single Sharing</b> widget adds social icons for the product. Please, note that you need to install and activate the <b>JetPack</b> plugin for WordPress (it is completely free and available at <a href="https://wordpress.org/plugins/jetpack/" target="_blank">wordpress.org</a>) and set the icons for the <b>JetWooBuilder templates</b> and <b>Product</b> pages. The icons can’t be styled.
+</li></p>
+<p><li>
+    <b>Single Tabs</b> widget provides the opportunity to place the reviews and product description into tabs, which can be opened on click. This widget allows to effectively use the space of the <b>Single Product</b> page.
+</li></p>
+<p><li>
+    <b>Single Title</b> widget allows adding the product title to the <b>Single Product</b> page. It adds the title set on the <b>Product</b> page in the Title field and provides stylization settings for it.
+</li></p>
+<p><li>
+    <b>Single Upsells</b> widget adds the products which may also be needed by the customer when he purchases the product shown on the <b>Single Product</b> page. The upsell products can be set in <b>Linked Products Upsells</b> field available in <b>Products > Product Data</b> block.
+</li></p>
+</ul>
+
+<?php } ?>
+
+<?php if ($project == 'jettricks') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank You for purchasing <b>JetTricks</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and using <b>JetTricks</b> plugin from scratch.</p>
+
+<p>You will also find here information how to use JetTricks effects along with this plugin's widgets.</p>
+
+<h3>What Is JetTricks plugin?</h3>
+
+<p><b>JetTricks</b> is a plugin that allows adding different visual effects without ever needing to add a single line of code.</p>
+
+<p>The plugin is made for those people who enjoy exquisite animation effects and are willing to add them to the website pages to liven up the website.</p>
+
+<p>Use <b>JetTricks</b> to add Parallax to different widgets, create unfolding sections, sticky columns and View More buttons.</p>
+
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetTricks! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+
+
+
+<?php } ?>
+
+<?php if ($project == 'crocoblock') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Meet the top-notch <a href="https://crocoblock.com/" target="_blank">CrocoBlock</a> subscription service!</p>
+
+<p>It allows to use a wide range of products including <a href="https://crocoblock.com/kava-pro/" target="_blank">Kava theme</a> and <a href="https://crocoblock.com/demos/" target="_blank">demos</a> on different topics, as well as a full bundle of <a href="https://crocoblock.com/plugins/" target="_blank">Jet plugins</a>, in one or multiple projects (depending on the licensing one uses).</p>
+
+
+<p>While using <b>CrocoBlock subscription</b> You can get professional help via <a href="https://kava.ticksy.com/" target="_blank">CrocoBlock support</a> desk.</p>
+
+<h3>What Is Included in CrocoBlock Subscription?</h3>
+
+<p>The subscription includes everything as provided in the one's <a href="https://crocoblock.com/pricing/" target="_blank">pricing plan</a>.
+
+<p>Feel free to download the products included into the subscription from Your Account page. </p>
+
+<p>Here you can find the following products: </p>
+
+<ul class="marked-list">
+<p><li><a href="https://crocoblock.com/kava-pro/" target="_blank"><b>Kava theme</b></a> - the free clean WordPress theme;</li>
+<li><b>Kava Child theme</b> - the child Kava theme version;</li>
+<li><b>Jet Plugins Wizard</b> - automatic plugins and demos installer plugin;</li>
+<li><b>Jet Plugins Bundle:</b>
+<ul class="marked-list">
+<li><a href="http://jetelements.zemez.io/" target="_blank">JetElements;</a></li>
+<li><a href="http://jetmenu.zemez.io/" target="_blank">JetMenu;</a></li>
+<li><a href="https://jetblocks.zemez.io/" target="_blank">JetBlocks;</a></li>
+<li><a href="https://jetblog.zemez.io/" target="_blank">JetBlog;</a></li>
+<li><a href="http://documentation.zemez.io/wordpress/index.php?project=crocoblock&lang=en&section=crocoblock-jetthemecore" target="_blank">JetThemeCore;</li>
+<li><a href="https://jetwoobuilder.zemez.io/" target="_blank">JetWooBuilder;</a></li>
+<li><a href="https://jettricks.zemez.io/" target="_blank">JetTricks;</a></li>
+<li><a href="https://jetreviews.zemez.io/" target="_blank">JetReviews;</a></li>
+<li><a href="https://jettabs.zemez.io/" target="_blank">JetTabs.</a></li></ul>
+</li>
+<li><a href="https://crocoblock.com/demos/" target="_blank"><b>Multiple Demos</a> on Different Topics</b> - the list will be updated with time with even more demos;</li>
+<li><b>High Quality Image Packs</b> - the image packs on different topics.</li></p></ul>
+
+
+<p>All the products should be used on the terms on one's pricing plan.</p>
+
+
+<h3>Recommended Technical Requirements</h3>
+
+<p>The needed requirements are:</p>
+<p>
+<ul class="marked-list">
+<li>PHP 7 or higher;</li>
+<li>MySQL 5.6 of higher;</li>
+<li>WP memory limit of 128 Mb or larger;</li>
+<li>Desktop device;</li>
+<li>SSL certificate on server.</li></ul></p>
+
+<p>You can get more information <a href="https://docs.elementor.com/article/38-requirements
+" target="_blank">here.</a></p>
+
+<h3>CrocoBlock Videos Playlist</h3>
+
+<p>Feel free to view the video playlist with the presentation of different CrocoBlock services.</p>
+
+<iframe width="750" height="400" src="https://www.youtube.com/embed/videoseries?list=PLdaVCVrkty72g_9pu4-tRJ0j_cc01PqUX" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+<p>Welcome to <a href="https://crocoblock.com/" target="_blank">CrocoBlock</a>!</p>
+
+
+<?php } ?>
+
+
+
+<?php if ($project == 'jetblocks') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank You for purchasing <b>JetBlocks</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and using <b>JetBlocks</b> plugin from scratch.</p>
+
+<p>You will also find here information how to use JetBlocks widgets to get the best results when building headers and footers.</p>
+
+<h3>What Is JetBlocks plugin?</h3>
+
+<p><b>JetBlocks</b> is a perfect tool providing an opportunity to create specific content perfectly fit for website's headers and footers.</p>
+
+<p>The plugin makes it extra easy to add <b>authorization links</b>, <b>hamburger panels</b>, <b>login forms</b>, add and customize <b>site logo</b>, <b>nav menu</b>, <b>registration forms</b>, <b>search forms</b> and <b>WooCommerce cart</b> using the convenient widgets made specifically for Elementor. </p>
+
+<p>The plugin allows to enjoy the stunning results in minutes, possesses multiple customization content and style settings. </p>
+
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetBlocks! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+
 
 <?php } ?>

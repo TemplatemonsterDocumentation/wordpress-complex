@@ -31,6 +31,9 @@ Text Ticker module is created for adding an eye-catching ticker content module t
 <li><p><b>Posts Number to Show</b> - input the number of posts you want to display in Text Ticker block.</li></p>
 <li><p><b>Query Posts By</b> - here you can select the query type you want to use for this module’s content (Categories, Tags or All).</li></p>
 <li><p><b>Get posts from categories</b> - here you can select which post categories you want to display using the Text Ticker module.</li></p>
+
+<li><p><b>Exclude Posts by IDs</b> - here you can specify the post IDs you want to exclude from showing up.</li></p>
+
 <li><p><b>Show Post Thumbnail</b> - enable this option in order to display the thumbnail image for the post.</li></p>
 <li><p><b>Thumbnail Size</b> - here you can specify the image thumbnail size in pixels.</li></p>
 <li><p><b>Show Post Author</b> - enable this option in order to display the post author in the ticker.</li></p>

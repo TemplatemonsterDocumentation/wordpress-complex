@@ -1,0 +1,32 @@
+{
+	"id": "crocoblock-jetthemecore",
+	"translations": {
+		"en": "JetThemeCore",
+		"ru": ""
+	},
+	"articles": {
+		"crocoblock": [{
+				"id": "jetthemecore-templates",
+				"translations": {
+					"en": "Creating Templates",
+					"ru": ""
+				}
+			},
+			{
+				"id": "jetthemecore-headers-footers",
+				"translations": {
+					"en": "Creating Headers & Footers",
+					"ru": ""
+				}
+			},
+			{
+				"id": "jetthemecore-pre-styled-sections",
+				"translations": {
+					"en": "Using Pre-Styled Sections",
+					"ru": ""
+				}
+			}
+		]
+	}
+}
+

@@ -215,7 +215,7 @@
 		"confevent": [],
 		"buyinto": [],
 		"carprotect": [],
-		"tripi": [],
+		"tripri": [],
 		"trickleup": [],
 		"smallsteps": [],
 		"rehealth": [],
@@ -263,10 +263,18 @@
 		"jetelements": [],
 		"jetmenu": [],
 		"jetblog": [],
-		"jetreviews": []
+		"jetreviews": [],
+		"woo-quickstart-kit": [],
+		"jettabs": [],
+		"jetparallax": [],
+		"jetwoobuilder": [],
+		"jettricks": [],
+		"crocoblock": [],
+		"jetblocks": []
 
 
 
 
 	}
 }
+

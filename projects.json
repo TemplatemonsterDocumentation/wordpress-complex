@@ -1664,6 +1664,42 @@
 		"title": "JetReviews",
 		"titleCaption": "",
 		"author": ""
+	},
+	"jettabs": {
+		"textLogo": "",
+		"title": "JetTabs",
+		"titleCaption": "",
+		"author": ""
+	},
+	"jetparallax": {
+		"textLogo": "",
+		"title": "JetParallax",
+		"titleCaption": "",
+		"author": ""
+	},
+	"jetwoobuilder": {
+		"textLogo": "",
+		"title": "JetWooBuilder",
+		"titleCaption": "",
+		"author": ""
+	},
+	"jettricks": {
+		"textLogo": "",
+		"title": "JetTricks",
+		"titleCaption": "",
+		"author": ""
+	},
+	"jetblocks": {
+		"textLogo": "",
+		"title": "JetBlocks",
+		"titleCaption": "",
+		"author": ""
+	},
+	"crocoblock": {
+		"textLogo": "",
+		"title": "CrocoBlock Documentation",
+		"titleCaption": "",
+		"author": ""
 	}
 
 

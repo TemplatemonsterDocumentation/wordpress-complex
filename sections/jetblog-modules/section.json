@@ -29,6 +29,18 @@
 				"en": "Video Playlist",
 				"ru": ""
 			}
+		},	{
+			"id": "posts-navigation",
+			"translations": {
+				"en": "Posts Navigation",
+				"ru": ""
+			}
+		},	{
+			"id": "posts-pagination",
+			"translations": {
+				"en": "Posts Pagination",
+				"ru": ""
+			}
 		}]
 	}
 }

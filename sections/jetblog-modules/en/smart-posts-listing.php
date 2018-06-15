@@ -64,8 +64,21 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 
 <ul class="marked-list">
 <p><li><b>Post Type</b> - here you can select the post type you want to use (e.g., Posts, Pages, Projects).</li></p>
-<p><li><b>Query Posts By</b> - here you can select the query type you want to use for this module’s content (<b>Categories, Tags</b> or <b>All</b>). </li></p>
-<p><li><b>Get posts from categories</b> - here you can select which post categories you want to display using the <b>Smart Posts Listing</b> module. </li></p>
+<p><li><b>Query Posts By</b> - here you can select the query type you want to use for this module’s content (<b>Categories, Tags</b> or <b>All</b>). In the JetBlog v.1.2.0  and further one can query posts by <b>IDs</b>. After that one needs to ad the comma-separated list of IDs in the corresponding field.</li></p>
+<p><li><b>Get posts from categories/tags/IDs</b> - here you can select which post categories/tags/IDs you want to display using the <b>Smart Posts Listing</b> module. </li></p>
+<p><li><b>Exclude Posts by IDs</b> - here you can specify the post IDs you want to exclude from showing up.</li></p></ul>
+
+  <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/modules/list-new.png">
+    </figure>
+
+
+<ul class="marked-list">
+<p><li><b>Filter by Custom Field</b> - enable this option to be able to filter the posts by custom field or even custom field value.</li></p>
+<p><li><b>Custom Field Key</b> - input the custom field key for the posts to show only those which have this custom field.</li></p>
+<p><li><b>Custom Field Value</b> - here you can specify the value by which the posts will be sorted and shown (e.g., key: color, value: red).</li></p>
+</ul>
+<ul class="marked-list">
 <p><li><b>Show Filter by Terms</b> - enable this option if you want to enable the filter and make it available for the website visitors. </li></p>
 <p><li><b>Show "All" Button in Start of Filter</b> - enable this option in order to show the button when clicking on which the visitor will see all the posts shown in the <b>Smart Listing</b>.</li></p>
 <p><li><b>"All" Button Label</b> - here you can define your custom text label for the <b>All</b> button. </li></p>

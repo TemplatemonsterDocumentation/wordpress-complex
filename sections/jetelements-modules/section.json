@@ -96,6 +96,18 @@
 				"ru": ""
 			}
 		},	{
+			"id": "portfolio",
+			"translations": {
+				"en": "Portfolio",
+				"ru": ""
+			}
+		},	{
+			"id": "progress-bar",
+			"translations": {
+				"en": "Progress Bar",
+				"ru": ""
+			}
+		},	{
 			"id": "pricing-table",
 			"translations": {
 				"en": "Pricing Table",

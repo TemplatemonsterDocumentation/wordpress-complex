@@ -1,0 +1,45 @@
+{
+	"id": "crocoblock-dashboard",
+	"translations": {
+		"en": "CrocoBlock Dashboard",
+		"ru": ""
+	},
+	"articles": {
+		"crocoblock": [{
+				"id": "license",
+				"translations": {
+					"en": "License",
+					"ru": ""
+				}
+			},
+			{
+				"id": "updates",
+				"translations": {
+					"en": "Plugin Updates",
+					"ru": ""
+				}
+			},
+			{
+				"id": "theme",
+				"translations": {
+					"en": "Theme",
+					"ru": ""
+				}
+			},
+			{
+				"id": "skins",
+				"translations": {
+					"en": "Skins",
+					"ru": ""
+				}
+			},
+			{
+				"id": "settings",
+				"translations": {
+					"en": "Settings",
+					"ru": ""
+				}
+			}]
+	}
+}
+

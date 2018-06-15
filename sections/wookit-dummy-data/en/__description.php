@@ -10,13 +10,17 @@
 
 <li><p>Click <b>Browse</b> and select the <b>XML dummy data file</b> from your hard drive. Then click <b>Upload file and import</b> option.</p></li>
 
+<div class="alert alert-info">
+        The <b>sample_products.xml</b> file is located in the <b>woocommerce/sample-data</b> folder which can be found in the <b>wp-content/plugins</b> directory. Note, that if you're using the older WooCommerce version (below v.3.3.1) the path should be <b>wp-content/plugins/woocommerce/dummy-data</b>. Here you need the <b>dummy-data.xml</b> file.</div>
+
 	<figure class="img-polaroid"><img src="img/wookit/20.png" alt=""></figure>
 
 <li><p>You can assign the publications to the existing author, import the author or create a new one. Check <b>Download and import file attachments</b> option. Then click <b>Submit</b>.</p></li>
 	<figure class="img-polaroid"><img src="img/wookit/21.png" alt=""></figure>
 <li><p>When the import is finished you can check the products to see the newly added data. Navigate to <b>Products > All products</b> and view the list of the added products to your site.</p></li>
 	<figure class="img-polaroid"><img src="img/wookit/22.png" alt=""></figure>
-<li><p>You can also view them on your website’s pages. <b>WooCommerce QuickStrat Kit</b> plugin will style them up to make them look great.</p></li>
+<li><p>You can also view them on your website’s pages. <b>WooCommerce QuickStart Kit</b> plugin will style them up to make them look great.</p></li>
 </ol>
 
 
+..

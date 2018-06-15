@@ -1,6 +1,6 @@
 <h3>Step 1. Theme Installation</h3>
 
-<p>To use <b>WooCommerce QuickStrat Kit</b> plugin you have to install Cherry Framework 5 theme. Let’s install the theme to your WordPress website.</p>
+<p>To use <b>WooCommerce QuickStart Kit</b> plugin you have to install Cherry Framework 5 theme. Let’s install the theme to your WordPress website.</p>
 
 
 <ol class="index-list">

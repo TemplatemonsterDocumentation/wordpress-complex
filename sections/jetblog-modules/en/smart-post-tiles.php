@@ -47,7 +47,21 @@ Smart Post Tiles module will assist you in adding your posts to the website’s 
 
 <ul class="marked-list">
 <p><li><b>Query Posts By</b> - here you can select the query type you want to use for this module’s content (<b>Categories, Tags</b> or <b>All</b>).</li></p>
-<p><li><b>Get posts from categories</b> - here you can select which post categories you want to display using the Smart Post Tiles module.</li></p>
+<p><li><b>Get posts from categories/tags/IDs</b> - here you can select which post categories/tags/IDs you want to display using the Smart Post Tiles module.</li></p>
+<p><li><b>Exclude Posts by IDs</b> - here you can specify the post IDs you want to exclude from showing up.</li></p></ul>
+
+  <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/modules/list-new.png">
+    </figure>
+
+
+<ul class="marked-list">
+<p><li><b>Filter by Custom Field</b> - enable this option to be able to filter the posts by custom field or even custom field value.</li></p>
+<p><li><b>Custom Field Key</b> - input the custom field key for the posts to show only those which have this custom field.</li></p>
+<p><li><b>Custom Field Value</b> - here you can specify the value by which the posts will be sorted and shown (e.g., key: color, value: red).</li></p>
+</ul>
+
+
 <p><li><b>Enable Carousel</b> - enable this option if you want to display the post tiles in the form of the posts carousel.</li></p>
 <p><li><b>Number of Slides</b> - here you can define the number of slides you want to display with this module.</li></p>
 <p><li><b>Show Controls Arrows</b> - enable this option if you want to enable carousel arrow controls.</li></p>

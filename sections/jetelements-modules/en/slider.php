@@ -52,6 +52,9 @@ Slider module is invaluable if You need to liven up Your website page with a bri
 <p><li><b>Secondary Button URL</b> — here you can specify the URL link for the secondary slider button.</li></p>
 <p><li><b>Secondary Button Text</b> — here you can define the secondary button text for the link.</li></p></ul>
 
+<div class="alert alert-info">
+        <p>Please, pay attention, that by default there are 3  items. In the case You're using only 2 slides, please, consider disabling <b>Indicates if the slides will be looped </b> option, as the widget requires at least 3 slides to loop them. </p></div>
+
 
 <h4>Style</h4>
 

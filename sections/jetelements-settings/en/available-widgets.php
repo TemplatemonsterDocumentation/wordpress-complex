@@ -17,3 +17,16 @@
   <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/modules/widg.png">
     </figure>
+
+
+<h5>JetElements Data Update PopUp</h5>
+
+<p>When entering the Dashboard You'll see the popup informing You that we need to update the database to the latest version. </p>
+
+<p>This means, that <b>JetElements</b> plugin needs to make changes in the database in order for its newly added widgets to be displayed. </p>
+
+<p>As you know, the <b>JetElements Settings</b> block contains the <b>Available Widgets</b> option, where one can <b>disable</b> or <b>enable</b> the existing widgets. </p>
+
+<p>In order for all the new widgets to be added to be displayed and active, please, click <b>Start Update</b> button. </p>
+
+<p>Note, that no harm will come when the update is made. This block informs You about the changes in the database, still keeping it safe and secure. </p>

@@ -1,32 +1,32 @@
 {
-	"id": "jetblog-modules",
+	"id": "jetreviews-widget",
 	"translations": {
-		"en": "JetBlog Modules",
+		"en": "Review Widget",
 		"ru": ""
 	},
 	"articles": {
-		"jetblog": [{
-			"id": "smart-posts-listing",
+		"jetreviews": [{
+			"id": "adding-review-widget",
 			"translations": {
-				"en": "Smart Posts Listing",
+				"en": "Adding Review Widget",
 				"ru": ""
 			}
 		},	{
-			"id": "smart-post-tiles",
+			"id": "review-widget-content",
 			"translations": {
-				"en": "Smart Post Tiles",
+				"en": "Review Widget Content Block",
 				"ru": ""
 			}
 		},	{
-			"id": "text-ticker",
+			"id": "review-widget-style",
 			"translations": {
-				"en": "Text Ticker",
+				"en": "Review Widget Style Block",
 				"ru": ""
 			}
 		},	{
-			"id": "video-playlist",
+			"id": "advanced-settings",
 			"translations": {
-				"en": "Video Playlist",
+				"en": "Advanced Settings",
 				"ru": ""
 			}
 		}]

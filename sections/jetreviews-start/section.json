@@ -1,32 +1,20 @@
 {
-	"id": "jetblog-modules",
+	"id": "jetreviews-start",
 	"translations": {
-		"en": "JetBlog Modules",
+		"en": "Getting Started",
 		"ru": ""
 	},
 	"articles": {
-		"jetblog": [{
-			"id": "smart-posts-listing",
+		"jetreviews": [{
+			"id": "jetreviews-installation",
 			"translations": {
-				"en": "Smart Posts Listing",
+				"en": "JetReviews Installation",
 				"ru": ""
 			}
 		},	{
-			"id": "smart-post-tiles",
+			"id": "jetreviews-dashboard",
 			"translations": {
-				"en": "Smart Post Tiles",
-				"ru": ""
-			}
-		},	{
-			"id": "text-ticker",
-			"translations": {
-				"en": "Text Ticker",
-				"ru": ""
-			}
-		},	{
-			"id": "video-playlist",
-			"translations": {
-				"en": "Video Playlist",
+				"en": "Adding Reviews via Dashboard",
 				"ru": ""
 			}
 		}]

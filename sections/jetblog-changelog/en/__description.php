@@ -3,6 +3,85 @@
 <h5>In this block you can view the latest updates for JetBlog plugin.
  </h5>
 
+  <h4>Version 2.1.1 (May 22, 2018)</h4>
+
+<ul class="marked-list">
+	<li>Added fixes for Smart Listing Post content aligment styles.</li>
+
+</ul>
+
+ <h4>Version 2.0.0 (April 12, 2018)</h4>
+
+<ul class="marked-list">
+	<li>Added Posts Pagination widget;</li>
+	<li>Added Posts Navigation widget;</li>
+	<li>Added availability to use Smart Posts Listing as archive template in Elementor Pro 2.0.0;</li>
+	<li>Added availability to use Smart Tiles as archive template in Elementor Pro 2.0.0;</li>
+	<li>Improved compatibility with Internet Explorer 11 and higher versions.</li>
+</ul>
+
+
+ <h4>Version 1.2.0 (February 28, 2018)</h4>
+
+<ul class="marked-list">
+<li>Added post query option by custom fields in Smart List, Smart Tiles and Text Ticker widgets;
+</li>
+<li>Added post query option by IDs in Smart List and Smart Tiles widgets;
+</li>
+<li>Added fixes for correct handling active classes in categories filter;
+</li>
+<li>Added fixes for the boxes gap on mobile devices.
+</li>
+</ul>
+
+ <h4>Version 1.1.4.3 (February 21, 2018)</h4>
+
+<ul class="marked-list">
+<li>Updated force HTTPS for Vimeo API URL.
+</li>
+</ul>
+
+
+ <h4>Version 1.1.4.2 (February 20, 2018)</h4>
+
+<ul class="marked-list">
+<li>Added fixes for the Terms Links Styles vertical alignment in Smart Tiles widget.
+</li>
+</ul>
+
+ <h4>Version 1.1.4.1 (February 14, 2018)</h4>
+
+<ul class="marked-list">
+<li>Improved Video Playlist behavior on mobile devices.
+</li>
+</ul>
+
+
+ <h4>Version 1.1.4 (February 12, 2018)</h4>
+
+<ul class="marked-list">
+<li>Added changes in Video Playlist behavior on mobile devices.
+</li>
+</ul>
+
+
+ <h4>Version 1.1.3 (February 8, 2018)</h4>
+
+<ul class="marked-list">
+<li>Prevented video IDs parsing failure.
+</li>
+</ul>
+
+ <h4>Version 1.1.2 (February 6, 2018)</h4>
+
+<ul class="marked-list">
+<li>Imporoved compatibility with AutoOptimize plugin;
+</li>
+<li>Fixed errors for Video Playlist widget embedded iside the template shortcode in tabs.
+</li>
+</ul>
+
+
   <h4>Version 1.1.1 (January 31, 2018)</h4>
 
 <ul class="marked-list">
