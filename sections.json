@@ -3519,7 +3519,7 @@
 		"introduction",
 		"jetwoobuilder-installation",
 		"jetwoobuilder-start",
-		"jetwoobuilder-creating-template",
+		"jetwoobuilder-working-template",
 		"jetwoobuilder-widgets",
 		"jetwoobuilder-advanced",
 		"jetwoobuilder-changelog"
@@ -3537,7 +3537,6 @@
 	"jetblocks": [
 		"introduction",
 		"jetblocks-installation",
-		"jetblocks-start",
 		"jetblocks-sticky-header",
 		"jetblocks-widgets",
 		"jetblocks-advanced",

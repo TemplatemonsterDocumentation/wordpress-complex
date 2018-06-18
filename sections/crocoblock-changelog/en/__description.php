@@ -2,6 +2,36 @@
 
 <h5>This block will give you information on the latest updates of the products included in the CrocoBlock subscription.</h5>
 
+<h4>June 15, 2018</h4>
+
+<h5>Skins Library</h5>
+
+<ul class="marked-list">
+<p><li><b>June, 15, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://demo.crocoblock.com/medistart/" target="_blank">Medistart</a></li>
+</p></ul></li></p></ul>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetThemeWizard versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.0.0 (June 11, 2018):</b>
+<ul class="marked-list">
+<li>Released the plugin for smooth and convenient installation.</li>
+</ul>
+
+<p><li><b>JetBlocks versions:</b>
+
+
+<ul class="marked-list">
+<p><li><b>1.1.0 (June 15, 2018):</b>
+<ul class="marked-list">
+<li>Added Breadcrumbs widget;</li>
+<li>Improved Sticky Section functionality.</li>
+</ul>
+
 <h4>June 8, 2018</h4>
 
 <h5>Skins Library</h5>

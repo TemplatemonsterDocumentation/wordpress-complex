@@ -1,0 +1,22 @@
+{
+	"id": "jetwoobuilder-working-template",
+	"translations": {
+		"en": "Working with Templates",
+		"ru": ""
+	},
+	"articles": {
+		"jetwoobuilder": [{
+			"id": "creating-templates",
+			"translations": {
+				"en": "Creating Templates",
+				"ru": ""
+			}
+		},	{
+			"id": "importing-templates",
+			"translations": {
+				"en": "Pre-designed Templates",
+				"ru": ""
+			}
+		}]
+	}
+}
