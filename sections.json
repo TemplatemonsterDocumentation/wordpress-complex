@@ -3547,5 +3547,16 @@
 		"jettricks-installation",
 		"jettricks-effects",
 		"jettricks-changelog"
+	],
+	"kava-child": [
+		"introduction",
+		"kava-installation",
+	    "kava-dashboard",
+		"kava-plugins",
+		"kava-jetthemecore"
+	],
+	"elementor-templates": [
+		"introduction",
+		"et"
 	]
 }

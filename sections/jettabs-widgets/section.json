@@ -23,6 +23,12 @@
 				"en": "Tabs",
 				"ru": ""
 			}
+		},	{
+			"id": "switcher",
+			"translations": {
+				"en": "Switcher",
+				"ru": ""
+			}
 		}]
 	}
 }

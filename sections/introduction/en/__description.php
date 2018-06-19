@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks') { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child') { ?>
 
 <h2>Introduction</h2>
 
@@ -980,6 +980,65 @@ You will also find information on how to enable and customize JetElements addons
 
 <div class="alert alert-info">
         You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetBlocks! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+
+
+<?php } ?>
+
+<?php if ($project == 'kava-child') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank you for purchasing a WordPress template. This documentation consists of several parts and covers the entire process of installing and setting up a WordPress website from scratch.</p>
+
+<h3>What is WordPress CMS?</h3>
+
+<p>WordPress is a free open-source blogging tool and content management system (CMS) based on PHP and MySQL. With its help you can create and administrate websites or powerful on-line applications without possessing any special technical skills. Due to the ease of use and flexibility, WordPress has become the most popular platform for website development. <a href="http://wordpress.org/about/" target="_blank">Learn More.</a></p>
+
+
+
+<h3>What is a WordPress Template?</h3>
+
+<p>WordPress template is a theme for the WordPress CMS platform. You can easily change your website appearance by installing a new WordPress template in a few easy steps. Despite its simplicity, a WordPress template contains all the necessary source files that can be altered the way you need.</p>
+
+<h3>Template Structure</h3>
+
+<p>The template package includes several folders. Let’s check what’s inside: </p>
+
+<ul class="marked-list">
+<p>
+<li><b>theme</b> - contains WordPress theme files:
+<ul class="marked-list">
+<li><strong>child theme_name.zip</strong> - archive with the child theme. Contains child theme's files.
+<li><strong>kava.zip</strong> - archive with Kava theme. Contains Kava theme's files.
+            <li><strong>manual_install</strong> - contains files that make the WordPress website look like on our live demo.
+
+<ul class="marked-list">
+
+                    <li><strong>uploads</strong> - contains theme images.</li>
+                    <li><strong>theme_name.sql</strong> - database file (contains theme content).</li>
+                </ul></li></li></ul>
+<li><b>documentation.html</b> -  contains documentation link information.</li></p>
+<li><b>info.txt</b> -  instructions on how to extract source files.</li></p>
+<li><b>license.txt</b> -  contains information about GPL license.</li></p>
+</ul>
+
+
+
+<h3>Recommended Technical Requirements</h3>
+
+<p>The needed requirements are:</p>
+<p>
+<ul class="marked-list">
+<li>PHP 7 or higher;</li>
+<li>MySQL 5.6 of higher;</li>
+<li>WP memory limit of 128 Mb or larger;</li>
+<li>Desktop device;</li>
+<li>SSL certificate on server.</li></ul></p>
+
+<p>You can get more information <a href="https://docs.elementor.com/article/38-requirements
+" target="_blank">here.</a></p>
+
+
 
 
 <?php } ?>
