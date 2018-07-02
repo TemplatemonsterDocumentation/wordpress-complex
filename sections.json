@@ -3522,6 +3522,7 @@
 		"jetwoobuilder-working-template",
 		"jetwoobuilder-widgets",
 		"jetwoobuilder-advanced",
+		"jetwoobuilder-settings",
 		"jetwoobuilder-changelog"
 	],
 	"crocoblock": [
@@ -3555,8 +3556,10 @@
 		"kava-plugins",
 		"kava-jetthemecore"
 	],
-	"elementor-templates": [
+	"elementortemplates": [
 		"introduction",
-		"et"
+		"et-requirements",
+		"et-installation",
+		"et-extra"
 	]
 }
