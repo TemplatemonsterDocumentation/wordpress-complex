@@ -8,6 +8,10 @@
 
 <li><p>In the newly opened page you’ll see <b>Available Widgets</b> and <b>Products Thumb Effect</b> blocks. </p></li>
 
+    <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/modules/enable.png">
+    </figure>
+
 <li><p><b>Available Widgets</b> block allows to enable or disable specific widgets which are not used or more frequently used when building WooCommerce pages. Just check or uncheck the widget to enable or disable it in the Widgets list in Elementor editor. </p></li>
 
 <li><p>Please, note, that <b>Single Product</b> widgets are shown only on <b>Single Product page</b> templates. </p></li>

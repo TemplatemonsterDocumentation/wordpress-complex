@@ -1,5 +1,10 @@
 <h3>Changelog</h3>
 
-<h5>In this block you can view the latest updates for JetWooBuilder plugin.
- </h5>
+
+<h4>Version 1.1.0 (June 25, 2018)</h4>
+<ul class="marked-list">
+
+<p><li>Added 4 new widgets for displaying product layouts and taxonomy layouts;</li></p>
+<p><li>Added ability to disable widgets from Dashboard in JetWooElements ettings.</li></p>
+
 

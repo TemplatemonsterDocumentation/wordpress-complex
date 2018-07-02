@@ -10,6 +10,10 @@ This widget allows to display the taxonomy categories or tags for the WooCommerc
 
 <h4>Content</h4>
 
+    <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/modules/tax-tiles.png">
+    </figure>
+
 <h5>General</h5>
 
 <ul class="marked-list">

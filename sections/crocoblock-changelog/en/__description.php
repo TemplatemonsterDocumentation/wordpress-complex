@@ -2,6 +2,79 @@
 
 <h5>This block will give you information on the latest updates of the products included in the CrocoBlock subscription.</h5>
 
+<h4>June 29, 2018</h4>
+
+
+<h5>Skins Library</h5>
+
+<ul class="marked-list">
+<p><li><b>June, 22, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://crocoblock.com/fuelcon/" target="_blank">Fuelcon</a>.</li>
+</p></ul></li></p></ul>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetBlog versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>2.1.2 (June 29, 2018):</b>
+<ul class="marked-list">
+<li>Updated Cherry Framework to v.1.5.10 to improve compatibility with PHP v.7.2.</li>
+</ul>
+
+<p><li><b>JetTabs versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.0 (June 27, 2018):</b>
+<ul class="marked-list">
+<li>Added new Switcher widget;</li>
+<li>Added automatic tab switching option.</li>
+</ul>
+
+
+<p><li><b>JetWooBuilder versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.1 (June 29, 2018):</b>
+<ul class="marked-list">
+<li>Added minor fixes for improved performance.</li>
+<p><li><b>1.1.0 (June 26, 2018):</b>
+<ul class="marked-list">
+<li>Added 4 new widgets for displaying product layouts and taxonomy layouts;</li>
+<li>Added ability to disable widgets from Dashboard in JetWooElements settings.</li>
+</ul>
+
+<h4>June 22, 2018</h4>
+
+<h5>Skins Library</h5>
+
+<ul class="marked-list">
+<p><li><b>June, 22, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://demo.crocoblock.com/journyssimo/" target="_blank">Journysimo</a></li>
+</p></ul></li></p></ul>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetWooBuilder versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.0.2 (June 18, 2018):</b>
+<ul class="marked-list">
+<li>Added ability to create templates based on pre-designed layouts.</li>
+</ul>
+
+<p><li><b>JetThemeCore versions:</b>
+
+
+<ul class="marked-list">
+<p><li><b>1.0.6 (June 15, 2018):</b>
+<ul class="marked-list">
+<li>Added ability to install JetPluginsWizard from Dashboard.</li>
+</ul>
+
+
 <h4>June 15, 2018</h4>
 
 <h5>Skins Library</h5>
@@ -9,7 +82,7 @@
 <ul class="marked-list">
 <p><li><b>June, 15, 2018</b> — added 1 skin to skins library:
 <ul class="marked-list">
-<li><a href="https://demo.crocoblock.com/medistart/" target="_blank">Medistart</a></li>
+<li><a href="https://demo.crocoblock.com/besoul/" target="_blank">BeSoul</a></li>
 </p></ul></li></p></ul>
 
 <h5>Jet Plugins</h5>

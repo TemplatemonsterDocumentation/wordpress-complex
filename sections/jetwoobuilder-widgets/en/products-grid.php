@@ -10,6 +10,10 @@ This widget adds the WooCommerce products into attractive grid layouts to the pa
 
 <h4>Content</h4>
 
+    <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/modules/prod-grid.png">
+    </figure>
+
 <h5>General</h5>
 
 <ul class="marked-list">
@@ -269,7 +273,7 @@ This widget adds the WooCommerce products into attractive grid layouts to the pa
 
 	<li><p><b>Order </b>- here you can specify the order of the Categories shown in order to set the position for them for the product in the grid.</p></li></ul>
 
-<h5>Tags<
+<h5>Tags</h5>
 
 <ul class="marked-list">
 	<li><p><b>Typography</b> - here you can edit the typography settings. They are the same as available for other JetWooBuilder widgets.</p></li>

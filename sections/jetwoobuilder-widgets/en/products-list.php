@@ -10,6 +10,11 @@ This widget adds the stylish listing of the WooCommerce products to the pages bu
 
 <h4>Content</h4>
 
+    <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/modules/prod-list.png">
+    </figure>
+
+
 <h5>General</h5>
 
 <ul class="marked-list">

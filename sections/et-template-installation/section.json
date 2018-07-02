@@ -1,0 +1,30 @@
+{
+	"id": "et-template-installation",
+	"translations": {
+		"en": "Templates Installation",
+		"ru": ""
+	},
+	"articles": {
+		"elementortemplates": [
+
+{
+				"id": "installation-via-elementor",
+				"translations": {
+					"en": "Installation via Elementor",
+					"ru": ""
+				}
+			},
+
+           
+
+			{
+				"id": "installation-via-dashboard",
+				"translations": {
+					"en": "Installation via Dashboard",
+					"ru": ""
+				}
+			}
+		]
+	}
+}
+

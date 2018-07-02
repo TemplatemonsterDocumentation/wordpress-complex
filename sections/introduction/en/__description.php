@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child') { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplates') { ?>
 
 <h2>Introduction</h2>
 
@@ -1039,6 +1039,51 @@ You will also find information on how to enable and customize JetElements addons
 " target="_blank">here.</a></p>
 
 
+
+
+<?php } ?>
+
+
+<?php if ($project == 'elementortemplates') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank you for purchasing an Elementor Template! This documentation consists of several parts and covers the process of using and installation of Elementor Template.</p>
+
+<h3>What is an Elementor Template?</h3>
+
+<p>Elementor templates are the building blocks which allow you to build outstanding layouts without actually changing the theme, or modifying its files. These templates possess fully responsive design and have an appearance that corresponds design trends and follows their aesthetics. Elementor Templates can be imported and exported via Elementor Library. 
+</p>
+<p>You can always customize a template according to your needs and vision, change its appearance with Elementor builder according to your taste using Elementor widgets, and create your own page structure. This process doesn’t require any web development experience, everything is pretty easy even for beginners.
+    </p>
+
+
+<h3>A Few Words About Elementor Page Builder</h3>
+
+<p><a href="https://elementor.com/?ref=2412&campaign=templatemonster_marketplace" target="_blank"> Elementor page builder</a> is one of the most popular WordPress page builders. It makes it extra easy to create pages, save/use templates, and add your own unique content while having minor development skills.</p>
+
+<p>
+Basically, Elementor is a free WordPress plugin, which allows creating pages with fine columns and sections structure and adding the content widgets to the columns to display and showcase different types of content.
+</p>
+<p>Elementor PRO version possesses more functionality, making it easy to create header & footer templates, archive page templates, etc.</p>
+
+<h3>A Few Words About Jet Family Plugins</h3>
+<p><a href="https://www.templatemonster.com/wordpress-elementor-plugins/" target="_blank"> Jet Family plugins</a>, specially developed for Elementor, are meant to make one’s work with the page builder fast and smooth. There are only necessary addons that will extend builder’s capabilities while helping you create all kinds of content. It’s amazing how you can create the tab blocks with the help of a single plugin, without ever learning how to code, or how easy it is to showcase blog posts in eye-catching tiled layouts or handy lists.</p>
+<p>
+All Jet Family plugins have passed comprehensive QA tests and have a clean UI which is really easy to comprehend and use.</p>
+
+<h3>Template Structure</h3>
+
+<p>Elementor Template package includes several folders. Let’s check what’s inside: </p>
+
+<ul class="marked-list">
+<p>
+<li><b>templates</b> - a folder, which contains one or several (depending on a particular template) Elementor Template files;
+<li><b>template.json</b> - contains Elementor Template;
+<li><b>documentation.html</b> - contains documentation link information;
+<li><b>license.txt</b> - contains information about GPL license.
+
+</ul>
 
 
 <?php } ?>

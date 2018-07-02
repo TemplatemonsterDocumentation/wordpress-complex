@@ -1,0 +1,30 @@
+{
+	"id": "et-extra",
+	"translations": {
+		"en": "Extra",
+		"ru": ""
+	},
+	"articles": {
+		"elementortemplates": [
+
+{
+				"id": "useful-links",
+				"translations": {
+					"en": "Useful Links",
+					"ru": ""
+				}
+			},
+
+            
+
+			{
+				"id": "localization",
+				"translations": {
+					"en": "Localization",
+					"ru": ""
+				}
+			}
+		]
+	}
+}
+

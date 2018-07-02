@@ -10,6 +10,10 @@ This widget adds the WooCommerce Product Categories Grid layouts to the pages bu
 
 <h4>Content</h4>
 
+    <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/modules/cat-grid.png">
+    </figure>
+
 
 <ul class="marked-list">
 	<li><p><b>Category Layout</b> - here you can change the layouts for the categories according to your needs (there are 5 different layout types). </p></li>

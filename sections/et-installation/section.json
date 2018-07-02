@@ -1,0 +1,36 @@
+{
+	"id": "et-installation",
+	"translations": {
+		"en": "Installation",
+		"ru": ""
+	},
+	"articles": {
+		"elementortemplates": [
+
+{
+				"id": "wordpress-engine-installation",
+				"translations": {
+					"en": "WordPress Engine Installation",
+					"ru": ""
+				}
+			},
+
+            {
+				"id": "required-plugins-installation",
+				"translations": {
+					"en": "Required Plugins Installation",
+					"ru": ""
+				}
+			},
+
+			{
+				"id": "elementor-template-installation",
+				"translations": {
+					"en": "Elementor Template Installation",
+					"ru": ""
+				}
+			}
+		]
+	}
+}
+

@@ -1,0 +1,44 @@
+{
+	"id": "et-requirements",
+	"translations": {
+		"en": "Requirements",
+		"ru": ""
+	},
+	"articles": {
+		"elementortemplates": [
+			
+			
+            {
+				"id": "general",
+				"translations": {
+					"en": "General Requirements",
+					"ru": ""
+				}
+			},
+
+            {
+				"id": "elementor-pure",
+				"translations": {
+					"en": "Elementor Pure",
+					"ru": ""
+				}
+			},
+
+			{
+				"id": "elementor-pro",
+				"translations": {
+					"en": "Elementor Pro",
+					"ru": ""
+				}
+			},
+
+			{
+				"id": "jet-elementor",
+				"translations": {
+					"en": "Jet Elementor",
+					"ru": ""
+				}
+			}]
+	}
+}
+

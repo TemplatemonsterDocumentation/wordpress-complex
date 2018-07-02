@@ -2,6 +2,15 @@
 
 <h5>In this block you can view the latest updates for JetElements plugin.</h5>
 
+
+<h4>Version 1.10.3 (June 25, 2018)</h4>
+
+<ul class="marked-list">
+
+<p><li>Added scroll offset option to Scroll Navigation Widget;</li></p>
+<p><li>Added slider viewport height option to Slider Widget;</li></p>
+<p><li>Fixed image tag size attributes (w3c validation) in Slider Widget.</li></p>
+
 <h4>Version 1.10.2 (June 5, 2018)</h4>
 
 <ul class="marked-list">

@@ -11,7 +11,7 @@
 <h4>Content</h4>
 
   <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/inst/vertacc1.png">
+        <img src="projects/<?php echo $project;?>/img/modules/switcher.png">
     </figure>
 
 <h5>Items</h5>
