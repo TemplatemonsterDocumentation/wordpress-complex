@@ -3564,6 +3564,7 @@
 	],
 	"jetengine": [
 		"introduction",
-		"jetengine-test"
+		"jetengine-test",
+		"jetengine-functionality"
 	]
 }

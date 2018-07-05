@@ -3,10 +3,33 @@
 <h5>In this block you can view the latest updates for JetBlog plugin.
  </h5>
 
+  <h4>Version 2.1.2 (June 29, 2018)</h4>
+
+<ul class="marked-list">
+	<li>Added update for Cherry framework v.1.5.10;</li>
+
+</ul>
+  
+
   <h4>Version 2.1.1 (May 22, 2018)</h4>
 
 <ul class="marked-list">
 	<li>Added fixes for Smart Listing Post content aligment styles.</li>
+	<li>Added multiple performance improvements and bugs were fixed.</li>
+	<li>Added update for Cherry framework v.1.5.9;</li>
+
+</ul>
+
+ <h4>Version 2.1.0 (May 9, 2018)</h4>
+
+<ul class="marked-list">
+	<li>Added 'After Excerpt' value for Meta Position control in the Smart Posts List Widgets.</li>
+	<li>Added Alignment controls for posts title and posts excerpt in the Smart Posts List Widget.</li>
+	<li>Added 'filter_alignment' control in the Smart Posts List Widget.</li>
+	<li>Added 'Read More Button' for simple post in the Smart Posts List Widget.</li>
+	<li>Added 'Title Max Length' options in the Smart POsts List Widget.</li>
+	<li>Added fixes for RTL styles.</li>
+	<li>Added fixes for Alt and title attributes for images.</li>
 
 </ul>
 

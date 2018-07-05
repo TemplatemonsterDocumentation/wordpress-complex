@@ -1,0 +1,19 @@
+{
+	"id": "jetengine-functionality",
+	"translations": {
+		"en": "JetEngine Widgets",
+		"ru": ""
+	},
+	"articles": {
+		"jetengine": [{
+			"id": "test",
+			"translations": {
+				"en": "Test",
+				"ru": ""
+			}
+		}	
+			
+		]
+	}
+}
+

@@ -1,11 +1,11 @@
 {
 	"id": "jetengine-test",
 	"translations": {
-		"en": "Getting Started",
+		"en": "Installation",
 		"ru": ""
 	},
 	"articles": {
-		"jetengine-test": []
+		"jetengine": []
 	}
 }
 
