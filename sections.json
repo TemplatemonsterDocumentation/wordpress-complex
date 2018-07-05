@@ -3561,5 +3561,9 @@
 		"et-requirements",
 		"et-installation",
 		"et-extra"
+	],
+	"jetengine": [
+		"introduction",
+		"jetengine-test"
 	]
 }
