@@ -18,6 +18,7 @@
 <li><b>Top level menu line height</b> - use the controls to specify the height of the menu text lines.</li>
 <li><b>Top level menu letter spacing</b> - use the controls to set the preferable letter spacing for the menu text.</li>
 <li><b>Top level menu subset</b> - here you can define, which subset you want to use for the menu (<b>latin, greek</b> or <b>cyrillic</b>).</li></ul></li></p>
+<p><li><b>Show item Description</b> - enable this option in order to display the item decription in the cvase it is added for the menu item.</li></p>
 <p><li><b>Top level menu description typography</b> - enable this option to change the Menu Description typography settings. The typography settings are similar to those of the the <b>Top level menu typography</b> block.</li></p></ul>
 
 <p>There are three different modes allowing you to customize <b>Main Menu</b> in its normal state, when on hover and when active: <b>Default, Hover</b> and <b>Active</b>. Switch between them to apply the separate style settings to <b>Main Menu</b> when on hover or active.</p>

@@ -35,6 +35,24 @@
 				"en": "Parallax Element",
 				"ru": ""
 			}
+		},	{
+			"id": "particles",
+			"translations": {
+				"en": "Section Particles",
+				"ru": ""
+			}
+		},	{
+			"id": "satellite",
+			"translations": {
+				"en": "Satellite Element",
+				"ru": ""
+			}
+		},	{
+			"id": "tooltip",
+			"translations": {
+				"en": "Tooltip for Widget",
+				"ru": ""
+			}
 		}]
 	}
 }

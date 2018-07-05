@@ -123,5 +123,13 @@
 <ol class="index-list">
 <p><li>Enable <b>Hide Item Navigation Label</b> option in order to remove the navigation label from the menu item.</li></p>
 
-<p><li>Click <b>Save</b> button in the bottom right corner to save the changes.</li></p>
+<p><li>Click <b>Save</b> button in the bottom right corner to save the changes.</li></p></ol>
 
+<h6>Vertical Menu</h6>
+
+
+  <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/jet-vert/15.png">
+    </figure>
+
+<p>In this block one can set the custom mega menu width for the item in pixels. </p>

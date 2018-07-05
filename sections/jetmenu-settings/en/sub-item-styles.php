@@ -2,7 +2,7 @@
 
 <h5>Switch from customizing Simple Sub Panel to Mega Sub Panel by clicking on the corresponding tabs. </h5>
 
-<h6>Simple Sub Panel</h6>
+<h6>Simple Submenu Panel</h6>
 
  	<figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/basic-settings/2.png">
@@ -32,7 +32,13 @@
 <p><li><b>Panel border radius</b> - in this block you can specify the value for the border radius.</li></p>
 <p><li><b>Panel padding</b> - set the padding for the menu items in <b>px</b>.</li></p>
 <p><li><b>Panel margin</b> - here you can define the values to use for the margins in <b>px</b>.</li></p>
+
+<p><li><b>Panel shadow color</b> - here you can define the color of the panel shadow.</li></p>
+<p><li><b>Panel shadow inset</b> - here you can enable the shadow inset by turning the option on.</li></p>
+
+
 <p><li><b>Submenu typography</b> - enable this option to change the <b>Submenu typography</b> settings. The typography settings are similar to those of the the <b>Top Level Menu Typography</b> block.</li></p>
+<p><li><b>Show Submenu Item Description</b> - here you can enable or disable item descriptions to hide them from being shown for submenu items.</li></p>
 <p><li><b>Submenu descriptions typography</b> - enable this option to change the <b>Submenu Descriptions typography</b> settings. The typography settings are similar to those of the the <b>Top Level Menu Typography</b> block.</li></p>
 
 <p>When customizing <b>Simple Sub Menu</b> styles you can switch from <b>Default</b> to <b>Hover</b> or <b>Active</b> mode to create several styles for the sub menu when on hover or active.</p>

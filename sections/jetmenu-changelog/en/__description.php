@@ -3,6 +3,16 @@
 <h5>In this block you can view the latest updates for JetMenu plugin.
  </h5>
 
+   <h4>Version 1.4.0 (July 5, 2018)</h4>
+
+<ul class="marked-list">
+<li>Added the ability to display mega-menu content in the Vertical Mega Menu widget;</li>
+<li>Changed Custom Menu Widget name to Vertical Mega Menu;</li>
+<li>Added style controls for the Mega Menu Widget;</li>
+<li>Added Show Submenu Item Description option;</li>
+<li>Added multiple performance improvements and bug fixes.</li>
+</p>
+
 
   <h4>Version 1.3.5 (June 1, 2018)</h4>
 

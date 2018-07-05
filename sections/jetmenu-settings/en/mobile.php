@@ -13,3 +13,8 @@
 <p><li><b>Toggle text color</b> - here you can set the preferable text color to use it for the toggle.</li></p>
 
 <p><li><b>Toggle background color</b> - here you can specify the color to use for the toggle background.</li></p>
+
+<p><li><b>Container background color</b> - here you can specify the color to use for the toggle container box.</li></p>
+
+<p><li><b>Cover background color</b> - here you can specify the color to use for the cover overlay.</li></p>
+</ul>

@@ -6,9 +6,9 @@
 	},
 	"articles": {
 		"jetmenu": [{
-			"id": "custom-menu",
+			"id": "vertical-menu",
 			"translations": {
-				"en": "Custom Menu",
+				"en": "Vertical Mega Menu",
 				"ru": ""
 			}
 		},	{

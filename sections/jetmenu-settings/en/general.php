@@ -19,6 +19,9 @@
 	<li><b>Width same as Custom css selector width</b>.</li></ul>
 	</li></p></ul>
 	<p><li><b>Mega menu width selector</b> - in the case you've selected Custom CSS selector width, here you need to specify the width selector.</li></p>
-	<p><li><b>Disable default theme integration file</b> - in the case you want to disable the theme integration files (e.g., if you're using PRO versions of the OceanWP, Astra, etc.).</li></p></
+	<p><li><b>Disable default theme integration file</b> - in the case you want to disable the theme integration files (e.g., if you're using PRO versions of the OceanWP, Astra, etc.).</li></p>
+	<p><li><b>Sub menu open event</b> - here oyu ca nset if the submenu opens on mouse click or on hover.</li></p>
+
+</ul>
 
 

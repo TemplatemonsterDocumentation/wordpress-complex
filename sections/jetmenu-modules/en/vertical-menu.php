@@ -1,17 +1,10 @@
-<h3>Custom Menu Module</h3>
+<h3>Vertical Mega Menu Widget</h3>
+
+<div class="alert alert-info">Please, pay attention that this widget is named Custom Menu in the  JetMenu versions below 1.4.0</div>
 
 <h5>From this block you’ll learn how to add the menu to the website’s page using <b>Custom Menu</b> module for Elementor. There are also multiple menu customization options for this content module. </h5>
 
-<h5>Custom Menu Module Sample</h5>
-
-<p>On the picture below you can view <b>Custom Menu</b> module sample.</p>
-
-
- 	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/jet-module/menu-example.png">
-  	</figure>
-
-<h5>Adding and Customizing Custom Menu</h5>
+<h5>Adding and Customizing Vertical Mega Menu</h5>
 
 <ol class="index-list">
 <p><li>First, you need to open the page for editing with Elemenor. Add a new section and define its structure in order to place a menu there.
@@ -21,41 +14,45 @@
   	</figure>
 </li></p>
 
-<p><li>Locate <b>Custom Menu</b> content module.
+<p><li>Locate <b>Vertical Mega Menu</b> content module.
 
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/jet-module/3.png">
+        <img src="projects/<?php echo $project;?>/img/jet-vert1.png">
   	</figure>
 
 </li></p>
 
-<p><li>Drag and drop it to the area where you want to add it. You’ll see the <b>Edit Custom Menu</b> block on the left.
- 	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/jet-module/2.png">
-  	</figure>
+<p><li>Drag and drop it to the area where you want to add it. Right-click on it and select <b>Edit Widget</b> option.
 </li></p></ol>
 
 <h5>Content</h5>
 
-<p>Here you need to specify the menu you want to display with <b>Custom Menu</b> module. Select the menu you want to add from the drop-down list of your existing menus.</p>
+<p>Here you need to specify the menu you want to display with <b>Vertical Mega Menu</b> module. Select the menu you want to add from the drop-down list of your existing menus.</p>
 
- 	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/jet-module/4.png">
-  	</figure>
+  <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/jet-vert2.png">
+    </figure>
+
+<h5>Settings</h5>
+
+<ul class="marked-list">
+<p><li><b>Sub menu position</b> - here you can specify if you want the sub menu items to be displayed on the right or on the left from the vertical menu main items.</li></p>
+
+<p><li><b>Animation</b> - here you can select the type of animation to use for the sub items or mega menu content appearance.</li></p></ul>
 
 <h5>Style</h5>
 
-<h6>Main Menu / Sub menu</h6>
+<h6>Main Menu / Mega Menu / Sub menu</h6>
 
- 	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/jet-module/5.png">
-  	</figure>
+  <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/jet-vert3.png">
+    </figure>
 
-<p><b>Main Menu</b> and <b>Sub Menu</b> blocks contain the same customization features, which are described below.</p>
+<p><b>Main Menu</b>, <b>Mega Menu</b> and <b>Sub Menu</b> blocks contain the same customization features, which are described below.</p>
 
 <ul class="marked-list">
-<p><li><b>Main Menu Width</b> - here you can specify the width of the menu in <b>px</b> (use controls or set the preferable value in the corresponding block).</li></p>
+<p><li><b>Main Menu Width / Mega Menu Width / Sub Menu Width</b> - here you can specify the width of the menu in <b>px</b> (use controls or set the preferable value in the corresponding block).</li></p>
 <li><p><b>Background Type</b> - in this block you can choose, whether you want to use <b>classic</b> or <b>gradient</b> type for the menu. The customization options vary for each type.
 
 <p><b>Classic Background Type</b></p>
@@ -81,9 +78,9 @@
 <p><li><b>Border Type</b> - here you can define the type of the border you need to use for the menu.</li></p>
 <p><li><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
 
-<h6>Main Menu Items / Sub Menu Items</h6>
+<h5>Main Menu Items / Sub Menu Items</h5>
 
-<p><b>Main Menu Items</b> and <b>Sub Meenu Items</b> blocks contain the same customization features, which are described below.</p>
+<p><b>Main Menu Items</b> and <b>Sub Menu Items</b> blocks contain the same customization features, which are described below.</p>
 
 <p>You can switch from customizing <b>Normal</b> to <b>Hover</b> style settings. Just click on the button <b>Hover</b> to proceed to customizing hover elements.</p>
 
@@ -109,7 +106,7 @@
 <p><li><b>First item custom styles</b> - enable this option to access the first item border radius and border type settings.</li></p>
 <p><li><b>Last item custom styles</b> - enable this option to access the last item border radius and border type settings.</li></p></ul>
 
-<p><b>Icon</b></p>
+<h6>Icon</h6>
 
 <ul class="marked-list">
 <p><li><b>Icon Color</b> - here you can set the menu icon color using color picker tool.</li></p>
@@ -121,7 +118,7 @@
 <p><li><b>Box Shadow </b>- enable this option if you want to access the shadow advanced settings for this icon, and need to apply shadow for it.</li></p>
 <p><li><b>Alignment</b> - select the suitable alignment for the icon (<b>top, center, bottom</b>).</li></p></ul>
 
-<p><b>Badge</b></p>
+<h6>Badge</h6>
 
 <ul class="marked-list">
 <p><li><b>Color</b> -  here you can set the menu badge color using color picker tool.</li></p>
@@ -133,7 +130,7 @@
 <p><li><b>Margin</b> - here you can define the margins for the menu badge.</li></p>
 <p><li><b>Alignment</b> - select the suitable alignment for the badge (<b>top, center, bottom</b>).</li></p></ul>
 
-<p><b>Drop-down Icon</b></p>
+<h6>Drop-down Icon</h6>
 
 <ul class="marked-list">
 <p><li><b>Icon</b> - click on this option to see the list of all the available icons and pick the one you want to use.</li></p>

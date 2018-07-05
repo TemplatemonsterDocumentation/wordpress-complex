@@ -48,6 +48,9 @@
 
 <p><li><b>Menu container border radius</b> - in this block you can specify the value for the border radius.</li></p>
 <p><li><b>Inherit border radius for the first menu item from main container</b> - enable this option in order to use the same border radius for the first menu item, as was used for the main container.</li></p>
-<p><li><b>Inherit border radius for the last menu item from main container</b> - enable this option in order to use the same border radius for the last menu item, as was used for the main container.</li></p></ul>
+<p><li><b>Inherit border radius for the last menu item from main container</b> - enable this option in order to use the same border radius for the last menu item, as was used for the main container.</li></p>
+
+
+<p><li><b>Menu container min width (px)</b> - here oyu ca nspecify the minimum width of the menu container in pixels using the control.</li></p></ul>
 
 
