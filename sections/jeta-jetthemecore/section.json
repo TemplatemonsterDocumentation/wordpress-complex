@@ -1,0 +1,38 @@
+{
+	"id": "jeta-jetthemecore",
+	"translations": {
+		"en": "Jeta",
+		"ru": ""
+	},
+	"articles": {
+		"jeta": [{
+				"id": "jetthemecore-settings",
+				"translations": {
+					"en": "Settings",
+					"ru": ""
+				}
+			},{
+				"id": "jetthemecore-templates",
+				"translations": {
+					"en": "Creating Templates",
+					"ru": ""
+				}
+			},
+			{
+				"id": "jetthemecore-headers-footers",
+				"translations": {
+					"en": "Creating Headers & Footers",
+					"ru": ""
+				}
+			},
+			{
+				"id": "jetthemecore-pre-styled-sections",
+				"translations": {
+					"en": "Using Pre-Styled Sections",
+					"ru": ""
+				}
+			}
+		]
+	}
+}
+

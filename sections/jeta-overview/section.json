@@ -1,0 +1,41 @@
+{
+	"id": "jeta-overview",
+	"translations": {
+		"en": "Theme Overview",
+		"ru": ""
+	},
+	"articles": {
+		"jeta": [{
+			"id": "customizer",
+			"translations": {
+				"en": "Customizer",
+				"ru": ""
+			}
+		},	{
+			"id": "blog-layouts",
+			"translations": {
+				"en": "Blog Layouts",
+				"ru": ""
+			}
+		},	{
+			"id": "posts-categories",
+			"translations": {
+				"en": "Posts, Categories and Post Formats",
+				"ru": ""
+			}
+		},	{
+			"id": "simple-widgets",
+			"translations": {
+				"en": "Simple Widgets",
+				"ru": ""
+			}
+		},	{
+			"id": "localization",
+			"translations": {
+				"en": "Localization",
+				"ru": ""
+			}
+		}]
+	}
+}
+

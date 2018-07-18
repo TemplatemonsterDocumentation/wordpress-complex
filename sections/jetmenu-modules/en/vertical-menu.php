@@ -4,6 +4,10 @@
 
 <h5>From this block you’ll learn how to add the menu to the website’s page using <b>Custom Menu</b> module for Elementor. There are also multiple menu customization options for this content module. </h5>
 
+  <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/popup.png">
+    </figure>
+
 <h5>Adding and Customizing Vertical Mega Menu</h5>
 
 <ol class="index-list">

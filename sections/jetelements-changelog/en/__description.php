@@ -9,7 +9,7 @@
 
 <p><li>Added scroll offset option to Scroll Navigation Widget;</li></p>
 <p><li>Added slider viewport height option to Slider Widget;</li></p>
-<p><li>Fixed image tag size attributes (w3c validation) in Slider Widget.</li></p>
+<p><li>Fixed image tag size attributes (w3c validation) in Slider Widget.</li></p></ul>
 
 <h4>Version 1.10.2 (June 5, 2018)</h4>
 

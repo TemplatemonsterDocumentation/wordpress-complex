@@ -1695,27 +1695,21 @@
 		"titleCaption": "",
 		"author": ""
 	},
-	"crocoblock": {
-		"textLogo": "",
-		"title": "CrocoBlock Documentation",
-		"titleCaption": "",
-		"author": ""
-	},
 	"kava-child": {
 		"textLogo": "",
 		"title": "Kava Child Documenation",
 		"titleCaption": "",
 		"author": ""
 	},
-	"elementortemplates": {
+	"elementortemplate": {
 		"textLogo": "",
 		"title": "Elementor Templates",
 		"titleCaption": "",
 		"author": ""
 	},
-	"jetengine": {
+	"jeta": {
 		"textLogo": "",
-		"title": "JetEngine",
+		"title": "Jeta Documenation",
 		"titleCaption": "",
 		"author": ""
 	}

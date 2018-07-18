@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplates'&& $project != 'jetengine') { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta') { ?>
 
 <h2>Introduction</h2>
 
@@ -1044,7 +1044,7 @@ You will also find information on how to enable and customize JetElements addons
 <?php } ?>
 
 
-<?php if ($project == 'elementortemplates') { ?>
+<?php if ($project == 'elementortemplate') { ?>
 
 <article><h2>Introduction</h2>
 
@@ -1052,7 +1052,7 @@ You will also find information on how to enable and customize JetElements addons
 
 <h3>What is an Elementor Template?</h3>
 
-<p>Elementor templates are the building blocks which allow you to build outstanding layouts without actually changing the theme, or modifying its files. These templates possess fully responsive design and have an appearance that corresponds design trends and follows their aesthetics. Elementor Templates can be imported and exported via Elementor Library.
+<p>Elementor templates are the building blocks which allow you to build outstanding layouts without actually changing the theme, or modifying its files. These templates possess fully responsive design and have an appearance that corresponds design trends and follows their aesthetics. Elementor Templates can be imported and exported via Elementor Library. 
 </p>
 <p>You can always customize a template according to your needs and vision, change its appearance with Elementor builder according to your taste using Elementor widgets, and create your own page structure. This process doesn’t require any web development experience, everything is pretty easy even for beginners.
     </p>
@@ -1088,8 +1088,36 @@ All Jet Family plugins have passed comprehensive QA tests and have a clean UI wh
 
 <?php } ?>
 
-<?php if ($project == 'jetengine') { ?>
 
-<h3>A Few Words About Elementor Page Builder</h3>
+<?php if ($project == 'jeta') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank you for purchasing Jeta Theme! This documentation consists of several parts and covers the entire process of installing and working with Jeta.</p>
+
+
+
+<h3>Template Structure</h3>
+
+<p>The template package includes several folders. Let’s check what’s inside: </p>
+
+<ul class="marked-list">
+<p>
+<li><b>theme</b> - contains WordPress theme files:
+<ul class="marked-list">
+<li><strong>child theme_name.zip</strong> - archive with the child theme. Contains child theme's files.
+<li><strong>kava.zip</strong> - archive with Kava theme. Contains Kava theme's files.
+            <li><strong>manual_install</strong> - contains files that make the WordPress website look like on our live demo.
+
+<ul class="marked-list">
+
+                    <li><strong>uploads</strong> - contains theme images.</li>
+                    <li><strong>theme_name.sql</strong> - database file (contains theme content).</li>
+                </ul></li></li></ul>
+<li><b>documentation.html</b> -  contains documentation link information.</li></p>
+<li><b>info.txt</b> -  instructions on how to extract source files.</li></p>
+<li><b>license.txt</b> -  contains information about GPL license.</li></p>
+</ul>
+
 
 <?php } ?>

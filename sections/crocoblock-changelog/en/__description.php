@@ -2,13 +2,111 @@
 
 <h5>This block will give you information on the latest updates of the products included in the CrocoBlock subscription.</h5>
 
+<h4>July 13, 2018</h4>
+
+<ul class="marked-list">
+<p><li><b>July 13, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://demo.crocoblock.com/dolcetti/" target="_blank">Dolcetti</a>.</li>
+</p></ul></li></p></ul>
+
+<h5>Kava Theme</h5>
+
+<ul class="marked-list">
+<p><li><b>July 10, 2018</b>:
+	<ul class="marked-list">
+<li>Added Português (Brasil) localization;</li>
+ 	<li>Added Archives location for Elementor Pro and JetThemeCore;</li>
+ 	<li>Added Single location for Elementor PRO and JetThemeCore.</li>
+ 	<li>Added minor CSS fixes.</li>
+</ul>
+
+<h4>July 6, 2018</h4>
+
+
+<h5>Skins Library</h5>
+
+<ul class="marked-list">
+<p><li><b>July 6, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://crocoblock.com/weimpress/" target="_blank">WeImpress</a>.</li>
+</p></ul></li></p></ul>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetMenu versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.4.0 (July 5, 2018):</b>
+<ul class="marked-list">
+<li>Added the ability to display mega-menu content in the Custom Menu Widget;</li>
+ 	<li>Added style controls for the Mega Menu Widget;</li>
+ 	<li>Added Show Submenu Item Description option;</li>
+ 	<li>Added multiple performance improvements and bug fixes;</li>
+ 	<li>Added changes Custom Menu Widget name to Vertical Mega Menu.</li>
+</ul>
+
+<p><li><b>JetElements versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.10.4 (July 4, 2018):</b>
+<ul class="marked-list">
+	<li>Improved Elementor 2.1 compatibility.</li>
+</ul>
+
+<p><li><b>JetTricks versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.0 (July 5, 2018):</b>
+<ul class="marked-list">
+	<li>Added Satellite widget extension;</li>
+ 	<li>Added new Tooltip widget extension;</li>
+ 	<li>Added new Section Particles widget extension;</li>
+</ul>
+
+<p><li><b>JetTabs versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.1 (July 5, 2018):</b>
+<ul class="marked-list">
+	<li>Improved Elementor 2.1 compatibility.</li>
+</ul>
+
+
+<p><li><b>JetBlocks versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.0 (July 4, 2018):</b>
+<ul class="marked-list">
+	<li>Improved Elementor 2.1 compatibility.</li>
+</ul></li></p></ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h4>June 29, 2018</h4>
 
 
 <h5>Skins Library</h5>
 
 <ul class="marked-list">
-<p><li><b>June, 22, 2018</b> — added 1 skin to skins library:
+<p><li><b>June, 29, 2018</b> — added 1 skin to skins library:
 <ul class="marked-list">
 <li><a href="https://crocoblock.com/fuelcon/" target="_blank">Fuelcon</a>.</li>
 </p></ul></li></p></ul>
@@ -38,12 +136,12 @@
 <ul class="marked-list">
 <p><li><b>1.1.1 (June 29, 2018):</b>
 <ul class="marked-list">
-<li>Added minor fixes for improved performance.</li>
+<li>Added minor fixes for improved performance.</li></ul>
 <p><li><b>1.1.0 (June 26, 2018):</b>
 <ul class="marked-list">
 <li>Added 4 new widgets for displaying product layouts and taxonomy layouts;</li>
 <li>Added ability to disable widgets from Dashboard in JetWooElements settings.</li>
-</ul>
+</ul></li></li></ul></p>
 
 <h4>June 22, 2018</h4>
 
@@ -72,7 +170,7 @@
 <p><li><b>1.0.6 (June 15, 2018):</b>
 <ul class="marked-list">
 <li>Added ability to install JetPluginsWizard from Dashboard.</li>
-</ul>
+</ul></li></p></ul></li></p>
 
 
 <h4>June 15, 2018</h4>
@@ -103,7 +201,7 @@
 <ul class="marked-list">
 <li>Added Breadcrumbs widget;</li>
 <li>Improved Sticky Section functionality.</li>
-</ul>
+</ul></li></p></ul></li>
 
 <h4>June 8, 2018</h4>
 

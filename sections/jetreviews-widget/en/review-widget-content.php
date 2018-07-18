@@ -34,6 +34,11 @@
 <p><li><b>Summary Description</b> - here you have to fill in the summary text in the content field (you can also use <b>html</b> markup in <b>Text</b> editor, add media, etc.).</li></p>
 <p><li><b>Summary Legend</b> - here you need to add the text to show up as the summary for the review.</li></p></ul></li></p></ol>
 
+<h5>Structured Data</h5>
+
+<ul class="marked-list">
+	<p><li><b>Add Structured Data to Review Box</b> - enable this option in order to add the data markup for the review content and enable ranking and displaying it with Google.</li></p></ul>
+
 <h5>Fields Settings</h5>
 
 <ul class="marked-list">

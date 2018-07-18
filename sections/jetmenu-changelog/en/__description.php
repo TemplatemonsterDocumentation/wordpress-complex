@@ -3,6 +3,12 @@
 <h5>In this block you can view the latest updates for JetMenu plugin.
  </h5>
 
+<h4>Version 1.4.1 (July 13, 2018)</h4>
+
+<ul class="marked-list">
+<li>Added Mobile breakpoint option.</li>
+</p>
+
    <h4>Version 1.4.0 (July 5, 2018)</h4>
 
 <ul class="marked-list">

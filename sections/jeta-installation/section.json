@@ -1,0 +1,23 @@
+{
+	"id": "jeta-installation",
+	"translations": {
+		"en": "Installation",
+		"ru": ""
+	},
+	"articles": {
+		"jeta": [{
+			"id": "simple-installation",
+			"translations": {
+				"en": "Full Installation",
+				"ru": ""
+			}
+		},	{
+			"id": "demo-content-installation",
+			"translations": {
+				"en": "Plugins and Content Installation",
+				"ru": ""
+			}
+		}]
+	}
+}
+

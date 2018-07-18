@@ -3525,17 +3525,7 @@
 		"jetwoobuilder-settings",
 		"jetwoobuilder-changelog"
 	],
-	"crocoblock": [
-		"introduction",
-		"crocoblock-quickstart",
-		"crocoblock-installation",
-		"crocoblock-theme",
-		"crocoblock-dashboard",
-		"crocoblock-plugins",
-		"crocoblock-jetthemecore",
-		"crocoblock-changelog"
-	],
-	"jetblocks": [
+		"jetblocks": [
 		"introduction",
 		"jetblocks-installation",
 		"jetblocks-sticky-header",
@@ -3556,15 +3546,17 @@
 		"kava-plugins",
 		"kava-jetthemecore"
 	],
-	"elementortemplates": [
+	"elementortemplate": [
 		"introduction",
 		"et-requirements",
 		"et-installation",
 		"et-extra"
 	],
-	"jetengine": [
+	"jeta": [
 		"introduction",
-		"jetengine-test",
-		"jetengine-functionality"
+		"jeta-installation",
+	    "jeta-overview",
+		"jeta-plugins",
+		"jeta-jetthemecore"
 	]
 }
