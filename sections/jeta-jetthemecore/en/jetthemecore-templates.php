@@ -4,12 +4,12 @@
 <p>From this block you can learn how to create new templates and work with them using JetThemeCore plugin.</p>
 
 <ol class="index-list">
-<p><li>First, let’s navigate to <b>CrocoBlock > My Library</b> section on the left of the Dashboard. Here open <b>My Library</b> sub menu. </li></p>
+<p><li>First, let’s navigate to <b>Jeta > My Library</b> section on the left of the Dashboard. Here open <b>My Library</b> sub menu. </li></p>
 
 <p><li>In the <b>Theme Parts</b> block you’re able to view the existing templates for your theme or create the new ones.</p>
 
 			<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/core/creating1.png">
+        <img src="projects/<?php echo $project;?>/img/core/jetalibrary.png">
   	</figure>
 
 <p>Theme Parts: </p>

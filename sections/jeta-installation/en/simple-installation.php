@@ -4,13 +4,13 @@
 
 
 <ol class="index-list">
-<li><p>First, let’s install install Jeta theme. Once the archive with the theme is extracted, navigate to <strong>Appearance > Themes </strong> and locate Jeta theme. </p></li>
+<li><p>First, let’s install Jeta theme. Once the archive with the theme is extracted, navigate to <strong>Appearance > Themes </strong>. </p></li>
 
   <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/installation/step1.png">
     </figure>
 
-<li><p>Activate the theme.</p></li>
+<li><p>Locate Jeta theme and activate it.</p></li>
 
       <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/installation/step2.png">

@@ -2,6 +2,48 @@
 
 <h5>This block will give you information on the latest updates of the products included in the CrocoBlock subscription.</h5>
 
+<h4>July 20, 2018</h4>
+
+<ul class="marked-list">
+<p><li><b>July 20, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://demo.crocoblock.com/dolcetti/" target="_blank">Dolcetti</a>.</li>
+</p></ul></li></p></ul>
+
+
+<h5>Jet Plugins</h5>
+
+
+<p><li><b>JetThemeCore versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.0 (July 18, 2018):</b>
+<ul class="marked-list">
+<li>Added ability to create Archive and Single page templates with Elementor;</li>
+<li>Added Archive Taxonomy in Conditions;</li>
+<li>Added Archive Post Type in Conditions;</li>
+<li>Added fixes for theme template source.</li>
+</ul>
+
+<p><li><b>JetReviews versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.0 (July 18, 2018):</b>
+<ul class="marked-list">
+<li>Added structured data markup to the input content;</li>
+<li>Improved compatibility with PHP 7.2.</li>
+</ul>
+
+
+<p><li><b>JetMenu versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.4.1 (July 13, 2018):</b>
+<ul class="marked-list">
+<li>Added mobile breakpoint option;</li>
+<li>Added multiple performance improvements and bug fixes</li>
+</ul>
+
 <h4>July 13, 2018</h4>
 
 <ul class="marked-list">

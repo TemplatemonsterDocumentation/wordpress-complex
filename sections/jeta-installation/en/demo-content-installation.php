@@ -1,12 +1,12 @@
 <h3>Plugins and Content Installation</h3>
 
-<p>This block uncovers the process of Jeta plugins installation with the help of Jet Plugins Wizard, and demo-content installation.
+<p>This block uncovers the process of Jeta plugins and demo content installation with the help of Jet Plugins Wizard.
 </p>
 
 <h4>Step 1</h4>
 
 <ol class="index-list">
-<li><p>Let's continue plugins installation with Jet Plugins Wizard. Click <strong>START INSTALL</strong> button.</p></li>
+<li><p>Let's continue installation with Jet Plugins Wizard. Click <strong>START INSTALL</strong> button.</p></li>
 
 	<figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/installation/step6.png">
@@ -25,13 +25,13 @@
 
 
 
-<li><p>Click <b>START INSTALL</b> button. </p></li>
+<li><p>Select <b>Jeta Lite</b> and click <b>START INSTALL</b> button. </p></li>
 
 	<figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/installation/step8.png">
   	</figure>
 
-<li><p>You can view the list of recommended plugins to be installed. Click <strong>NEXT</strong> button.</p></li>
+<li><p>You can view the list of required and recommended plugins to be installed. Click <strong>NEXT</strong> button.</p></li>
 
   <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/installation/step9.png">
@@ -46,7 +46,7 @@
 <h4>Step 2</h4>
 
 <ol class="index-list">
-<li><p>It’s time to install demo content. After the plugins are installed you can see the We’re almost there page where one can choose if you want to:</p>
+<li><p>It’s time to install demo content. After the plugins are installed you can see the <b>We’re almost there!</b> page where you are able to choose one of the options. To install demo content, select <b>Replace my existing content with demo content.</b></p>
 
         <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/installation/wizard4.png">
@@ -58,19 +58,14 @@
 <li><p><b>Replace my existing content with demo content</b> - your current data will be replaced by the new demo content (sample data). If you want to save the current content of your theme, please choose Skip Data Installation.</p></li>
 <li><p><b>Skip demo content installation</b> - the sample data will not be installed on your theme and your current content will stay as it is.</p></li></ul></li>
 
-<li><p>After you’ve chosen the most suitable option, click <b>INSTALL DEMO</b> button for Jeta Lite version. The demo content will be automatically installed on your site. The blue progress bars will indicate the percents of demo content which are accomplished.</p></li>
+<li><p>On this step you need to enter your password to proceed with Sample Data Import and click <b>IMPORT CONTENT</b>.</p></li>
 
-    <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/step11.png">
+ <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/installation/jetapassword.png">
     </figure>
 
-    <li><p>Again, you need to confirm whether you want to append or replace the existing content with demo content and click <strong>START INSTALL</strong>.</p></li>
 
-       <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/step12.png">
-    </figure>
-
-     <li><p>After you’ve chosen the most suitable option, click Next button. The demo content will be automatically installed on your site. The blue progress bars will indicate the percents of demo content which are accomplished.</p></li>
+     <li><p>The demo content will be automatically installed on your site. The blue progress bars will indicate the percents of demo content which are accomplished.</p></li>
 
        <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/installation/step13.png">

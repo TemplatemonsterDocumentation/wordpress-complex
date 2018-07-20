@@ -3,7 +3,7 @@
 //========================================================
 
 $primary-color: #ffffff;
-$primary-color-second: #bf1660;
+$primary-color-second: #a0378f;
 $primary-color-dark: #22272d;
 $secondary-color: #e91b1a;
 $secondary-color-light: #fff;
@@ -35,9 +35,9 @@ h4 {
 .page-content {
 	&.active {
 		.rd-mobilepanel{
-			background-position: 62% top;
+			background-position: 85% bottom;
 			@media (max-width: 1440px) {
-    			background-position: 48% bottom;
+    			background-position: 600px bottom;
 			}
 		}
 	}
@@ -141,14 +141,14 @@ body:not([data-section="introduction"]) {
 	ul{
 		a{
 			&.focus{
-				color: #bf1660;
+				color: #a0378f;
 			}
 		}
 	}
 }
 
 .toTop {
-	background-color: #bf1660;
+	background-color: #a0378f;
 	color: #ffffff;
 	&:hover {
     	background-color:darken($primary-color-second,20%);
@@ -158,10 +158,10 @@ body:not([data-section="introduction"]) {
 .files_structure li .fa {
     margin-top: 3px;
     margin-right: 10px;
-    color: #bf1660;
+    color: #a0378f;
     font-size: 16px;
 }
 
 article a {
-    color: #bf1660;
+    color: #a0378f;
 }

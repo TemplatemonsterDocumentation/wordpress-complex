@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta') { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo') { ?>
 
 <h2>Introduction</h2>
 
@@ -1095,29 +1095,119 @@ All Jet Family plugins have passed comprehensive QA tests and have a clean UI wh
 
 <p>Thank you for purchasing Jeta Theme! This documentation consists of several parts and covers the entire process of installing and working with Jeta.</p>
 
-
-
-<h3>Template Structure</h3>
-
-<p>The template package includes several folders. Let’s check what’s inside: </p>
+<p>Here you can find the following plugins: </p>
 
 <ul class="marked-list">
+
+<li><b>Elementor Plugin</b> - frontend drag & drop page builder;</li>
+<li><b>Jet Plugins Wizard</b> - automatic plugins and demos installer plugin;</li>
+<li><b>Jet Data Importer</b> - automatic demo content installer plugin;</li>
+<li><b>WooCommerce Plugin</b> - online store functionality plugin;</li>
+<li><b>Jet Plugins Bundle:</b>
+<ul class="marked-list">
+<li><a href="http://jetelements.zemez.io/" target="_blank">JetElements;</a></li>
+<li><a href="http://jetmenu.zemez.io/" target="_blank">JetMenu;</a></li>
+<li><a href="https://jetblocks.zemez.io/" target="_blank">JetBlocks;</a></li>
+<li><a href="https://jetblog.zemez.io/" target="_blank">JetBlog;</a></li>
+<li><a href="http://documentation.zemez.io/wordpress/index.php?project=crocoblock&lang=en&section=crocoblock-jetthemecore" target="_blank">JetThemeCore;</li>
+<li><a href="https://jetwoobuilder.zemez.io/" target="_blank">JetWooBuilder;</a></li>
+<li><a href="https://jettricks.zemez.io/" target="_blank">JetTricks;</a></li>
+<li><a href="https://jettabs.zemez.io/" target="_blank">JetTabs.</a></li></ul>
+</li>
+</p></ul>
+
+<h3>Recommended Technical Requirements</h3>
+
+<p>The needed requirements are:</p>
 <p>
-<li><b>theme</b> - contains WordPress theme files:
 <ul class="marked-list">
-<li><strong>child theme_name.zip</strong> - archive with the child theme. Contains child theme's files.
-<li><strong>kava.zip</strong> - archive with Kava theme. Contains Kava theme's files.
-            <li><strong>manual_install</strong> - contains files that make the WordPress website look like on our live demo.
+<li>PHP 7 or higher;</li>
+<li>MySQL 5.6 of higher;</li>
+<li>WP memory limit of 128 Mb or larger;</li>
+<li>Desktop device;</li>
+<li>SSL certificate on server.</li></ul></p>
+
+<p>You can get more information <a href="https://docs.elementor.com/article/38-requirements
+" target="_blank">here.</a></p>
+
+<h3>Software</h3>
+
+<p>Before you start working with Jeta WordPress theme, you should download the required software. You can check the required software on the template preview page:</p>
+<p>
+<ul class="marked-list">
+<li>To edit the source code of the template, you can use code editors like Adobe Dreamweaver, Notepad++, Sublime Text, etc.;</li>
+<li>To upload the files to a hosting server, you will need an FTP manager like Total Commander, FileZilla, CuteFTP, etc.</li>
+</ul></p>
+
+
+<p>We also recommend to use the following <b>configuration settings</b>:</p>
+<p>
+<ul class="marked-list">
+<li>50 MB of disk space.</li>
+<li>Memory limit per process: 64mb (128mb or more recommended).</li>
+</ul></p>
+
+
+
+<?php } ?>
+<?php if ($project == 'mezo') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank you for purchasing Mezo Theme! This documentation consists of several parts and covers the entire process of installing and working with Mezo.</p>
+
+<p>Here you can find the following plugins: </p>
 
 <ul class="marked-list">
 
-                    <li><strong>uploads</strong> - contains theme images.</li>
-                    <li><strong>theme_name.sql</strong> - database file (contains theme content).</li>
-                </ul></li></li></ul>
-<li><b>documentation.html</b> -  contains documentation link information.</li></p>
-<li><b>info.txt</b> -  instructions on how to extract source files.</li></p>
-<li><b>license.txt</b> -  contains information about GPL license.</li></p>
-</ul>
+<li><b>Elementor Plugin</b> - frontend drag & drop page builder;</li>
+<li><b>Jet Plugins Wizard</b> - automatic plugins and demos installer plugin;</li>
+<li><b>Jet Data Importer</b> - automatic demo content installer plugin;</li>
+<li><b>WooCommerce Plugin</b> - online store functionality plugin;</li>
+<li><b>Jet Plugins Bundle:</b>
+<ul class="marked-list">
+<li><a href="http://jetelements.zemez.io/" target="_blank">JetElements;</a></li>
+<li><a href="http://jetmenu.zemez.io/" target="_blank">JetMenu;</a></li>
+<li><a href="https://jetblocks.zemez.io/" target="_blank">JetBlocks;</a></li>
+<li><a href="https://jetblog.zemez.io/" target="_blank">JetBlog;</a></li>
+<li><a href="http://documentation.zemez.io/wordpress/index.php?project=crocoblock&lang=en&section=crocoblock-jetthemecore" target="_blank">JetThemeCore;</li>
+<li><a href="https://jetwoobuilder.zemez.io/" target="_blank">JetWooBuilder;</a></li>
+<li><a href="https://jettricks.zemez.io/" target="_blank">JetTricks;</a></li>
+<li><a href="https://jettabs.zemez.io/" target="_blank">JetTabs.</a></li></ul>
+</li>
+</p></ul>
+
+<h3>Recommended Technical Requirements</h3>
+
+<p>The needed requirements are:</p>
+<p>
+<ul class="marked-list">
+<li>PHP 7 or higher;</li>
+<li>MySQL 5.6 of higher;</li>
+<li>WP memory limit of 128 Mb or larger;</li>
+<li>Desktop device;</li>
+<li>SSL certificate on server.</li></ul></p>
+
+<p>You can get more information <a href="https://docs.elementor.com/article/38-requirements
+" target="_blank">here.</a></p>
+
+<h3>Software</h3>
+
+<p>Before you start working with Mezo WordPress theme, you should download the required software. You can check the required software on the template preview page:</p>
+<p>
+<ul class="marked-list">
+<li>To edit the source code of the template, you can use code editors like Adobe Dreamweaver, Notepad++, Sublime Text, etc.;</li>
+<li>To upload the files to a hosting server, you will need an FTP manager like Total Commander, FileZilla, CuteFTP, etc.</li>
+</ul></p>
+
+
+<p>We also recommend to use the following <b>configuration settings</b>:</p>
+<p>
+<ul class="marked-list">
+<li>50 MB of disk space.</li>
+<li>Memory limit per process: 64mb (128mb or more recommended).</li>
+</ul></p>
+
 
 
 <?php } ?>

@@ -33,13 +33,7 @@
 					"ru": ""
 				}
 			}
-			,{
-				"id": "kava-extra",
-				"translations": {
-					"en": "Kava Extra Plugin",
-					"ru": ""
-				}
-			}
+			
 			,{
 				"id": "jetblog",
 				"translations": {
@@ -93,6 +87,7 @@
 					"ru": "Логотип и фавиконка"
 				}
 			},
+			
 			{
 				"id": "woocommerce",
 				"translations": {

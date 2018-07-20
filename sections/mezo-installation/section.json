@@ -1,0 +1,23 @@
+{
+	"id": "mezo-installation",
+	"translations": {
+		"en": "Installation",
+		"ru": ""
+	},
+	"articles": {
+		"mezo": [{
+			"id": "simple-installation",
+			"translations": {
+				"en": "Full Installation",
+				"ru": ""
+			}
+		},	{
+			"id": "demo-content-installation",
+			"translations": {
+				"en": "Plugins and Content Installation",
+				"ru": ""
+			}
+		}]
+	}
+}
+

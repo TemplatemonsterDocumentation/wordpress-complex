@@ -7,13 +7,13 @@ h4 {
   color: #000; }
 
 .page-content.active .rd-mobilepanel {
-  background-position: 62% top; }
+  background-position: 85% bottom; }
   @media (max-width: 1440px) {
     .page-content.active .rd-mobilepanel {
-      background-position: 48% bottom; } }
+      background-position: 600px bottom; } }
 
 .rd-mobilepanel {
-  background-color: #bf1660;
+  background-color: #a0378f;
   background-position: right top;
   -webkit-transition-property: height;
           transition-property: height;
@@ -93,21 +93,21 @@ body:not([data-section="introduction"]) .tm-title-caption {
   background-color: #fff; }
 
 .rd-mobilemenu_ul ul a.focus {
-  color: #bf1660; }
+  color: #a0378f; }
 
 .toTop {
-  background-color: #bf1660;
+  background-color: #a0378f;
   color: #ffffff; }
   .toTop:hover {
-    background-color: #640b32; }
+    background-color: #541d4b; }
 
 .files_structure li .fa {
   margin-top: 3px;
   margin-right: 10px;
-  color: #bf1660;
+  color: #a0378f;
   font-size: 16px; }
 
 article a {
-  color: #bf1660; }
+  color: #a0378f; }
 
 /*# sourceMappingURL=project_styles.css.map */

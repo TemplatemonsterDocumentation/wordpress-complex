@@ -3558,5 +3558,12 @@
 	    "jeta-overview",
 		"jeta-plugins",
 		"jeta-jetthemecore"
+	],
+	"mezo": [
+		"introduction",
+		"mezo-installation",
+	    "mezo-overview",
+		"mezo-plugins",
+		"mezo-jetthemecore"
 	]
 }
