@@ -2,6 +2,21 @@
 
 <h5>In this block you can view the latest updates for JetElements plugin.</h5>
 
+<h4>Version 1.11.0 (July 23, 2018)</h4>
+
+<ul class="marked-list">
+<p><li>Added Inline SVG widget;</li></p>
+<p><li>Added Price List widget;</li></p>
+<p><li>Added Vertical Timeline widget.</li></p>
+</ul>
+
+
+<h4>Version 1.10.4 (July 6, 2018)</h4>
+
+<ul class="marked-list">
+<p><li>Added compatibility for Elementor 2.1.</li></p>
+</ul>
+
 
 <h4>Version 1.10.3 (June 25, 2018)</h4>
 

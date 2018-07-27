@@ -2,12 +2,42 @@
 
 <h5>This block will give you information on the latest updates of the products included in the CrocoBlock subscription.</h5>
 
+<h4>July 27, 2018</h4>
+
+<ul class="marked-list">
+<p><li><b>July 27, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://demo.crocoblock.com/drivous/" target="_blank">Iconyx</a>.</li>
+</p></ul></li></p></ul>
+
+<h5>Jet Plugins</h5>
+
+
+<p><li><b>JetElements versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.11.0 (July 24, 2018):</b>
+<ul class="marked-list">
+<li>Added Vertical Timeline widget;</li>
+<li>Added Inline SVG widget;</li>
+<li>Added Price List widget.</li>
+</ul>
+
+<p><li><b>JetMenu versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.4.2 (July 24, 2018):</b>
+<ul class="marked-list">
+<li>Added the fix for hiding submenu and submengamenu items when page loads.</li>
+</ul>
+
+
 <h4>July 20, 2018</h4>
 
 <ul class="marked-list">
 <p><li><b>July 20, 2018</b> — added 1 skin to skins library:
 <ul class="marked-list">
-<li><a href="https://demo.crocoblock.com/dolcetti/" target="_blank">Dolcetti</a>.</li>
+<li><a href="https://demo.crocoblock.com/drivous/" target="_blank">Drivous</a>.</li>
 </p></ul></li></p></ul>
 
 

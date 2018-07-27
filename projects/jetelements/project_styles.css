@@ -7,13 +7,17 @@ h4 {
   color: #000; }
 
 .page-content.active .rd-mobilepanel {
-  background-position: 85% bottom; }
+  background-position: 0% bottom; }
   @media (max-width: 1440px) {
     .page-content.active .rd-mobilepanel {
       background-position: 600px bottom; } }
 
+.page-content.active .rd-mobilepanel {
+  background-position: 600px bottom;
+  background-position: 0% bottom; }
+
 .rd-mobilepanel {
-  background-color: #a0378f;
+  background-color: #aa3992;
   background-position: right top;
   -webkit-transition-property: height;
           transition-property: height;
@@ -23,10 +27,6 @@ h4 {
           transition-timing-function: linear;
   -webkit-transition-delay: 1s;
           transition-delay: 1s; }
-  @media (max-width: 1440px) {
-    .rd-mobilepanel {
-      background-size: 60% auto;
-      background-position: 600px bottom; } }
 
 [data-section="introduction"] .rd-mobilepanel {
   background-image: url("../../projects/jetelements/img/header-bg.png");
@@ -99,7 +99,7 @@ body:not([data-section="introduction"]) .tm-title-caption {
   background-color: #a0378f;
   color: #ffffff; }
   .toTop:hover {
-    background-color: #541d4b; }
+    background-color: #5e1f50; }
 
 .files_structure li .fa {
   margin-top: 3px;

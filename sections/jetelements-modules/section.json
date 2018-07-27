@@ -89,6 +89,12 @@
 				"en": "Images Layout",
 				"ru": ""
 			}
+		},  {
+			"id": "inline-svg",
+			"translations": {
+				"en": "Inline SVG",
+				"ru": ""
+			}
 		},	{
 			"id": "posts",
 			"translations": {
@@ -105,6 +111,12 @@
 			"id": "progress-bar",
 			"translations": {
 				"en": "Progress Bar",
+				"ru": ""
+			}
+		},	{
+			"id": "price-list",
+			"translations": {
+				"en": "Price List",
 				"ru": ""
 			}
 		},	{
@@ -135,6 +147,12 @@
 			"id": "subscribe-form",
 			"translations": {
 				"en": "Subscribe Form",
+				"ru": ""
+			}
+		},	{
+			"id": "timeline",
+			"translations": {
+				"en": "Vertical Timeline",
 				"ru": ""
 			}
 		},	{
