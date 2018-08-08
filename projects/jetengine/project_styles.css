@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 h1 {
   font-family: "Roboto", sans-serif;
-  color: #f5435a; }
+  color: #fff; }
 
 h4 {
   color: #000; }
@@ -13,7 +13,7 @@ h4 {
       background-position: 48% bottom; } }
 
 .rd-mobilepanel {
-  background-color: #f7f7fb;
+  background-color: #1C1E24;
   background-position: right top;
   -webkit-transition-property: height;
           transition-property: height;
@@ -29,7 +29,7 @@ h4 {
       background-position: 600px bottom; } }
 
 [data-section="introduction"] .rd-mobilepanel {
-  background-image: url("../../projects/jetblog/img/header-bg.png");
+  background-image: url("../../projects/jetengine/img/header-bg.png");
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
@@ -41,9 +41,9 @@ body:not([data-section="introduction"]) .tm-title-caption {
   display: none; }
 
 .rd-mobilepanel_toggle span {
-  background-color: #f5435a; }
+  background-color: #fff; }
   .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
-    background-color: #f5435a; }
+    background-color: #fff; }
 
 .rd-mobilepanel_title {
   font-size: 48px;
@@ -92,25 +92,24 @@ body:not([data-section="introduction"]) .tm-title-caption {
   background-color: #fff; }
 
 .rd-mobilemenu_ul ul a.focus {
-  color: #f5435a; }
+  color: #C920FF; }
 
 .toTop {
-  background-color: #f5435a;
+  background-color: #C920FF;
   color: #ffffff; }
   .toTop:hover {
-    background-color: #b3b3d9; }
+    background-color: black; }
 
 .files_structure li .fa {
   margin-top: 3px;
   margin-right: 10px;
-  color: #bf1660;
+  color: #C920FF;
   font-size: 16px; }
 
 article a {
-  color: #f5435a; }
+  color: #C920FF; }
 
 .rd-mobilemenu .logo img {
-  padding-top: 25px;
-  height: 85px; }
+  padding-top: 25px; }
 
 /*# sourceMappingURL=project_styles.css.map */

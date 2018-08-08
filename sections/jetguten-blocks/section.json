@@ -1,0 +1,64 @@
+{
+	"id": "jetguten-blocks",
+	"translations": {
+		"en": "JetGuten Blocks",
+		"ru": ""
+	},
+	"articles": {
+		"jetguten": [{
+			"id": "pricing-table",
+			"translations": {
+				"en": "Pricing Table",
+				"ru": ""
+			}
+		},	{
+			"id": "banner",
+			"translations": {
+				"en": "Banner",
+				"ru": ""
+			}
+		},	{
+			"id": "circle-progress",
+			"translations": {
+				"en": "Circle Progress",
+				"ru": ""
+			}
+		},	{
+			"id": "countdown-timer",
+			"translations": {
+				"en": "Countdown Timer",
+				"ru": ""
+			}
+		},	{
+			"id": "animated-box",
+			"translations": {
+				"en": "Animated Box",
+				"ru": ""
+			}
+		},	{
+			"id": "map",
+			"translations": {
+				"en": "Map",
+				"ru": ""
+			}
+		},	{
+			"id": "progress-bar",
+			"translations": {
+				"en": "Progress Bar",
+				"ru": ""
+			}
+		},	{
+			"id": "inline-svg",
+			"translations": {
+				"en": "Inline SVG",
+				"ru": ""
+			}
+		},	{
+			"id": "image-comparison",
+			"translations": {
+				"en": "Image Comparison",
+				"ru": ""
+			}
+		}]
+	}
+}

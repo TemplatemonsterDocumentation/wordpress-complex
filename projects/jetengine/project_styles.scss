@@ -2,13 +2,13 @@
 //                     Variables
 //========================================================
 
-$primary-color: #f5435a;
-$primary-color-second: #f7f7fb;
+$primary-color: #fff;
+$primary-color-second: #1C1E24;
 $primary-color-dark: #22272d;
 $secondary-color: #e91b1a;
 $secondary-color-light: #fff;
 
-$header-background-image: '../../projects/jetblog/img/header-bg.png';
+$header-background-image: '../../projects/jetengine/img/header-bg.png';
 
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 $primary-font-family: 'Roboto', sans-serif;
@@ -73,9 +73,9 @@ body:not([data-section="introduction"]) {
 }
 .rd-mobilepanel_toggle {
 	span{
-		background-color:#f5435a;
+		background-color:#fff;
 		&:before, &:after{
-			background-color: #f5435a;
+			background-color: #fff;
 		}
 	}
 
@@ -140,14 +140,14 @@ body:not([data-section="introduction"]) {
 	ul{
 		a{
 			&.focus{
-				color: #f5435a;
+				color: #C920FF;
 			}
 		}
 	}
 }
 
 .toTop {
-	background-color: #f5435a;
+	background-color: #C920FF;
 	color: #ffffff;
 	&:hover {
     	background-color:darken($primary-color-second,20%);
@@ -157,15 +157,14 @@ body:not([data-section="introduction"]) {
 .files_structure li .fa {
     margin-top: 3px;
     margin-right: 10px;
-    color: #bf1660;
+    color: #C920FF;
     font-size: 16px;
 }
 
 article a {
-    color: #f5435a;
+    color: #C920FF;
 }
 
 .rd-mobilemenu .logo img {
     padding-top: 25px;
-    height: 85px;
 }

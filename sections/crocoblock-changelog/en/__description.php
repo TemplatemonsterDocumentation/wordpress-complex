@@ -2,12 +2,77 @@
 
 <h5>This block will give you information on the latest updates of the products included in the CrocoBlock subscription.</h5>
 
+
+<h4>August 3, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+
+<p><li><b>JetEngine versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.0.0 (August 2, 2018):</b>
+<ul class="marked-list">
+<li>Intitial release of the new plugin for working with custom post types, taxonomies and fields.</li>
+</ul>
+
+
+<p><li><b>JetElements versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.11.1 (August 1, 2018):</b>
+<ul class="marked-list">
+<li>Improved compatibility with PHP v.5.4.</li>
+</ul>
+
+
+
+<p><li><b>JetMenu versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.4.3 (August 1, 2018):</b>
+<ul class="marked-list">
+<li>Added multiple improvements and bug fixes.</li>
+</ul>
+
+
+<p><li><b>JetThemeCore versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.1 (July 31, 2018):</b>
+<ul class="marked-list">
+<li>Improved the post condition block in Post Type Archive.</li>
+</ul>
+
+
+
+<p><li><b>JetReviews versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.1 (July 27, 2018):</b>
+<ul class="marked-list">
+<li>Added option for including Review meta box assets only on required pages.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h4>July 27, 2018</h4>
 
 <ul class="marked-list">
 <p><li><b>July 27, 2018</b> — added 1 skin to skins library:
 <ul class="marked-list">
-<li><a href="https://demo.crocoblock.com/drivous/" target="_blank">Iconyx</a>.</li>
+<li><a href="https://demo.crocoblock.com/iconyx/" target="_blank">Iconyx</a>.</li>
 </p></ul></li></p></ul>
 
 <h5>Jet Plugins</h5>

@@ -1,0 +1,22 @@
+{
+	"id": "jetengine-custom-tax-type",
+	"translations": {
+		"en": "Working with Custom Taxonomies",
+		"ru": ""
+	},
+	"articles": {
+		"jetengine": [{
+			"id": "adding-new-ctt",
+			"translations": {
+				"en": "Adding New Taxonomy Type",
+				"ru": ""
+			}
+		},	{
+			"id": "creating-ctt-template",
+			"translations": {
+				"en": "Creating Custom Taxonomy Type Template",
+				"ru": ""
+			}
+		}]
+	}
+}

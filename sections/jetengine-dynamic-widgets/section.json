@@ -1,0 +1,46 @@
+{
+	"id": "jetengine-dynamic-widgets",
+	"translations": {
+		"en": "JetEngine Widgets",
+		"ru": ""
+	},
+	"articles": {
+		"jetengine": [{
+			"id": "dynamic-field",
+			"translations": {
+				"en": "Dynamic Field",
+				"ru": ""
+			}
+		},	{
+			"id": "dynamic-image",
+			"translations": {
+				"en": "Dynamic Image",
+				"ru": ""
+			}
+		},	{
+			"id": "dynamic-link",
+			"translations": {
+				"en": "Dynamic Link",
+				"ru": ""
+			}
+		},	{
+			"id": "dynamic-meta",
+			"translations": {
+				"en": "Dynamic Meta",
+				"ru": ""
+			}
+		},	{
+			"id": "dynamic-repeater",
+			"translations": {
+				"en": "Dynamic Repeater",
+				"ru": ""
+			}
+		},	{
+			"id": "dynamic-terms",
+			"translations": {
+				"en": "Dynamic Terms",
+				"ru": ""
+			}
+		}]
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"id": "jetengine-custom-post-type",
+	"translations": {
+		"en": "Working with Custom Post Types",
+		"ru": ""
+	},
+	"articles": {
+		"jetengine": [{
+			"id": "adding-new-cpt",
+			"translations": {
+				"en": "Adding New Custom Post Type",
+				"ru": ""
+			}
+		},	{
+			"id": "creating-cpt-template",
+			"translations": {
+				"en": "Creating Custom Post Type Template",
+				"ru": ""
+			}
+		}]
+	}
+}

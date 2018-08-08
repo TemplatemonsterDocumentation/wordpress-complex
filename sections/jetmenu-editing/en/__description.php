@@ -42,6 +42,12 @@
  	<figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/jet-editing/16.png">
   	</figure></li></p>
+
+
+<div class="alert alert-info">Please, note, that when you enable <b>Mega Submenu for Elementor</b> you create the mega menu using Elelemtnor page builder, and it will be displayed instead of the submenu items.
+
+The default submenu will be disabled as it will be replaced by the Mega Menu content.</div>
+
 </li></p>
 
 <p><li>A new window will open. It is similar to the one you see when proceeding to edit with Elementor.</li></p>

@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo') { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten') { ?>
 
 <h2>Introduction</h2>
 
@@ -1052,7 +1052,7 @@ You will also find information on how to enable and customize JetElements addons
 
 <h3>What is an Elementor Template?</h3>
 
-<p>Elementor templates are the building blocks which allow you to build outstanding layouts without actually changing the theme, or modifying its files. These templates possess fully responsive design and have an appearance that corresponds design trends and follows their aesthetics. Elementor Templates can be imported and exported via Elementor Library. 
+<p>Elementor templates are the building blocks which allow you to build outstanding layouts without actually changing the theme, or modifying its files. These templates possess fully responsive design and have an appearance that corresponds design trends and follows their aesthetics. Elementor Templates can be imported and exported via Elementor Library.
 </p>
 <p>You can always customize a template according to your needs and vision, change its appearance with Elementor builder according to your taste using Elementor widgets, and create your own page structure. This process doesn’t require any web development experience, everything is pretty easy even for beginners.
     </p>
@@ -1208,6 +1208,97 @@ All Jet Family plugins have passed comprehensive QA tests and have a clean UI wh
 <li>Memory limit per process: 64mb (128mb or more recommended).</li>
 </ul></p>
 
+
+
+<?php } ?>
+
+<?php if ($project == 'jetengine') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank you for purchasing <b>JetEngine</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and using JetEngine plugin. It describes the process of creating custom post types, custom taxonomies, making templates for them using Elementor page builder and additional widgets for displaying dynamic content, in details.</p>
+
+<p>It also explains the full process of creating custom post and taxonomy layouts.</p>
+
+<h3>What Is JetEngine Plugin?</h3>
+
+<p>JetEngine is a plugin for Elementor, that provides functionality for creating templates for custom post types, taxonomies, and showcasing them in the form of layouts on Elementor-built pages. It also allows creating custom post types, custom taxonomies, as well as custom meta boxes for any kind of content.</p>
+
+<p>With JetEngine it is possible to showcase services, team members, create portfolio layouts without any skills in PHP and CSS.</p>
+
+<p>The plugin also adds 6 special widgets for pulling dynamic content from the posts and displaying it on the pages built with Elementor.</p>
+
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetEngine! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+
+
+<h3>JetEngine Listing Widgets</h3>
+
+<h5>Dynamic Field</h5>
+
+<p><a href="http://documentation.zemez.io/wordpress/index.php?project=jetengine&amp;lang=en&amp;section=jetengine-dynamic-widgets#dynamic-field" target="_blank">Dynamic Field</a> widget is made for displaying the content from both meta fields and the post or term data, for posts and taxonomies listing templates. The widget pulls the data and displays it using the set style and content settings.</p>
+
+
+
+<h5>Dynamic Image</h5>
+
+<p><a href="http://documentation.zemez.io/wordpress/index.php?project=jetengine&amp;lang=en&amp;section=jetengine-dynamic-widgets#dynamic-image" target="_blank">Dynamic Image</a> widget privides opportunity to pull the thumbnail image or any other image added as the media in the meta field to showcase it on the pages built with Elementor. This is the dynamic widget that can be easily used for creating templates for custpom post types and taxonomies.</p>
+
+
+<h5>Dynamic Link</h5>
+
+<p><a href="http://documentation.zemez.io/wordpress/index.php?project=jetengine&amp;lang=en&amp;section=jetengine-dynamic-widgets#dynamic-link" target="_blank">Dynamic Link</a> widget helps in adding the links to the listings, that display the content from the predefined source.</p>
+
+<h5>Dynamic Meta</h5>
+
+<p><a href="http://documentation.zemez.io/wordpress/index.php?project=jetengine&amp;lang=en&amp;section=jetengine-dynamic-widgets#dynamic-meta" target="_blank">Dynamic Meta</a> widget allows displaying the default meta information (usually needed for the posts), such as the publishing date, author and information about comments.</p>
+
+<h5>Dynamic Repeater</h5>
+
+<p><a href="http://documentation.zemez.io/wordpress/index.php?project=jetengine&amp;lang=en&amp;section=jetengine-dynamic-widgets#dynamic-repeater" target="_blank">Dynamic Repeater</a> widget is made for displaying repeating blocks set for the custom post types or taxonomies (this can be done in meta boxes or when you create a meta field and select the Repeater content type).</p>
+
+<h5>Dynamic Terms</h5>
+
+<p><a href="http://documentation.zemez.io/wordpress/index.php?project=jetengine&amp;lang=en&amp;section=jetengine-dynamic-widgets#dynamic-terms" target="_blank">Dynamic Terms</a> widget provides opportunity to add the taxonomies to the custom post types. Use this widget to display the terms that are applied to the needed custom post listing.</p>
+
+
+
+
+</article>
+
+
+
+<?php } ?>
+
+<?php if ($project == 'jetguten') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank you for purchasing <b>JetEngine</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and using JetEngine plugin. It describes the process of creating custom post types, custom taxonomies, making templates for them using Elementor page builder and additional widgets for displaying dynamic content, in details.</p>
+
+<p>It also explains the full process of creating custom post and taxonomy layouts.</p>
+
+<h3>What Is JetEngine Plugin?</h3>
+
+<p>JetEngine is a plugin for Elementor, that provides functionality for creating templates for custom post types, taxonomies, and showcasing them in the form of layouts on Elementor-built pages. It also allows creating custom post types, custom taxonomies, as well as custom meta boxes for any kind of content.</p>
+
+<p>With JetEngine it is possible to showcase services, team members, create portfolio layouts without any skills in PHP and CSS.</p>
+
+<p>The plugin also adds 6 special widgets for pulling dynamic content from the posts and displaying it on the pages built with Elementor.</p>
+
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetEngine! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+
+
+<h3>JetEngine Listing Widgets</h3>
+
+<h5>Dynamic Field</h5>
+
+<p><a href="http://documentation.zemez.io/wordpress/index.php?project=jetengine&amp;lang=en&amp;section=jetengine-dynamic-widgets#dynamic-field" target="_blank">Dynamic Field</a> widget is made for displaying the content from both meta fields and the post or term data, for posts and taxonomies listing templates. The widget pulls the data and displays it using the set style and content settings.</p>
+
+
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetEngine! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
 
 
 <?php } ?>

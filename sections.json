@@ -3565,5 +3565,20 @@
 	    "mezo-overview",
 		"mezo-plugins",
 		"mezo-jetthemecore"
+	],
+	"jetengine": [
+		"introduction",
+		"jetengine-installation",
+	    "jetengine-custom-post-type",
+		"jetengine-custom-tax-type",
+		"jetengine-metaboxes",
+		"jetengine-dynamic-widgets",
+		"jetengine-layouts"
+	],
+	"jetguten": [
+		"introduction",
+		"jetguten-installation",
+	    "jetguten-quickstart",
+		"jetguten-blocks"
 	]
 }
