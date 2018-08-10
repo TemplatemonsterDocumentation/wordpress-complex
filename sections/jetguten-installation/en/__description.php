@@ -1,33 +1,11 @@
-<h3>JetBlog Installation</h3>
+<h3>JetGuten Installation</h3>
 
-<h5>From this block you can learn how to install <b>JetBlog</b> addon for Elementor manually. </h5>
+<h5>From this block you’ll learn about the process of installing JetGuten plugin using WordPress Dashboard. </h5>
 
 <ol class="index-list">
-<p><li>First, make sure that you’ve installed and activated <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder before proceeding to JetBlog installation. If you have problems with installing Elementor feel free to read the detailed <a href="https://docs.elementor.com/" target="_blank">Elementor documentation</a>.</li></p>
+<p><li>First, make sure you’ve already installed and activated Gutenberg editor before proceeding to JetGuten installation. You can do it automatically in the Dashboard block of your Admin panel. Click Install Gutenberg button and the plugin will be installed. You can also install it manually using <a href="https://wordpress.org/plugins/gutenberg/" target="_blank">this</a> link.</li></p>
 
-<p><li>Log in to <b>WordPress Dashboard</b> using Your login credentials and navigate to <b>Plugins</b> tab in the left column.
+<p><li>Navigate to the <b>Plugins</b> tab in admin panel and here click <b>Add New</b> button. </li></p>
+<p><li>Click <b>Upload</b> in the top left corner and browse the JetGuten plugin’s package from your hard drive. Then click <b>Install Now</b>. </li></p>
 
- 	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/inst/1.png">
-  	</figure>
-</li></p>
-
-<p><li>Click on <b>Add new</b> button to upload JetBlog plugin from Your hard drive.
-
-
-</li></p>
-
-<p><li>Click on <b>Upload</b> button, which can be found at the top of <b>Plugins</b> page. Browse the path to JetBlog plugin and start the installation process. </li></p>
-
- 	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/inst/3.png">
-  	</figure>
-
-</li></p>
-
-<p><li>When JetBlog plugin is uploaded and installed you’ll need to activate it. Navigate to <b>Plugins</b> tab and locate JetBlog plugin in the list of installed plugins. Click on <b>Activate</b> link under JetBlog. As a result the plugin will become active.
-
- 	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/inst/4.png">
-  	</figure>
-</li></p>
+<p><li>After JetGuten plugin is uploaded and installed click <b>Activate</b> button to make it active on your site. Now you can use JetGuten widgets to work with Gutenberg editor. </li></p></ol>

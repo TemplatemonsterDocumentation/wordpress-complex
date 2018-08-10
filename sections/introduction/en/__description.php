@@ -1274,31 +1274,56 @@ All Jet Family plugins have passed comprehensive QA tests and have a clean UI wh
 
 <article><h2>Introduction</h2>
 
-<p>Thank you for purchasing <b>JetEngine</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and using JetEngine plugin. It describes the process of creating custom post types, custom taxonomies, making templates for them using Elementor page builder and additional widgets for displaying dynamic content, in details.</p>
+<p>Thank you for purchasing <b>JetGuten</b> for Gutenberg WordPress editor. </p>
 
-<p>It also explains the full process of creating custom post and taxonomy layouts.</p>
+<p>This documentation consists of several parts and covers the entire process of installing and using JetGuten plugin. </p>
 
-<h3>What Is JetEngine Plugin?</h3>
+<p>Here you can find the description of the installation process, the step-by-step guide to using JetGuten in the Gutenberg editor environment, along with the detailed explanations on how to use the JetGuten widgets and customize widget settings. </p>
 
-<p>JetEngine is a plugin for Elementor, that provides functionality for creating templates for custom post types, taxonomies, and showcasing them in the form of layouts on Elementor-built pages. It also allows creating custom post types, custom taxonomies, as well as custom meta boxes for any kind of content.</p>
+<h3>What Is JetGuten</h3>
 
-<p>With JetEngine it is possible to showcase services, team members, create portfolio layouts without any skills in PHP and CSS.</p>
+<p>JetGuten is an addon for Gutenberg WordPress editor. It allows creating and adding more specific content using the set of specific blocks,  to the pages built with Gutenberg. </p>
 
-<p>The plugin also adds 6 special widgets for pulling dynamic content from the posts and displaying it on the pages built with Elementor.</p>
+<h3>JetGuten Widgets</h3>
+
+<h4>Pricing Table</h4>
+
+<p>Pricing Table block will help you display the pricing blocks with all the necessary content added to them using one of the preset styles. You’ll also be able to customize the appearance settings for the pricing blocks, making them suit your general page’s style. </p>
+
+<h4>Banner</h4>
+
+<p>Banner block will assist you in creating banners from your custom images with the most stylish animation effects, to attract attention of the visitors to your links. The widget has 11 effect settings along with the title, description and overlay styles that can be easily changed according to one’s needs. </p>
+
+<h4>Circle Progress</h4>
+
+<p>Circle Progress block is useful for showcasing the current progress of the project, or displaying the rate in percents or to show the proportion from the maximum value. The block provides you with the easy-to-use content settings as well as stylization settings for the circle, value and label blocks. </p>
+
+<h4>Countdown Timer</h4>
+
+<p>Countdown Timer block allows to display the countdown to the set date in the future using the simple countdown that displays the days, hours, minutes and seconds. The block has easily manageable settings, allowing to change the size of the timer, display the separator, change value, label and panel settings.</p>
+
+<h4>Animated Box</h4>
+
+<p>Animated Box block makes it possible to add animated boxes to the pages built with Gutenberg. The block possesses easily changeable animation effects, and the whole set of appearance settings for the back and front sides of the box.</p>
+
+<h4>Map</h4>
+
+<p>Map block is a perfect solution if you’re looking for an easy way to add a Google map to the page built with Gutenberg. The block provides access to the general settings, such as Address, Map or Satellite view, zoom level, etc.</p>
+
+<h4>Progress Bar</h4>
+
+<p>Progress bar block allows adding attractive progress bars to showcase the progress of the process you’re displaying. With this block you’ll be able to change the progress value, change the layout style by selecting one of the 6 styles, and customize the style of the bar.</p>
+
+<h4>Inline SVG</h4>
+
+<p>Inline SVG block provides you with an opportunity to add SVG images without the need to add any extra plugins to WordPress. The block makes it easy to download and display the image that has scalable vector graphics format.</p>
+
+<h4>Image Comparison</h4>
+
+Image Comparison block provides you with an ability to add the two-image block to showcase Before and After state of the object you’re displaying. It has the basic content settings as well as the style settings for the labels, border, etc.
 
 <div class="alert alert-info">
-        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetEngine! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
-
-
-<h3>JetEngine Listing Widgets</h3>
-
-<h5>Dynamic Field</h5>
-
-<p><a href="http://documentation.zemez.io/wordpress/index.php?project=jetengine&amp;lang=en&amp;section=jetengine-dynamic-widgets#dynamic-field" target="_blank">Dynamic Field</a> widget is made for displaying the content from both meta fields and the post or term data, for posts and taxonomies listing templates. The widget pulls the data and displays it using the set style and content settings.</p>
-
-
-<div class="alert alert-info">
-        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetEngine! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+        You have to install and activate <a href="https://wordpress.org/plugins/gutenberg/" target="_blank">Gutenberg</a> WordPress editor before using JetGuten! To learn more about Gutenberg editor, please, feel free to read <a href="https://wordpress.org/gutenberg/handbook/" target="_blank">Gutenberg Handbook</a>.</div>
 
 
 <?php } ?>
