@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten') { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup') { ?>
 
 <h2>Introduction</h2>
 
@@ -1324,6 +1324,24 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <div class="alert alert-info">
         You have to install and activate <a href="https://wordpress.org/plugins/gutenberg/" target="_blank">Gutenberg</a> WordPress editor before using JetGuten! To learn more about Gutenberg editor, please, feel free to read <a href="https://wordpress.org/gutenberg/handbook/" target="_blank">Gutenberg Handbook</a>.</div>
+
+
+<?php } ?>
+
+<?php if ($project == 'jetpopup') { ?>
+
+<h2>Introduction</h2>
+
+<p>Thank you for purchasing <b>JetPopup</b> for Elementor page builder. </p>
+
+
+<p>This documentation consists of several parts and covers the entire process of installing and using JetGuten plugin. </p>
+
+<p>Here you can find the description of the installation process, the step-by-step guide to using JetGuten in the Gutenberg editor environment, along with the detailed explanations on how to use the JetGuten widgets and customize widget settings. </p>
+
+<h3>What Is JetGuten</h3>
+
+<p>JetGuten is an addon for Gutenberg WordPress editor. It allows creating and adding more specific content using the set of specific blocks,  to the pages built with Gutenberg. </p>
 
 
 <?php } ?>

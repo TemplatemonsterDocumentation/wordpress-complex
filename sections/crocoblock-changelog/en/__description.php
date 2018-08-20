@@ -2,6 +2,64 @@
 
 <h5>This block will give you information on the latest updates of the products included in the CrocoBlock subscription.</h5>
 
+<h4>August 17, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetMenu versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.4.4 (August 14, 2018):</b>
+<ul class="marked-list">
+<li>Added compatibility with Header Footer Elementor plugin;</li>
+<li>Updated Cherry Framework to v1.5.10.</li>
+</ul>
+
+<ul class="marked-list">
+<p><li><b>August 17, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://demo.crocoblock.com/powedris/" target="_blank">Powedris</a>.</li>
+</p></ul></li></p></ul>
+
+
+
+
+<h4>August 10, 2018</h4>
+
+
+<h5>Jet Plugins</h5>
+
+
+<p><li><b>JetElements versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.11.2 (August 8, 2018):</b>
+<ul class="marked-list">
+<li>Added Custom Query controls for Posts widget.</li>
+</ul>
+
+
+<p><li><b>JetBlog versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>2.1.3 (August 8, 2018):</b>
+<ul class="marked-list">
+<li>Added Custom Query controls for Smart Posts Tiles and Smart Post List widgets.</li>
+</ul>
+
+<ul class="marked-list">
+<p><li><b>August 10, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="http://demo.crocoblock.com/quantito/" target="_blank">Quantito</a>.</li>
+</p></ul></li></p></ul>
+
+
+<ul class="marked-list">
+<p><li><b>August 6, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://demo.crocoblock.com/frizory/" target="_blank">Frizory</a>.</li>
+</p></ul></li></p></ul>
+
 
 <h4>August 3, 2018</h4>
 

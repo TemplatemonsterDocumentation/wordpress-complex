@@ -3580,5 +3580,12 @@
 		"jetguten-installation",
 	    "jetguten-quickstart",
 		"jetguten-blocks"
+	],
+	"jetpopup": [
+		"introduction",
+		"jetpopup-installation",
+	    "jetpopup-add-new",
+		"jetpopup-settings",
+		"jetpopup-adding-to-page"
 	]
 }

@@ -5,11 +5,19 @@
 Circle Progress block is useful for showcasing the current progress of the project, or displaying the rate in percents or to show the proportion from the maximum value. The block provides you with the easy-to-use content settings as well as stylization settings for the circle, value and label blocks.
 </h6>
 
+ 	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/blocks/cp1.png">
+  	</figure>
+
 <h4>
 
 <h4>General Settings</h4>
 
 <p>Here you can set up the content of the block to display it with Circle Progress.</p>
+
+ 	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/blocks/cp2.png">
+  	</figure>
 
 <ul class="marked-list">
 <li><b>Value Number</b> - here you can set the value of the progress that’s already accomplished.</li>

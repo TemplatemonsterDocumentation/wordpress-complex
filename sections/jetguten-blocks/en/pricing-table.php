@@ -1,51 +1,97 @@
-<article><h2>Posts Navigation</h2>
+<article><h2>Pricing Table</h2>
 
 
 <h6>
-Posts Navigation widget makes it possible to add the navigation arrows in order to make an easier navigation through the posts.
-It is specially created for using in the templates and archives in Elementor Pro v.2.0 and with CrocoBlock.
+Pricing Table block will help you display the pricing blocks with all the necessary content added to them using one of the preset styles. You’ll also be able to customize the appearance settings for the pricing blocks, making them suit your general page’s style.
 </h6>
 
-<h4>Content</h4>
+ 	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/blocks/pt1.png">
+  	</figure>
 
+<h4>Adding Content</h4>
 
-<h6>General</h6>
+<ol class="index-list">
+<li>To add content to the <b>Pricing Table</b> block you should click the <b>Title, Subtitle</b> lines and type in the needed text instead of <b>“Main Title”</b>, <b>“Subtitle”</b> and <b>“List”</b> placeholders. </li>
 
-<ul class="marked-list">
-<li><p><b>The older posts link text</b> - here you can change the text that will be shown as the link leading to the older posts.</li></p>
-<li><p><b>The older posts link icon</b> - in this block you can specify the icon to use for the older posts link.</li></p>
-<li><p><b>The newer posts text</b> - here you can change the text that will be shown as the link leading to the newer posts.</li></p>
-<li><p><b>The newer posts link icon</b> - in this block you can specify the icon to use for the newer posts link.</li></p></ul>
+ 	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/blocks/pt2.png">
+  	</figure>
 
-<h4>Style</h4>
+<li>To change the link for the button click <b>“Paste URL or type”</b> field and here type in the needed URL. </li>
+</ol>
 
-<ul class="marked-list">
-<li><p><b>Alignment</b> - select the most preferable alignment for the navigation elements.</li></p></ul>
+<h4>Settings</h4>
 
-<p>Select the <b>Normal</b> or <b>Hover</b> mode in order to change the background, text color and other properties when the navigation element is on hover. </p>
+<p>Here you can style up the block and add a featured label to it, customize its heading and price settings and values.
+ </p>
 
-<ul class="marked-list">
-<li><p><b>Background Color</b> - here you can set the specific color to use for the background using the color picker tool.</li></p>
-<li><p><b>Text Color</b> - here you can pick the color for the navigation item text using the color picker tool. </li></p>
-<li><p><b>Typography</b> - turn on the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
-<li><p><b>Item Min Width</b> - here you can set the minimal width of the items on different devices to make them look responsive.</li></p>
-<li><p><b>Older link Padding</b> - here you can specify the padding values for the navigation element for different devices. </li></p>
-<li><p><b>Newer Link Padding</b> - here you can specify the padding values for the navigation element for different devices. </li></p>
-<li><p><b>Gap Between Items</b> - here you can specify the precise gap width between the items. </li></p>
-<li><p><b>Border Type</b> - here you can select the border to apply it for the items. </li></p>
-<li><p><b>Border Radius</b> - set the border radius values to make the angles of the elements more smooth.</li></p></ul>
+<h4>Style </h4>
 
-<h5>Prev / Next Icons</h5>
+<p>Here you can choose how the block will look (there are <b>Style 1</b>, <b>Style 2</b> and <b>Style 3</b> variations). </p>
 
-<p>Select the <b>Normal</b> or <b>Hover</b> mode in order to change the background, icon color and other properties when the navigation element is on hover. </p>
+<p><b>Featured Label</b> allows to add the label  to the top right corner of the <b>Pricing Table</b> block. If you want to use this option you need to check <b>Is Featured</b>, option. Then the featured  label’s settings will become visible.</p>
 
 <ul class="marked-list">
-<li><p><b>Background Color</b> - here you can set the color to use it for the icon background.</li></p>
-<li><p><b>Text Color</b> - here you can specify the color to use it for the icon.</li></p>
-<li><p><b>Dropdown Icon Size</b> - use the control to set the icon size on different devices. </li></p>
-<li><p><b>Icon Box Size</b> - here you can set the size of the icon box for different devices. </li></p>
-<li><p><b>Border Type</b> - here you can set the border to use it for the icon.</li></p>
-<li><p><b>Border Radius</b> - here you can change the icon border radius to make its angles more smooth.</li></p>
-<li><p><b>Gap Between Text and Icon</b> - here you can set the specific gap value to use it to set the space between the text and the icon itself. </li></p></ul>
+<li><b>Label Text</b> - here you should put any name, which you want to show for the block. </li>
+<li><b>Label Style</b> - here you can choose how to locate the label ribbon (diagonally or vertically).</li>
+<li><b>Label Background</b> - here you can choose the color of the label background.</li>
+<li><b>Label Color</b>- here you can choose the color of the label text.</li></ul>
 
-<p>The Advanced settings of the Posts Navigation module are similar to the ones of the other JetBlog modules.</p>
+<h4>General</h4>
+
+<p>Choose the color of the table text, the table background, the button text, the button background and the border of the block.<p>
+
+<h4>Heading</h4>
+
+<p>Here it is available to adjust heading’s settings. In the block you can write <b>Main Title</b> and <b>Subtitle</b>.<p>
+
+<ul class="marked-list">
+<li><b>Gap Before Content</b> - set the width of the gap between the upper border and the heading.</li>
+<li><b>Gap After Content</b> - set the width of the gap between the heading and the price.</li>
+<li><b>Title Color</b> -here you can choose the color of the title.</li>
+<li><b>Subtitle Color</b> - here you can choose the color of the subtitle.</li>
+<li><b>Heading Background</b> - here you can set the color of the heading background.</li></ul>
+
+<h4>Price</h4>
+
+<p>Here are the  price settings  available to being adjusted.</p>
+
+<ul class="marked-list">
+<li><b>Gap Before Content</b> - set the width of the gap between the heading and the price.</li>
+<li><b>Gap After Content</b> - set the width of the gap after the price.</li></ul>
+
+<p><b>Price Prefix</b> - here you can adjust price prefix’s settings.</p>
+
+<ul class="marked-list">
+<li><b>Prefix</b> - set the sign of the appropriate currency.</li>
+<li><b>Prefix Color</b> -  here you can choose the color of the prefix.</li>
+<li><b>Prefix Size</b> - here you can choose the prefix’s size. There are <b>S</b>, <b>M</b>, <b>L</b> and <b>XL</b> sizes, you can choose one of them. If you click <b>Reset</b>, the setting will be canceled. </li>
+<li><b>Custom Size</b> - this option allows to set your customized prefix’s size, just  drag the control to change its value.</li>
+<li><b>Prefix Alignment</b> - here you can set the alignment of the prefix. It can be located on the top, in the middle or at the bottom.</li></ul>
+
+<p><b>Price Value</b> - here you can adjust price value’s settings.</p>
+
+<ul class="marked-list">
+<li><b>Price</b> - here you can indicate the appropriate sum.</li>
+<li><b>Price Color</b> - here you can choose the color of the price.</li>
+<li><b>Price Size</b> - here you can choose the number’s size. There are <b>S</b>, <b>M</b>, <b>L</b> and <b>XL</b> sizes, you can choose one of them. If you click <b>Reset</b>, the settings will be canceled.</li>
+<li><b>Custom Size</b> - this option allows to set customized price’s size. Just  drag the control to change its value.</li>
+<li><b>Price Alignment</b> - here you can set the alignment of the price. It can be located on the top, in the middle or at the bottom.</li></ul>
+
+<p><b>Price Suffix</b> - here you can change price suffix’s settings.</p>
+
+<ul class="marked-list">
+<li><b>Suffix</b> - here you can input the needed information, e.g., for what period of time the price is (per month, per year etc.)</li>
+<li><b>Suffix Color</b> - here you can choose the color of the suffix.</li>
+<li><b>Suffix Size</b> - here you can choose the suffix’s size. There are <b>S</b>, <b>M</b>, <b>L</b> and <b>XL</b> sizes, you can choose one of them. If you click <b>Reset</b>, the setting will be canceled.</li>
+<li><b>Custom Size</b> - this option allows to set customized suffix’s size.  Just  drag the control to change its value.</li>
+<li><b>Suffix Alignment</b> - here you can set the alignment of the price. It can be located at the top, in the middle or at the bottom.</li></ul>
+
+<p>
+<ul class="marked-list">
+<li><b>Price Background</b> - here you can choose the color of price background.</li></ul>
+
+
+
+

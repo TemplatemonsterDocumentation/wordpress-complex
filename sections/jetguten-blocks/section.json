@@ -6,9 +6,9 @@
 	},
 	"articles": {
 		"jetguten": [{
-			"id": "pricing-table",
+			"id": "animated-box",
 			"translations": {
-				"en": "Pricing Table",
+				"en": "Animated Box",
 				"ru": ""
 			}
 		},	{
@@ -30,21 +30,9 @@
 				"ru": ""
 			}
 		},	{
-			"id": "animated-box",
+			"id": "image-comparison",
 			"translations": {
-				"en": "Animated Box",
-				"ru": ""
-			}
-		},	{
-			"id": "map",
-			"translations": {
-				"en": "Map",
-				"ru": ""
-			}
-		},	{
-			"id": "progress-bar",
-			"translations": {
-				"en": "Progress Bar",
+				"en": "Image Comparison",
 				"ru": ""
 			}
 		},	{
@@ -54,9 +42,21 @@
 				"ru": ""
 			}
 		},	{
-			"id": "image-comparison",
+			"id": "map",
 			"translations": {
-				"en": "Image Comparison",
+				"en": "Map",
+				"ru": ""
+			}
+		},	{
+			"id": "pricing-table",
+			"translations": {
+				"en": "Pricing Table",
+				"ru": ""
+			}
+		},	{
+			"id": "progress-bar",
+			"translations": {
+				"en": "Progress Bar",
 				"ru": ""
 			}
 		}]

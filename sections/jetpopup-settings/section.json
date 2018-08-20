@@ -1,0 +1,23 @@
+{
+	"id": "jetpopup-settings",
+	"translations": {
+		"en": "JetPopup Settings",
+		"ru": ""
+	},
+	"articles": {
+		"jetpopup": [{
+			"id": "settings",
+			"translations": {
+				"en": "General Settings",
+				"ru": ""
+			}
+		},	{
+			"id": "styles",
+			"translations": {
+				"en": "Styles",
+				"ru": ""
+			}
+		}]
+	}
+}
+

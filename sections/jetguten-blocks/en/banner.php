@@ -3,14 +3,25 @@
 
 <h6>
 Banner block will assist you in creating banners from your custom images with the most stylish animation effects, to attract attention of the visitors to your links. The widget has 11 effect settings along with the title, description and overlay styles that can be easily changed according to one’s needs.
+
+
 </h6>
 
+ 	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/blocks/b1.png">
+  	</figure>
+
 <h4>Content</h4>
+
 
 <ul class="marked-list">
 <li><p><b>Upload Image</b> - click the button to access the media library and select the image to use for the banner, or upload one from your hard drive.</p></li></ul>
 
 <h4>General Settings</h4>
+
+ 	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/blocks/b2.png">
+  	</figure>
 
 <ul class="marked-list">
 <li><b>Image Size</b> - here you can select the size of the image to use for the banner (the sizes are pulled from the available size list in the theme).</li>
