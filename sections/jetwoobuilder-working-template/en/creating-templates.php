@@ -1,6 +1,6 @@
 <h3>Creating Templates</h3>
 
-<h5>This block uncovers the process of building the <b>Single Product</b> page with <b>Elementor</b> using <b>JetWooBuilder</b> widgets. </h5>
+<h5>This block uncovers the process of building the <b>Single and Archive Product</b> pages with <b>Elementor</b> using <b>JetWooBuilder</b> widgets. </h5>
 
 <ol class="index-list">
 <p><li>

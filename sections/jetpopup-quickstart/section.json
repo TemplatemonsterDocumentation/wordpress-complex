@@ -1,0 +1,35 @@
+{
+	"id": "jetpopup-quickstart",
+	"translations": {
+		"en": "Quick Start",
+		"ru": ""
+	},
+	"articles": {
+		"jetpopup": [{
+			"id": "presets",
+			"translations": {
+				"en": "Using Presets",
+				"ru": ""
+			}
+		},	{
+			"id": "adding-new-popup",
+			"translations": {
+				"en": "Adding new Popup",
+				"ru": ""
+			}
+		},	{
+			"id": "action-button",
+			"translations": {
+				"en": "Popup Action Button",
+				"ru": ""
+			}
+		},	{
+			"id": "popup-library",
+			"translations": {
+				"en": "Using Popup Library",
+				"ru": ""
+			}
+		}]
+	}
+}
+

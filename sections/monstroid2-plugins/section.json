@@ -1,0 +1,74 @@
+{
+	"id": "monstroid2-plugins",
+	"translations": {
+		"en": "Plugins Overview",
+		"ru": ""
+	},
+	"articles": {
+		"monstroid2": [{
+				"id": "jetthemecore",
+				"translations": {
+					"en": "JetThemeCore Plugin",
+					"ru": ""
+				}
+			},
+			{
+				"id": "jetblocks",
+				"translations": {
+					"en": "JetBlocks Plugin",
+					"ru": ""
+				}
+			},
+			{
+				"id": "jetelements",
+				"translations": {
+					"en": "JetElements Plugin",
+					"ru": ""
+				}
+			},
+			{
+				"id": "jetblog",
+				"translations": {
+					"en": "JetBlog Plugin",
+					"ru": ""
+				}
+			},
+			{
+				"id": "jetmenu",
+				"translations": {
+					"en": "JetMenu Plugin",
+					"ru": ""
+				}
+			},
+			{
+				"id": "jettabs",
+				"translations": {
+					"en": "JetTabs Plugin",
+					"ru": ""
+				}
+			},
+			{
+				"id": "jetreviews",
+				"translations": {
+					"en": "JetReviews Plugin",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "jetwoobuilder",
+				"translations": {
+					"en": "JetWooBuilder Plugin",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "jettricks",
+				"translations": {
+					"en": "JetTricks Plugin",
+					"ru": "Логотип и фавиконка"
+				}
+			}
+		]
+	}
+}
+

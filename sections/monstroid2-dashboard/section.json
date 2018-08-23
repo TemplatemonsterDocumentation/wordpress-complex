@@ -1,0 +1,45 @@
+{
+	"id": "monstroid2-dashboard",
+	"translations": {
+		"en": "Monstroid2 Dashboard",
+		"ru": ""
+	},
+	"articles": {
+		"monstroid2": [{
+				"id": "license",
+				"translations": {
+					"en": "License",
+					"ru": ""
+				}
+			},
+			{
+				"id": "updates",
+				"translations": {
+					"en": "Plugin Updates",
+					"ru": ""
+				}
+			},
+			{
+				"id": "theme",
+				"translations": {
+					"en": "Theme",
+					"ru": ""
+				}
+			},
+			{
+				"id": "skins",
+				"translations": {
+					"en": "Skins",
+					"ru": ""
+				}
+			},
+			{
+				"id": "settings",
+				"translations": {
+					"en": "Settings",
+					"ru": ""
+				}
+			}]
+	}
+}
+

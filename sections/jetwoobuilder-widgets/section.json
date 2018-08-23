@@ -119,6 +119,12 @@
 				"en": "Taxonomy Tiles",
 				"ru": ""
 			}
+		},	{
+			"id": "advanced",
+			"translations": {
+				"en": "Advanced Widget Settings",
+				"ru": ""
+			}
 		}]
 	}
 }

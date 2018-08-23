@@ -1,54 +1,33 @@
 <h3>JetWooBuilder Settings</h3>
 
-<h5>This block unclovers the settings available in JetWooBuilder plugin for Elementor.</h5>
-
-
-<h4>WooCommerce Settings</h4>
-
-    <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/wgo.png">
-    </figure>
+<p>From this block you’ll learn how to disable the widgets you don’t need to use in JetWooBuilder. </p>
 
 <ol class="index-list">
-<li><p>In order to change the general option for JetWooBuilder templates one has to navigate to <b>WooCommerce > Settings</b> and here open <b>JetWooBuilder</b> block.</p></li>
-
-<li><p>Locate <b>Genaral Options</b> block. Here you'll see the options available for JetWooBuilder product page templates.</p>
+<p><li>To access these settings you have to navigate to <b>Elementor > Jet Woo Builder Settings</b> in WordPress Dashboard. Here you can see the block divided into two separate tabs:
 
 <ul class="marked-list">
-<li><b>Custom Single Product</b> - enable this option in order to use the custom single product pages built with JetWooBuilder instead of the regular ones.</li>
+<li><b>Available Widgets</b> - here you can enable or disable some of the widgets at will;</li>
 
-<li><b>Single Product Template</b> - here you need to select one of the templates built with JetWooBuilder instead of the regular Single product page.</li>
+<li><b>Product Thumb Effect</b> - here you can add animation effects for product thumbnails. </li></ul>
 
-<li><b>Use Native templates</b> - check this optiion in order to use the native WooCommerce templates instead the ones set in the theme.</li></ul>
-</li></ol>
+<p><b>Available Widgets</b></p>
 
-<h4>JetWooBuilder Plugin Settings</h4>
+<p>Here you can see all the widgets represented in JetWooBuilder listed in:</p>
 
-<ol class="index-list">
-<li><p>To access JetWooBuilder settings navigate to <b>Elementor > JetWooBuilder Settings</b>. </p></li>
+<ul class="marked-list">
+<li><b>Global Widgets Available</b> - the widgets that are available for usage for any Elementor template (nor specifically WooCommerce);</li>
 
-<li><p>In the newly opened page you’ll see <b>Available Widgets</b> and <b>Products Thumb Effect</b> blocks. </p></li>
+<li><b>Single Product Available Widgets</b> - the widgets available when one works with Single Product page template;</li>
 
-    <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/wps.png">
-    </figure>
+<li><b>Archive Product Available Widgets</b> - the widgets that can be accessed when one works with WooCommerce Products Archive template. </li></ul>
 
-<li><p><b>Available Widgets</b> block allows to enable or disable specific widgets which are not used or more frequently used when building WooCommerce pages. Just check or uncheck the widget to enable or disable it in the Widgets list in Elementor editor. </p></li>
+<p>Check or uncheck the needed widgets in order to include or exclude them from showing in Elementor editor. After everything is done click <b>Save</b> button. </p>
 
-<li><p>Please, note, that <b>Single Product</b> widgets are shown only on <b>Single Product page</b> templates. </p></li>
+<p>Product Thumb Effect </p>
 
-<li><p><b>Product Thumb Effect</b> block is related to <b>Product Grid</b> widget. </p></li></ol>
+<ul class="marked-list">
+<li><b>Enable Thumbnails Effect</b> - enable this option in order to use the animation effect for the product thumbnail. </li>
 
-<h5>Product Thumb Effect</h5>
+<li><b>Thumbnails Effect</b> - here you can apply one of the effects shown in the dropdown for the image (slide right, slide left, slide top, slide bottom, fade, fade with zoom). </li></ul></li></p>
 
-    <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/wpth.png">
-    </figure>
-
-
-<ul class="makerd-list">
-<li><p><b>Enable Thumbnails Effect</b> - this option turns on the thumbnails switch when one hovers on them. </p></li>
-
-<li><p><b>Thumbnails Effect</b> - here you can select one of the effects to use for the thumbnails switch (slide or fade direction). </p></li></ul>
-
-
+<li><p>After everything is done click <b>Save</b> button. </p></li></ol>

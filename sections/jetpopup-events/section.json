@@ -1,0 +1,29 @@
+{
+	"id": "jetpopup-events",
+	"translations": {
+		"en": "JetPopup Opening Events",
+		"ru": ""
+	},
+	"articles": {
+		"jetpopup": [{
+			"id": "render-conditions",
+			"translations": {
+				"en": "Opening Conditions",
+				"ru": ""
+			}
+		},	{
+			"id": "triggers",
+			"translations": {
+				"en": "Trigger Events",
+				"ru": ""
+			}
+		},	{
+			"id": "attached-popups",
+			"translations": {
+				"en": "Attached Popups",
+				"ru": ""
+			}
+		}]
+	}
+}
+

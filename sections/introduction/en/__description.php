@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup') { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2') { ?>
 
 <h2>Introduction</h2>
 
@@ -800,22 +800,24 @@ You will also find information on how to enable and customize JetElements addons
 
 <article><h2>Introduction</h2>
 
-<p>Thank You for purchasing <b>JetWooBuilder</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up <b>JetWooBuilder</b> plugin from scratch.</p>
+<p>Thank You for purchasing <b>JetWooBuilder</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and uncovers the entire process of installing and setting up <b>JetWooBuilder</b> plugin from scratch.</p>
 
 <p>You will also find here information how to create the template for the <b>Single product</b> page, apply to the certain product.</p>
 
+<p>You'll also learn more about creating <b>WooCommerce Product Archive</b> templates and setting them for Shop page, using them for cross-sells and related products.</p>
+
 <h3>What Is JetWooBuilder plugin?</h3>
 
-<p><b>JetWooBuilder</b> is a plugin that allows creating <b>WooCommerce Single Product</b> pages with Elementor live page builder functionality using multiple dynamic content widgets.</p>
+<p><b>JetWooBuilder</b> is a plugin that allows creating <b>WooCommerce Single Product</b> page templates and <b>WooCommerce Product Archive</b>  templates with Elementor live page builder functionality using multiple dynamic content widgets.</p>
 
-<p>With <b>JetWooBuilder</b> it is easy to create the exact page structure one needs for the <b>WooCommerce product</b> page without ever touching a single line of code. The sections and columns can be built in seconds and filled up with content in a drag-n-drop way.</p>
+<p>With <b>JetWooBuilder</b> it is easy to create the exact page structure one needs for the <b>WooCommerce product</b> or <b>Archive</b> page without ever touching a single line of code. The sections and columns can be built in seconds and filled up with content in a drag-n-drop way.</p>
 
-<p>Use <b>JetWooBuilder</b> to create unique WooCommerce <b>Single Product</b> page templates and use them for the products represented on Your site.</p>
+<p>Use <b>JetWooBuilder</b> to create unique WooCommerce <b>Single Product</b> page templates or <b>Product Archive</b> templates and use them for the products represented on Your site.</p>
 
 <div class="alert alert-info">
         You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetWooBuilder! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
 
-<h3>JetWooBuilder Overview</h3>
+<h3>JetWooBuilder Widgets Overview</h3>
 
 <ul class="marked-list">
 <p><li>
@@ -1335,13 +1337,100 @@ Image Comparison block provides you with an ability to add the two-image block t
 <p>Thank you for purchasing <b>JetPopup</b> for Elementor page builder. </p>
 
 
-<p>This documentation consists of several parts and covers the entire process of installing and using JetGuten plugin. </p>
+<p>This documentation consists of several parts and covers the entire process of installing and using JetPopup plugin. </p>
 
-<p>Here you can find the description of the installation process, the step-by-step guide to using JetGuten in the Gutenberg editor environment, along with the detailed explanations on how to use the JetGuten widgets and customize widget settings. </p>
+<p>Here you can find the description of the installation process, the step-by-step guide to using JetPopup, along with the detailed explanations on how to create popups using Elementor widgets and customize the trigger events, popup appearance and location. </p>
 
-<h3>What Is JetGuten</h3>
+<h3>What Is JetPopup</h3>
 
-<p>JetGuten is an addon for Gutenberg WordPress editor. It allows creating and adding more specific content using the set of specific blocks,  to the pages built with Gutenberg. </p>
+<p>JetPopup is an addon for Elementor live page builder. It allows creating and adding popups to the pages built with Elementor. </p>
+
+
+<p>With JetPopup you'll be able to create new popups using all widgets avaiable for work when you ordinarily create content with Elementor live page builder. </p>
+
+<p>You'll also have multiple options for adding popups to different widgets, buttons, or displaying them in different parts of the page and customizing popups appearance and location. </p>
+
+<p>With JetPopup you can be sure that you can add any content you need to the popup, and place it where it will be immediately noticed. You'll also be able to make it appear just in time and set the preferable timing for the popup to appear. </p>
+
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetPopup! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+
+<h3>JetPopup Functionality</h3>
+
+<p>With JetPopup plugin you'll be able to:
+
+    <ul class="marked-list">
+        <p><li>create popup templates with Elementor;</li></p>
+        <p><li>attach the popup templates to different widgets and widget's content;</li></p>
+        <p><li>set the specific popup triggers;</li></p>
+        <p><li>choose the time when the popup appears on the page;</li></p>
+        <p><li>change the popup block's appearance and location.</li></p></ul>
+
+<p>Keep reading this documentation to get more precise information on how to create and use popups with JetPopup plugin for Elementor.</p>
+
+<?php } ?>
+
+<?php if ($project == 'monstroid2') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank you for purchasing Monstroid2 theme! This documentation consists of several parts and covers the entire process of installing and setting up a WordPress website from scratch.</p>
+
+
+
+<p>Here you can find the following products: </p>
+
+<ul class="marked-list">
+<p><li><a href="https://crocoblock.com/kava-pro/" target="_blank"><b>Kava theme</b></a> - the free clean WordPress theme;</li>
+<li><b>Kava Child theme</b> - the child Kava theme version;</li>
+<li><b>Jet Plugins Wizard</b> - automatic plugins and demos installer plugin;</li>
+<li><b>Jet Plugins Bundle:</b>
+<ul class="marked-list">
+<li><a href="http://jetelements.zemez.io/" target="_blank">JetElements;</a></li>
+<li><a href="http://jetmenu.zemez.io/" target="_blank">JetMenu;</a></li>
+<li><a href="https://jetblocks.zemez.io/" target="_blank">JetBlocks;</a></li>
+<li><a href="https://jetblog.zemez.io/" target="_blank">JetBlog;</a></li>
+<li><a href="http://documentation.zemez.io/wordpress/index.php?project=monstroid2&lang=en&section=monstroid2-jetthemecore" target="_blank">JetThemeCore;</li>
+<li><a href="https://jetwoobuilder.zemez.io/" target="_blank">JetWooBuilder;</a></li>
+<li><a href="https://jettricks.zemez.io/" target="_blank">JetTricks;</a></li>
+<li><a href="https://jetreviews.zemez.io/" target="_blank">JetReviews;</a></li>
+<li><a href="https://jettabs.zemez.io/" target="_blank">JetTabs.</a></li></ul>
+</li>
+<li><b>High Quality Image Packs</b> - the image packs on different topics.</li></p></ul>
+
+
+<p>All the products should be used on the terms on one's pricing plan.</p>
+
+
+<h3>Recommended Technical Requirements</h3>
+
+<p>The needed requirements are:</p>
+<p>
+<ul class="marked-list">
+<li>PHP 7 or higher;</li>
+<li>MySQL 5.6 of higher;</li>
+<li>WP memory limit of 128 Mb or larger;</li>
+<li>Desktop device;</li>
+<li>SSL certificate on server.</li></ul></p>
+
+<p>You can get more information <a href="https://docs.elementor.com/article/38-requirements
+" target="_blank">here.</a></p>
+
+<h3>Compatibility with previous version of Monstroid2</h3>
+<p>Monstroid2 comes with absolutely upgraded functionality. Now the theme uses Elementor page builder instead of Power Builder. Also, new version of Monstroid2 comes with Jet Family plugins.</p>
+<p>If you're using old version of Monstroid2, please check the following tutorial how to transfer your content effortlessly! </p>
+
+
+<h3>Monstroid2 Videos Playlist</h3>
+
+<p>Feel free to view the video playlist with the presentation of different Monstroid2 services.</p>
+
+<iframe width="750" height="400" src="https://www.youtube.com/embed/videoseries?list=PLdaVCVrkty72g_9pu4-tRJ0j_cc01PqUX" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+<p>Welcome to Monstroid2!</p>
+
 
 
 <?php } ?>

@@ -1,34 +1,19 @@
 <h3>JetPopup Installation</h3>
 
-<h5>From this block you’ll learn about the process of installing JetGuten plugin using WordPress Dashboard. </h5>
+<h5>From this block you can learn how to install JetPopup plugin using WordPress Dashboard.</h5>
 
 <ol class="index-list">
-<p><li>First, make sure you’ve already installed and activated Gutenberg editor before proceeding to JetGuten installation.
+<p><li>First, make sure that you’ve installed and activated Elementor page builder before proceeding to JetPopup installation. If you have problems with installing Elementor feel free to read the detailed Elementor documentation.
+</li></p>
 
 
-  	You can do it automatically in the Dashboard block of your Admin panel.
-
-  		  	 	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/inst/inst1.png">
-  	</figure>
-
-  	Click Install Gutenberg button and the plugin will be installed. You can also install it manually using <a href="https://wordpress.org/plugins/gutenberg/" target="_blank">this</a> link.</li></p>
-
-<p><li>Navigate to the <b>Plugins</b> tab in admin panel and here click <b>Add New</b> button.
-
-	  	 	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/inst/inst2.png">
-  	</figure>
-
+<p><li>Log in to WordPress Dashboard using Your login credentials and navigate to <b>Plugins</b> tab in the left column.
   	</li></p>
-<p><li>Click <b>Upload</b> in the top left corner and browse the JetGuten plugin’s package from your hard drive. Then click <b>Install Now</b>.
 
-	  	 	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/inst/inst3.png">
-  	</figure> </li></p>
 
-<p><li>After JetGuten plugin is uploaded and installed click <b>Activate</b> button to make it active on your site. Now you can use JetGuten widgets to work with Gutenberg editor.
+<p><li>Click on <b>Add new</b> button to upload JetPopup plugin from Your hard drive.
+</li></p>
 
-	  	 	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/inst/inst4.png">
-  	</figure></li></p></ol>
+<p><li> Click <b>Upload</b> button, which can be found at the top of <b>Plugins</b> page. Browse the path to <b>JetPopup.zip</b> plugin package and start the installation process.
+</li></p>
+</ol>

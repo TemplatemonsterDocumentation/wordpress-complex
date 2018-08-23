@@ -1,0 +1,34 @@
+{
+	"id": "jetwoobuilder-single-product-template",
+	"translations": {
+		"en": "Creating Single Product Template",
+		"ru": ""
+	},
+	"articles": {
+		"jetwoobuilder": [{
+			"id": "preparation",
+			"translations": {
+				"en": "Preparing for Adding New Single Product Template",
+				"ru": ""
+			}
+		},	{
+			"id": "creating-new-single",
+			"translations": {
+				"en": "Creating New Single Product Template",
+				"ru": ""
+			}
+		},	{
+			"id": "adding-content",
+			"translations": {
+				"en": "Adding Content to Single Product Template",
+				"ru": ""
+			}
+		},	{
+			"id": "assign-single-template-product",
+			"translations": {
+				"en": "Assigning Single Product Template to Products",
+				"ru": ""
+			}
+		}]
+	}
+}

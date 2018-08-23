@@ -3518,10 +3518,10 @@
 	"jetwoobuilder": [
 		"introduction",
 		"jetwoobuilder-installation",
-		"jetwoobuilder-start",
-		"jetwoobuilder-working-template",
+		"jetwoobuilder-single-product-template",
 		"jetwoobuilder-widgets",
-		"jetwoobuilder-advanced",
+		"jetwoobuilder-product-archive-template",
+		"jetwoobuilder-woo-settings",
 		"jetwoobuilder-settings",
 		"jetwoobuilder-changelog"
 	],
@@ -3581,11 +3581,21 @@
 	    "jetguten-quickstart",
 		"jetguten-blocks"
 	],
+	"monstroid2": [
+		"introduction",
+		"monstroid2-installation",
+		"monstroid2-theme",
+		"monstroid2-dashboard",
+		"monstroid2-plugins",
+		"monstroid2-jetthemecore",
+		"monstroid2-changelog"
+	],
 	"jetpopup": [
 		"introduction",
 		"jetpopup-installation",
-	    "jetpopup-add-new",
-		"jetpopup-settings",
-		"jetpopup-adding-to-page"
+		"jetpopup-quickstart",
+		"jetpopup-export-import",
+		"jetpopup-events",
+		"jetpopup-settings"
 	]
 }

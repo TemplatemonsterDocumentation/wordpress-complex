@@ -1,0 +1,34 @@
+{
+	"id": "jetwoobuilder-product-archive-template",
+	"translations": {
+		"en": "Creating Product Archive Template",
+		"ru": ""
+	},
+	"articles": {
+		"jetwoobuilder": [{
+			"id": "preparation",
+			"translations": {
+				"en": "Preparing for Adding New Single Product Template",
+				"ru": ""
+			}
+		},	{
+			"id": "creating-new-archive",
+			"translations": {
+				"en": "Creating New Product Archive Template",
+				"ru": ""
+			}
+		},	{
+			"id": "adding-content",
+			"translations": {
+				"en": "Adding Content to Product Archive Template",
+				"ru": ""
+			}
+		},	{
+			"id": "assign-archive-template",
+			"translations": {
+				"en": "Assigning Product Archive Template to Shop",
+				"ru": ""
+			}
+		}]
+	}
+}
