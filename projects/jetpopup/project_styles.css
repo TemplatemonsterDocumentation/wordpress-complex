@@ -1,19 +1,23 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 h1 {
   font-family: "Roboto", sans-serif;
-  color: #fff; }
+  color: #ffffff; }
 
 h4 {
   color: #000; }
 
 .page-content.active .rd-mobilepanel {
-  background-position: 62% top; }
+  background-position: 0% bottom; }
   @media (max-width: 1440px) {
     .page-content.active .rd-mobilepanel {
-      background-position: 48% bottom; } }
+      background-position: 600px bottom; } }
+
+.page-content.active .rd-mobilepanel {
+  background-position: 600px bottom;
+  background-position: 0% bottom; }
 
 .rd-mobilepanel {
-  background-color: #1C1E24;
+  background-color: #4f56ef;
   background-position: right top;
   -webkit-transition-property: height;
           transition-property: height;
@@ -23,13 +27,9 @@ h4 {
           transition-timing-function: linear;
   -webkit-transition-delay: 1s;
           transition-delay: 1s; }
-  @media (max-width: 1440px) {
-    .rd-mobilepanel {
-      background-size: 100% auto;
-      background-position: 600px bottom; } }
 
 [data-section="introduction"] .rd-mobilepanel {
-  background-image: url("../../projects/jetengine/img/header-bg.png");
+  background-image: url("../../projects/jetpopup/img/header-bg.png");
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
@@ -41,16 +41,17 @@ body:not([data-section="introduction"]) .tm-title-caption {
   display: none; }
 
 .rd-mobilepanel_toggle span {
-  background-color: #fff; }
+  background-color: #ffffff; }
   .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
-    background-color: #fff; }
+    background-color: #ffffff; }
 
 .rd-mobilepanel_title {
   font-size: 48px;
   font-weight: 600;
   top: 237px;
   left: 158px;
-  width: 500px; }
+  width: 500px;
+  letter-spacing: 3px; }
 
 .tm-title-caption {
   font-size: 23px !important;
@@ -92,24 +93,21 @@ body:not([data-section="introduction"]) .tm-title-caption {
   background-color: #fff; }
 
 .rd-mobilemenu_ul ul a.focus {
-  color: #C920FF; }
+  color: #4f56ef; }
 
 .toTop {
-  background-color: #C920FF;
+  background-color: #4f56ef;
   color: #ffffff; }
   .toTop:hover {
-    background-color: black; }
+    background-color: #121ac6; }
 
 .files_structure li .fa {
   margin-top: 3px;
   margin-right: 10px;
-  color: #C920FF;
+  color: #4f56ef;
   font-size: 16px; }
 
 article a {
-  color: #C920FF; }
-
-.rd-mobilemenu .logo img {
-  padding-top: 25px; }
+  color: #4f56ef; }
 
 /*# sourceMappingURL=project_styles.css.map */

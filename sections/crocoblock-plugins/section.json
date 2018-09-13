@@ -67,6 +67,20 @@
 					"en": "JetTricks Plugin",
 					"ru": "Логотип и фавиконка"
 				}
+			},
+			{
+				"id": "jetengine",
+				"translations": {
+					"en": "JetEngine Plugin",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "jetpopup",
+				"translations": {
+					"en": "JetPopup Plugin",
+					"ru": "Логотип и фавиконка"
+				}
 			}
 		]
 	}

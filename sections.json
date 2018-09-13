@@ -3573,7 +3573,10 @@
 		"jetengine-custom-tax-type",
 		"jetengine-metaboxes",
 		"jetengine-dynamic-widgets",
-		"jetengine-layouts"
+		"jetengine-layouts",
+		"jetengine-dashboard",
+		"jetengine-use-cases",
+		"jetengine-changelog"
 	],
 	"jetguten": [
 		"introduction",

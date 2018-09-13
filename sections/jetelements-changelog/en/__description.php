@@ -2,6 +2,13 @@
 
 <h5>In this block you can view the latest updates for JetElements plugin.</h5>
 
+<h4>Version 1.12.0 (August 27, 2018)</h4>
+
+<ul class="marked-list">
+<p><li>Added Table widget;</li></p>
+<p><li>Added Weather widget.</li></p>
+</ul>
+
 <h4>Version 1.11.0 (July 23, 2018)</h4>
 
 <ul class="marked-list">

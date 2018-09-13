@@ -25,6 +25,13 @@
 					"en": "Using Pre-Styled Sections",
 					"ru": ""
 				}
+			},
+			{
+				"id": "jetthemecore-new-part",
+				"translations": {
+					"en": "Adding a New Theme Part",
+					"ru": ""
+				}
 			}
 		]
 	}

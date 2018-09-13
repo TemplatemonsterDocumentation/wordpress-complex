@@ -20,6 +20,10 @@
 <p><li><b>Header</b> - here you can view all the existing footer templates on your site;</li></p>
 <p><li><b>Footer</b> - here you can see all the existing footer templates on your site;</li></p>
 <p><li><b>Section</b> - here you can view the list of the section templates. </li></p>
+ </li>
+<p><li><b>Archive</b> - here you can view the list of the post / taxonimy / custom post type archive templates. </li></p>
+<p><li><b>Single</b> - here you can view the existing single post templates. </li></p>
+ </li>
  </li></ul>
 
 <p><li>Every template shown in these blocks can be edited, removed to the trash bin, restored, etc. </li></p>

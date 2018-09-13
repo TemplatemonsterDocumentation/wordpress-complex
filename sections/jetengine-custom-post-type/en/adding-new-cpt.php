@@ -148,12 +148,14 @@
  <li><b>Time</b> - allows to add the time marker for the post.</li>
  <li><b>Datetime</b> - provides the convenient way to add time and date to the post. You can also save it as a timestamp.</li>
  <li><b>Textarea</b> - use this content type to add the text area to the custom posts.</li>
+  <li><b>WYSIWYG</b> - use this content type to add the basic editor in the custom field.</li>
  <li><b>Switcher</b> - allows displaying switcher for the custom posts.</li>
  <li><b>Checkbox</b> - adds the checkboxes for the custom posts.</li>
  <li><b>Iconpicker</b> - the tool provides ability to select the icons for displaying them in the posts.</li>
  <li><b>Media</b> - will help add and display the images for the posts.</li>
+  <li><b>Gallery</b> - will help add and display the gallery of multiple images for the posts.</li>
  <li><b>Radio</b> - allows to add the radio options for choosing when creating the post.</li>
- <li><b>Select </b>- use this content type to add dropdown selector for the post.</li>
+ <li><b>Select </b>- use this content type to add dropdown selector for the post. In case you enable <b>Allow t oselect multiple values</b> option the user you'll be able to select several options at once. This value can be also shown using the proper callback for the Dynamic Field.</li>
  <li><b>Colorpicker</b> - will add a colorpicker tool for the post.</li>
  <li><b>Repeater</b> - will help add the repeating content types for every post of the given type.</li></p></ul></li>
 

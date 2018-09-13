@@ -1,8 +1,16 @@
 <h3>Creating New Product Archive Template</h3>
 <ol class="index-list">
-<p><li>After everything is prepared  you have to navigate to <b>WooCommerce > Jet Woo Templates</b> and here click <b>Add New Template</b> button. </li></p>
+<p><li>After everything is prepared  you have to navigate to <b>WooCommerce > Jet Woo Templates</b> and here click <b>Add New Template</b> button. </li>
 
-<p><li>The button opens the popup window showing the set of pre-designed <b>Archive/Single Product</b> pages. You can easily select one of them to use. Or you can start creating the <b>Archive</b> template from scratch. </li></p>
+	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/upd/nt1.png">
+  	</figure></p>
+
+<p><li>The button opens the popup window showing the set of pre-designed <b>Archive/Single Product</b> pages. You can easily select one of them to use. Or you can start creating the <b>Archive</b> template from scratch. </li>
+
+	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/upd/nt2.png">
+  	</figure></p>
 
 <p><li>Also, in this popup window you’ll have to specify:
 

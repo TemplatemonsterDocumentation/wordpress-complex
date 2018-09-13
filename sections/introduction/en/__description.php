@@ -598,7 +598,7 @@ You will also find information on how to enable and customize JetElements addons
 <p><li><b>Advanced Carousel</b>  module displays slides in an attractive way. You can display from 1 to 10 slides at one time using Advanced Carousel module, set versatile animation options, create vivid backgrounds, enrich slides content with clear typography. With Advanced Carousel you can create as many slides as you need to.</li></p>
 <p><li><b>Advanced Map</b>  module is the perfect solution if you need to display a map on your website, and add pins to it to locate the places. You can add multiple pins, change map style, enable switching from satellite to map view. The module is easily customizable and has friendly user interface.</li></p>
 <p><li><b>Animated Box</b>  module creates an attractive info block on the website’s page, which consists of two sides, that switch from one to other. You can add icons, buttons, titles and content to the animated box. Every element is easily customizable.</li></p>
-<p><li><b>Animated Text</b> module was specially devised to deliver your ideas in the form of attractively animated text. With the help of ths module you can add animated words and phrases to your website’s pages, customize them, and add plain text to complement animated text.</li></p>
+<p><li><b>Animated Text</b> module was specially devised to deliver your ideas in the form of attractively animated text. With the help of this module you can add animated words and phrases to your website’s pages, customize them, and add plain text to complement animated text.</li></p>
 <p><li><b>Banner</b> module allows you to add custom banners to your website’s content. The module has multiple style settings, that include animation settings. It provides you with the means to customize banner background, title and content.</li></p>
 <p><li><b>Brands</b> module helps you to showcase brands and companies on your website’s page. You can add brands, visualize them using brand logos, apply links to them, and customize them in the matter of several clicks.</li></p>
 <p><li><b>Button</b> module will assist you in creating buttons with your custom text and links, eye-catching icons and versatile hover effects! With this module you can easily add a button whenever you need it and style it up according to your vision!</li></p>
@@ -607,7 +607,7 @@ You will also find information on how to enable and customize JetElements addons
 <p><li><b>Download Button</b> module will assist You in creating versatile buttons that will allow the visitors downloading files in one click! You won't need to install additional plugins to add this kind of functionality to the website! All You need is to use Download Button module and have the file stored in the Media Library!</li></p>
 <p><li><b>Headline</b> module is the perfect tool for creating stunningly beautiful headlines in order to decorate the website’s pages with attractive textual titles. Its content is fully flexible, as well as its multiple style settings, devised to assist you in creating really beautiful headings within minutes! </li></p>
 <p><li><b>Image Comparison</b> module is the perfect tool that will assist you in creating slides with image comparisons in an attractive and stylish way. From now on you wield the power to showcase the results of your work in an engaging Before and After form! </li></p>
-<p><li><b>Instagram</b> module mpowers you to showcase Instagram publications on yuor website's pages in an attractive way, with text captions, meta information (the number of likes and comments). You'll be able to style up this module according to your vision in order to make it the truly outstanding part of your website! </li></p>
+<p><li><b>Instagram</b> module empowers you to showcase Instagram publications on your website's pages in an attractive way, with text captions, meta information (the number of likes and comments). You'll be able to style up this module according to your vision in order to make it the truly outstanding part of your website! </li></p>
 <p><li><b>Images Layout</b> module displays images using different eye-catching layout types, such as Masonry, Justify or List. Add images and customize layouts in several clicks to get the stunning results and adorn Your website pages with beautiful imagery!</li></p>
 <p><li><b>Posts</b> module is a multipurpose tool, that can create attractive post grid layouts, sort posts by categories, IDs or the date of publishing. This module is also helpful when creating post sliders and post carousels.</li></p>
 <p><li><b>Pricing Table</b> module is helpful beyond measures when you need to showcase the prices and services your company provides in an attractive and clear way. The module has multiple options, versatile customization settings, and is easy to use.</li></p>
@@ -1330,6 +1330,8 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <?php } ?>
 
+
+
 <?php if ($project == 'jetpopup') { ?>
 
 <h2>Introduction</h2>
@@ -1339,14 +1341,14 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <p>This documentation consists of several parts and covers the entire process of installing and using JetPopup plugin. </p>
 
-<p>Here you can find the description of the installation process, the step-by-step guide to using JetPopup, along with the detailed explanations on how to create popups using Elementor widgets and customize the trigger events, popup appearance and location. </p>
+<p>Here you can find the description of the installation process, the step-by-step guide to using JetPopup, along with the detailed explanations on how to create popups using Elementor widgets and customize the trigger events, popup appearance, and location. </p>
 
 <h3>What Is JetPopup</h3>
 
 <p>JetPopup is an addon for Elementor live page builder. It allows creating and adding popups to the pages built with Elementor. </p>
 
 
-<p>With JetPopup you'll be able to create new popups using all widgets avaiable for work when you ordinarily create content with Elementor live page builder. </p>
+<p>With JetPopup you'll be able to create new popups using all widgets available for work when you ordinarily create content with Elementor live page builder. </p>
 
 <p>You'll also have multiple options for adding popups to different widgets, buttons, or displaying them in different parts of the page and customizing popups appearance and location. </p>
 
@@ -1368,7 +1370,28 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <p>Keep reading this documentation to get more precise information on how to create and use popups with JetPopup plugin for Elementor.</p>
 
+
+
+
+<p>In this documentation you can find the following information: </p>
+
+<ul class="marked-list">
+<p><li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetpopup&lang=en&section=jetpopup-installation" target="_blank">Installation;</li>
+<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetpopup&lang=en&section=jetpopup-quickstart#presets" target="_blank">Using Presets;</a></li>
+<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetpopup&lang=en&section=jetpopup-quickstart#adding-new-popup" target="_blank">Adding New Popups;</a></li>
+<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetpopup&lang=en&section=jetpopup-quickstart#action-button" target="_blank">Popup Action Button;</a></li>
+<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetpopup&lang=en&section=jetpopup-quickstart#popup-library" target="_blank">Popup Library;</a></li>
+<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetpopup&lang=en&section=jetpopup-export-import" target="_blank">JetPopup Export and Import;</li>
+<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetpopup&lang=en&section=jetpopup-events#render-conditions" target="_blank">Opening Conditions;</a></li>
+<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetpopup&lang=en&section=jetpopup-events#triggers" target="_blank">Trigger Events;</a></li>
+<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetpopup&lang=en&section=jetpopup-events#attached-popups" target="_blank">Attached Popups;</a></li>
+<li><a href="http://documentation.zemez.io/wordpress/index.php?project=jetpopup&lang=en&section=jetpopup-settings#" target="_blank">JetPopup Settings.</a></li></ul>
+
+</article>
+
 <?php } ?>
+
+
 
 <?php if ($project == 'monstroid2') { ?>
 

@@ -6,10 +6,18 @@
 <ol class="index-list">
 <li><p>Let’s navigate to <b>WooCommerce > JetWoo Templates</b> in the Dashboard.
 
+	    <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/add-templ/1.png">
+    </figure>
+</p></li>
+
 
 <li><p>Here click <b>Add New Template</b> button.
 
-
+	    <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/add-templ/2.png">
+    </figure>
+</p></li>
 
     </p></li>
 

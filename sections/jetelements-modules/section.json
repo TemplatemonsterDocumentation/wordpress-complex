@@ -162,9 +162,21 @@
 				"ru": ""
 			}
 		},	{
+			"id": "table",
+			"translations": {
+				"en": "Table",
+				"ru": ""
+			}
+		},	{
 			"id": "testimonials",
 			"translations": {
 				"en": "Testimonials",
+				"ru": ""
+			}
+		},	{
+			"id": "weather",
+			"translations": {
+				"en": "Weather",
 				"ru": ""
 			}
 		},	{

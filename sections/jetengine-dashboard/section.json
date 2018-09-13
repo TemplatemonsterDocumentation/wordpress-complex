@@ -1,0 +1,24 @@
+{
+	"id": "jetengine-dashboard",
+	"translations": {
+		"en": "JetEngine Dashboard",
+		"ru": ""
+	},
+	"articles": {
+		"jetengine": [{
+				"id": "dashboard",
+				"translations": {
+					"en": "Importing and Exporting Skins",
+					"ru": ""
+				}
+			},
+			{
+				"id": "modules-manager",
+				"translations": {
+					"en": "Managing Modules",
+					"ru": ""
+				}
+			}]
+	}
+}
+

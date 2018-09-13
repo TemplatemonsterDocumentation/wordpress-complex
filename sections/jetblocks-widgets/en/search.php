@@ -9,6 +9,10 @@
   	</figure>
 
 <ul class="marked-list">
+
+	<p><li><b>Search placeholder</b> - here you can specify the placeholder text that will be shown in the search field.</li></p>
+
+
 <p><li><b>Show Submit Button</b> - enable this option in order to add a Submit button to the Search field.</li></p>
 
 <p><li><b>Submit Button label</b> - here you can specify the label text for the Search button.</li></p>
@@ -17,12 +21,19 @@
 
 <p><li><b>Show Search Form in PopUp</b> - enable this option in order to show the Search field in PopUp.</li></p>
 
+<p><li><b>Full Screen Popup</b> - in case you've enabled <b>Show Search Form in Popup</b> option you can make the popup occupy the full screen.</li></p>
+
 <p><li><b>PopUp Trigger Icon</b> - here you can specify the PopUp trigger icon from the general icons list.</li></p>
 
 
-<p><li><b>PopUp Close button Icon</b> - here you can choose the icon which will close the Search popup.</li></p>
+<p><li><b>Show Effect</b> - in this block you can specify the effect ot use for the search popup.</li></p>
 
-<p><li><b>Search placeholder</b> - here you can specify the placeholder text that will be shown in the search field.</li></p></ul>
+<p><li><b>Is Product Search</b> - enable this option in case you want to use the Search field for WooCommerce product search.</li></p>
+
+
+
+
+</ul>
 
 
 <h4>Style</h4>

@@ -4,6 +4,11 @@
 
 <p>Please, note, that here you create the template that defines the looks of one element in the layout of the products.</p>
 
-<p>In order to change the quantity of products to show up when one applies this template for the specific page or purpose, you’ll have to edit the Archive template settings.</p>
+<p>To change the number of columns in which the products are displayed, please, navigate to <b>Archive template settings</b> in the bottom left corner of the editing page and open <b>Template Settings</b> block. Here specify the number of columns in <b>Template Columns</b>.
+
+	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/upd/arch1.png">
+  	</figure></p>
+
 
 

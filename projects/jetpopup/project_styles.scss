@@ -2,13 +2,13 @@
 //                     Variables
 //========================================================
 
-$primary-color: #fff;
-$primary-color-second: #1C1E24;
+$primary-color: #ffffff;
+$primary-color-second: #4f56ef;
 $primary-color-dark: #22272d;
 $secondary-color: #e91b1a;
 $secondary-color-light: #fff;
 
-$header-background-image: '../../projects/jetengine/img/header-bg.png';
+$header-background-image: '../../projects/jetpopup/img/header-bg.png';
 
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 $primary-font-family: 'Roboto', sans-serif;
@@ -35,12 +35,17 @@ h4 {
 .page-content {
 	&.active {
 		.rd-mobilepanel{
-			background-position: 62% top;
+			background-position: 0% bottom;
 			@media (max-width: 1440px) {
-    			background-position: 48% bottom;
+    			background-position: 600px bottom;
 			}
 		}
 	}
+}
+
+.page-content.active .rd-mobilepanel {
+    background-position: 600px bottom;
+    background-position: 0% bottom;
 }
 	.rd-mobilepanel {
 		background-color: $primary-color-second;
@@ -49,10 +54,6 @@ h4 {
 	    transition-duration: 2s;
 	    transition-timing-function: linear;
 	    transition-delay: 1s;
-		@media (max-width: 1440px) {
-	    	background-size: 100% auto;
-	    	background-position: 600px bottom;
-		}
 	}
 
 [data-section="introduction"] {
@@ -73,9 +74,9 @@ body:not([data-section="introduction"]) {
 }
 .rd-mobilepanel_toggle {
 	span{
-		background-color:#fff;
+		background-color:#ffffff;
 		&:before, &:after{
-			background-color: #fff;
+			background-color: #ffffff;
 		}
 	}
 
@@ -87,6 +88,7 @@ body:not([data-section="introduction"]) {
 	top:237px;
 	left: 158px;
 	width: 500px;
+	letter-spacing: 3px;
 }
 
 .tm-title-caption {
@@ -140,14 +142,14 @@ body:not([data-section="introduction"]) {
 	ul{
 		a{
 			&.focus{
-				color: #C920FF;
+				color: #4f56ef;
 			}
 		}
 	}
 }
 
 .toTop {
-	background-color: #C920FF;
+	background-color: #4f56ef;
 	color: #ffffff;
 	&:hover {
     	background-color:darken($primary-color-second,20%);
@@ -157,14 +159,10 @@ body:not([data-section="introduction"]) {
 .files_structure li .fa {
     margin-top: 3px;
     margin-right: 10px;
-    color: #C920FF;
+    color: #4f56ef;
     font-size: 16px;
 }
 
 article a {
-    color: #C920FF;
-}
-
-.rd-mobilemenu .logo img {
-    padding-top: 25px;
+    color: #4f56ef;
 }

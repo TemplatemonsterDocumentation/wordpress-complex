@@ -14,13 +14,21 @@ Dynamic Link widget helps in adding the links to the listings, that display the 
 <ul class="marked-list">
 <li><b>Source</b> - here you can define the source that will be used for this link (e.g., one of the meta fields). </li>
 
-<li><b>Post Meta Field Key</b> - in the case you can’t find the meta field in the list above, input the meta field ID in this block.
+<li><b>Post Meta Field Key</b> - in the case you can’t find the meta field in the list above, input the meta field ID in this block.</li>
 
-<li><b>Label</b> - here you can change the text label that will be displayed instead of the Read more default label.
+<li><b>Label</b> - here you can change the text label that will be displayed instead of the Read more default label.</li>
 
-<li><b>Field Icon</b> - here you can set the icon to display it for this link.
+<li><b>Field Icon</b> - here you can set the icon to display it for this link.</li>
 
-<li><b>Alignment</b> - here you can specify the alignment to apply for this link (left, center, right, fullwidth).
+
+
+<li><b>HTML Wrapper</b> - here you can specify the needed HTML wrap markup to use for the link you've added (div, span,or heading type). </li>
+
+<li><b>Open in New Window</b> - here you can specify if the link has to be opened in new window (add "target="_blank" property to it). </li>
+
+<li><b>Add "rel" attribute</b> - here you can select one of the related attributes for the link (author, bookmark, external, license, nofollow, etc). </li>
+
+<li><b>Alignment</b> - here you can specify the alignment to apply for this link (left, center, right, fullwidth).</li>
 
 <h4>Style</h4>
 

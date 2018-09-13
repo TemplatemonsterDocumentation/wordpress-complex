@@ -14,6 +14,10 @@
 
 <p>Here you can see all the widgets represented in JetWooBuilder listed in:</p>
 
+	  <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/upd/woo-2.png">
+    </figure>
+
 <ul class="marked-list">
 <li><b>Global Widgets Available</b> - the widgets that are available for usage for any Elementor template (nor specifically WooCommerce);</li>
 
@@ -24,6 +28,10 @@
 <p>Check or uncheck the needed widgets in order to include or exclude them from showing in Elementor editor. After everything is done click <b>Save</b> button. </p>
 
 <p>Product Thumb Effect </p>
+
+	  <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/upd/woo-1.png">
+    </figure>
 
 <ul class="marked-list">
 <li><b>Enable Thumbnails Effect</b> - enable this option in order to use the animation effect for the product thumbnail. </li>

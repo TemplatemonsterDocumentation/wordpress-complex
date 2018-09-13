@@ -120,10 +120,12 @@ Please, pay attention, that the slug shouldn’t contain any spaces, you have to
 <li><b>Time</b> - allows to add the time marker for the taxonomy.</li>
 <li><b>Datetime</b>- provides the convenient way to add time and date to the taxonomy. You can also save it as a timestamp.</li>
 <li><b>Textarea</b> - use this content type to add the text area to the taxonomy.</li>
+  <li><b>WYSIWYG</b> - use this content type to add the basic editor in the custom field.</li>
 <li><b>Switcher</b> - allows displaying switcher for the taxonomy.</li>
 <li><b>Checkbox</b> - adds the checkboxes for the taxonomies.</li>
 <li><b>Iconpicker</b> - the tool provides ability to select the icons for displaying them for the taxonomy.</li>
 <li><b>Media</b> - will help add the images for the taxonomy.</li>
+  <li><b>Gallery</b> - will help add and display the gallery of multiple images for the term.</li>
 <li><b>Radio</b> - allows to add the radio options for choosing when creating the taxonomy.</li>
 <li><b>Select </b>- use this content type to add dropdown selector for the taxonomy.</li>
 <li><b>Colorpicker</b> - will add a colorpicker tool for the taxonomy.</li>

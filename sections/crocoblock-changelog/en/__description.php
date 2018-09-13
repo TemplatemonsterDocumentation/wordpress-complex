@@ -2,6 +2,182 @@
 
 <h5>This block will give you information on the latest updates of the products included in the CrocoBlock subscription.</h5>
 
+
+
+<h4>September 7, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetReviews versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.2 (September 7, 2018):</b>
+<ul class="marked-list">
+<li>Updated Cherry Framework version.</li></ul>
+
+
+<p><li><b>JetTabs versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.3 (September 6, 2018):</b>
+<ul class="marked-list">
+<li>Added multiple performance improvements and bug fixes.</li>
+</ul>
+
+
+<p><li><b>JetPopup versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.0.0 (September 5, 2018):</b>
+<ul class="marked-list">
+<li>Released new plugin for adding popups built with Elementor.</li></ul>
+
+<p><li><b>JetEngine versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.1 (September 3, 2018):</b>
+<ul class="marked-list">
+<li>Added Listing Grid visibility options;</li>
+<li>Improved Hook name for filtering macros and filters lists;</li>
+<li>Improved the way of applying macros in Meta Query values.</li></ul>
+
+<p><li><b>JetMenu versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.5.0 (September 3, 2018):</b>
+<ul class="marked-list">
+<li>Added ability to save cache of menu CSS;</li>
+<li>Added minor CSS fixes.</li></ul>
+
+<p><li><b>JetElements versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.12.2 (September 1, 2018):</b>
+<ul class="marked-list">
+<li>Added Related posts option for ‘Query by’ control in Posts widget;</li>
+<li>Added ‘Use as archive template’ control in Posts widget;</li>
+<li>Added layout generator notice in Contact Form 7 widget;</li>
+<li>Improved week and day localization in the Weather Widget.</li></ul>
+
+<ul class="marked-list">
+<p><li><b>September 7, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://demo.crocoblock.com/pinkywinky/" target="_blank">PinkyWinky</a>.</li>
+</p></ul></li></p></ul>
+
+
+
+
+
+
+
+
+
+
+<h4>August 31, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetWooBuilder versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.2.0 (August 28, 2018):</b>
+<ul class="marked-list">
+<li>Added minor fixes for improved performance;</li>
+<li>Added Archive products page templates functionality;</li>
+<li>Added Products query by related, upsells and cross-sells products option in products grid and products list widgets;</li>
+<li>Added Products add to cart default loader styles option;</li>
+<li>Added Related, upsells, cross-sells products per page option.</li>
+</ul>
+
+
+<p><li><b>JetElements versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.12.0 (August 29, 2018):</b>
+<ul class="marked-list">
+<li>Added Table widget;</li>
+<li>Added Weather widget;</li>
+<li>Added Related posts option for “Query by” control in Posts widget;</li>
+<li>Added layout generator notice in Contact form 7 widget;</li>
+<li>Improved week and day localization in the Weather widget.</li>
+</ul>
+
+
+
+<p><li><b>JetEngine versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.0 (August 28, 2018):</b>
+<ul class="marked-list">
+<li>Added Allow to filter values in repeater items;</li>
+<li>Added Gallery meta field;</li>
+<li>Added %current_id%, %current_tags% and %current_categories% macros;</li>
+<li>Added WYSIWYG meta field;</li>
+<li>Added Slider and grid output for gallery meta fields;</li>
+<li>Added new options for Dynamic Repeater widget;</li>
+<li>Added new options for Dynamic Link widget;</li>
+<li>Added Embed URL callback;</li>
+<li>Added functionality for using dynamic terms images on taxonomy archives;</li>
+<li>Added functionality for setting output multiple values for Select field;</li>
+<li>Prevented errors on archive pages;</li>
+<li>Added fixes for Meta boxes registration;</li>
+<li>Added fixes for Meta fields parsing of dynamic widgets options.</li>
+</ul>
+
+
+<p><li><b>JetBlog versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>2.1.6 (August 27, 2018):</b>
+<ul class="marked-list">
+<li>Added Allow to use custom taxonomies in Filter by Terms;</li>
+<li>Added JS trigger on Smart List widget scripts initialization;</li>
+<li>Added PHP hook to add custom navigation controls in Smart Posts List widget.</li>
+</ul>
+
+
+<p><li><b>Kava theme versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.2.0 (August 28, 2018):</b>
+<ul class="marked-list">
+<li>Prevented error in PHP 7.2 on a single post if the excerpt is empty;</li>
+<li>Improved visibility of the comment meta on single post;</li>
+<li>Added minor style setting improvements for single posts layouts;</li>
+<li>Improved sidebar visibility in Vertical Justify Blog Layout;</li>
+<li>Added minor fixes for masonry posts listing on IOS;</li>
+<li>Added fixes for shop sidebar;</li>
+<li>Added updates for pagination styles;</li>
+<li>Added fixes for single product tabs styles.</li></ul>
+
+
+<ul class="marked-list">
+<p><li><b>August 31, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://demo.crocoblock.com/mediax/" target="_blank">Mediax</a>.</li>
+</p></ul></li></p></ul>
+
+
+<h4>August 27, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetBlog versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>2.1.5 (August 23, 2018):</b>
+<ul class="marked-list">
+<li>Added fixes for initializing YouTube iframe API only on pages with playlist.</li>
+</ul>
+
+<ul class="marked-list">
+<p><li><b>August 27, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://crocoblock.com/brandson/" target="_blank">Brandson</a>.</li>
+</p></ul></li></p></ul>
+
+
 <h4>August 17, 2018</h4>
 
 <h5>Jet Plugins</h5>

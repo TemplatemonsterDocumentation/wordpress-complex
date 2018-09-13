@@ -16,11 +16,25 @@
 
 <p><li><b>Layout</b> - here you can change the layout of the menu from vertical to horizontal according to your needs.</li></p>
 
+<p><li><b>Dropdown Placement</b> - here you can make the dropdowm  for the menu open at the left side, at the right side or at the bottom of the main item.</li></p>
+
 <p><li><b>Dropdown Icon</b> - here you can set the preferable dropdown icons to use for the menu items.</li></p>
 
 <p><li><b>Menu Alignment</b> - here you can change the menu alignment to the one needed (left, center, right, justify).</li></p>
 
-<p><li><b>Enable Mobile Trigger</b> - enable this option in order to use the mobile trigger.</li></p></ul>
+<p><li><b>Enable Mobile Trigger</b> - enable this option in order to use the mobile trigger.</li></p>
+
+
+<p><li><b>Mobile Trigger Alignment</b> - here you can choose the preferable mobile trigger box alignment (left, center, right).</li></p>
+
+
+<p><li><b>Mobile Trigger Icon</b> - here you need to select the icon to apply for the mobile trigger from the list of the available icons.</li></p>
+
+<p><li><b>Mobile Trigger Close Icon</b> - specify the icon the will close the mobile menu from the icons list dropdown.</li></p>
+
+<p><li><b>Mobile Menu Layout</b> - here you can change the way the mobile meny appears on the page (slide from the left side, slide from the right side, fullwidth, or default).</li></p>
+
+</ul>
 
 <h4>Style</h4>
 
@@ -29,6 +43,29 @@
   	</figure>
 
 <h5>Top Level Items</h5>
+
+<ul class="marked-list">
+<p><li><b>Vertical Menu Width</b> - here you can set the custom responsive width to apply to the vertical menu in px or percents.</li></p>
+
+<p><li><b>Vertical menu Alignment</b> - here you can position the vertical menu to the left, center or right side.</li></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p>Switch between <b>Normal</b>, <b>Hover</b> and <b>Active</b> modes in order to make the menu items react to the mouse hover, style them up to change their appearance when they are active or in their normal state.</p>
 
@@ -129,3 +166,19 @@
 <p><li><b>Icon Size</b> - here you can change the hamburger menu icon size to the needed one.</li></p>
 
 <p><li><b>Alignment</b> - here you can change the menu alignment when it is in mobile mode to right, left or centered.</li></p></ul>
+
+<h5>Mobile Menu</h5>
+
+<ul class="marked-list">
+<p><li><b>Width</b> - here you can specify the width to apply for the mobile menu in px or using percents value.</li></p>
+
+<p><li><b>Background Color</b> - in this block you can set the color of the mobile menu background using color picker tool.</li></p>
+
+<p><li><b>Padding</b> - here you can apply the custom padding for the mobile menu in percents or pixels.</li></p>
+
+
+<p><li><b>Box Shadow</b> - enable this otion in order to access the shadow blur, color, horizontal, vertical, position and spread options, and apply the shadow to the mobile menu.</li></p>
+
+<p><li><b>Close Icon Color</b> - here you can change the color of the icon to apply it to the Close icon of the mobile menu.</li></p>
+
+<p><li><b>Font Size</b> - here you can change the size of the Close icon according to yuor needs.</li></p></ul>

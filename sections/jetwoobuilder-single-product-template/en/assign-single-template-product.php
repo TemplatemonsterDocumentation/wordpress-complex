@@ -3,7 +3,12 @@
 
 <ol class="index-list">
 
-<li><p>Navigate to <b>WooCommerce > Settings</b> in WordPress Dashboard. Open <b>Jet Woo Builder</b> tab and here locate <b>General options</b>.</p></li>
+<li><p>Navigate to <b>WooCommerce > Settings</b> in WordPress Dashboard. Open <b>Jet Woo Builder</b> tab and here locate <b>General options</b>.
+
+	    <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/add-templ/3.png">
+    </figure>
+</p></li>
 
 <li><p><b>Custom Single Product</b> - check this option in order to use the selected WooCommerce Single Product template for all the products. Leave the checkbox empty to use the separate templates of Single Product pages for each product.</p></li>
 

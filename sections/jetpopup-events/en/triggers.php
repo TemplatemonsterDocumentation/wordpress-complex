@@ -1,56 +1,25 @@
-<h3>Styles</h3>
+<h3>Trigger Events</h3>
 
-<h5>Proceed to Styles tab to access JetMenu styles settings.
- </h5>
-
-  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/basic-settings/1.png">
-  	</figure>
+<h5>From this block, you can learn more about setting the trigger events for the popup templates.</h5>
 
 
-<ul class="marked-list">
-<p><li><b>Menu items alignment</b> - here you can define the preferable alignment for the menu items (<b>Left, Center, Right</b>).</li></p>
+<ol class="index-list">
+<p><li>First, open the popup template for editing. Here navigate to <b>Settings > JetPopup Settings</b> block located in the bottom left corner. Here select <b>JetPopup Settings</b> tab in the left sidebar of the editor.
 
-<p><li><b>Menu padding</b> - here you can specify the values for the Mega menu padding in <b>px</b>.</li></p>
-<p><li><b>Menu container background</b> - enable this option if you want to enable background color or image for the menu container.
-<ul class="marked-list">
-<li><b>Menu container background color</b> - click the color and set the one you need using color picker tool. You can also define the transparency for the container background color.</li>
+<figure class="img-polaroid">
+        <img src="projects/jetpopup/img/presets/16.png">
+  	</figure></li></p>
 
-<li><b>Gradient background</b> - enable this option if you want to create a gradient from two colors and use it as a container background.</li>
-<li><b>Menu container background second color</b> - here you can pick the second color to use for the background gradient.</li>
-<li><b>Menu container background gradient direction</b> - here you need to choose the direction for the gradient.</li>
-<li><b>Menu container background image</b> - click <b>Choose Image</b> button to select the image from the media library or upload it from the hard drive. It will become the background for the container.</li>
-<li><b>Menu container background position</b> - select the preferable container background position for the menu style (<b>default, top left, top center, top right,</b> etc.).</li>
-<li><b>Menu container background attachment</b> - here you can specify the background attachment type (<b>fixed</b> or <b>scroll</b>).</li>
-<li><b>Menu container background repeat</b> - set if you want to use the background repeat on the <b>X, Y</b> axes, or set Repeat to tile the background with the image.</li>
-<li><b>Menu container background size</b> - select, if you want to use <b>Auto</b> size mode, <b>Cover</b> or <b>Contain</b> mode for the background image.</li></p></ul></li>
+<p><li>In <b>Open Event</b> select the most suitable event for the popup to appear:
 
+	<ul class="marked-list">
+		<li><b>on page load(s)</b> - specify this trigger even to make the popup be displayed when the visitor opens the new page. When this trigger is selected you can also set the <b>Open Delay</b> value to let the popup show up when the page is loaded and the visitor already has started viewing the content.</b></li>
+		<li><b>inactivity time after(s)</b> - let the popup template be displayed after the visitor has been inactive on the page for a while. When this option is selected you'll be able to set the inactivity time after which the popup window should appear in <b>User inactivity time</b> block. </li>
+		<li><b>page scrolled (%)</b> - apply this trigger event in case you want the popup window appear when the visitor scrolls the page to certain percent. </li>
+		<li><b>try exit</b> - select this trigger to show the popup window when the visitor intents to exit the page.</li>
+		<li><b>on date</b> - you can specify the date and time to start showing the popup, e.g., to showcase the offer or the congratulation, or display the reminder for the visitor. To set the date and time fill in the needed values in the <b>Open Date</b> field.</li>
+	</ul>
+</li></p>
 
-<p><li><b>Menu container border</b> - enable this option to use the menu container border.
-<ul class="marked-list">
-<li><b>Menu container border style</b> - select, if you want to use a <b>solid</b>, a <b>dotted</b>, a <b>double</b> or the <b>dashed</b> border.</li>
-<li><b>Menu container border width</b> - here you can define the width of the border in px.</li>
-<li><b>Menu container border color</b> - set the preferable color for the border using color picker tool.</li></ul></li></p>
-
-
-<p><li><b>Menu container box shadow</b> - enable this option in order to use the shadow for the menu container.
-<ul class="marked-list">
-<li><b>Menu container - position of the horizontal shadow</b> - here you can use the controls to set the position of the horizontal shadow.</li>
-<li><b>Menu container - position of the vertical shadow</b> - here you can use the controls to set the position of the vertical shadow.</li>
-<li><b>Menu container - shadow blur distance</b> - use the controls to define the extent of shadow blur.</li>
-<li><b>Menu container - shadow size</b> - here you can define the size of the dropped shadow.</li>
-<li><b>Menu container shadow color</b> - define the color of the shadow using color picker tool.</li>
-<li><b>Menu container shadow inset</b> - here you can enable the shadow inset for the menu container.</li></ul></li></p>
-
-
-
-
-
-<p><li><b>Menu container border radius</b> - in this block you can specify the value for the border radius.</li></p>
-<p><li><b>Inherit border radius for the first menu item from main container</b> - enable this option in order to use the same border radius for the first menu item, as was used for the main container.</li></p>
-<p><li><b>Inherit border radius for the last menu item from main container</b> - enable this option in order to use the same border radius for the last menu item, as was used for the main container.</li></p>
-
-
-<p><li><b>Menu container min width (px)</b> - here oyu ca nspecify the minimum width of the menu container in pixels using the control.</li></p></ul>
-
-
+<p><li>Enable <b>Show once</b> option to display the current popup template only once and never show it again in case it was already displayed to the visitor.</li></p>
+</ol>

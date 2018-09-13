@@ -1,56 +1,33 @@
-<h3>Styles</h3>
+<h3>Attached Popups</h3>
 
-<h5>Proceed to Styles tab to access JetMenu styles settings.
+<h5>From this block, you can learn more about the specifics of adding the popup templates as the attachments for the Elementor widgets.
  </h5>
 
-  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/basic-settings/1.png">
-  	</figure>
+<ol class="index-list">
+	<p><li>To attach a popup template to the widget or one of its parts you can easily use JetPopup block available in the <b>Advanced</b> settings for every widget.</li></p>
+
+	<p><li>To access the <b>Attached Popup</b> functionality open the page where you plan on adding the new popup and here select one of the widgets which will become the trigger for the popup. Click <b>Edit Widget</b> to access the widget's content, style and advanced settings.
+
+	<figure class="img-polaroid">
+        <img src="projects/jetpopup/img/presets/17.png">
+  	</figure></li></p>
+
+	<p><li>Switch to <b>Advanced</b> settings and here open <b>JetPopup</b> block. Select the popup template you want to attach to the widget in the <b>Attached Popup</b> dropdown.</li></p>
+
+	<li><p>You can select what will be the trigger for the popup in the <b>Trigger Type</b> dropdown. There are several trigger types available:
+
+		<ul class="marked-list">
+			<li><b>Click Button</b> - select this option in order to make the popup window appear when you click the button in the specific widget (e.g., the button in the Animated Box's back side, etc).</li>
+			<li><b>Click Selector</b> - here you can enable the popup window when the visitor clicks on the specific element on your site that has the specified CSS selector. After you've selected this option you'll have to input the selector (e.g., .my-selector) in the corresponding field to attach the popup to it.
 
 
-<ul class="marked-list">
-<p><li><b>Menu items alignment</b> - here you can define the preferable alignment for the menu items (<b>Left, Center, Right</b>).</li></p>
+				<p>Please, note, that in case you've decided to use <b>Click Selector</b> trigger type, you'll have to input the selector from the widget to which you're adding the popup on click.</p>
 
-<p><li><b>Menu padding</b> - here you can specify the values for the Mega menu padding in <b>px</b>.</li></p>
-<p><li><b>Menu container background</b> - enable this option if you want to enable background color or image for the menu container.
-<ul class="marked-list">
-<li><b>Menu container background color</b> - click the color and set the one you need using color picker tool. You can also define the transparency for the container background color.</li>
+<p>Hit F12 button to inspect the page and copy the selector inside the widget, which you're planning to use. Then paste the selector in the <b>Custom Selector</b> field (e.g., <b>.element-icon</b>). Make sure you've added a dot before the selector name to mark it as a selector.</p>
 
-<li><b>Gradient background</b> - enable this option if you want to create a gradient from two colors and use it as a container background.</li>
-<li><b>Menu container background second color</b> - here you can pick the second color to use for the background gradient.</li>
-<li><b>Menu container background gradient direction</b> - here you need to choose the direction for the gradient.</li>
-<li><b>Menu container background image</b> - click <b>Choose Image</b> button to select the image from the media library or upload it from the hard drive. It will become the background for the container.</li>
-<li><b>Menu container background position</b> - select the preferable container background position for the menu style (<b>default, top left, top center, top right,</b> etc.).</li>
-<li><b>Menu container background attachment</b> - here you can specify the background attachment type (<b>fixed</b> or <b>scroll</b>).</li>
-<li><b>Menu container background repeat</b> - set if you want to use the background repeat on the <b>X, Y</b> axes, or set Repeat to tile the background with the image.</li>
-<li><b>Menu container background size</b> - select, if you want to use <b>Auto</b> size mode, <b>Cover</b> or <b>Contain</b> mode for the background image.</li></p></ul></li>
-
-
-<p><li><b>Menu container border</b> - enable this option to use the menu container border.
-<ul class="marked-list">
-<li><b>Menu container border style</b> - select, if you want to use a <b>solid</b>, a <b>dotted</b>, a <b>double</b> or the <b>dashed</b> border.</li>
-<li><b>Menu container border width</b> - here you can define the width of the border in px.</li>
-<li><b>Menu container border color</b> - set the preferable color for the border using color picker tool.</li></ul></li></p>
-
-
-<p><li><b>Menu container box shadow</b> - enable this option in order to use the shadow for the menu container.
-<ul class="marked-list">
-<li><b>Menu container - position of the horizontal shadow</b> - here you can use the controls to set the position of the horizontal shadow.</li>
-<li><b>Menu container - position of the vertical shadow</b> - here you can use the controls to set the position of the vertical shadow.</li>
-<li><b>Menu container - shadow blur distance</b> - use the controls to define the extent of shadow blur.</li>
-<li><b>Menu container - shadow size</b> - here you can define the size of the dropped shadow.</li>
-<li><b>Menu container shadow color</b> - define the color of the shadow using color picker tool.</li>
-<li><b>Menu container shadow inset</b> - here you can enable the shadow inset for the menu container.</li></ul></li></p>
-
-
-
-
-
-<p><li><b>Menu container border radius</b> - in this block you can specify the value for the border radius.</li></p>
-<p><li><b>Inherit border radius for the first menu item from main container</b> - enable this option in order to use the same border radius for the first menu item, as was used for the main container.</li></p>
-<p><li><b>Inherit border radius for the last menu item from main container</b> - enable this option in order to use the same border radius for the last menu item, as was used for the main container.</li></p>
-
-
-<p><li><b>Menu container min width (px)</b> - here oyu ca nspecify the minimum width of the menu container in pixels using the control.</li></p></ul>
-
+			</li></p>
+			<li><b>Hover</b> - when you choose this option the popup will appear whenever the visitor hovers to the widget.</li>
+			<li><b>Scroll to</b> - the popup will appear when one scrolls the page to the place where the widget is located.</li></ul>
+		</p></li>
+	</ol>
 

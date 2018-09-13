@@ -57,6 +57,10 @@
 
 <p><b>General Settings</b></p>
 
+  <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/upd/nt3.png">
+    </figure>
+
 
 <ul class="marked-list">
 <p><li><b>Title</b> - here you need to specify the title to apply for the Archive template. After that you’ll be able to select this template from the dropdown using its title. </li></p>
@@ -64,6 +68,10 @@
 <p><li><b>Status</b> - here you can select one of the statues for the template (draft, pending review, private or published). </li></p></ul>
 
 <p><b>Template Settings</b></p>
+
+  <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/upd/nt4.png">
+    </figure>
 
 <ul class="marked-list">
 <p><li><b>Use Custom Columns Count</b> - enable this option in order to enable the custom count for the columns in the archive template (you can change the columns count and then you won’t have to use bootstrap to add or remove the columns and change the layout). </li></p>

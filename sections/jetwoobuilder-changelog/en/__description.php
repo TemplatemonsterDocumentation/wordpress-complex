@@ -1,10 +1,14 @@
 <h3>Changelog</h3>
 
 
-<h4>Version 1.2.0 (August 21, 2018)</h4>
+<h4>Version 1.2.0 (August 28, 2018)</h4>
 <ul class="marked-list">
 
-<p><li>Added minor fixes for improved performance.</li></p></ul>
+<p><li>Added minor fixes for improved performance.</li></p>
+<p><li>Added Archive products page templates functionality;</li></p>
+<p><li>Added Products query by related, upsells and cross-sells products option in products grid and products list widgets;</li></p>
+<p><li>Added Products add to cart default loader styles option;</li></p>
+<p><li>Added Related, upsells, cross-sells products per page option.</li></p></ul>
 
 
 <h4>Version 1.1.1 (June 29, 2018)</h4>

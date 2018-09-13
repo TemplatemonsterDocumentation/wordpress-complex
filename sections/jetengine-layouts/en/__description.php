@@ -223,3 +223,31 @@
 <li><b>OR</b> - the terms that will be displayed need to meet at least one of the the Meta Query requirements, containing at least one feature that is specified.</li></ul>
 
 
+<h4>Displaying Related Posts</h4>
+
+<p>From this block one can learn how to add the related posts block using the <b>Listing Grid</b> widget.</p>
+
+<ol class="index-list">
+  <p><li>First, add the Listing Grid widget to the page template where you need to display the related posts.</li></p>
+
+  <p><li>Navigate to <b>Content > Posts Query</b> and here select <b>Posts Parameters</b> query type from the dropdown.</li></p>
+
+        <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/grid/ids.png">
+    </figure>
+
+  <p><li>Type in the <b>%current_id%</b> macros in Exclude posts by IDs field in order to let the query exclude the currently displayed posts on the page from the query. </li></p>
+
+  <p><li>In order to exclude the specific category term from showing up add <b>Tax Query</b> query type in <b>Posts Query</b> block.</li>
+
+    <p><li>In <b>Taxonomy</b> block select <b>Categories</b> and then specify the term macros <b>%current_categories%</b> you want to exclude in <b>Terms</b> field. Don't forget to specify <b>IN</b> operator in <b>Operator</b> dropdown.</li></p>
+
+            <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/grid/catt1.png">
+    </figure>
+
+    <p><li>To exclude the specific tag from showing up you need to add the new query item and then select <b>Tax Query</b> query type and <b>Tags</b> in Taxonomy dropdown. Then type in <b>%current_tags% </b> in <b>Terms</b> field and specify <b>IN</b> operator.
+
+            <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/grid/tags1.png">
+    </figure></li></p></ol>

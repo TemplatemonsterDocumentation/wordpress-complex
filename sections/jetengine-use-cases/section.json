@@ -1,0 +1,18 @@
+{
+	"id": "jetengine-use-cases",
+	"translations": {
+		"en": "JetEngine Use Cases",
+		"ru": ""
+	},
+	"articles": {
+		"jetengine": [
+			{
+				"id": "background",
+				"translations": {
+					"en": "Dynamic Section Background",
+					"ru": ""
+				}
+			}]
+	}
+}
+

@@ -10,6 +10,10 @@ Let’s take a closer look at them.
 
 <p><b>General Options</b></p>
 
+	  <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/upd/woo-settings1.png">
+    </figure>
+
 <ul class="marked-list">
 <li><p><b>Custom Single Product</b> - enable this option in order to use the Single Product template created with JetWooBuilder.</p></li>
 
