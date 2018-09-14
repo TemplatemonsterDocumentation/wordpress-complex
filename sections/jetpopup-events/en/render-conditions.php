@@ -19,7 +19,7 @@
 			<ul class="marked-list">
 				<li><b>Entire Site</b> - use this condition to set the popup for the whole site. The popup will open on any website's page.</li>
 				<li><b>Singular</b> - use this option in order to set the popup for the specific page or template. After the option is selected you'll be able to select the page or page template from the dropdown below. In case you've specified <b>Post</b> or <b>Page</b>, you'll have to enter its title in the text field below.</li>
-				<li><b>Archive</b> - select this option to set the popup for one of the Archive pages (e.g., Posts archive on Blog page, or Products Archive, etc.). You can set the popup to be shown for Post Type Archives (like Posts, Products or any other ones), for Tag and Category Archives (you'll have to specify the tag or category to set the popup only for them, or leave the field blank to show the popup for every category or tag archive).</li></ul>
-			</p>
-	</li>
+				<li><b>Archive</b> - select this option to set the popup for one of the Archive pages (e.g., Posts archive on Blog page, or Products Archive, etc.). You can set the popup to be shown for Post Type Archives (like Posts, Products or any other ones), for Tag and Category Archives (you'll have to specify the tag or category to set the popup only for them, or leave the field blank to show the popup for every category or tag archive).</li>
+			    <li><b>Available for Roles</b> - here you can select who will be able to see the popup. There are such options as <b>Administrator, Author, Contributor, Subscriber, Customer and Shop Manager.</b></li></ul>
+			
 	<p><li>After that click <b>Update</b> button to save the changes. Now  you've set the opening conditions for the popup template.</li></p></ol>

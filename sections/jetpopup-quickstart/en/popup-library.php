@@ -9,7 +9,7 @@
         <img src="projects/jetpopup/img/presets/100.png">
 </figure></li></p>
 
-<p><li>To sort the popup presets you can use the categories (e.g., check <b>Subscribe</b> category to select the preset from the list of pre-designed presets available, that are related to the <b>Subscribe</b> topic.)</li></p>
+<p><li>To sort the popup presets you can use the categories, such as <b>Contact Us</b>, <b>Countdown</b>, <b>Discount</b>, <b>Info Card</b>, <b>Subscribe</b>, <b>Yes/No</b>, <b>Cookie</b> and <b>GDPR</b> (e.g., check <b>Subscribe</b> category to select the preset from the list of pre-designed presets available, that are related to the <b>Subscribe</b> topic.)</li></p>
 
 <p><li>Also, you can filter the popups by date, popularity, etc. Also, you can view the category of each popup preset and the times this popup was installed and used, under each of the presets. </li></p>
 

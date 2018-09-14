@@ -17,9 +17,10 @@
 	<li><p>You can select what will be the trigger for the popup in the <b>Trigger Type</b> dropdown. There are several trigger types available:
 
 		<ul class="marked-list">
-			<li><b>Click Button</b> - select this option in order to make the popup window appear when you click the button in the specific widget (e.g., the button in the Animated Box's back side, etc).</li>
-			<li><b>Click Selector</b> - here you can enable the popup window when the visitor clicks on the specific element on your site that has the specified CSS selector. After you've selected this option you'll have to input the selector (e.g., .my-selector) in the corresponding field to attach the popup to it.
-
+			<li><b>Click On Button</b> - select this option in order to make the popup window appear when you click the button in the specific widget (e.g., the button in the Animated Box's back side, etc).</li>
+			<li><b>Click On Widget</b> - here it is available to set the popup appears when you click on the specific widget.
+			<li><b>Click On Custom Selector</b> - here you can enable the popup window when the visitor clicks on the specific element on your site that has the specified CSS selector. After you've selected this option you'll have to input the selector (e.g., .my-selector) in the corresponding field to attach the popup to it.
+            
 
 				<p>Please, note, that in case you've decided to use <b>Click Selector</b> trigger type, you'll have to input the selector from the widget to which you're adding the popup on click.</p>
 

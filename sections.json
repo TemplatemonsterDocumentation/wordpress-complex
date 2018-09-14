@@ -3599,7 +3599,8 @@
 		"jetpopup-quickstart",
 		"jetpopup-export-import",
 		"jetpopup-events",
-		"jetpopup-settings"
+		"jetpopup-settings",
+		"jetpopup-changelog"
 	],
 	"test": [
 		"introduction"

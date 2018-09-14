@@ -15,7 +15,7 @@
 <h5>Settings</h5>
 
 <ul class="marked-list">
-<p><li><b>Action Type</b> – here you can select the type of popup: <b>Link, Leave Page, Close Popup</b>. It depends on what action you want to implement with this button (usually such buttons are added below the text blocks with questions, e.g., "Are you sure you want to leave this page?"). </li></p>
+<p><li><b>Action Type</b> – here you can select the type of popup: <b>Link, Leave Page, Close Popup, Close Constantly</b>. It depends on what action you want to implement with this button (usually such buttons are added below the text blocks with questions, e.g., "Are you sure you want to leave this page?"). </li></p>
 
 <p><li><b>Button text</b> – add the appropriate label to use for the button title.</li></p>
 <p><li><b>Button link</b> – here you can add the link.
