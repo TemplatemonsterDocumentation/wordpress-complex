@@ -1404,26 +1404,19 @@ Image Comparison block provides you with an ability to add the two-image block t
 <p>Here you can find the following products: </p>
 
 <ul class="marked-list">
-<p><li><a href="https://crocoblock.com/kava-pro/" target="_blank"><b>Kava theme</b></a> - the free clean WordPress theme;</li>
-<li><b>Kava Child theme</b> - the child Kava theme version;</li>
-<li><b>Jet Plugins Wizard</b> - automatic plugins and demos installer plugin;</li>
-<li><b>Jet Plugins Bundle:</b>
 <ul class="marked-list">
-<li><a href="http://jetelements.zemez.io/" target="_blank">JetElements;</a></li>
-<li><a href="http://jetmenu.zemez.io/" target="_blank">JetMenu;</a></li>
-<li><a href="https://jetblocks.zemez.io/" target="_blank">JetBlocks;</a></li>
-<li><a href="https://jetblog.zemez.io/" target="_blank">JetBlog;</a></li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=monstroid2&lang=en&section=monstroid2-jetthemecore" target="_blank">JetThemeCore;</li>
-<li><a href="https://jetwoobuilder.zemez.io/" target="_blank">JetWooBuilder;</a></li>
-<li><a href="https://jettricks.zemez.io/" target="_blank">JetTricks;</a></li>
-<li><a href="https://jetreviews.zemez.io/" target="_blank">JetReviews;</a></li>
-<li><a href="https://jettabs.zemez.io/" target="_blank">JetTabs.</a></li></ul>
-</li>
-<li><b>High Quality Image Packs</b> - the image packs on different topics.</li></p></ul>
+<li><b>Manual Install</b></a> - folder containing Monstroid2 theme and Jet Plugins.
+<ul class="marked-list">
+<li><b>Plugins</b></a> - the full set of Jet Plugins.</li>
+
+<li><b>Theme</b></a> - folder containing archives with Monstroid2 and Monstroid2 Child themes.</li>
 
 
-<p>All the products should be used on the terms on one's pricing plan.</p>
+</ul></li></ul>
 
+<ul class="marked-list">
+<li><b>Theme Wizard</b></a> - folder containing M2-Theme-Wizard.
+</li></ul>
 
 <h3>Recommended Technical Requirements</h3>
 
@@ -1439,16 +1432,16 @@ Image Comparison block provides you with an ability to add the two-image block t
 <p>You can get more information <a href="https://docs.elementor.com/article/38-requirements
 " target="_blank">here.</a></p>
 
-<h3>Compatibility with the previous version of Monstroid2</h3>
+<h3>Compatibility with previous version of Monstroid2</h3>
 <p>Monstroid2 comes with absolutely upgraded functionality. Now the theme uses Elementor page builder instead of Power Builder. Also, new version of Monstroid2 comes with Jet Family plugins.</p>
 <p>If you're using old version of Monstroid2, please check the following tutorial how to transfer your content effortlessly! </p>
 
 
 <h3>Monstroid2 Videos Playlist</h3>
 
-<p>Feel free to view the video playlist with the presentation of different Monstroid2 services.</p>
+<p>Feel free to view the video playlist with the presentation of awesome Monstroid2 modular functionality.</p>
 
-<iframe width="750" height="400" src="https://www.youtube.com/embed/videoseries?list=PLdaVCVrkty72g_9pu4-tRJ0j_cc01PqUX" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="750" height="400" src="https://www.youtube.com/embed/rgZZ5Bh_MLw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
