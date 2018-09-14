@@ -1439,7 +1439,7 @@ Image Comparison block provides you with an ability to add the two-image block t
 <p>You can get more information <a href="https://docs.elementor.com/article/38-requirements
 " target="_blank">here.</a></p>
 
-<h3>Compatibility with previous version of Monstroid2</h3>
+<h3>Compatibility with the previous version of Monstroid2</h3>
 <p>Monstroid2 comes with absolutely upgraded functionality. Now the theme uses Elementor page builder instead of Power Builder. Also, new version of Monstroid2 comes with Jet Family plugins.</p>
 <p>If you're using old version of Monstroid2, please check the following tutorial how to transfer your content effortlessly! </p>
 

@@ -3600,5 +3600,8 @@
 		"jetpopup-export-import",
 		"jetpopup-events",
 		"jetpopup-settings"
+	],
+	"test": [
+		"introduction"
 	]
 }
