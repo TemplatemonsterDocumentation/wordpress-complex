@@ -9,6 +9,6 @@
 <li>Added Cookie Policy and GDPR templates;</li>
 <li>Added “Close Constantly” option for Action Button widget;</li>
 <li>Added WordPress user roles;</li>
-<li>Added “Click to widget” option for attaching popup template to widget;</li>
+<li>Added “Click on widget” option for attaching popup template to widget;</li>
 <li>Added minor bug fixes.</li>
 </ul>
