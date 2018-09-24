@@ -1,4 +1,4 @@
-<h2>Advanced Settinga</h2>
+<h2>Advanced Settings</h2>
 
 <h6>
 In this block you can access advanced appearance settings of the widgets, define widget margins and padding, entrance animation, change the background for the whole widget, etc.

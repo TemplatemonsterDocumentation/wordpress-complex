@@ -1,0 +1,34 @@
+{
+	"id": "jetwoobuilder-archive-category-widgets",
+	"translations": {
+		"en": "JetWooBuilder Archive Category Widgets",
+		"ru": ""
+	},
+	"articles": {
+		"jetwoobuilder": [{
+			"id": "count",
+			"translations": {
+				"en": "Count",
+				"ru": ""
+			}
+		},	{
+			"id": "description",
+			"translations": {
+				"en": "Description",
+				"ru": ""
+			}
+		},	{
+			"id": "category-thumbnail",
+			"translations": {
+				"en": "Thumbnail",
+				"ru": ""
+			}
+		},	{
+			"id": "category-title",
+			"translations": {
+				"en": "Title",
+				"ru": ""
+			}
+		}]
+	}
+}

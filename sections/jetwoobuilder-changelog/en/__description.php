@@ -1,5 +1,14 @@
 <h3>Changelog</h3>
 
+<h4>Version 1.3.0 (September 20, 2018)</h4>
+<ul class="marked-list">
+
+<p><li>Added Category products page templates functionality;</li></p>
+<p><li>Added Shop page templates functionality;</li></p>
+<p><li>Added Rating icon option in single product rating and archive product rating widgets;</li></p>
+<p><li>Fixed Query for categories and tags in Products Grid and Products List widgets;</li></p>
+<p><li>Fixed compatibility with Astra and OceanWp themes.</li></p>
+</ul>
 
 <h4>Version 1.2.0 (August 28, 2018)</h4>
 <ul class="marked-list">

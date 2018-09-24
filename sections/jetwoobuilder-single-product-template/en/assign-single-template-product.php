@@ -3,10 +3,10 @@
 
 <ol class="index-list">
 
-<li><p>Navigate to <b>WooCommerce > Settings</b> in WordPress Dashboard. Open <b>Jet Woo Builder</b> tab and here locate <b>General options</b>.
+<li><p>Navigate to <b>WooCommerce > Settings</b> in WordPress Dashboard. Open <b>Jet Woo Builder</b> tab and here locate options to choose.
 
 	    <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/add-templ/3.png">
+        <img src="projects/<?php echo $project;?>/img/add-templ/3-1.png">
     </figure>
 </p></li>
 

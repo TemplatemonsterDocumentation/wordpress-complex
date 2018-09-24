@@ -23,7 +23,11 @@
 
 <li><b>Single Product Available Widgets</b> - the widgets available when one works with Single Product page template;</li>
 
-<li><b>Archive Product Available Widgets</b> - the widgets that can be accessed when one works with WooCommerce Products Archive template. </li></ul>
+<li><b>Archive Product Available Widgets</b> - the widgets that can be accessed when one works with WooCommerce Products Archive template. </li>
+
+<li><b>Archive Category Available Widgets</b> - the widgets available when one works with WooCommerce Archive Category template. </li>
+
+<li><b>Shop Product Available Widgets</b> - the widgets that one can work with when editing WooCommerce Archive Prodcut template. </li></ul>
 
 <p>Check or uncheck the needed widgets in order to include or exclude them from showing in Elementor editor. After everything is done click <b>Save</b> button. </p>
 
