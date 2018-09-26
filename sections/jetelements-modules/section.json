@@ -72,6 +72,12 @@
 				"ru": ""
 			}
 		},	{
+			"id": "dropbar",
+			"translations": {
+				"en": "Dropbar",
+				"ru": ""
+			}
+		},	{
 			"id": "image-comparison",
 			"translations": {
 				"en": "Image Comparison",
