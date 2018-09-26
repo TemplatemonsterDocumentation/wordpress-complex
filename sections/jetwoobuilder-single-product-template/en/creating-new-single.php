@@ -21,7 +21,7 @@
 
     </p></li>
 
- <li><p>The button opens the popup window showing the set of pre-designed <b>Archive/Single Product</b> pages. You can easily select one of them to use. Or you can start creating the <b>Single Product</b> template from scratch. </p></li>
+ <li><p>The button opens the popup window showing the set of pre-designed <b>Archive/Single Product/Category/Shop</b> pages. You can easily select one of them to use. Or you can start creating the <b>Single Product</b> template from scratch. </p></li>
 
 <p><li>Also, in this popup window you’ll have to specify:
 

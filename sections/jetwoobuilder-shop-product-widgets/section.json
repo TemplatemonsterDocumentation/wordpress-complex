@@ -1,0 +1,58 @@
+{
+	"id": "jetwoobuilder-shop-product-widgets",
+	"translations": {
+		"en": "JetWooBuilder Shop Product Widgets",
+		"ru": ""
+	},
+	"articles": {
+		"jetwoobuilder": [{
+			"id": "products-description",
+			"translations": {
+				"en": "Products Description",
+				"ru": ""
+			}
+		},	{
+			"id": "products-loop",
+			"translations": {
+				"en": "Products Loop",
+				"ru": ""
+			}
+		},	{
+			"id": "products-navigation",
+			"translations": {
+				"en": "Products Navigation",
+				"ru": ""
+			}
+		},	{
+			"id": "products-notices",
+			"translations": {
+				"en": "Products Notices",
+				"ru": ""
+			}
+		},	{
+			"id": "products-ordering",
+			"translations": {
+				"en": "Products Ordering",
+				"ru": ""
+			}
+		},	{
+			"id": "page-title",
+			"translations": {
+				"en": "Page Title",
+				"ru": ""
+			}
+		},	{
+			"id": "products-pagination",
+			"translations": {
+				"en": "Products Pagination",
+				"ru": ""
+			}
+		},	{
+			"id": "products-result-count",
+			"translations": {
+				"en": "Products Result Count",
+				"ru": ""
+			}
+		}]
+	}
+}

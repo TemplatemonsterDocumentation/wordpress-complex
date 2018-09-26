@@ -1,0 +1,100 @@
+{
+	"id": "jetwoobuilder-single-product-widgets",
+	"translations": {
+		"en": "JetWooBuilder Single Product Widgets",
+		"ru": ""
+	},
+	"articles": {
+		"jetwoobuilder": [{
+			"id": "single-add-to-cart",
+			"translations": {
+				"en": "Single Add to Cart",
+				"ru": ""
+			}
+		},	{
+			"id": "single-attributes",
+			"translations": {
+				"en": "Single Attributes",
+				"ru": ""
+			}
+		},	{
+			"id": "single-content",
+			"translations": {
+				"en": "Single Content",
+				"ru": ""
+			}
+		},	{
+			"id": "single-excerpt",
+			"translations": {
+				"en": "Single Excerpt",
+				"ru": ""
+			}
+		},	{
+			"id": "single-images",
+			"translations": {
+				"en": "Single Images",
+				"ru": ""
+			}
+		},	{
+			"id": "single-meta",
+			"translations": {
+				"en": "Single Meta",
+				"ru": ""
+			}
+		},	{
+			"id": "single-price",
+			"translations": {
+				"en": "Single Price",
+				"ru": ""
+			}
+		},	{
+			"id": "single-rating",
+			"translations": {
+				"en": "Single Rating",
+				"ru": ""
+			}
+		},	{
+			"id": "single-related-products",
+			"translations": {
+				"en": "Single Related Products",
+				"ru": ""
+			}
+		},	{
+			"id": "single-reviews-form",
+			"translations": {
+				"en": "Single Reviews Form",
+				"ru": ""
+			}
+		},	{
+			"id": "single-sale-badge",
+			"translations": {
+				"en": "Single Sale Badge",
+				"ru": ""
+			}
+		},	{
+			"id": "single-sharing",
+			"translations": {
+				"en": "Single Sharing",
+				"ru": ""
+			}
+		},	{
+			"id": "single-tabs",
+			"translations": {
+				"en": "Single Tabs",
+				"ru": ""
+			}
+		},	{
+			"id": "single-title",
+			"translations": {
+				"en": "Single Title",
+				"ru": ""
+			}
+		},	{
+			"id": "single-upsells",
+			"translations": {
+				"en": "Single Upsells",
+				"ru": ""
+			}
+		}]
+	}
+}

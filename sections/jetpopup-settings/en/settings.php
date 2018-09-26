@@ -27,4 +27,9 @@
         <img src="projects/jetpopup/img/presets/20.png">
   	</figure>
 <ul class="marked-list">
-          <li><b>General</b> – entire site, singular, archive. For more information, please, navigate <a href="http://start/wordpress-complex/index.php?project=jetpopup&lang=en&section=jetpopup-events#conditions" target="_blank" rel="noopener">here</a>. </li></ul>
+          <li><b>General</b> – entire site, singular, archive. For more information, please, navigate <a href="http://start/wordpress-complex/index.php?project=jetpopup&lang=en&section=jetpopup-events#conditions" target="_blank" rel="noopener">here</a>. </li>
+
+          <figure class="img-polaroid">
+        <img src="projects/jetpopup/img/presets/20-1.png">
+    </figure>
+          <li><b>Available for Roles</b> – select user roles from the dropdown list. </li></ul>

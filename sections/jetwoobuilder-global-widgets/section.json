@@ -1,0 +1,34 @@
+{
+	"id": "jetwoobuilder-global-widgets",
+	"translations": {
+		"en": "JetWooBuilder Global Widgets",
+		"ru": ""
+	},
+	"articles": {
+		"jetwoobuilder": [{
+			"id": "categories-grid",
+			"translations": {
+				"en": "Categories Grid",
+				"ru": ""
+			}
+		},	{
+			"id": "products-list",
+			"translations": {
+				"en": "Products List",
+				"ru": ""
+			}
+		},	{
+			"id": "products-grid",
+			"translations": {
+				"en": "Products Grid",
+				"ru": ""
+			}
+		},	{
+			"id": "taxonomy-tiles",
+			"translations": {
+				"en": "Taxonomy Tiles",
+				"ru": ""
+			}
+		}]
+	}
+}

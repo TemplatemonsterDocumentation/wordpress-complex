@@ -3,7 +3,7 @@
 <h5>In this block you can view the latest updates for JetPopup plugin.
  </h5>
 
-<h4>Version 1.1.0 (September 19, 2018)</h4>
+<h4>Version 1.1.0 (September 18, 2018)</h4>
 
 <ul class="marked-list">
 <li>Added Cookie Policy and GDPR templates;</li>

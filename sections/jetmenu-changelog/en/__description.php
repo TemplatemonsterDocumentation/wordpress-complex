@@ -7,7 +7,11 @@
 <h4>Version 1.5.1 (September 19, 2018)</h4>
 
 <ul class="marked-list">
+<<<<<<< HEAD
 <li>Added a closing the mobile menu when clicking outside the mobile menu area;</li>
+=======
+<li>Added option to close the mobile menu when clicking outside the mobile menu area;</li>
+>>>>>>> c5622edaa8d60ed7347fbb77837a7210f943519d
 <li>Added fixes for prevent displaying submenu outside the window;</li>
 <li>Added fixes for prevent duplicate sub-menu and mega-menu when the section is sticky;</li>
 <li>Added fixes for applying cached css on https sites;</li>
@@ -18,7 +22,11 @@
 <h4>Version 1.5.0 (September 3, 2018)</h4>
 
 <ul class="marked-list">
+<<<<<<< HEAD
 <li>Added an allowing to cache menu CSS;</li>
+=======
+<li>Added ability to cache menu CSS;</li>
+>>>>>>> c5622edaa8d60ed7347fbb77837a7210f943519d
 <li>Added minor CSS fixes.</li>
 </p>
 
