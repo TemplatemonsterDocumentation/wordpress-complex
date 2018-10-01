@@ -1,10 +1,18 @@
 <h2>Dropbar</h2>
 
 <h6>
-Dropbar widget helps you to display additional information in compact form using Elementor templates or simple text.
+Dropbar widget helps you to display additional information in compact form using Elementor templates or simple text.</h6>
+
+ 	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/modules/dropbar3.png">
+  	</figure>
 
 <h4>Content</h4>
 <h5>Dropbar</h5>
+
+ 	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/modules/dropbar1.png">
+  	</figure>
 
 
 
@@ -39,6 +47,10 @@ Dropbar widget helps you to display additional information in compact form using
 
 
 <h4>Style</h4>
+
+ 	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/modules/dropbar2.png">
+  	</figure>
 
 <h5>Button</h5>
 
@@ -82,7 +94,7 @@ Dropbar widget helps you to display additional information in compact form using
 
 <ul class="marked-list">
 
-<p><li><b>Border Type</b> —  here you can define the type of the border you need to use for the element.</li></p> 
+<p><li><b>Border Type</b> —  here you can define the type of the border you need to use for the element.</li></p>
 <p><li><b>Border Radius</b> — here you can set the border radius for the dropbar.</li></p>
 <p><li><b>Padding</b> — here you can set the preferable custom padding for the module. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p></ul>
 

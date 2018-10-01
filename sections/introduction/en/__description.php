@@ -599,12 +599,22 @@ You will also find information on how to enable and customize JetElements addons
 <p><li><b>Advanced Map</b>  module is the perfect solution if you need to display a map on your website, and add pins to it to locate the places. You can add multiple pins, change map style, enable switching from satellite to map view. The module is easily customizable and has friendly user interface.</li></p>
 <p><li><b>Animated Box</b>  module creates an attractive info block on the website’s page, which consists of two sides, that switch from one to other. You can add icons, buttons, titles and content to the animated box. Every element is easily customizable.</li></p>
 <p><li><b>Animated Text</b> module was specially devised to deliver your ideas in the form of attractively animated text. With the help of this module you can add animated words and phrases to your website’s pages, customize them, and add plain text to complement animated text.</li></p>
+
+
+<p><li><b>Audio</b> widget provides you with the opportunity to add audio files on your website and visualize them. This widget is easy to use and pretty simple in customization. </li></p>
+
+
 <p><li><b>Banner</b> module allows you to add custom banners to your website’s content. The module has multiple style settings, that include animation settings. It provides you with the means to customize banner background, title and content.</li></p>
 <p><li><b>Brands</b> module helps you to showcase brands and companies on your website’s page. You can add brands, visualize them using brand logos, apply links to them, and customize them in the matter of several clicks.</li></p>
 <p><li><b>Button</b> module will assist you in creating buttons with your custom text and links, eye-catching icons and versatile hover effects! With this module you can easily add a button whenever you need it and style it up according to your vision!</li></p>
 <p><li><b>Circle Progress</b> module allows you to display progress in the attractive form of circle progress bar. The module has versatile style settings, such as content style, value type, etc.</li></p>
 <p><li><b>Countdown Timer</b> module is a helpful tool if you need to embed a timer with a countdown to your website’s page. The module has multiple settings, such as digits color, font settings, and custom background for the timer.</li></p>
 <p><li><b>Download Button</b> module will assist You in creating versatile buttons that will allow the visitors downloading files in one click! You won't need to install additional plugins to add this kind of functionality to the website! All You need is to use Download Button module and have the file stored in the Media Library!</li></p>
+
+<p><li><b>Dropbar</b> widget helps you to display additional information in compact form using Elementor templates or simple text.</li></p>
+
+
+
 <p><li><b>Headline</b> module is the perfect tool for creating stunningly beautiful headlines in order to decorate the website’s pages with attractive textual titles. Its content is fully flexible, as well as its multiple style settings, devised to assist you in creating really beautiful headings within minutes! </li></p>
 <p><li><b>Image Comparison</b> module is the perfect tool that will assist you in creating slides with image comparisons in an attractive and stylish way. From now on you wield the power to showcase the results of your work in an engaging Before and After form! </li></p>
 <p><li><b>Instagram</b> module empowers you to showcase Instagram publications on your website's pages in an attractive way, with text captions, meta information (the number of likes and comments). You'll be able to style up this module according to your vision in order to make it the truly outstanding part of your website! </li></p>
@@ -617,6 +627,8 @@ You will also find information on how to enable and customize JetElements addons
 <p><li><b>Team Member</b> module is the perfect solution when it comes to displaying your team members, and if you need to introduce your team to your website visitors. There are multiple content and style settings, that can be changed at will! </li></p>
 <p><li><b>Testimonials</b> module is useful beyond compare when it comes to adding your clients’ positive feedbacks to your site. Feel free to style up the testimonials and add the beautiful testimonials carousel right to your web page in several clicks! </li></p>
 
+
+<p><li><b>Video</b> widget allows you to showcase a single video on your website. It can be a “Welcome” video for example! It has got all the necessary customization settings and it’s easy to use! </li></p>
 <!-------------------------------------
 <p><li><b>Cherry Team</b> module is extremely useful when you need to add team members to the website’s page. The module helps to define the type of information about team members, that you want to display, sort the team members by teams. It also ensures responsiveness for different types of screens.</li></p>
 <p><li><b>Cherry Services</b> module helps to display the services you provide in an attractive way. The module showcases services using categories or ID. It provides full responsiveness and allows you to set featured images and description length for the services you offer.</li></p>

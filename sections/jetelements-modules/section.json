@@ -30,6 +30,12 @@
 				"ru": ""
 			}
 		},	{
+			"id": "audio",
+			"translations": {
+				"en": "Audio",
+				"ru": ""
+			}
+		},	{
 			"id": "banner",
 			"translations": {
 				"en": "Banner",
@@ -177,6 +183,12 @@
 			"id": "testimonials",
 			"translations": {
 				"en": "Testimonials",
+				"ru": ""
+			}
+		},	{
+			"id": "video",
+			"translations": {
+				"en": "Video",
 				"ru": ""
 			}
 		},	{
