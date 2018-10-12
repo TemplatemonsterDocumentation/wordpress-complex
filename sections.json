@@ -3525,7 +3525,7 @@
 		"jetwoobuilder-archive-product-widgets",
 		"jetwoobuilder-archive-category-widgets",
 		"jetwoobuilder-shop-product-widgets",
-		"jetwoobuilder-advanced-widget-settings",		
+		"jetwoobuilder-advanced-widget-settings",
 		"jetwoobuilder-woo-settings",
 		"jetwoobuilder-settings",
 		"jetwoobuilder-changelog"
@@ -3607,7 +3607,11 @@
 		"jetpopup-settings",
 		"jetpopup-changelog"
 	],
-	"test": [
-		"introduction"
+	"jetsmartfilters": [
+		"introduction",
+		"jetsmartfilters-installation",
+		"jetsmartfilters-new-filter",
+		"jetsmartfilters-filter-widgets",
+		"jetsmartfilters-additional"
 	]
 }

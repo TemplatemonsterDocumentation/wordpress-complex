@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2') { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'jetsmartfilters' ) { ?>
 
 <h2>Introduction</h2>
 
@@ -1460,5 +1460,33 @@ Image Comparison block provides you with an ability to add the two-image block t
 <p>Welcome to Monstroid2!</p>
 
 
+
+<?php } ?>
+
+<?php if ($project == 'jetsmartfilters') { ?>
+
+
+<p>Thank you for purchasing <b>JetSmartFilters</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up <b>JetSmartFilters</b> plugin from scratch. You will also find information on how to enable and customize <b>JetSmartFilters</b> to use them with <b>JetEngine Listing Grid</b> and JetWooBuilder templates.</p>
+
+<h4>What Is JetSmartFilters Plugin?</h4>
+
+<p><b>JetSmartFilters</b> is a plugin that adds easy-to-use AJAX filters to the pages built with Elementor which contain the dynamic listings.</p>
+
+<p>There are several types of filters:
+
+<ul class="marked-list">
+<li>Checkboxes list;</li>
+<li>Select;</li>
+<li>Range;</li>
+<li>Check Range;</li>
+<li>Date Range;</li>
+<li>Radio;</li>
+<li>Search.</li></ul>
+
+<p>Each filter can be applied to the products or posts listing in order to get the results the visitor needs the most.</p>
+
+<p><b>JetSmartFilters</b> plugin provides the <b>7 different widgets</b> for applying filters. Every widget has extensive style and easy-to-use content settings.</p>
+
+<p>Please, note, that in order to use <b>JetSmartFilters</b> you would also need <b>JetEngine</b> or <b>JetWooBuilder</b> plugins to showcase the product or post listings.</p>
 
 <?php } ?>

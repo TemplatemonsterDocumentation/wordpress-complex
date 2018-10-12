@@ -1,0 +1,22 @@
+{
+	"id": "jetsmartfilters-additional",
+	"translations": {
+		"en": "Additional Widgets",
+		"ru": ""
+	},
+	"articles": {
+		"jetsmartfilters": [{
+			"id": "pagination",
+			"translations": {
+				"en": "Pagination",
+				"ru": ""
+			}
+		},	{
+			"id": "active",
+			"translations": {
+				"en": "Active Filters",
+				"ru": ""
+			}
+		}]
+	}
+}

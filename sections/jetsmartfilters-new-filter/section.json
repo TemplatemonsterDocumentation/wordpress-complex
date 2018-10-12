@@ -1,0 +1,58 @@
+{
+	"id": "jetsmartfilters-new-filter",
+	"translations": {
+		"en": "Creating a New Filter",
+		"ru": ""
+	},
+	"articles": {
+		"jetsmartfilters": [{
+			"id": "quickstart",
+			"translations": {
+				"en": "Quick Start",
+				"ru": ""
+			}
+		},	{
+			"id": "checkboxes-list",
+			"translations": {
+				"en": "Checkboxes List",
+				"ru": ""
+			}
+		},	{
+			"id": "select",
+			"translations": {
+				"en": "Select",
+				"ru": ""
+			}
+		},	{
+			"id": "range",
+			"translations": {
+				"en": "Range",
+				"ru": ""
+			}
+		},	{
+			"id": "check-range",
+			"translations": {
+				"en": "Check Range",
+				"ru": ""
+			}
+		},	{
+			"id": "radio",
+			"translations": {
+				"en": "Radio",
+				"ru": ""
+			}
+		},	{
+			"id": "search",
+			"translations": {
+				"en": "Search",
+				"ru": ""
+			}
+		},	{
+			"id": "woo-keys",
+			"translations": {
+				"en": "WooCommerce Meta Keys",
+				"ru": ""
+			}
+		}]
+	}
+}

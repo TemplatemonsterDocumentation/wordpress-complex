@@ -1,0 +1,52 @@
+{
+	"id": "jetsmartfilters-filter-widgets",
+	"translations": {
+		"en": "Working with Filter Widgets",
+		"ru": ""
+	},
+	"articles": {
+		"jetsmartfilters": [{
+			"id": "checkboxes",
+			"translations": {
+				"en": "Checkboxes Filter",
+				"ru": ""
+			}
+		},	{
+			"id": "select",
+			"translations": {
+				"en": "Select Filter",
+				"ru": ""
+			}
+		},	{
+			"id": "range",
+			"translations": {
+				"en": "Range Filter",
+				"ru": ""
+			}
+		},	{
+			"id": "check-range",
+			"translations": {
+				"en": "Check Range Filter",
+				"ru": ""
+			}
+		},	{
+			"id": "date-range",
+			"translations": {
+				"en": "Date Range Filter",
+				"ru": ""
+			}
+		},	{
+			"id": "radio",
+			"translations": {
+				"en": "Radio Filter",
+				"ru": ""
+			}
+		},	{
+			"id": "search",
+			"translations": {
+				"en": "Search Filter",
+				"ru": ""
+			}
+		}]
+	}
+}
