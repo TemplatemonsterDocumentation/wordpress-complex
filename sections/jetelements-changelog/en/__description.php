@@ -7,7 +7,10 @@
 <ul class="marked-list">
 <p><li>Added Audio widget;</li></p>
 <p><li>Added Dropbar widget;</li></p>
-<p><li>Added Video widget.</li></p>
+<p><li>Added Video widget;</li></p>
+<p><li>Added multi-field functionality to Subscribe widget;</li></p>
+<p><li>Added performance improvements and bug fixes.</li></p>
+</ul>
 </ul>
 
 <h4>Version 1.12.0 (August 27, 2018)</h4>
