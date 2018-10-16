@@ -3577,10 +3577,12 @@
 	    "jetengine-custom-post-type",
 		"jetengine-custom-tax-type",
 		"jetengine-metaboxes",
+		"jetengine-posts-relations",
 		"jetengine-dynamic-widgets",
 		"jetengine-layouts",
 		"jetengine-dashboard",
 		"jetengine-use-cases",
+		"jetengine-calendar-functionality",
 		"jetengine-changelog"
 	],
 	"jetguten": [

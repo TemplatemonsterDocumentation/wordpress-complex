@@ -1,6 +1,6 @@
 <h3>Changelog</h3>
 
-<h4>Version 1.3.0 (September 20, 2018)</h4>
+<h4>Version 1.3.0 (September 24, 2018)</h4>
 <ul class="marked-list">
 
 <p><li>Added Category products page templates functionality;</li></p>
