@@ -3622,5 +3622,14 @@
 		"introduction",
 		"jetdesignkit-installation",
 		"jetdesignkit-quick-guide"
+	],
+	"bitunet": [
+		"introduction",
+		"bitunet-installation",
+		"bitunet-theme",
+		"bitunet-dashboard",
+		"bitunet-plugins",
+		"bitunet-jetthemecore",
+		"bitunet-changelog"
 	]
 }

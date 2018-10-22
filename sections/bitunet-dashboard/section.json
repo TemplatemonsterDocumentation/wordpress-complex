@@ -1,0 +1,27 @@
+{
+	"id": "bitunet-dashboard",
+	"translations": {
+		"en": "Bitunet Dashboard",
+		"ru": ""
+	},
+	"articles": {
+		"bitunet": [{
+				
+				"id": "skins",
+				"translations": {
+					"en": "Skins",
+					"ru": ""
+				}
+			},
+			{
+				"id": "settings",
+				"translations": {
+					"en": "Settings",
+					"ru": ""
+				
+				
+				}
+			}]
+	}
+}
+
