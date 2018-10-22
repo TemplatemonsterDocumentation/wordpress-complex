@@ -4,6 +4,11 @@
 
 <ul class="marked-list">
 <p><li><b>Data source</b> - here you can set the source from which the checkboxes are to be taken. There are several of them:
+
+	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/creating/cr-4.png">
+    </figure></li></p>
+    
 	<ul class="marked-list">
 <p><li><b>Manual input </b> - select this type in case you need to manually fill in the options list with the needed values and add the value labels to show (e.g., you’ve got the custom-made products post type and have the “color” meta field with the slug you’ve filled in. You need to add the values (the actual color values you’ve got in this meta field for the different products) to create the checkboxes allowing to select the products by color.</li></p>
 <p><li><b>Posts</b> - select this source to display the post titles as the checkboxes to filter the related posts (e.g., you’ve got the “Speakers” post type and the “Events” post type listing grid. You can select the Posts > Speakers to filter the posts of Event type by speakers participating.</li></p>

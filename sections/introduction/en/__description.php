@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'jetsmartfilters' ) { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'JetDesignKit' && $project != 'jetdesignkit' ) { ?>
 
 <h2>Introduction</h2>
 
@@ -1463,30 +1463,35 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <?php } ?>
 
-<?php if ($project == 'jetsmartfilters') { ?>
+<?php if ($project == 'JetDesignKit') { ?>
 
 
-<p>Thank you for purchasing <b>JetSmartFilters</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up <b>JetSmartFilters</b> plugin from scratch. You will also find information on how to enable and customize <b>JetSmartFilters</b> to use them with <b>JetEngine Listing Grid</b> and JetWooBuilder templates.</p>
+<p>Thank you for purchasing <b>JetDesignKit</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up <b>JetDesignKit</b> plugin from scratch. You will also find information on how to enable and customize <b>JetDesignKit</b> to use them with <b>JetEngine</b> and <b>JetWooBuilder</b> plugins.</p>
 
-<h4>What Is JetSmartFilters Plugin?</h4>
 
-<p><b>JetSmartFilters</b> is a plugin that adds easy-to-use AJAX filters to the pages built with Elementor which contain the dynamic listings.</p>
+<div class="alert alert-info">
+        <b>Note:</b> that in order to use <b>JetDesignKit</b> you would also need <a href="https://documentation.zemez.io/wordpress/index.php?project=jetengine" target="_blank"><b>JetEngine</b></a> or <a href="https://documentation.zemez.io/wordpress/index.php?project=jetwoobuilder" target="_blank"><b>JetWooBuilder</b></a> plugins to showcase the product or post listings.</div>
 
-<p>There are several types of filters:
+<h4>What Is JetDesignKit Plugin?</h4>
 
-<ul class="marked-list">
-<li>Checkboxes list;</li>
-<li>Select;</li>
-<li>Range;</li>
-<li>Check Range;</li>
-<li>Date Range;</li>
-<li>Radio;</li>
-<li>Search.</li></ul>
+<p><b>JetDesignKit</b> is a plugin that adds easy-to-use AJAX filters to the pages built with Elementor which contain the dynamic listings.<b>JetDesignKit</b> plugin provides the <b>7 different widgets</b> for applying filters. Every widget has extensive style and easy-to-use content settings. Each filter can be applied to the products or posts listing in order to get the results the visitor needs the most.</p>
 
-<p>Each filter can be applied to the products or posts listing in order to get the results the visitor needs the most.</p>
 
-<p><b>JetSmartFilters</b> plugin provides the <b>7 different widgets</b> for applying filters. Every widget has extensive style and easy-to-use content settings.</p>
 
-<p>Please, note, that in order to use <b>JetSmartFilters</b> you would also need <b>JetEngine</b> or <b>JetWooBuilder</b> plugins to showcase the product or post listings.</p>
+<?php } ?>
+
+<?php if ($project == 'jetdesignkit') { ?>
+
+
+<p>Welcome to <b>JetDesignKit</b> plugin for Elementor documentation</a>! It consists of three parts and covers the entire process of installing and using <b>JetDesignKit</b> plugin and templates it provides, from scratch.</p>
+
+<h4>What Is JetDesignKit Plugin?</h4>
+
+<p><b>JetDesignKit</b> is a plugin that allows adding to your website <b>1000+ templates</b>, including Homepages, Subpages and Sections. It comes with great number of templates, dedicated to various topics, such as Business, Design, Sport, Restaurant and others. With the help of Magic Button library you are free to build your website content layout on the fly! 
+
+<div class="alert alert-warning">
+        <b>Important!</b> In order to use JetDesignKit you would also need <a href="https://wordpress.org/plugins/elementor/" target="_blank"><b>Elementor</b></a> and <a href="https://jetelements.zemez.io/" target="_blank"><b>JetElements</b></a> plugins to be able installed so you could start using JetDesignKit functionality.</div>
+
+
 
 <?php } ?>

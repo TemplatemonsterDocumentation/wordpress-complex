@@ -2,6 +2,10 @@
 
 <p>The Check Range filter allows filtering the prices range using the minimum and maximum values. </p>
 
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/creating/cr-7.png">
+    </figure></li></p>
+
 <ul class="marked-list">
 	<li><p>To use this filter type set the necessary query variable  (e.g., _price to showcase the WooCommerce prices). </p></li>
 

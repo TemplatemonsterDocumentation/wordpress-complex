@@ -1,5 +1,15 @@
 <h3>Changelog</h3>
 
+
+<h4>Version 1.3.4 (October 18, 2018)</h4>
+<ul class="marked-list">
+
+<p><li>Increased the possible number of displayed elements in the products grid, categories grid, products list widgets;</li></p>
+<p><li>Fixed equal column height in slick slider;</li></p>
+<p><li>Added minor fixes.</li></p>
+</ul>
+
+
 <h4>Version 1.3.0 (September 24, 2018)</h4>
 <ul class="marked-list">
 

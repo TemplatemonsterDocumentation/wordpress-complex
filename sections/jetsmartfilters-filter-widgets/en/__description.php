@@ -3,7 +3,7 @@
 
 <p>From this block, you’ll get the detailed information on how to add a filter you’ve previously created, to the pages built with Elementor, which include JetEngine Listing Grid widget or JetWooBuilder Products Archive. </p>
 
-<p>Please, before proceeding to working with JetSmartFilters widgets, make sure you’ve created the corresponding filters in WordPress Dashboard. </p>
+<p><h6>Please, before proceeding to working with JetSmartFilters widgets, make sure you’ve created the corresponding filters in WordPress Dashboard.</h6> </p>
 
 <p>There are 7 filter types, and each of them corresponds to the specific filtering widget.
 

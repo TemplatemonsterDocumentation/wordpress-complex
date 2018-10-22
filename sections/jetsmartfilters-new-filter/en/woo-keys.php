@@ -6,6 +6,8 @@
 
 <h5>Popular plugins fields</h5>
 
+
+
 <ul class="marked-list">
 <li>_price: filter by product price;</li>
 <li>_wc_average_rating: filter by product rating;</li>

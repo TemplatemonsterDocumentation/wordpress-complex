@@ -3528,6 +3528,7 @@
 		"jetwoobuilder-advanced-widget-settings",
 		"jetwoobuilder-woo-settings",
 		"jetwoobuilder-settings",
+		"jetwoobuilder-jet-smart-filters",
 		"jetwoobuilder-changelog"
 	],
 		"jetblocks": [
@@ -3583,6 +3584,7 @@
 		"jetengine-dashboard",
 		"jetengine-use-cases",
 		"jetengine-calendar-functionality",
+		"jetengine-jet-smart-filters",
 		"jetengine-changelog"
 	],
 	"jetguten": [
@@ -3615,5 +3617,10 @@
 		"jetsmartfilters-new-filter",
 		"jetsmartfilters-filter-widgets",
 		"jetsmartfilters-additional"
+	],
+	"jetdesignkit": [
+		"introduction",
+		"jetdesignkit-installation",
+		"jetdesignkit-quick-guide"
 	]
 }

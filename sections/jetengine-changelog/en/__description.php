@@ -2,6 +2,17 @@
 
 <h5>In this block you can view the latest updates for JetEngine plugin.</h5>
 
+<h4>Version 1.2.0 (October 18, 2018)</h4>
+<ul class="marked-list">
+<li>Added Calendar widget;</li>
+<li>Added Posts relationships;</li>
+<li>Added Columns gap for Listing Grid widget;</li>
+<li>Added 'QR Code' callback to filter Dynamic Field output;</li>
+<li>Added 'Format number' callback to filter Dynamic Field output;</li>
+<li>Added Date query controls for Posts query settings in Listing Grid widget;</li>
+<li>Added fixes for Dynamic image tag.</li>
+</ul>
+
 <h4>Version 1.1.0 (August 28, 2018)</h4>
 <ul class="marked-list">
 	<li>Added Allow to filter values in repeater items;</li>
