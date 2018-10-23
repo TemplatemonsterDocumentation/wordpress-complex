@@ -9,7 +9,7 @@
 <p><li>In the <b>Theme Parts</b> block you’re able to view the existing templates for your theme or create the new ones.</p>
 
 			<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/core/creating1.png">
+        <img src="projects/<?php echo $project;?>/img/bitunet/download.png">
   	</figure>
 
 <p>Theme Parts: </p>
@@ -20,6 +20,8 @@
 <p><li><b>Header</b> - here you can view all the existing footer templates on your site;</li></p>
 <p><li><b>Footer</b> - here you can see all the existing footer templates on your site;</li></p>
 <p><li><b>Section</b> - here you can view the list of the section templates. </li></p>
+<p><li><b>Archive</b> - here you can see all the existing archive templates on your site;</li></p>
+<p><li><b>Single</b> - here you can view single templates. </li></p>
  </li></ul>
 
 <p><li>Every template shown in these blocks can be edited, removed to the trash bin, restored, etc. </li></p>

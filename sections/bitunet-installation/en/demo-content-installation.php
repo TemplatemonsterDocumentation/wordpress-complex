@@ -1,6 +1,6 @@
 <h3>Plugins and Content Installation</h3>
 
-<p>This block uncovers the process of installing demos and plugins using <b>Jet Wizard</b> plugin.
+<p>This block uncovers the process of installing plugins and demos using <b>Jet Plugins Wizard</b> plugin.
 </p>
 
 <p>

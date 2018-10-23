@@ -7,7 +7,7 @@
 <p><li>First, click <b>Add New</b> button located on the right of the <b>Theme Parts</b> title. </li></p>
 
 		<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/core/creating3.png">
+        <img src="projects/<?php echo $project;?>/img/bitunet/download2.png">
   	</figure>
 
 <p><li>In the newly opened window select the template type from the dropdown menu (<b>page, header, footer, section</b>). </li></p>
@@ -18,19 +18,8 @@
 
 <p><li>Type in the template name in the corresponding field. </li></p>
 
-<p><li>Use Elementor page editor to create a new unique  header / footer. Note, that you also can use the pre-styled headers available in the headers / footers list. In order to access the pre-styled headers / footers click <b>Magic button</b>. </li></p>
 
-		<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/core/creating5.png">
-  	</figure>
-
-<p><li>After that navigate to <b>Headers / Footers</b> tab and here  select the header / footer you want to use as a template on your website’s pages. </li></p>
-
-		<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/core/creating6.png">
-  	</figure>
-
-<p><li>You can use the <b>JetBlocks</b> widgets in order to add the authorization links, login forms, site logos, search or WooCommerce Cart to the header. Feel free to check <a href="http://documentation.zemez.io/wordpress/index.php?project=jetblock&lang=en&section=jetblocks-widgets#" target="_blank"><b>JetBlocks documentation</b></a> which contains the detailed explanations on how the widgets work. </li></p>
+<p><li>You will be tranfered to Elementor editor, where you can create your header/footer/section, etc. You can use the <b>JetBlocks</b> widgets in order to add the authorization links, login forms, site logos, search or WooCommerce Cart to the header. Feel free to check <a href="http://documentation.zemez.io/wordpress/index.php?project=jetblock&lang=en&section=jetblocks-widgets#" target="_blank"><b>JetBlocks documentation</b></a> which contains the detailed explanations on how the widgets work. </li></p>
 
 		<figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/core/creating7.png">

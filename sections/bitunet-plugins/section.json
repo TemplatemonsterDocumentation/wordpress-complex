@@ -6,6 +6,27 @@
 	},
 	"articles": {
 		"bitunet": [{
+				"id": "jet-plugins-wizard",
+				"translations": {
+					"en": "Jet Plugins Wizard",
+					"ru": ""
+				}
+				},
+				{
+				"id": "jet-data-importer",
+				"translations": {
+					"en": "Jet Data Importer",
+					"ru": ""
+				}
+			},
+			{
+				"id": "elementor",
+				"translations": {
+					"en": "Elementor Plugin",
+					"ru": ""
+				}
+			},
+			{
 				"id": "jetthemecore",
 				"translations": {
 					"en": "JetThemeCore Plugin",
@@ -89,6 +110,14 @@
 					"ru": "Логотип и фавиконка"
 				}
 			},
+			{
+
+				"id": "cryptocurrency-price-ticker-widget",
+				"translations": {
+					"en": "Cryptocurrency Price Ticker Widget",
+					"ru": "Логотип и фавиконка"
+				}
+				},
 			{
 				"id": "contact-form-7",
 				"translations": {
