@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'JetDesignKit' && $project != 'jetdesignkit' ) { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'JetDesignKit' && $project != 'jetsmartfilters' && $project != 'bitunet' ) { ?>
 
 <h2>Introduction</h2>
 
@@ -1480,18 +1480,81 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <?php } ?>
 
-<?php if ($project == 'jetdesignkit') { ?>
+<?php if ($project == 'jetsmartfilters') { ?>
 
 
-<p>Welcome to <b>JetDesignKit</b> plugin for Elementor documentation</a>! It consists of three parts and covers the entire process of installing and using <b>JetDesignKit</b> plugin and templates it provides, from scratch.</p>
+<p>Thank you for purchasing <b>JetSmartFilters</b> for Elementor! This documentation consists of several parts and covers the entire process of installing and setting up JetSmartFilters plugin from scratch. You will also find information on how to enable and customize JetSmartFilters to use them with JetEngine Listing Grid and JetWooBuilder templates.
+</p>
 
-<h4>What Is JetDesignKit Plugin?</h4>
+<h4>What Is JetSmartFilters Plugin?</h4>
 
-<p><b>JetDesignKit</b> is a plugin that allows adding to your website <b>1000+ templates</b>, including Homepages, Subpages and Sections. It comes with great number of templates, dedicated to various topics, such as Business, Design, Sport, Restaurant and others. With the help of Magic Button library you are free to build your website content layout on the fly! 
+<p><b>JetSmartFilters</b> is a plugin that adds easy-to-use AJAX filters to the pages built with Elementor which contain the dynamic listings.</p>
 
-<div class="alert alert-warning">
-        <b>Important!</b> In order to use JetDesignKit you would also need <a href="https://wordpress.org/plugins/elementor/" target="_blank"><b>Elementor</b></a> and <a href="https://jetelements.zemez.io/" target="_blank"><b>JetElements</b></a> plugins to be able installed so you could start using JetDesignKit functionality.</div>
+<p>There are several types of filters:</p>
+<ul class="marked-list">
+    <li>Checkboxes list;</li>
+    <li>Select</li>
+    <li>Range</li>
+    <li>Check Range</li>
+    <li>Date Range</li>
+    <li>Radio</li>
+    <li>Search</li></ul>
 
+<p>Each filter can be applied to the products or posts listing in order to get the results the visitor needs the most.</p>
+<p>JetSmartFilters plugin provides the 7 different widgets for applying filters. Every widget has extensive style and easy-to-use content settings.</p>
+<p>Please, note, that in order to use JetSmartFilters you would also need JetEngine or JetWooBuilder plugins to showcase the product or post listings.</p>
 
 
 <?php } ?>
+
+
+
+<?php if ($project == 'bitunet') { ?>
+
+
+<article><h2>Introduction</h2>
+
+<p>Thank you for purchasing Bitunet theme! This documentation consists of several parts and covers the entire process of installing and setting up a WordPress website from scratch.</p>
+
+<h3>What is a WordPress Template?</h3>
+<p>WordPress is a free open-source blogging tool and content management system (CMS) based on PHP and MySQL. With its help you can create and administrate websites or powerful on-line applications without possessing any special technical skills. Due to the ease of use and flexibility, WordPress has become the most popular platform for website development.</p>
+
+<h3>What is a WordPress Template?</h3>
+
+<p>WordPress template is a theme for the WordPress CMS platform. You can easily change your website appearance by installing a new WordPress template in a few easy steps. Despite its simplicity, a WordPress template contains all the necessary source files that can be altered the way you need.</p>
+
+<h3>Template Structure:</h3>
+
+<ul class="marked-list">
+<ul class="marked-list">
+<li><b>Bonus Images</b></a> - folder containing professional images for Bitunet theme.
+    <li><b>Theme</b></a> - folder containing Bitunet theme files.
+<ul class="marked-list">
+<li><b>bitunet.zip</b></a> - folder containing archive with Bitunet theme.</li> 
+<li><b>kava.zip</b></a> - folder containing archive with Kava theme.
+
+</ul></li></ul>
+
+<ul class="marked-list">
+<li><b>documentation.html</b></a> - file with theme's documentation.</li>
+<li><b>info.txt</b></a> - file with instructions on how to extract source files.</li>
+<li><b>license.txt</b></a> - file containing information about GPL license.
+</li></ul>
+
+<h3>Recommended Technical Requirements</h3>
+
+<p>The needed requirements are:</p>
+<p>
+<ul class="marked-list">
+<li>PHP 7 or higher;</li>
+<li>MySQL 5.6 of higher;</li>
+<li>WP memory limit of 128 Mb or larger;</li>
+<li>Desktop device;</li>
+<li>SSL certificate on server.</li></ul></p>
+
+<p>You can get more information <a href="https://docs.elementor.com/article/38-requirements
+" target="_blank">here.</a></p>
+
+
+<?php } ?>
+

@@ -1,0 +1,26 @@
+{
+	"id": "bitunet-jetthemecore",
+	"translations": {
+		"en": "JetThemeCore",
+		"ru": ""
+	},
+	"articles": {
+		"bitunet": [{
+				"id": "jetthemecore-templates",
+				"translations": {
+					"en": "Creating Templates",
+					"ru": ""
+				}
+			},
+			{
+				"id": "jetthemecore-headers-footers",
+				"translations": {
+					"en": "Creating Headers & Footers",
+					"ru": ""
+				}
+			
+			}
+		]
+	}
+}
+
