@@ -72,6 +72,12 @@
 				"ru": ""
 			}
 		},	{
+			"id": "horizontal-timeline",
+			"translations": {
+				"en": "Horizontal Timeline",
+				"ru": ""
+			}
+		},	{
 			"id": "download-button",
 			"translations": {
 				"en": "Download Button",

@@ -14,6 +14,17 @@ Instagram module empowers you to showcase Instagram publications on your website
         <img src="projects/<?php echo $project;?>/img/modules/instagram1.png">
   	</figure>
 
+<p>Please, note, that the way JetElements Instagram widget for Elementor works has changed along with the latest <a href="https://www.instagram.com/developer/" target="_blank">Instagram policy</a> modifications. </p>
+
+<p>You can demonstrate photos only from your own account, and it's not possible to showcase the photos from third-party account anymore. </p>
+
+<p>To display the photos from your personal Instagran account you need an <b>Access Token</b> which you can easily generate <a href="http://instagram.pixelunion.net/" target="_blank"> here</a>. After that, copy and paste it into the <b>Access Token</b> field in the <b>Dashboard > Elementor > Jet Elements Settings > Instagram Options</b>.</p>
+
+ 	<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/modules/token.png">
+  	</figure>
+
+<p>Read more about how to get <b>Instagram Access Token</b> <a href="https://elfsight.com/blog/2016/05/how-to-get-instagram-access-token/" target="_blank"> here</a> or <a href="https://docs.oceanwp.org/article/487-how-to-get-instagram-access-token" target="_blank">here</a>!</p>
 
 <h4>Content</h4>
 

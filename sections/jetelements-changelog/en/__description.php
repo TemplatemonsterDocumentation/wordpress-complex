@@ -2,6 +2,45 @@
 
 <h5>In this block you can view the latest updates for JetElements plugin.</h5>
 
+<h4>Version 1.14.0 (November 1, 2018)</h4>
+
+<ul class="marked-list">
+<p><li>Added the brand new Horizontal Timeline widget;</li></p>
+<p><li>Added an ability to use the dynamic tags for the widgets;</li></p>
+<p><li>Added multiple performance improvements and bug fixes.</li></p>
+</ul>
+</ul>
+
+<h4>Version 1.13.3 (October 22, 2018)</h4>
+
+<ul class="marked-list">
+<p><li>Added responsive controls for Circle Size, Value Stoke Width, Background Stoke Width in the Circle Progress widget;</li></p>
+<p><li>Added better RTL compatibility in the Advanced Carousel, Image-Comparison, Testimonials, Posts, Slider widgets;</li></p>
+<p><li>Added better compatibility the Video Player widget with Astra theme;</li></p>
+<p><li>Added fixes for Instagram widget;</li></p>
+<p><li>Added fixes for Show Thousand Separator option in the Circle Progress Widget.</li></p>
+</ul>
+</ul>
+
+<h4>Version 1.13.2 (October 10, 2018)</h4>
+
+<ul class="marked-list">
+<p><li>Added an ability to allow setting dynamic location in the Weather widget;</li></p>
+<p><li>Added an ability to allow usange of the dynamic tags in the Download button widget;</li></p>
+<p><li>Fixed encoding bug for the Advanced Map widget.</li></p>
+</ul>
+</ul>
+
+
+<h4>Version 1.13.1 (October 3, 2018)</h4>
+
+<ul class="marked-list">
+<p><li>Added compatibility with WPML String Translation plugin for new widgets;</li></p>
+<p><li>Updated keywords list in the language file;</li></p>
+<p><li>Added: multiple performance improvements and bug fixes.</li></p>
+</ul>
+</ul>
+
 <h4>Version 1.13.0 (August 27, 2018)</h4>
 
 <ul class="marked-list">
