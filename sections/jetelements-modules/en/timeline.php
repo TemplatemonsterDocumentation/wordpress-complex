@@ -11,7 +11,7 @@
 <h6>On the picture below you can view Vertical Timeline widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/tl3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/tl3.png">
   	</figure>
 
 
@@ -20,7 +20,7 @@
 <h5>Cards</h5>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/tl1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/tl1.png">
   	</figure>
 
 <p>Click <b>Add Item</b> button in order to create a new event card in the Vertical Timeline chain. After that you'll be able to edit the event card, place content into it. You can add as many event cards as you need to make the event timelines longer or shorter.</p>
@@ -64,7 +64,7 @@
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/tl2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/tl2.png">
   	</figure>
 <h6>Cards</h6>
 
@@ -91,7 +91,7 @@
 <h6>Meta</h6>
 
 <ul class="marked-list">
-	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 	<p><li><b>Border type</b> - here you can define the type of the border you need to use for the element.</li></p>
 	<p><li><b>Width</b> - type in the border width in pixels in order to set the width for the box top, bottom, left and right borders.</li></p>
 	<p><li><b>Color</b> - here you can specify the color of the border using Color picker tool.</li></p>
@@ -124,7 +124,7 @@
 <h6>Title</h6>
 
 <ul class="marked-list">
-	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 	<p><li><b>Margin</b> - fill in the custom margin values to add a responsive margin around the meta block.</li></p></ul>
 
 <p>Switch between <b>Normal</b>, <b>Hover</b> and <b>Active</b> editing modes in order to alter the appearance of the event card title on hover, when active and in the normal state.</p>
@@ -136,7 +136,7 @@
 <h6>Description</h6>
 
 <ul class="marked-list">
-	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 	<p><li><b>Margin</b> - fill in the custom margin values to add a responsive margin around the description block.</li></p></ul>
 
 <p>Switch between <b>Normal</b>, <b>Hover</b> and <b>Active</b> editing modes in order to alter the appearance of the event card description on hover, when active and in the normal state.</p>
@@ -151,7 +151,7 @@
 <p>Switch between <b>Text</b> and <b>Icon</b> modes in order to customize the appearance of the text point type or icon point type (depending on what type you've selected in Content block.</p>
 
 <ul class="marked-list">
-	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 	<p><li><b>Point Size</b> - here you can specify the size of the point that marks the event on the timeline.</li></p>
 	<p><li><b>Border type</b> - here you can define the needed border type for the point block. It can be dotted, dashed, double or solid.</li></p>
 	<p><li><b>Width</b> - type in the border width in pixels in order to set the width for the box top, bottom, left and right borders.</li></p>

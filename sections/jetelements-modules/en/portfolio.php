@@ -3,22 +3,22 @@
 
 
 <h6>
-Portfolio module allows displaying Portfolio in the form of eye-catching layouts using the pre-designed presets and layout types (<b>masonry, grid, justify, list</b>).
+Portfolio widget allows displaying Portfolio in the form of eye-catching layouts using the pre-designed presets and layout types (<b>masonry, grid, justify, list</b>).
 </h6>
 
-<h4>Portfolio Module Sample</h4>
+<h4>Portfolio widget Sample</h4>
 
-<h6>On the picture below you can view Portfolio module sample.</h6>
+<h6>On the picture below you can view Portfolio widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/port3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/port3.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/port1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/port1.png">
   	</figure>
 
 <ul class="marked-list">
@@ -54,7 +54,7 @@ Portfolio module allows displaying Portfolio in the form of eye-catching layouts
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/port2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/port2.png">
   	</figure>
 
 <h5>General</h5>

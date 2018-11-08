@@ -2,21 +2,21 @@
 
 
 <h6>
-Banner module allows you to add custom banners to your website’s content. The module has multiple style settings, that include animation settings. It provides you with the means to customize banner background, title and content.
+Banner widget allows you to add custom banners to your website’s content. The widget has multiple style settings, that include animation settings. It provides you with the means to customize banner background, title and content.
 </h6>
 
-<h4>Banner Module Sample</h4>
+<h4>Banner Widget Sample</h4>
 
-<h6>On the picture below you can view Banner module sample.</h6>
+<h6>On the picture below you can view Banner widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/ban4.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/ban4.png">
   	</figure>
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/ban2.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/ban2.png">
   	</figure>
 
 
@@ -24,7 +24,7 @@ Banner module allows you to add custom banners to your website’s content. The 
 <ul class="marked-list">
 <p><li><b>Image</b>  — here you can upload or choose from the media library any image to use as a banner.
 </li></p>
-<p><li><b>Image Size</b>  — here you can set the preferable size for the banner module.
+<p><li><b>Image Size</b>  — here you can set the preferable size for the banner widget.
 </li></p>
 <p><li><b>Title</b> — in this block you need to input the title to use it for the banner.</li></p>
 <p><li><b>Description</b> — here you have to add content to the banner. You can use HTML markup to separate text lines and quotes.
@@ -36,7 +36,7 @@ Banner module allows you to add custom banners to your website’s content. The 
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/ban3.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/ban3.png">
   	</figure>
 
 

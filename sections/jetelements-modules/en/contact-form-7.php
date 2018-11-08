@@ -2,15 +2,15 @@
 
 
 <h6>
-Contact Form 7 module helps you to display your existing contact forms on the website’s page. </h6>
+Contact Form 7 widget helps you to display your existing contact forms on the website’s page. </h6>
 
 
-<h4>Contact Form 7 Module Sample</h4>
+<h4>Contact Form 7 widget Sample</h4>
 
-<h6>On the picture below you can view Contact Form 7 module sample.</h6>
+<h6>On the picture below you can view Contact Form 7 widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/cf73.png">
+        <img src="projects/<?php echo $project;?>/img/widget/cf73.png">
   	</figure>
 
 
@@ -22,7 +22,7 @@ Contact Form 7 module helps you to display your existing contact forms on the we
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/form2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/form2.png">
   	</figure>
 <ul class="marked-list">
 <ul class="marked-list"><b>Select Form</b>  — here you can select one of the existiing forms to embed it to the website's page layout. You can create one using Contact Form 7 or create Your own if You have a basic knowledge in HTML.</li></p></ul>
@@ -34,14 +34,14 @@ Contact Form 7 module helps you to display your existing contact forms on the we
 
 
 <ul class="marked-list">
-<p><li><b>Color</b> — here you can set the color of the module texts using color picker tool. </li></p>
-<p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p></ul>
+<p><li><b>Color</b> — here you can set the color of the widget texts using color picker tool. </li></p>
+<p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p></ul>
 
 <h6>Not Valid Notices</h6>
 
 <ul class="marked-list">
-<p><li><b>Color</b> — here you can set the color of the module notices texts using color picker tool. </li></p>
-<p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+<p><li><b>Color</b> — here you can set the color of the widget notices texts using color picker tool. </li></p>
+<p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 <p><li><b>Margin</b> — input the values for the notices margins in the required fields.</li></p>
 <p><li><b>Alignment</b> — set the centered, left or right alignment for the notices.</li></p>
 </ul>
@@ -51,12 +51,12 @@ Contact Form 7 module helps you to display your existing contact forms on the we
 <p>You can customize the appearance of Contact Form controls using the <strong>Normal</strong>, <strong>Focus</strong> or <strong>Not Valid</strong> mode. Just switch between the modes using the corresponding buttons.</p>
 
 <ul class="marked-list">
-<p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the controls. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements modules. </li></p></ul>
+<p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the controls. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements widget. </li></p></ul>
 
 <ul class="marked-list">
-<p><li><b>Color</b> — in this block you can set the color of the module controls using color picker tool.</li></p>
+<p><li><b>Color</b> — in this block you can set the color of the widget controls using color picker tool.</li></p>
 <p><li><b>Placeholder Color</b> — in this block you can set the color of the placeholder using color picker tool.</li></p>
-<p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+<p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 <p><li><b>Padding</b> — here you can set the preferable custom padding for the controls. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding. </li></p>
 <p><li><b>Margin</b> — input the values for the controls margins in the required fields.</li></p>
 <p><li><b>Border Type</b> — here you can define the needed border type for the controls. It can be dotted, dashed, double or solid. </li></p>
@@ -69,12 +69,12 @@ Contact Form 7 module helps you to display your existing contact forms on the we
 <p>You can customize the appearance of Contact Form <strong>Sumbit Button</strong> using the <strong>Normal</strong>, <strong>Hover</strong> or <strong>Focus</strong> mode. Just switch between the modes using the corresponding buttons.</p>
 
 <ul class="marked-list">
-<p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the button. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements modules. </li></p></ul>
+<p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the button. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements widget. </li></p></ul>
 
 <ul class="marked-list">
 
 <p><li><b>Text Color</b> — in this block you can set the color of the button text using color picker tool.</li></p>
-<p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+<p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 <p><li><b>Text Decoration</b> — here you can apply the underlining for the text (e.g., on hover).</li></p>
 <p><li><b>Padding</b> — here you can set the preferable custom padding for the button. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding. </li></p>
 <p><li><b>Border Type</b> — here you can define the needed border type for the button. It can be dotted, dashed, double or solid. </li></p>
@@ -86,14 +86,14 @@ Contact Form 7 module helps you to display your existing contact forms on the we
 
 
 <ul class="marked-list">
-<p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+<p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 <p><li><b>Padding</b> — here you can set the preferable custom padding for the alerts. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding. </li></p>
 <p><li><b>Margin</b> — input the values for the alerts margins in the required fields.</li></p>
 <p><li><b>Border Radius</b> — here you can define the values for the radius of the selected border. </li></p>
-<p><li><b>Alignment</b> — set the centered, left or right alignment for the module alert messages.</li></p></ul>
+<p><li><b>Alignment</b> — set the centered, left or right alignment for the widget alert messages.</li></p></ul>
 
 
-<p>There are 4 different types of the module alert messages. They are:
+<p>There are 4 different types of the widget alert messages. They are:
 <ul class="marked-list">
 <li>Sent Success;</li>
 <li>Sent Error;</li>
@@ -110,39 +110,39 @@ Contact Form 7 module helps you to display your existing contact forms on the we
 <p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for the alert block, and need to apply shadow for it.</li></p></ul>
 
 
-<h4>Contact Form 7 Module Styles</h4>
+<h4>Contact Form 7 widget Styles</h4>
 
 <h6>If you want your contact form to look like on JetElements live demo page, proceed to reading these short guides that will assist you in styling up contact forms. </h6>
 
 <div class="alert alert-info">
-Be aware, that before embedding Contact Form 7 module You will need to create a contact form using Contact Form 7 plugin. </div>
+Be aware, that before embedding Contact Form 7 widget You will need to create a contact form using Contact Form 7 plugin. </div>
 
 <ol class="index-list">
 <p><li>First, navigate to WordPress Dashboard and open <b>Contact > Add New</b> tab on the left. </li></p>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/addnewcont.png">
+        <img src="projects/<?php echo $project;?>/img/widget/addnewcont.png">
   	</figure>
 
 <p><li>Here you need to  name the contact form and create the form. Feel free to read <a href="https://zemez.io/wordpress/support/how-to/create-custom-layout-contact-forms/" target="_blank">How to Create Custom Layout for Contact Forms Using Contact Form 7</a> tutorial in order to learn how to change contact form layouts. </li></p>
 <p><li>When everything is ready click on <b>Save</b> button to save all the changes. </li></p></ol>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/cont.png">
+        <img src="projects/<?php echo $project;?>/img/widget/cont.png">
   	</figure>
 
 <h4>Style 1</h4>
 
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/style1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/style1.png">
   	</figure>
 
 
 <ul class="marked-list">
 <p><li>Let’s navigate to <b>Pages > Add New</b> tab on the left of the Dashboard and type in the name for the page which will include the contact form. Then click on <b>Edit with Elementor</b> button. </li></p>
 <p><li>Click on <b>Add New Section</b> button to add the section where you want to place the contact form. </li></p>
-<p><li>Select <b>Contact Form 7</b> module from the <b>Elements</b> menu on the left and drop it to the section area. </li></p>
+<p><li>Select <b>Contact Form 7</b> widget from the <b>Elements</b> menu on the left and drop it to the section area. </li></p>
 <p><li>Select the form you’ve created from the dropdown list in the <b>Content</b> block. </li></p>
 <p><li>Now let’s switch to <b>Style</b> tab in order to style up the form to make it look like on live demo. </li></p></ul>
 
@@ -221,12 +221,12 @@ Be aware, that before embedding Contact Form 7 module You will need to create a 
 <h4>Style 2</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/style2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/style2.png">
   	</figure>
 
 
 <ul class="marked-list">
-<p><li>Navigate to the page where you need to place this contact form and click on <b>Edit with Elementor</b> button. <b>Add a new section</b> and drop the <b>Contact Form 7</b> module in the new <b>section area</b>. </li></p>
+<p><li>Navigate to the page where you need to place this contact form and click on <b>Edit with Elementor</b> button. <b>Add a new section</b> and drop the <b>Contact Form 7</b> widget in the new <b>section area</b>. </li></p>
 <p><li>Select the name of the newly created form from your existing contact forms dropdown list. </li></p>
 <p><li>Switch to <b>Style</b> tab to proceed to styling up your new contact form’s appearance. </li></p></ul>
 
@@ -273,7 +273,7 @@ Be aware, that before embedding Contact Form 7 module You will need to create a 
 <h4>Style 3</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/style3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/style3.png">
   	</figure>
 
 
@@ -281,7 +281,7 @@ Be aware, that before embedding Contact Form 7 module You will need to create a 
 <ul class="marked-list">
 <p><li>Go to the page to which you need to add the contact form. </li></p>
 <p><li>Click on <b>Edit with Elementor</b> button to open the page with <b>Elementor</b> drag-n-drop page builder. </li></p>
-<p><li><b>Add a new section</b> and drop <b>Contact Form 7</b> module to it. </li></p>
+<p><li><b>Add a new section</b> and drop <b>Contact Form 7</b> widget to it. </li></p>
 <p><li>Select the name of the newly created contact form in the <b>Content</b> block on the left. </li></p>
 <p><li>Switch to <b>Style</b> tab to start editing the contact form appearance. </li></p></ul>
 
@@ -352,13 +352,13 @@ Be aware, that before embedding Contact Form 7 module You will need to create a 
 
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/style4.png">
+        <img src="projects/<?php echo $project;?>/img/widget/style4.png">
   	</figure>
 
 
 <ul class="marked-list">
 <p><li>Navigate to the page where you need to place the contact form and click on <b>Edit with Elementor</b> button.</li></p>
-<p><li><b>Add the new section</b> and drop <b>Contact Form 7</b> module to its area.</li></p>
+<p><li><b>Add the new section</b> and drop <b>Contact Form 7</b> widget to its area.</li></p>
 <p><li>In the <b>Content block</b> on the left select the form name in order to select the form for embedding.</li></p>
 <p><li>Switch to <b>Style</b> tab on the left to start customizing contact form appearance.</li></p></ul>
 
@@ -428,7 +428,7 @@ Select <b>#000000</b> HEX color code for the <b>button background</b> when you h
 <h4>Style 5</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/style5.png">
+        <img src="projects/<?php echo $project;?>/img/widget/style5.png">
   	</figure>
 
 
@@ -436,7 +436,7 @@ Select <b>#000000</b> HEX color code for the <b>button background</b> when you h
 <ul class="marked-list">
 <p><li>If you need to style up your contact form in order for it to look as the fifth form on <b>JetElements Contact Form 7</b> live demo, please, feel free to accomplish the following steps allowing to customize contact form appearance. </li></p>
 <p><li>Navigate to the page where you need to place the contact form and click on <b>Edit with Elementor</b> button to open <b>Elementor</b> drag-n-drop page builder. </li></p>
-<p><li>Add a section where you want to place a new contact form and drop <b>Contact Form 7</b> module to it. </li></p>
+<p><li>Add a section where you want to place a new contact form and drop <b>Contact Form 7</b> widget to it. </li></p>
 <p><li>In the <b>Content</b> block on the left select the contact form you want to embed by its name. </li></p>
 <p><li>Switch to <b>Style</b> tab in order to proceed to appearance customization. </li></p></ul>
 

@@ -6,17 +6,17 @@
 
 <h4>Inline SVG</h4>
 
-<h6>On the picture below you can view Inline SVG module sample.</h6>
+<h6>On the picture below you can view Inline SVG widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/svg3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/svg3.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/svg1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/svg1.png">
   	</figure>
 
 <ul class="marked-list">
@@ -27,7 +27,7 @@
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/svg2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/svg2.png">
   	</figure>
 
 <ul class="marked-list">

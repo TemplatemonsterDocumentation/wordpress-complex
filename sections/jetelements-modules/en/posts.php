@@ -1,29 +1,29 @@
 <h2>Posts</h2>
 
 <h6>
-Posts module is a multipurpose tool, that can create attractive post grid layouts, sort posts by categories, IDs or the date of publishing. This module is also helpful when creating post sliders and post carousels.
+Posts widget is a multipurpose tool, that can create attractive post grid layouts, sort posts by categories, IDs or the date of publishing. This widget is also helpful when creating post sliders and post carousels.
 </h6>
 
-<h4>Changing Posts Layout With Posts Module</h4>
+<h4>Changing Posts Layout With Posts widget</h4>
 
-<p>There are three ways to display posts using Posts module. You can display posts in the form of Grid, in the form of Carousel and in the form of Post Slider. Let’s find out how to display posts in different ways.</p>
+<p>There are three ways to display posts using Posts widget. You can display posts in the form of Grid, in the form of Carousel and in the form of Post Slider. Let’s find out how to display posts in different ways.</p>
 
 <h5>Posts Grid Layout</h5>
 
   <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/post3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/post3.png">
     </figure>
 
 
 <ol class="index-list">
 <p><li>To create <b>Grid</b> layout navigate to <b>Content > Carousel</b> settings and disable <b>Enable Carousel</b> option.</li></p>
-<p><li>Next, locate <b>Content > General</b> tab and type in in the <b>Posts Number</b> field the number of posts you want to display using this module (for Grid layout it has to be more than 1 post).</li></p>
+<p><li>Next, locate <b>Content > General</b> tab and type in in the <b>Posts Number</b> field the number of posts you want to display using this widget (for Grid layout it has to be more than 1 post).</li></p>
 <p><li>In the <b>Columns</b> field select the number of columns from the dropdown list. It has to be larger that 1 (select from 2 to 6 columns).</li></p></ol>
 
 <h5>Posts Carousel Layout</h5>
 
   <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/post4.png">
+        <img src="projects/<?php echo $project;?>/img/widget/post4.png">
     </figure>
 
 
@@ -35,19 +35,19 @@ Posts module is a multipurpose tool, that can create attractive post grid layout
 <h5>Posts Slider Layout</h5>
 
   <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/post5.png">
+        <img src="projects/<?php echo $project;?>/img/widget/post5.png">
     </figure>
 
 
 <ol class="index-list">
-<p><li>To create a <b>Post slider</b> using <b>Posts</b> module navigate to <b>Content > General</b> tab and select the number of columns in the <b>Columns</b> field. In order to create Post Slider you need to have only one column.</li></p>
+<p><li>To create a <b>Post slider</b> using <b>Posts</b> widget navigate to <b>Content > General</b> tab and select the number of columns in the <b>Columns</b> field. In order to create Post Slider you need to have only one column.</li></p>
 <p><li>In the <b>Posts Number</b>  field fill in the number of posts you want to display. The number of posts must be larger than 1 (the more, the better).</li></p>
 <p><li>Now navigate to <b>Content > Carousel</b> tab and turn on <b>Enable Carousel</b> option.</li></p></ol>
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/post2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/post2.png">
   	</figure>
 
 
@@ -56,18 +56,18 @@ Posts module is a multipurpose tool, that can create attractive post grid layout
 <p>In this block you can customize Post General settings, such as posts sorting type; define information to show (meta, post excerpts, featured images, etc.).</p>
 
 <ul class="marked-list">
-<p><li><b>Posts Number</b> — here you need to define how many posts you need to display with this module. </li></p>
+<p><li><b>Posts Number</b> — here you need to define how many posts you need to display with this widget. </li></p>
 <p><li><b>Columns</b> — in this block you need to choose the number of columns to use from the dropdown menu. You can select from 1 to 6 columns to show per block. </li></p>
-<p><li><b>Equal Columns Height</b> — in this block you can enable or disable the same height for all the module columns. </li></p>
+<p><li><b>Equal Columns Height</b> — in this block you can enable or disable the same height for all the widget columns. </li></p>
 <p><li><b>Query Posts By</b> — here you can specify, if you want to filter and show  posts by categories, or by IDs. You can also show only the latest posts. </li></p>
-<p><li><b>Show Posts Title</b> — enable this option if you want to display post title in the module. </li></p>
-<p><li><b>Show Posts Featured Image</b> — enable this option to display featured images for the posts that are shown in the module.</li></p>
+<p><li><b>Show Posts Title</b> — enable this option if you want to display post title in the widget. </li></p>
+<p><li><b>Show Posts Featured Image</b> — enable this option to display featured images for the posts that are shown in the widget.</li></p>
 
 <p><li><b>Show Posts Featured Image As</b> — here you can select, if you want to show the feratured image as a simple image, or the box background image.</li></p>
 
 
 <p><li><b>Featured Image Size</b> — here you need to define the size of the featured image (usually it can be medium, large and thumbnail). </li></p>
-<p><li><b>Show Posts Excerpt</b> — here you can enable displaying the excerpts for the posts shown in the module. </li></p>
+<p><li><b>Show Posts Excerpt</b> — here you can enable displaying the excerpts for the posts shown in the widget. </li></p>
 <p><li><b>Excerpt Length</b> — here you can specify the number of words from the post content you want to display as a post excerpt. </li></p>
 <p><li><b>Show Posts Meta</b> — enable the option if you want to show such meta information, as post author, publish date.</li></p>
 
@@ -114,7 +114,7 @@ Posts module is a multipurpose tool, that can create attractive post grid layout
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/post6.png">
+        <img src="projects/<?php echo $project;?>/img/widget/post6.png">
   	</figure>
 
 <h6>Column</h6>
@@ -133,7 +133,7 @@ Posts module is a multipurpose tool, that can create attractive post grid layout
 
 <p><li><b>Border Type</b> — here you can select the type of the border from the dropdown menu. </li></p>
 
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 
 
@@ -143,7 +143,7 @@ Posts module is a multipurpose tool, that can create attractive post grid layout
 <ul class="marked-list">
 <p><li><b>Border Type</b> — here you can select the type of the border from the dropdown menu. </li></p>
 
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 
 <h5>Post Item Content </h5>
@@ -232,18 +232,18 @@ Posts module is a multipurpose tool, that can create attractive post grid layout
 <h6>Gradient Background Type</h6>
 
 <ul class="marked-list">
-<p><li><b>Color</b> — here you can set background color for the module using color picker tool.</li></p>
+<p><li><b>Color</b> — here you can set background color for the widget using color picker tool.</li></p>
 <p><li><b>Location</b> — here you can define the proportion for the first color in the gradient background. </li></p>
 <p><li><b>Second Color</b> — here you can set the second color to use in the gradient background. </li></p>
 <p><li><b>Location</b> — here you can define the proportion for the second color in the gradient background. </li></p>
 <p><li><b>Type</b> — define, if you want to use linear or radial type of the gradient. </li></p>
 <p><li><b>Angle</b> — in this block you can set the angle for the gradient (in degrees).</li></p>
 <p><li><b>Border Type</b> — here you can define the type of the border you need to use for the element. </li></p>
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 <p><li><b>Text Color</b> — here you need to define the color of the text of the Read More button.</li></p>
 <p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar for Title, Meta, Excerpt and Button blocks.</li></p>
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p>
 
 <p><li><b>Border Type</b> — here you can define the type of the border you need to use for the button. </li></p>
 
@@ -269,7 +269,7 @@ Posts module is a multipurpose tool, that can create attractive post grid layout
 <h6>Gradient Background Type</h6>
 
 <ul class="marked-list">
-<p><li><b>Color</b> — here you can set background color for the module using color picker tool.</li></p>
+<p><li><b>Color</b> — here you can set background color for the widget using color picker tool.</li></p>
 <p><li><b>Location</b> — here you can define the proportion for the first color in the gradient background. </li></p>
 <p><li><b>Second Color</b> — here you can set the second color to use in the gradient background. </li></p>
 <p><li><b>Location</b> — here you can define the proportion for the second color in the gradient background. </li></p>
@@ -283,7 +283,7 @@ Posts module is a multipurpose tool, that can create attractive post grid layout
 
 <p><li><b>Border Type</b> — here you can define the type of the border you need to use for the animated box. </li></p>
 
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 
 <h6>Prev Arrow Position</h6>
@@ -328,7 +328,7 @@ Posts module is a multipurpose tool, that can create attractive post grid layout
 <p><li><b>Border Type</b> — here you can define the type of the border you need to use for the Carousel Dots border. </li></p>
 
 
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p>
 
 <p><li><b>Gap</b> — here you can define the gap between pagination dots in pixels, or use controls to set it automatically.</li></p>
 

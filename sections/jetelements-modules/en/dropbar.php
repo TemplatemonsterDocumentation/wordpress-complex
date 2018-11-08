@@ -4,14 +4,14 @@
 Dropbar widget helps you to display additional information in compact form using Elementor templates or simple text.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/dropbar3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/dropbar3.png">
   	</figure>
 
 <h4>Content</h4>
 <h5>Dropbar</h5>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/dropbar1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/dropbar1.png">
   	</figure>
 
 
@@ -49,13 +49,13 @@ Dropbar widget helps you to display additional information in compact form using
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/dropbar2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/dropbar2.png">
   	</figure>
 
 <h5>Button</h5>
 
 <ul class="marked-list">
-<p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+<p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 <p><li><b>Icon Font Size</b> — here you can adjust the icon's size.</li></p>
 <p><li><b>Icon Spacing</b> — here it is available to define the space between the icon and the text on the button.
 
@@ -74,7 +74,7 @@ Dropbar widget helps you to display additional information in compact form using
 <p><li><b>Image</b> — here you can choose the image you want to use as a background. Select the image from the media library or upload it to define it as a background in this block. When the image is uploaded, you’ll be able to define its position, alignment, turn on repeat and set the necessary size.</li></p>
 <p><li><b>Text Color</b> — here you can define the suitable color for dropbar's text using color picker tool.</li></p>
 <p><li><b>Icon Color</b> — here you can define the icon's color using color picker tool.</li></p>
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 <h6>Gradient Background Type</h6>
 
@@ -86,7 +86,7 @@ Dropbar widget helps you to display additional information in compact form using
 <p><li><b>Type</b> — define, if you want to use linear or radial type of the gradient.</li></p>
 <p><li><b>Angle</b> — in this block you can set the angle for the gradient (in degrees).</li></p>
 <p><li><b>Text Color</b> — here you can define the suitable color for dropbar's text using color picker tool.</li></p>
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul></li></p></ul>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul></li></p></ul>
 
 <ul class="marked-list">
 
@@ -96,7 +96,7 @@ Dropbar widget helps you to display additional information in compact form using
 
 <p><li><b>Border Type</b> —  here you can define the type of the border you need to use for the element.</li></p>
 <p><li><b>Border Radius</b> — here you can set the border radius for the dropbar.</li></p>
-<p><li><b>Padding</b> — here you can set the preferable custom padding for the module. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p></ul>
+<p><li><b>Padding</b> — here you can set the preferable custom padding for the widget. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p></ul>
 
 <h5>Content</h5>
 
@@ -117,8 +117,8 @@ Dropbar widget helps you to display additional information in compact form using
 <p><li><b>Width</b> — define the width of the borders in the dropdown section.</li></p>
 <p><li><b>Color</b> — define the color of the borders in the dropdown section.</li></p>
 <p><li><b>Border Radius</b> — here you can set the radius of the borders in the dropdown section.</li></p>
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p>
-<p><li><b>Padding</b> — here you can set the preferable custom padding for the module. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p>
+<p><li><b>Padding</b> — here you can set the preferable custom padding for the widget. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
 <p><li><b>Z-Index</b> — you can specify the dropbar's content's stack order relatively to other elements on the page.</li></p></ul>
 
 
@@ -136,6 +136,6 @@ Dropbar widget helps you to display additional information in compact form using
 <p><li><b>Width</b> — define the width of the borders in the dropdown section.</li></p>
 <p><li><b>Color</b> — define the color of the borders in the dropdown section.</li></p>
 <p><li><b>Border Radius</b> — here you can set the radius of the borders in the dropdown section.</li></p>
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p>
-<p><li><b>Padding</b> — here you can set the preferable custom padding for the module. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p>
+<p><li><b>Padding</b> — here you can set the preferable custom padding for the widget. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
 <p><li><b>Z-Index</b> — you can specify the dropbar's content's stack order relatively to other elements on the page.</li></p></ul>

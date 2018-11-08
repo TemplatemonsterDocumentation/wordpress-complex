@@ -4,5 +4,5 @@
 
 
   <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/gen-set1.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/gen-set1.png">
     </figure>

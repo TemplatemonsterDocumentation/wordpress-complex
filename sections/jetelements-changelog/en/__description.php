@@ -222,18 +222,18 @@
 <h4>Version 1.6.0 (December 19, 2017)</h4>
 
 <ul class="marked-list">
-<p><li>Added new JetElements modules:
+<p><li>Added new JetElements widgets:
 <ul class="marked-list">
 <p><li>Subscribe form.</li></p></ul>
 </li></p>
 <p><li>Added parallax effect for section;</li></p>
-<p><li>Added fixes for Scroll Navigation module.</li></p>
+<p><li>Added fixes for Scroll Navigation widget.</li></p>
 </ul>
 
 <h4>Version 1.5.0 (November 22, 2017)</h4>
 
 <ul class="marked-list">
-<p><li>Added new JetElements modules:
+<p><li>Added new JetElements widgets:
 <ul class="marked-list">
 <p><li>Headline;</li></p>
 <p><li>Instagram Gallery;</li></p>
@@ -246,7 +246,7 @@
 <h4>Version 1.4.0 (November 7, 2017)</h4>
 
 <ul class="marked-list">
-<p><li>Added new JetElements modules:
+<p><li>Added new JetElements widgets:
 <ul class="marked-list">
 <p><li>Button;</li></p>
 <p><li>Image Comparison.</li></p></ul>
@@ -256,7 +256,7 @@
 <h4>Version 1.3.0 (October 26, 2017)</h4>
 
 <ul class="marked-list">
-<p><li>Added​ ​new​ ​JetElements​ ​modules:
+<p><li>Added​ ​new​ ​JetElements​ ​widgets:
 <ul class="marked-list">
 <p><li>Services;</li></p>
 <p><li>Team Member;</li></p>
@@ -292,14 +292,14 @@
 <h4>Version 1.1.0 (September 18, 2017)</h4>
 
 <ul class="marked-list">
-<p><li>Added new JetElements modules:
+<p><li>Added new JetElements widgets:
 <ul class="marked-list">
 <p><li>Slider;</li></p>
 <p><li>Images Layout (Justify, Masonry, Grid, List);</li></p>
 <p><li>Download Button;</li></p></ul>
 </li></p>
 
-<p><li>Added live demos for the following modules:
+<p><li>Added live demos for the following widgets:
 <ul class="marked-list">
 <p><li>WooCommerce Recent Products;</li></p>
 <p><li>WooCommerce Featured Products;</li></p>
@@ -326,5 +326,5 @@
 <p><li>Updated Framework;
 </li></p>
 
-<p><li>Changed Animated Box module performance for mobile devices.</li></p>
+<p><li>Changed Animated Box widget performance for mobile devices.</li></p>
 </ul>

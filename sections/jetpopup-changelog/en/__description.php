@@ -3,6 +3,13 @@
 <h5>In this block you can view the latest updates for JetPopup plugin.
  </h5>
 
+ <h4>Version 1.2.0 (November 7, 2018)</h4>
+
+<ul class="marked-list">
+<li>Added MailChimp widget;</li>
+<li>Added "Custom Selector" open event trigger.</li>
+</ul>
+
 <h4>Version 1.1.0 (September 18, 2018)</h4>
 
 <ul class="marked-list">

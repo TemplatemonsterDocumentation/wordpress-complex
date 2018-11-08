@@ -1,52 +1,52 @@
 <h2>Image Comparison</h2>
 
 <h6>
-Image Comparison module is the perfect tool that will assist you in creating slides with image comparisons (where two images are compared) in an attractive and stylish form.
+Image Comparison widget is the perfect tool that will assist you in creating slides with image comparisons (where two images are compared) in an attractive and stylish form.
 </h6>
 
-<h4>Image Comparison Module Sample</h4>
+<h4>Image Comparison widget Sample</h4>
 
-<h6>On the picture below you can view Image Comparison module sample.</h6>
+<h6>On the picture below you can view Image Comparison widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/compar1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/compar1.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/compar2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/compar2.png">
   	</figure>
 
 <ul class="marked-list">
-<p><li><b>Slides to show</b> - define the number of slides to show at one time. You can show up to 10 slides at one time, or set “1” to use the module as a simple slider.</li></p>
+<p><li><b>Slides to show</b> - define the number of slides to show at one time. You can show up to 10 slides at one time, or set “1” to use the widget as a simple slider.</li></p>
 <p><li><b>Slides to scroll</b> - here you can define how many slides you want to scroll.</li></p>
 <p><li><b>Pause on hover</b> - enable this option to pause Image Comparison slides whenever the visitor puts the mouse to the slider area.</li></p>
-<p><li><b>Autoplay</b> - here you can enable autoplay option for the Image Comparison module. If enabled, the option turns on switching from slide to slide automatically.</li></p>
+<p><li><b>Autoplay</b> - here you can enable autoplay option for the Image Comparison widget. If enabled, the option turns on switching from slide to slide automatically.</li></p>
 <p><li><b>Autoplay speed</b> -  here you can define the speed of switching from slide to slide (in ms).</li></p>
 <p><li><b>Infinite loop</b> - turn on the option if you want the slides to repeat.</li></p>
-<p><li><b>Effect</b> -  here you can choose one of the multiple effects from the dropdown list to use it for module animation.</li></p>
+<p><li><b>Effect</b> -  here you can choose one of the multiple effects from the dropdown list to use it for widget animation.</li></p>
 <p><li><b>Animation speed</b> -  here you can set the speed of switching between slides in ms.</li></p>
 <p><li><b>Show arrows navigation</b> -  enable this option if you’re using Image Comparison slider. The navigation arrows will be added to right and left sides of the slider.</li></p>
 <p><li><b>Show dots navigation</b> - enable this option if you’re using Image Comparison carousel.</li></p></ul>
 
 <h6>Items</h6>
 
-<p>Click <b>Add Item</b> button in order to create a new slide for the module. </p>
+<p>Click <b>Add Item</b> button in order to create a new slide for the widget. </p>
 
 <ul class="marked-list">
 <p><li><b>Before label</b> - type in the title for the <b>Before</b> image.</li></p>
-<p><li><b>Before image</b> - here you can select the <b>Before</b> image to use it in the Comparison module.</li></p>
+<p><li><b>Before image</b> - here you can select the <b>Before</b> image to use it in the Comparison widget.</li></p>
 <p><li><b>After label</b> - type in the title for the <b>After</b> image.</li></p>
-<p><li><b>After image</b> - here you can select the <b>After</b> image to use it in the Comparison module.</li></p></ul>
+<p><li><b>After image</b> - here you can select the <b>After</b> image to use it in the Comparison widget.</li></p></ul>
 
 
 
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/compar3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/compar3.png">
   	</figure>
 
 <h6>General</h6>
@@ -54,8 +54,8 @@ Image Comparison module is the perfect tool that will assist you in creating sli
 <ul class="marked-list">
 <p><li><b>Border type</b> - here you can define the type of the border you need to use for the element.</li></p>
 <p><li><b>Border radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p>
-<p><li><b>Padding</b> -  here you can set the preferable custom padding for the whole column where the module is displayed. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
-<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Padding</b> -  here you can set the preferable custom padding for the whole column where the widget is displayed. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
+<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 
 <h6>Label</h6>
@@ -64,8 +64,8 @@ Image Comparison module is the perfect tool that will assist you in creating sli
 
 <ul class="marked-list">
 <p><li><b>Color</b> - here you can set the text color for the image label.</li></p>
-<p><li><b>Typography</b> -  turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
-<p><li><b>Background type</b> -  in this block you can choose, whether you want to use classic or gradient type for the label background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements modules.</li></p>
+<p><li><b>Typography</b> -  turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
+<p><li><b>Background type</b> -  in this block you can choose, whether you want to use classic or gradient type for the label background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements widget.</li></p>
 <p><li><b>Margin</b> - input the values for the alerts margins in the required fields.</li></p>
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the labels. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
 <p><li><b>Horizontal alignment</b> - select central, left or right alignment for the label.</li></p>
@@ -84,9 +84,9 @@ Image Comparison module is the perfect tool that will assist you in creating sli
 <p>Switch between <b>Normal</b> and <b>Hover</b> blocks in order to customize the style for the handle when on hover or in the normal mode.</p>
 
 <ul class="marked-list">
-<p><li><b>Background type</b> -  in this block you can choose, whether you want to use classic or gradient type for the handle background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements modules.</li></p>
+<p><li><b>Background type</b> -  in this block you can choose, whether you want to use classic or gradient type for the handle background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements widget.</li></p>
 
-<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p>
+<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p>
 
 
 <p><li><b>Border radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p></ul>
@@ -122,13 +122,13 @@ Image Comparison module is the perfect tool that will assist you in creating sli
 
 <ul class="marked-list">
 <p><li><b>Font color</b> - here you can select the color to use for the navigation arrows using color picker tool.</li></p>
-<p><li><b>Background type</b> -  in this block you can choose, whether you want to use classic or gradient type for the harrows background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements modules.</li></p>
+<p><li><b>Background type</b> -  in this block you can choose, whether you want to use classic or gradient type for the harrows background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements widget.</li></p>
 
 <p><li><b>Font size</b> - here you need to specify the size of the arrows.</li></p>
 <p><li><b>Box size</b> - here you can set the size of the navigation arrow box.</li></p>
 <p><li><b>Border type</b> - here you can define the type of the border you need to use for the element.</li></p>
 <p><li><b>Border radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p>
-<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 
 

@@ -1,20 +1,20 @@
 <h2>Animated Text</h2>
 
 <h6>
-Animated Text module was specially devised to deliver your ideas in the form of attractively animated text. With the help of ths module you can add animated words and phrases to your website’s pages, customize them, and add plain text to complement animated text.
+Animated Text widget was specially devised to deliver your ideas in the form of attractively animated text. With the help of ths widget you can add animated words and phrases to your website’s pages, customize them, and add plain text to complement animated text.
 </h6>
 
-<h4>Animated Text Module Sample</h4>
+<h4>Animated Text Widget Sample</h4>
 
-<h6>On the picture below you can view Animated Text module sample.</h6>
+<h6>On the picture below you can view Animated Text widget sample.</h6>
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/text4.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/text4.png">
   	</figure>
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/text2.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/text2.png">
   	</figure>
 
 <h6>General</h6>
@@ -35,7 +35,7 @@ Animated Text module was specially devised to deliver your ideas in the form of 
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/text3.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/text3.png">
   	</figure>
 
 <p>In this block you can define styles for these blocks:</p>

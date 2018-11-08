@@ -10,13 +10,13 @@
 <h5>Cards</h5>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/htl1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/htl1.png">
   	</figure>
 
 <p>Click <b>Add Item</b> button in order to create a new event card in the Horizontal Timeline chain. After that, you'll be able to edit the event card, place content into it. You can add as many event cards as you need to make the event timelines longer or shorter.</p>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/htl2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/htl2.png">
   	</figure>
 
 
@@ -50,7 +50,7 @@
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/htl3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/htl3.png">
   	</figure>
 
 <h6>General</h6>
@@ -88,13 +88,13 @@
 	<p><li><b>Stretch Image</b> - enable this option if you want to stretch the image.</li></p>
 
 <p><b>Title</b></p>
-	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 	<p><li><b>Margin</b> - fill in the custom margin values to add a responsive margin around the title.</li></p>
 <p>Switch between <b>Normal</b>, <b>Hover</b> and <b>Active</b> editing modes in order to alter the appearance of the event card title on hover, when active and in the normal state.</p>
     <p><li><b>Color</b> - here you can select the color of the title.</li></p>
 
 <p><b>Description</b></p>
-	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 	<p><li><b>Margin</b> - fill in the custom margin values to add a responsive margin around the description.</li></p></ul>
 <p>Switch between <b>Normal</b>, <b>Hover</b> and <b>Active</b> editing modes in order to alter the appearance of the event card description on hover, when active and in the normal state.</p>
     <p><li><b>Color</b> - here you can select the color of the description text.</li></p>
@@ -108,7 +108,7 @@
 <h6>Meta</h6>
 
 <ul class="marked-list">
-	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 	<p><li><b>Border type</b> - here you can define the type of the border you need to use for the element.</li></p>
 	<p><li><b>Border Radius</b> - here you can set the radius for the meta border to make the border angles more round.</li></p>
 	<p><li><b>Padding</b> - type in the custom padding values to add the responsive padding for the block.</li></p>
@@ -123,7 +123,7 @@
 <p>Switch between <b>Text</b> and <b>Icon</b> modes in order to customize the appearance of the text point type or icon point type (depending on what type you've selected in Content block.</p>
 
 <ul class="marked-list">
-	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+	<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 	<p><li><b>Icon Size</b> - here you can specify the size of the icon which indicates the event on the timeline.</li></p>
 	<p><li><b>Point Size</b> - here you can specify the size of the point that marks the event on the timeline.</li></p>
 	<p><li><b>Offset</b> - here you can customize the horizontal offset of the point.</li></p>

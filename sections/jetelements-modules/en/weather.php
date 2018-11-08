@@ -4,19 +4,19 @@
 Weather widget allows adding weather forecasts to the pages built with Elementor and styling up the design of the weather block.
 </h6>
 
-<h4>Weather Module Sample</h4>
+<h4>Weather widget Sample</h4>
 
-<h6>On the picture below you can view Weather module sample.</h6>
+<h6>On the picture below you can view Weather widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/222.png">
+        <img src="projects/<?php echo $project;?>/img/widget/222.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/222-1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/222-1.png">
   	</figure>
 
 
@@ -40,7 +40,7 @@ Weather widget allows adding weather forecasts to the pages built with Elementor
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/222-2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/222-2.png">
   	</figure>
 
 <h5>Title</h5>
@@ -48,7 +48,7 @@ Weather widget allows adding weather forecasts to the pages built with Elementor
 <ul class="marked-list">
 
 <li><b>Color</b> – specify the color of the title with color picker tool.</li>
-<li><b>Typography</b> – turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li>
+<li><b>Typography</b> – turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li>
 <li><b>Alignment</b> – here you can set the weather region's alignment. It can be located on the left, in the center or on the right.</li>
 <li><b>Margin</b> – fill in the custom margin values to add a responsive margin around the block.</li>
 <li><b>Padding</b> – type in the custom padding values to add the responsive padding for the block.</li>
@@ -74,7 +74,7 @@ Weather widget allows adding weather forecasts to the pages built with Elementor
 <ul class="marked-list">
 
 <li><b>Color</b> – select the temperature’s color with color picker tool.</li>
-<li><b>Typography</b> – turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></ul>
+<li><b>Typography</b> – turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></ul>
 
 <h6>Icon</h6>
 
@@ -88,6 +88,6 @@ Weather widget allows adding weather forecasts to the pages built with Elementor
 <ul class="marked-list">
 
 <li><b>Color</b> – here you can choose the description’s color using color picker tool.</li>
-<li><b>Typography</b> – turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li>
+<li><b>Typography</b> – turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li>
 <li><b>Gap</b> – set the space between the description and the icon.</li></ul></li></ul>
 

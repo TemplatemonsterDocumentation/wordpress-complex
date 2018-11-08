@@ -1,20 +1,20 @@
 <h2>Countdown Timer</h2>
 
 <h6>
-Countdown Timer module is a helpful tool if you need to embed a timer with a countdown to your website’s page. The module has multiple settings, such as digits color, font, and custom background for the timer.
+Countdown Timer widget is a helpful tool if you need to embed a timer with a countdown to your website’s page. The widget has multiple settings, such as digits color, font, and custom background for the timer.
 </h6>
 
-<h4>Countdown Timer Module Sample</h4>
+<h4>Countdown Timer widget Sample</h4>
 
-<h6>On the picture below you can view Countdown Timer module sample.</h6>
+<h6>On the picture below you can view Countdown Timer widget sample.</h6>
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/count4.png">
+        <img src="projects/<?php echo $project;?>/img/widget/count4.png">
   	</figure>
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/count2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/count2.png">
   	</figure>
 <ul class="marked-list">
 <p><li><b>Due Date</b> — here you need to input the date to finish the countdown according to your time zone. </li></p>
@@ -34,7 +34,7 @@ Countdown Timer module is a helpful tool if you need to embed a timer with a cou
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/count3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/count3.png">
   	</figure>
 
 <h6>Item Styles</h6>
@@ -77,7 +77,7 @@ Countdown Timer module is a helpful tool if you need to embed a timer with a cou
 <p><li><b>Border Type</b> — here you can define the type of the border you need to use for the animated box. </li></p>
 
 
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 <h6>Labels</h6>
 
@@ -95,7 +95,7 @@ Countdown Timer module is a helpful tool if you need to embed a timer with a cou
 <p><li><b>Line Height</b> — in this field you can set the height of the countdown timer text line.</li></p>
 <p><li><b>Letter Spacing</b> — here you can set the space between letters.</li></p></ul></li></p>
 
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p>
 
 </ul>
 

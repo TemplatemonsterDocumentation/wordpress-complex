@@ -5,13 +5,13 @@
 <p>In the picture below you can see the Video widget sample.
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/video3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/video3.png">
   	</figure></p>
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/video1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/video1.png">
   	</figure>
 
 <h5>Video</h5>
@@ -91,7 +91,7 @@
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/video2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/video2.png">
   	</figure>
 
 <h5>Video</h5>
@@ -111,8 +111,8 @@
 <p>Switch between the Normal and Hover modes to customize the appearance of the Play button in its normal state and when one hovers over it.</p>
 
 <p><li><b>Color</b> - define the “play” button color with the help of the color picker tool.</li></p>
-<p><li><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the “Play” button background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements modules.</li></p>
-<p><li><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p>
+<p><li><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the “Play” button background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements widget.</li></p>
+<p><li><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p>
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the widget. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
 <p><li><b>Border Type</b> - here you can define the type of the border you need to use for the “Play” button.</li></p>
 <p><li><b>Border Radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p></ul>
@@ -121,7 +121,7 @@
 
 <ul class="marked-list">
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the widget. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
-<p><li><b>Background type</b> - in this block you can choose, whether you want to use classic or gradient type for the “Play” button background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements modules.</li></p>
+<p><li><b>Background type</b> - in this block you can choose, whether you want to use classic or gradient type for the “Play” button background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements widget.</li></p>
 <p><li><b>Border Type</b> - here you can define the type of the border you need to use for the player controls container.</li></p></ul>
 
 <h5>Player Play-Pause Button and Time</h5>
@@ -136,7 +136,7 @@
 <p><li><b>Margin</b> - input the values for the headline margins in the required fields.</li></p>
 <p><li><b>Border Radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p>
 <p><li><b>Border Type</b> - here you can define the type of the border you need to use for the “Play-Pause” button.</li></p>
-<p><li><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 <h6>Time</h6>
 
@@ -152,7 +152,7 @@
 
 <ul class="marked-list">
 <p><li><b>Height</b> - here you can select the height value (in pixels) for the total progress bar.</li></p>
-<p><li><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the “Play” button background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements modules.</li></p>
+<p><li><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the “Play” button background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements widget.</li></p>
 <p><li><b>Border Type</b> - here you can define the type of the border you need to use for the total progress bar.</li></p>
 <p><li><b>Border Radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p>
 <p><li><b>Margin</b> - input the values for the total progress bar margins in the required fields.</li></p></ul>
@@ -160,7 +160,7 @@
 <h6>Current Progress Bar</h6>
 
 <ul class="marked-list">
-<p><li><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the “Play” button background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements modules.</li></p>
+<p><li><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the “Play” button background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements widget.</li></p>
 <p><li><b>Border Radius</b> -  here you can set the border radius to make the angles more smooth and round.</li></p></ul>
 
 <h5>Player Volume</h5>
@@ -174,7 +174,7 @@
 <p><li><b>Margin</b> - input the values for the “Volume” button margins in the required fields.</li></p>
 <p><li><b>Border Radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p>
 <p><li><b>Border Type</b> - here you can define the type of the border you need to use for the “Volume” button.</li></p>
-<p><li><b>Box Shadow</b> -  enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box Shadow</b> -  enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 <h6>Volume Slider</h6>
 
@@ -186,14 +186,14 @@
 <ul class="marked-list">
 <p><li><b>Width</b> - specify the preferable width of the total volume bar in pixels.</li></p>
 <p><li><b>Height</b> - here you can select the height value (in pixels) for the total volume bar.</li></p>
-<p><li><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the “Play” button background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements modules.</li></p>
+<p><li><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the “Play” button background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements widget.</li></p>
 <p><li><b>Border Type</b> - here you can define the type of the border you need to use for the total volume bar.</li></p>
 <p><li><b>Border Radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p></ul>
 
 <h6>Current Volume Bar</h6>
 
 <ul class="marked-list">
-<p><li><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the “Play” button background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements modules.</li></p>
+<p><li><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the “Play” button background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements widget.</li></p>
 <p><li><b>Border Radius</b> -  here you can set the border radius to make the angles more smooth and round.</li></p></ul>
 
 <h5>Player Fullscreen Button</h5>

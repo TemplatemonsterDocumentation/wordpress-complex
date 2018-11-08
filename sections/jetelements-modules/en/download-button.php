@@ -3,22 +3,22 @@
 
 
 <h6>
-Download Button module will assist You in creating versatile buttons that will allow the visitors downloading files in one click! You won't need to install additional plugins to add this kind of functionality to the website! All You need is to use Download Button module and have the file stored in the Media Library!
+Download Button widget will assist You in creating versatile buttons that will allow the visitors downloading files in one click! You won't need to install additional plugins to add this kind of functionality to the website! All You need is to use Download Button widget and have the file stored in the Media Library!
 </h6>
 
-<h4>Download Button Module Sample</h4>
+<h4>Download Button widget Sample</h4>
 
-<h6>On the picture below you can view Download Button module sample.</h6>
+<h6>On the picture below you can view Download Button widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/db3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/db3.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/db1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/db1.png">
   	</figure>
 
 <ul class="marked-list">
@@ -30,10 +30,10 @@ Download Button module will assist You in creating versatile buttons that will a
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/db2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/db2.png">
   	</figure>
 
-<p>In this block, you can change style and appearance settings for Download Button module, define item padding, alignment, additional elements color, etc. </p>
+<p>In this block, you can change style and appearance settings for Download Button widget, define item padding, alignment, additional elements color, etc. </p>
 
 
 <h6>Button</h6>
@@ -93,4 +93,4 @@ Download Button module will assist You in creating versatile buttons that will a
 </ul>
 
 
-<p><li><b>Padding</b> — here you can set the preferable custom padding for the whole column where the module is displayed. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding. </li></p></ul>
+<p><li><b>Padding</b> — here you can set the preferable custom padding for the whole column where the widget is displayed. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding. </li></p></ul>

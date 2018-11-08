@@ -5,6 +5,6 @@
 <p>To access JetElements settings you need to navigate to <b>Elementor > JetElements Settings</b> in your Dashboard.</p>
 
   <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/set1.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/set1.png">
     </figure>
 

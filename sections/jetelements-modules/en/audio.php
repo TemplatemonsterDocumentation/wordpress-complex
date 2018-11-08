@@ -6,7 +6,7 @@
 
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/audio3.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/audio3.png">
   	</figure>
 
   	</p>
@@ -14,7 +14,7 @@
 <h4>Content </h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/audio1.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/audio1.png">
   	</figure>
 
 <h5>Audio </h5>
@@ -45,7 +45,7 @@
 <h4>Style </h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/audio2.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/audio2.png">
   	</figure>
 
 

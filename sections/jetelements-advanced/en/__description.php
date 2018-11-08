@@ -1,6 +1,6 @@
 <h3>Advanced Settings</h3>
 
-<h5>In this block you can access advanced appearance settings for the modules, define module margins and padding, entrance animation, change the background for the whole module, etc.
+<h5>In this block you can access advanced appearance settings for the widgets, define widget margins and padding, entrance animation, change the background for the whole widget, etc.
 </h5>
 
 <h4>Element Style</h4>
@@ -10,20 +10,20 @@
   	</figure>
 
 <ul class="marked-list">
-<p><li><b>Margin</b> — in this block you can input the values (in pixels) to define the margins for the module you're customizing.</li></p>
-<p><li><b>Padding</b>— here you can set the custom padding for the module. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
-<p><li><b>Z-index</b>— input the value of the z-index to use it for the module.</li></p>
-<p><li><b>Entrance Animation</b>- choose from the dropdown menu one of the styles for the module to appear on the page.</li></p>
-<p><li><b>Animation Duration</b> — here you can define the time during which the module will appear on the page. It can be normal, slow or fast. Choose the one you need from the dropdown menu.</li></p>
+<p><li><b>Margin</b> — in this block you can input the values (in pixels) to define the margins for the widget you're customizing.</li></p>
+<p><li><b>Padding</b>— here you can set the custom padding for the widget. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
+<p><li><b>Z-index</b>— input the value of the z-index to use it for the widget.</li></p>
+<p><li><b>Entrance Animation</b>- choose from the dropdown menu one of the styles for the widget to appear on the page.</li></p>
+<p><li><b>Animation Duration</b> — here you can define the time during which the widget will appear on the page. It can be normal, slow or fast. Choose the one you need from the dropdown menu.</li></p>
 <p><li><b>Animation Delay (ms)</b> — input the value (in ms) for the animation delay.</li></p>
-<p><li><b>CSS Classes</b> — here you can define the CSS class for the module.</li></p></ul>
+<p><li><b>CSS Classes</b> — here you can define the CSS class for the widget.</li></p></ul>
 
 <h4>Background</h4>
 
 <p>Here you can switch from customizing Normal to Hover background style settings. Just click on the button Hover to proceed to customizing hover elements. </p>
 
 <ul class="marked-list">
-<p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the module background. The customization options vary for each type.</li></p></ul>
+<p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the widget background. The customization options vary for each type.</li></p></ul>
 
 <h4>Classic Background Type</h4>
 
@@ -42,7 +42,7 @@
   	</figure>
 
 <ul class="marked-list">
-<p><li><b>Color</b> — here you can set background color for the module using color picker tool.</li></p>
+<p><li><b>Color</b> — here you can set background color for the widget using color picker tool.</li></p>
 <p><li><b>Location</b> — here you can define the proportion for the first color in the gradient background.</li></p>
 <p><li><b>Second Color</b> — here you can set the second color to use in the gradient background.</li></p>
 <p><li><b>Location</b> — here you can define the proportion for the second color in the gradient background.</li></p>
@@ -65,7 +65,7 @@
 <li>dotted;</li>
 <li>dashed.</li></ul>
 <p><b>Border Radius</b> — here you can select the radius for the applied border (in pixels). </p>
-<p><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it. </p>
+<p><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it. </p>
 
 
  	<figure class="img-polaroid">
@@ -79,5 +79,5 @@
 <li><b>spread</b> — here you can set how large the shadow will be;</li>
 <li><b>horizontal</b> — here you can move the shadow horizontally (from right to left);</li>
 <li><b>vertical</b> — here you can move the shadow vertically (from top to bottom);</li>
-<li><b>position</b> — here you need to choose, whether you want the shadow to outline the module, or to be inset. </li></ul>
+<li><b>position</b> — here you need to choose, whether you want the shadow to outline the widget, or to be inset. </li></ul>
 

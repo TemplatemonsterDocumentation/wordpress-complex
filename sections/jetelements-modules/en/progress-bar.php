@@ -11,14 +11,14 @@ Progress Bar widget is the best option for those who want to create the stylish 
 <h6>On the picture below you can view Progress Bar widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/pb1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/pb1.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/pb2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/pb2.png">
   	</figure>
 
 <h6>Progress Bar
@@ -44,7 +44,7 @@ Progress Bar widget is the best option for those who want to create the stylish 
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/pb3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/pb3.png">
   	</figure>
 
 <h6>Progress Bar</h6>

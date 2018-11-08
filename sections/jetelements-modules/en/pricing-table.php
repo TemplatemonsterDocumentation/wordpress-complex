@@ -1,22 +1,22 @@
 <h2>Pricing Table</h2>
 
 <h6>
-Pricing Table module is helpful when you need to showcase the prices and services your company provides in an attractive and clear way.  The module has multiple options, versatile customization settings and is easy to use.
+Pricing Table widget is helpful when you need to showcase the prices and services your company provides in an attractive and clear way.  The widget has multiple options, versatile customization settings and is easy to use.
 </h6>
 
-<h4>Pricing Table Module Sample</h4>
+<h4>Pricing Table widget Sample</h4>
 
-<h6>On the picture below you can view Pricing Table module sample.</h6>
+<h6>On the picture below you can view Pricing Table widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/price4.png">
+        <img src="projects/<?php echo $project;?>/img/widget/price4.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/price2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/price2.png">
   	</figure>
 
 
@@ -25,8 +25,8 @@ Pricing Table module is helpful when you need to showcase the prices and service
 <p>In this block you can customize Pricing Table general content settings.</p>
 
 <ul class="marked-list">
-<p><li><b>Icon</b> — here you can select the suitable icon to use in the module. Select one of the available icons from the dropdown list. </li></p>
-<p><li><b>Title</b> — fill in the field with the Pricing Table module title.</li></p>
+<p><li><b>Icon</b> — here you can select the suitable icon to use in the widget. Select one of the available icons from the dropdown list. </li></p>
+<p><li><b>Title</b> — fill in the field with the Pricing Table widget title.</li></p>
 <p><li><b>Subtitle</b> — here you should enter the subtitle for the pricing table.</li></p>
 <p><li><b>Is Featured?</b> — turn on the option if you need to apply additional featured badge, use a custom position of the featured badge, etc.
 
@@ -56,7 +56,7 @@ Pricing Table module is helpful when you need to showcase the prices and service
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/price3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/price3.png">
   	</figure>
 
 
@@ -81,14 +81,14 @@ Pricing Table module is helpful when you need to showcase the prices and service
 
 
 <ul class="marked-list">
-<p><li><b>Color</b> — here you can set background color for the module using color picker tool.</li></p>
+<p><li><b>Color</b> — here you can set background color for the widget using color picker tool.</li></p>
 <p><li><b>Location</b> — here you can define the proportion for the first color in the gradient background.</li></p>
 <p><li><b>Second Color</b> — here you can set the second color to use in the gradient background.</li></p>
 <p><li><b>Location</b> — here you can define the proportion for the second color in the gradient background.</li></p>
 <p><li><b>Type</b> — define, if you want to use linear or radial type of the gradient.</li></p>
 <p><li><b>Angle</b> — in this block you can set the angle for the gradient (in degrees).</li></p>
 <p><li><b>Border Type</b> — here you can define the type of the border you need to use for the element.</li></p>
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul></li></p></ul>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul></li></p></ul>
 
 
 <h6>Header</h6>
@@ -123,7 +123,7 @@ Pricing Table module is helpful when you need to showcase the prices and service
 
 
 <ul class="marked-list">
-<p><li><b>Font Color</b> — here you can set icon font color for the module using color picker tool.</li></p>
+<p><li><b>Font Color</b> — here you can set icon font color for the widget using color picker tool.</li></p>
 <p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the pricing table background. The customization options vary for each type.
 
 <h6>Classic Background Type</h6>
@@ -136,7 +136,7 @@ Pricing Table module is helpful when you need to showcase the prices and service
 
 
 <ul class="marked-list">
-<p><li><b>Color</b> — here you can set background color for the module using color picker tool.</li></p>
+<p><li><b>Color</b> — here you can set background color for the widget using color picker tool.</li></p>
 <p><li><b>Location</b> — here you can define the proportion for the first color in the gradient background.</li></p>
 <p><li><b>Second Color</b> — here you can set the second color to use in the gradient background.</li></p>
 <p><li><b>Location</b> — here you can define the proportion for the second color in the gradient background.</li></p>
@@ -218,4 +218,4 @@ Pricing Table module is helpful when you need to showcase the prices and service
 <p><li><b>Text Color</b> — use color picker tool to set the preferable color for the button text.</li></p>
 <p><li><b>Typography</b> — turn the option on to view the typography settings. The typography settings are similar for Title, Subtitle, Pricing, Features, Action Box and Action Button blocks.</li></p>
 <p><li><b>Border Type</b> — here you can define the type of the border you need to use for the element.</li></p>
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>

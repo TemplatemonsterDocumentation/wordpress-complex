@@ -3,27 +3,27 @@
 
 
 <h6>
-Advanced Carousel module displays slides in an attractive way. You can display from 1 to 10 slides at one time using Advanced Carousel module, set versatile animation options, create vivid backgrounds, enrich slides content with attractive typography. And you can create as many slides as you need to.
+Advanced Carousel widget displays slides in an attractive way. You can display from 1 to 10 slides at one time using Advanced Carousel widget, set versatile animation options, create vivid backgrounds, enrich slides content with attractive typography. And you can create as many slides as you need to.
 </h6>
 
-<h4>Advanced Carousel Module Sample</h4>
+<h4>Advanced Carousel Widget Sample</h4>
 
-<h6>On the picture below you can view Advanced Carousel module sample.</h6>
+<h6>On the picture below you can view Advanced Carousel widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/carous4.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/carous4.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/carous2.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/carous2.png">
   	</figure>
 
 <h6>Slides</h6>
 
-<p>Slides are called Items in this block. Click on the button <b>Add item</b> to add new slides to the Advanced Carousel module. You can add as many slides as you want, and customize each one of them. Click on the newly added item to customize it.</p>
+<p>Slides are called Items in this block. Click on the button <b>Add item</b> to add new slides to the Advanced Carousel widget. You can add as many slides as you want, and customize each one of them. Click on the newly added item to customize it.</p>
 
 <ul class="marked-list">
 <p><li><b>Choose Your Image</b> — click on the block to choose the image you want to use for this  particular slide. You can choose it from the existing media library or upload it from your hard drive.</li></p>
@@ -39,11 +39,11 @@ Advanced Carousel module displays slides in an attractive way. You can display f
 <p><li><b>Items Layout</b> — here you need to define the the layout in which the slides will be shown. You can apply Simple layout or Banners layout to display slides and its content in different ways.</li></p>
 <p><li><b>Equal Columns Height</b> — here you can enable or disable the equal columns height option to apply the same height for the columns.</li></p>
 <p><li><b>Animation Effect</b> — here you can change animation effect for the slides. Choose one of the effects from the dropdown menu to change current animation effects. </li></p>
-<p><li><b>Slides to Show</b> — define the number of slides to show at one time. You can show up to 10 slides at one time, or set “1” to use the module as a simple slider.</li></p>
+<p><li><b>Slides to Show</b> — define the number of slides to show at one time. You can show up to 10 slides at one time, or set “1” to use the widget as a simple slider.</li></p>
 <p><li><b>Slides to Scroll</b> — here you can define how many slides you want to scroll.</li></p>
 <p><li><b>Show Arrows Navigation</b> — in this block you can add navigation arrows to the sides of the slides to provide easy switching from slide to slide for the visitors. </li></p>
-<p><li><b>Prev Arrow Icon</b> — here you can select the type of the arrow icon, that switches slider module to previous slide. </li></p>
-<p><li><b>Next Arrow Icon</b> — here you can select the type of the arrow icon, that switches slider module to next slide. </li></p>
+<p><li><b>Prev Arrow Icon</b> — here you can select the type of the arrow icon, that switches slider widget to previous slide. </li></p>
+<p><li><b>Next Arrow Icon</b> — here you can select the type of the arrow icon, that switches slider widget to next slide. </li></p>
 <p><li><b>Show Dots Navigation</b> — here you can enable pagination dots at the bottom of the Advanced Carousel to provide smoother navigation from slide to slide. </li></p></ul>
 
 <h6>Additional Options</h6>
@@ -58,16 +58,16 @@ Advanced Carousel module displays slides in an attractive way. You can display f
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/carous3.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/carous3.png">
   	</figure>
 
-<p>In this block you can change style and appearance settings for Advanced Carousel module, define items padding, alignment, additional elements color, etc. </p>
+<p>In this block you can change style and appearance settings for Advanced Carousel widget, define items padding, alignment, additional elements color, etc. </p>
 
 
 <h6>Column</h6>
 
 <ul class="marked-list">
-<p><li><b>Column Padding</b> — here you can set the preferable custom padding for the whole column where Advanced Carousel module is displayed. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding. </li></p></ul>
+<p><li><b>Column Padding</b> — here you can set the preferable custom padding for the whole column where Advanced Carousel widget is displayed. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding. </li></p></ul>
 
 <h6>Simple Items</h6>
 
@@ -100,7 +100,7 @@ Advanced Carousel module displays slides in an attractive way. You can display f
 
 
 <p><li><b>Border Type</b> — here you can define the type of the border you need to use for the element. </li></p>
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 <b>Shadow Settings:</b>
 
@@ -213,7 +213,7 @@ Advanced Carousel module displays slides in an attractive way. You can display f
 <p><li><b>Border Type</b> — here you can define the type of the border you need to use for the Carousel Dots border. </li></p>
 
 
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p>
 
 <p><li><b>Gap</b> — here you can define the gap between pagination dots in pixels, or use controls to set it automatically.</li></p>
 

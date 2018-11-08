@@ -2,21 +2,21 @@
 
 
 <h6>
-Advanced Map module is the perfect solution if you need to display a map on your website, and add pins to it to locate the places. You can add multiple pins, change map style, enable switching from satellite to map view. The module is easily customizable and has clear user interface.
+Advanced Map widget is the perfect solution if you need to display a map on your website, and add pins to it to locate the places. You can add multiple pins, change map style, enable switching from satellite to map view. The widget is easily customizable and has clear user interface.
 </h6>
 
-<h4>Advanced Map Module Sample</h4>
+<h4>Advanced Map Widget Sample</h4>
 
-<h6>On the picture below you can view Advanced Map module sample.</h6>
+<h6>On the picture below you can view Advanced Map widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/map3.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/map3.png">
   	</figure>
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/map2.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/map2.png">
   	</figure>
 
 
@@ -50,14 +50,14 @@ Advanced Map module is the perfect solution if you need to display a map on your
 <p><li><b>Initial Size</b> — here you can choose, if you want the initial size to be visible or hidden. </li></p></ul>
 
 
-<h4>Adding API Key to Advanced Map Module</h4>
+<h4>Adding API Key to Advanced Map Widget</h4>
 
 <ul class="marked-list">
 <p><li>To add an API key please navigate to <b>Elementor > Jet Elements Settings</b> tab on the left of the Dashboard.</li></p>
 
 <p><li>Here you need to paste <b>API key</b> to the <b>API Key</b> field.</li></p>
 
-<p><li>Let's get <b>API key</b> for the map module. Go to <b>Google Developers</b> page and select <b>Maps Embed API</b>.</li></p>
+<p><li>Let's get <b>API key</b> for the map widget. Go to <b>Google Developers</b> page and select <b>Maps Embed API</b>.</li></p>
 
 <p><li>Here click on <b>Create Key</b> button and select the project to which you want to add a key. If you still don't have any projects, click on <b>Create a New Project</b> button.</li></p>
 

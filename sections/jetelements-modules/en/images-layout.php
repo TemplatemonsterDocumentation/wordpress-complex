@@ -3,33 +3,33 @@
 
 
 <h6>
-Images Layout module displays images using different eye-catching layout types, such as Masonry, Justify, Grid or List. Add images and customize layouts in several clicks to get the stunning results and adorn Your website pages with beautiful imagery!
+Images Layout widget displays images using different eye-catching layout types, such as Masonry, Justify, Grid or List. Add images and customize layouts in several clicks to get the stunning results and adorn Your website pages with beautiful imagery!
 </h6>
 
 
 
 
 
-<h4>Images Layout Module Sample</h4>
+<h4>Images Layout widget Sample</h4>
 
-<h6>On the picture below you can view Images Layout module sample.</h6>
+<h6>On the picture below you can view Images Layout widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/il3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/il3.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/il1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/il1.png">
   	</figure>
 
 <h6>Settings</h6>
 
 <ul class="marked-list">
-<p><li><b>Layout type</b> — here you can select one of several image layouts available for this module (Masonry, Grid, Justify, Grid, List).</li></p>
-<p><li><b>Columns</b> — here you can select the number of columns to display the images in this module.</li></p>
+<p><li><b>Layout type</b> — here you can select one of several image layouts available for this widget (Masonry, Grid, Justify, Grid, List).</li></p>
+<p><li><b>Columns</b> — here you can select the number of columns to display the images in this widget.</li></p>
 
 <h6>Items</h6>
 
@@ -44,29 +44,29 @@ Images Layout module displays images using different eye-catching layout types, 
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/il2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/il2.png">
   	</figure>
 
-<p>In this block, you can change style and appearance settings for Image Layout module, define items padding, alignment, additional elements color, etc. </p>
+<p>In this block, you can change style and appearance settings for Image Layout widget, define items padding, alignment, additional elements color, etc. </p>
 
 
 <h6>General</h6>
 
 <ul class="marked-list">
 <p><li><b>Items Margin</b> — drag the controller rightwards and leftwards to specify the preferable items margin. </li></p>
-<p><li><b>Border Type</b> — here you can define the needed border type for the module. It can be dotted, dashed, double or solid. </li></p>
+<p><li><b>Border Type</b> — here you can define the needed border type for the widget. It can be dotted, dashed, double or solid. </li></p>
 <p><li><b>Border Radius</b> — here you can define the values for the radius of the selected border. </li></p>
-<p><li><b>Padding</b> — here you can set the preferable custom padding for the module is displayed. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding. </li></p>
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Padding</b> — here you can set the preferable custom padding for the widget is displayed. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding. </li></p>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 
 <h6>Icon</h6>
 
 <ul class="marked-list">
-<p><li><b>Icon Color</b> — here you can set the color of the module icons using color picker tool.</li></p>
+<p><li><b>Icon Color</b> — here you can set the color of the widget icons using color picker tool.</li></p>
 <p><li><b>Icon Background Color</b> — here you can set the background color for the icon using color picker tool.</li></p>
 <p><li><b>Font Size</b> — here you can define the font size of the icon symbol.</li></p>
-<p><li><b>Box Size</b> — define the box size of the module icon.</li></p>
+<p><li><b>Box Size</b> — define the box size of the widget icon.</li></p>
 <p><li><b>Border Type</b> — here you can define the type of the border you need to use for the icon element. </li></p>
 <p><li><b>Border Radius</b> — here you can define the values for the radius of the selected icon border. </li></p>
 <p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for the icon, and need to apply shadow for it.</li></p>
@@ -78,7 +78,7 @@ Images Layout module displays images using different eye-catching layout types, 
 
 
 <ul class="marked-list">
-<p><li><b>Color</b> — here you can set the color of the module titles using color picker tool.</li></p>
+<p><li><b>Color</b> — here you can set the color of the widget titles using color picker tool.</li></p>
 <p><li><b>Typography</b> — turn the option on to view the typography settings.</li></p>
 
 <p><li><b>Padding</b> — here you can set the preferable custom padding for the titles. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding. </li></p>
@@ -89,7 +89,7 @@ Images Layout module displays images using different eye-catching layout types, 
 
 
 <ul class="marked-list">
-<p><li><b>Color</b> — here you can set the color of the module descriptions using color picker tool.</li></p>
+<p><li><b>Color</b> — here you can set the color of the widget descriptions using color picker tool.</li></p>
 <p><li><b>Typography</b> — turn the option on to view the typography settings.</li></p>
 
 <p><li><b>Padding</b> — here you can set the preferable custom padding for the descriptions. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding. </li></p>
@@ -100,7 +100,7 @@ Images Layout module displays images using different eye-catching layout types, 
 
 
 <ul class="marked-list">
-<p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the module overlay. The customization options vary for each type. </li></p></ul>
+<p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the widget overlay. The customization options vary for each type. </li></p></ul>
 
 <h6>Classic Background Type</h6>
 

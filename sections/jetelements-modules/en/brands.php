@@ -1,22 +1,22 @@
 <h2>Brands</h2>
 
 <h6>
-Brands module helps you to showcase brands and companies on your website’s page. You can add brands, visualize them using brand logos, apply links to them and customize them in the matter of several clicks.
+Brands widget helps you to showcase brands and companies on your website’s page. You can add brands, visualize them using brand logos, apply links to them and customize them in the matter of several clicks.
 </h6>
 
-<h4>Brands Module Sample</h4>
+<h4>Brands widget Sample</h4>
 
-<h6>On the picture below you can view Brands module sample.</h6>
+<h6>On the picture below you can view Brands widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/brand3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/brand3.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/brand2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/brand2.png">
   	</figure>
 
 <ul class="marked-list">
@@ -36,7 +36,7 @@ Brands module helps you to showcase brands and companies on your website’s pag
 
 <p><li><b>Border Type</b> — here you can define the type of the border you need to use for the company logo. </li></p>
 
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p>
 
 <p><li><b>Alignment</b> — here you can define the preferable logo alignment. The logo can be placed to the left, to the right, or remain centered. </li></p></ul>
 

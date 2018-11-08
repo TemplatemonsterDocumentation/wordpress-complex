@@ -2,22 +2,22 @@
 
 
 <h6>
-Animated Box module creates an attractive info block on the website’s page, which consists of two sides, that switch from one to other. Here you can add icons, buttons, titles and content. Every element is easily customizable.
+Animated Box widget creates an attractive info block on the website’s page, which consists of two sides, that switch from one to other. Here you can add icons, buttons, titles and content. Every element is easily customizable.
 </h6>
 
-<h4>Animated Box Module Sample</h4>
+<h4>Animated Box widget Sample</h4>
 
-<h6>On the picture below you can view Animated Box module sample.</h6>
+<h6>On the picture below you can view Animated Box widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/box4.png">
+        <img src="projects/<?php echo $project;?>/img/widget/box4.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/box2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/box2.png">
   	</figure>
 
 <h6>Front Side Content</h6>
@@ -46,21 +46,21 @@ Animated Box module creates an attractive info block on the website’s page, wh
 <h6>Settings</h6>
 
 <ul class="marked-list">
-<p><li><b>Animation Effect</b> — here you can choose one of the multiple effects from the dropdown list to use it for module animation. The effect will define how the front side of the box will switch to the back side. </li></p></ul>
+<p><li><b>Animation Effect</b> — here you can choose one of the multiple effects from the dropdown list to use it for widget animation. The effect will define how the front side of the box will switch to the back side. </li></p></ul>
 
 
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/box3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/box3.png">
   	</figure>
 
 <h6>General </h6>
 
-<p>Here you can switch from customizing Front to Back Animated Box settings. Just click on the button Back to proceed to customizing the back side of the Animated Box module elements. </p>
+<p>Here you can switch from customizing Front to Back Animated Box settings. Just click on the button Back to proceed to customizing the back side of the Animated Box widget elements. </p>
 
 <ul class="marked-list">
-<p><li><b>Height</b> — here you can select the height value (in pixels) for the animated box module. The height is the general parameter for the front and back sides of the Animated Box. </li></p>
+<p><li><b>Height</b> — here you can select the height value (in pixels) for the animated box widget. The height is the general parameter for the front and back sides of the Animated Box. </li></p>
 <p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the animated box background. The customization options vary for each type. </li></p></ul>
 
 <h6>Classic Background Type</h6>
@@ -72,14 +72,14 @@ Animated Box module creates an attractive info block on the website’s page, wh
 <h6>Gradient Background Type</h6>
 
 <ul class="marked-list">
-<p><li><b>Color</b> — here you can set background color for the module using color picker tool.</li></p>
+<p><li><b>Color</b> — here you can set background color for the widget using color picker tool.</li></p>
 <p><li><b>Location</b> — here you can define the proportion for the first color in the gradient background. </li></p>
 <p><li><b>Second Color</b> — here you can set the second color to use in the gradient background. </li></p>
 <p><li><b>Location</b> — here you can define the proportion for the second color in the gradient background. </li></p>
 <p><li><b>Type</b> — define, if you want to use linear or radial type of the gradient. </li></p>
 <p><li><b>Angle</b> — in this block you can set the angle for the gradient (in degrees).</li></p>
 <p><li><b>Border Type</b> — here you can define the type of the border you need to use for the animated box. </li></p>
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 <b>Shadow Settings:</b>
 
@@ -111,7 +111,7 @@ Animated Box module creates an attractive info block on the website’s page, wh
 <li><b>dashed.</b></li></ul>
 
 <ul class="marked-list">
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p>
 <p><li><b>Alignment</b> — here you can define the preferable icon alignment. The icon can be placed to the left, to the right, or remain centered. </li></p></ul>
 
 <h6>Title</h6>
@@ -178,7 +178,7 @@ Animated Box module creates an attractive info block on the website’s page, wh
 <p><li><b>Text Color</b> — in this block you need to select the preferable color for the button text.</li></p>
 <p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to Description Typography options.</li></p>
 <p><li><b>Border Type</b> — here you can select the type of the border from the dropdown menu.</li></p>
-<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.
 </li></p></ul>
 
 <h6>Overlay</h6>
@@ -201,7 +201,7 @@ Animated Box module creates an attractive info block on the website’s page, wh
 
 
 <ul class="marked-list">
-<p><li><b>Color</b> — here you can set background color for the module using color picker tool.</li></p>
+<p><li><b>Color</b> — here you can set background color for the widget using color picker tool.</li></p>
 <p><li><b>Location</b> — here you can define the proportion for the first color in the gradient background.</li></p>
 <p><li><b>Second Color</b> — here you can set the second color to use in the gradient background.</li></p>
 <p><li><b>Location</b> — here you can define the proportion for the second color in the gradient background.</li></p>

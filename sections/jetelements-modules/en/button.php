@@ -1,22 +1,22 @@
 <h2>Button</h2>
 
 <h6>
-Button module will assist you in creating buttons with your custom text and links, eye-catching icons and versatile hover effects! With this module you can easily add a button whenever you need it and style it up according to your vision!
+Button widget will assist you in creating buttons with your custom text and links, eye-catching icons and versatile hover effects! With this widget you can easily add a button whenever you need it and style it up according to your vision!
 </h6>
 
-<h4>Button Module Sample</h4>
+<h4>Button widget Sample</h4>
 
-<h6>On the picture below you can view Button module sample.</h6>
+<h6>On the picture below you can view Button widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/but1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/but1.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/but2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/but2.png">
   	</figure>
 
 <p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> content settings. Just click on the button Hover to proceed to customizing hover elements.</p>
@@ -36,7 +36,7 @@ Button module will assist you in creating buttons with your custom text and link
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/but3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/but3.png">
   	</figure>
 
 <h6>General</h6>
@@ -46,26 +46,26 @@ Button module will assist you in creating buttons with your custom text and link
 <p><li><b>Custom width</b> - here you can specify button width in px for different devices (<b>desktop, tablet, mobile</b>). </li></p>
 <p><li><b>Custom height</b> - here you can specify button height in px for different devices (<b>desktop, tablet, mobile</b>). </li></p>
 <p><li><b>Alignment</b> - here you need to choose the necessary button alignment (<b>left, center, right</b>). </li></p>
-<p><li><b>Padding</b> - here you can set the preferable custom padding for the module. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
+<p><li><b>Padding</b> - here you can set the preferable custom padding for the widget. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
 <p><li><b>Margin</b> - here you can define the margins for the button.</li></p></ul>
 
 <p>Switch from <b>Normal</b> to <b>Hover</b> mode to use different style settings for the button background when on hover or in its normal state. </p>
 
 <ul class="marked-list">
-<p><li><b>Background type</b> - in this block you can choose, whether you want to use <b>classic</b> or <b>gradient</b> type for the button background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements modules.</li></p>
+<p><li><b>Background type</b> - in this block you can choose, whether you want to use <b>classic</b> or <b>gradient</b> type for the button background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements widget.</li></p>
 <p><li><b>Border type</b> - here you can define the type of the border you need to use for the element.</li></p>
 <p><li><b>Border radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p>
-<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 <h6>Plane</h6>
 
 <p>Switch between <b>Normal</b> and <b>Hover</b> modes to apply different custom styles for the button body. </p>
 
 <ul class="marked-list">
-<p><li><b>Background type</b> - in this block you can choose, whether you want to use <b>classic</b> or <b>gradient</b> type for the button body background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements modules.</li></p>
+<p><li><b>Background type</b> - in this block you can choose, whether you want to use <b>classic</b> or <b>gradient</b> type for the button body background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements widget.</li></p>
 <p><li><b>Border type</b> - here you can define the type of the border you need to use for the element.</li></p>
 <p><li><b>Border radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p>
-<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 <h6>Icon</h6>
 
@@ -87,6 +87,6 @@ Button module will assist you in creating buttons with your custom text and link
 
 <ul class="marked-list">
 <p><li><b>Color</b> - here you can apply your custom button text color using color picker tool.</li></p>
-<p><li><b>Typography</b> -  turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+<p><li><b>Typography</b> -  turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 <p><li><b>Margin</b> - here you can define the margins for the button text.</li></p>
 <p><li><b>Text Alignment</b> - here you can define the preferable button text alignment. </li></p>The text can be placed to the left, to the right, or remain centered.</li></p></ul>

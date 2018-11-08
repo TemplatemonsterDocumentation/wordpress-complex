@@ -1,21 +1,21 @@
 <h2>Circle Progress</h2>
 
 <h6>
-Circle Progress module allows you to display progress in the attractive form of circle progress bar. The module has versatile style settings, such as content style, value type, etc.
+Circle Progress widget allows you to display progress in the attractive form of circle progress bar. The widget has versatile style settings, such as content style, value type, etc.
 </h6>
 
-<h4>Circle Progress Module Sample</h4>
+<h4>Circle Progress widget Sample</h4>
 
-<h6>On the picture below you can view Circle Progress module sample.</h6>
+<h6>On the picture below you can view Circle Progress widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/progr4.png">
+        <img src="projects/<?php echo $project;?>/img/widget/progr4.png">
   	</figure>
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/progr2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/progr2.png">
   	</figure>
 
 <h6>Values </h6>
@@ -37,7 +37,7 @@ Circle Progress module allows you to display progress in the attractive form of 
 <p><li><b>Circle Size</b> — here you can select the size for the circle progress bar. The minimal size is 100 px, the maximum size is 600 px. </li></p>
 <p><li><b>Value Stroke Width</b> — here you need to select the width of the circle counter outline (stroke), which displays complete progress, in pixels.</li></p>
 <p><li><b>Background Stroke Width</b> — here you need to select the width of the circle counter outline (stroke), which displays the remaining progress, in pixels.</li></p>
-<p><li><b>Animation Duration</b> — here you need to select the speed of animation for the module. </li></p></ul>
+<p><li><b>Animation Duration</b> — here you need to select the speed of animation for the widget. </li></p></ul>
 
 
 <h6>Content</h6>
@@ -58,7 +58,7 @@ Circle Progress module allows you to display progress in the attractive form of 
 
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/progr3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/progr3.png">
   	</figure>
 
 <h6>Progress Circle Style</h6>
@@ -115,15 +115,15 @@ Circle Progress module allows you to display progress in the attractive form of 
 
 
 <ul class="marked-list">
-<p><li><b>Color</b> — here you can define the suitable color for the Circle Progress module elements. Use color picker tool to select the necessary color.</li></p>
+<p><li><b>Color</b> — here you can define the suitable color for the Circle Progress widget elements. Use color picker tool to select the necessary color.</li></p>
 <p><li><b>Typography</b> — turn the option on to view the typography settings.
 <ul class="marked-list">
-<p><li><b>Size</b> — define the font size of the Circle Progress module element.</li></p>
-<p><li><b>Family</b> — here you can set the font family for the Circle Progress module element.</li></p>
+<p><li><b>Size</b> — define the font size of the Circle Progress widget element.</li></p>
+<p><li><b>Family</b> — here you can set the font family for the Circle Progress widget element.</li></p>
 <p><li><b>Weight</b> — in this block you can select the suitable font weight.</li></p>
-<p><li><b>Transform</b> — here you can choose from the dropdown menu, if you want the Circle Progress module element to be shown in uppercase, lowercase, capitalize or normal way.</li></p>
+<p><li><b>Transform</b> — here you can choose from the dropdown menu, if you want the Circle Progress widget element to be shown in uppercase, lowercase, capitalize or normal way.</li></p>
 <p><li><b>Style</b> — in this block you can choose from the dropdown menu the style for the font. It can be normal, italic (the characters look similar to handwriting) and oblique (the characters are slightly inclined to the right).</li></p>
-<p><li><b>Line Height</b> — in this field you can set the height of the Circle Progress module element lines.</li></p>
+<p><li><b>Line Height</b> — in this field you can set the height of the Circle Progress widget element lines.</li></p>
 <p><li><b>Letter Spacing</b> — here you can set the space between letters.</li></p></ul></li></p></ul>
 
 

@@ -5,17 +5,17 @@
 
 <h4>Price List Sample</h4>
 
-<h6>On the picture below you can view Price List module sample.</h6>
+<h6>On the picture below you can view Price List widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/pl3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/pl3.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/pl1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/pl1.png">
   	</figure>
 
 
@@ -23,7 +23,7 @@
 
 <p>In this block you can customize Price List general content settings.</p>
 
-<p>To add the item, click <b>Add Item</b> button and then click <b>Item #1</b> block to input the content: its title, price, description, select the suitable icon to use in the module and add URl link.</p>
+<p>To add the item, click <b>Add Item</b> button and then click <b>Item #1</b> block to input the content: its title, price, description, select the suitable icon to use in the widget and add URl link.</p>
 
 <ul class="marked-list">
 	<p><li><b>Title</b> - here you need to input the desirable title to apply for this service or project / product.</li></p>
@@ -36,7 +36,7 @@
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/pl2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/pl2.png">
   	</figure>
 
 

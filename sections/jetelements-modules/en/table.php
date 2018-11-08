@@ -4,19 +4,19 @@
 Table widget allows adding stylish table blocks to the pages built with Elementor. This widget has vast stylization settings along with the set of content layout settings.
 </h6>
 
-<h4>Table Module Sample</h4>
+<h4>Table widget Sample</h4>
 
-<h6>On the picture below you can view Table module sample.</h6>
+<h6>On the picture below you can view Table widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/111.png">
+        <img src="projects/<?php echo $project;?>/img/widget/111.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/111-1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/111-1.png">
   	</figure>
 
 
@@ -81,7 +81,7 @@ Table widget allows adding stylish table blocks to the pages built with Elemento
 
 
   <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/111-2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/111-2.png">
     </figure>
 
 <ul class="marked-list">
@@ -111,7 +111,7 @@ Table widget allows adding stylish table blocks to the pages built with Elemento
 <h5>Table Header</h5>
 
 <ul class="marked-list">
-<li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></ul>
+<li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></ul>
 
     <p>You can switch from customizing <b>Normal</b> to <b>Hover</b> style settings. Just click on the button Hover to proceed to customizing the style in hover mode.</p>
    <ul class="marked-list">
@@ -129,7 +129,7 @@ Table widget allows adding stylish table blocks to the pages built with Elemento
 <h5>Table Body</h5>
 
 <ul class="marked-list">
-<li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></ul>
+<li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></ul>
 
 
     <p>You can switch from customizing <b>Normal</b> to <b>Hover</b> style settings. Just click on the button Hover to proceed to customizing in hover mode.</p>

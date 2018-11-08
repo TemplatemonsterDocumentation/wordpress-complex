@@ -1,22 +1,22 @@
 <h2>Testimonials</h2>
 
 <h6>
-Testimonials module is useful beyond compare when it comes to adding your clients’ positive feedbacks to your site. Feel free to style up the testimonials and add the beautiful testimonials carousel right to your web page in several clicks!
+Testimonials widget is useful beyond compare when it comes to adding your clients’ positive feedbacks to your site. Feel free to style up the testimonials and add the beautiful testimonials carousel right to your web page in several clicks!
 </h6>
 
-<h4>Testimonials Module Sample</h4>
+<h4>Testimonials widget Sample</h4>
 
-<h6>On the picture below you can view Testimonials module sample.</h6>
+<h6>On the picture below you can view Testimonials widget sample.</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/testimonials1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/testimonials1.png">
   	</figure>
 
 
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/testimonials2.png">
+        <img src="projects/<?php echo $project;?>/img/widget/testimonials2.png">
   	</figure>
 
 
@@ -37,7 +37,7 @@ Testimonials module is useful beyond compare when it comes to adding your client
 
 <h6>Items </h6>
 
-<p>Click <b>Add Item</b> button to add a new testimonial to the module.</p>
+<p>Click <b>Add Item</b> button to add a new testimonial to the widget.</p>
 
 <ul class="marked-list">
 <p><li><b>Image</b> - here you can add the photo of the feedback author.</li></p>
@@ -51,7 +51,7 @@ Testimonials module is useful beyond compare when it comes to adding your client
 <h4>Style</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/modules/testimonials3.png">
+        <img src="projects/<?php echo $project;?>/img/widget/testimonials3.png">
   	</figure>
 
 <h6>Item</h6>
@@ -143,7 +143,7 @@ Testimonials module is useful beyond compare when it comes to adding your client
 <p><li><b>Custom Width</b> - enable this option to apply your custom width to the testimonials title.</li></p>
 <p><li><b>Width</b> - here you can use the controls to set the necessary title width, or input the width value in px in the corresponding window.</li></p>
 <p><li><b>Color</b> - here you can set the title color using color picker tool.</li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the title. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
 <p><li><b>Margin</b> - here you can define the margins for the <b>Testimonials</b> title.</li></p>
 <p><li><b>Alignment</b> - here you can define the preferable title alignment. It can be placed to the left, to the right, or remain centered.</li></p>
@@ -153,7 +153,7 @@ Testimonials module is useful beyond compare when it comes to adding your client
 
 <ul class="marked-list">
 <p><li><b>Color</b> - here you can set the comment color using color picker tool.</li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other <b>JetElements</b> modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other <b>JetElements</b> widget.</li></p>
 <p><li><b>Width</b> - here you can set the necessary comment width using controls or input the width value in px in the corresponding field.</li></p>
 <p><li><b>Use Comment Corner</b> - enable this option to decorate the comment block with the arrows pointing at the comment authors.</li></p>
 <p><li><b>Color</b> - here you can set the comment corner color using color picker tool.</li></p>
@@ -174,7 +174,7 @@ Testimonials module is useful beyond compare when it comes to adding your client
 <p><li><b>Custom Width</b> - enable this option to apply your custom width to the testimonials author’s name.</li></p>
 <p><li><b>Width</b> - here you can use the controls to set the necessary name width, or input the width value in px in the corresponding window.</li></p>
 <p><li><b>Color</b> - here you can set the name text color using color picker tool.</li></p>
-<p><li><b>Typography</b> -  turn the option on to view the typography settings. They are similar to the typography settings of other JetElements modules.</li></p>
+<p><li><b>Typography</b> -  turn the option on to view the typography settings. They are similar to the typography settings of other JetElements widget.</li></p>
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the author’s name. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
 <p><li><b>Margin</b> - here you can define the margins for the Testimonials author’s name.</li></p>
 <p><li><b>Alignment</b> - here you can define the preferable author’s name alignment. It can be placed to the left, to the right, or remain centered.</li></p>
@@ -185,7 +185,7 @@ Testimonials module is useful beyond compare when it comes to adding your client
 <h6>Content Order and Alignment</h6>
 
 
-<p>In this block you can specify the order of the <b>Testimonials</b> module elements (<b>Image, Icon, Title, Description, Name, Position, Date</b>). Type in the order number in the corresponding field to set the necessary order for the elements. </p>
+<p>In this block you can specify the order of the <b>Testimonials</b> widget elements (<b>Image, Icon, Title, Description, Name, Position, Date</b>). Type in the order number in the corresponding field to set the necessary order for the elements. </p>
 
 <ul class="marked-list">
 <p><li><b>Cover Content Vertical Alignment</b> - here you can select the suitable alignment (<b>top, center, bottom, space between</b>). </li></p></ul>

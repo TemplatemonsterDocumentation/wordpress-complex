@@ -1,0 +1,29 @@
+{
+	"id": "jetpopup-mailchimp",
+	"translations": {
+		"en": "Multi-Field MailChimp Form Integration",
+		"ru": ""
+	},
+	"articles": {
+		"jetpopup": [{
+			"id": "api-settings",
+			"translations": {
+				"en": "MailChimp API Settings",
+				"ru": ""
+			}
+		},	{
+			"id": "merge-fields",
+			"translations": {
+				"en": "Adding Extra Merge Fields",
+				"ru": ""
+			}
+		},	{
+			"id": "mailchimp-widget",
+			"translations": {
+				"en": "MailChimp Widget",
+				"ru": ""
+			}
+		}]
+	}
+}
+
