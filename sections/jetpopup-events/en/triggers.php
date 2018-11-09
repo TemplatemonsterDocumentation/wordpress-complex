@@ -18,6 +18,7 @@
 		<li><b>page scrolled (%)</b> - apply this trigger event in case you want the popup window appear when the visitor scrolls the page to certain percent. </li>
 		<li><b>try exit</b> - select this trigger to show the popup window when the visitor intents to exit the page.</li>
 		<li><b>on date</b> - you can specify the date and time to start showing the popup, e.g., to showcase the offer or the congratulation, or display the reminder for the visitor. To set the date and time fill in the needed values in the <b>Open Date</b> field.</li>
+	    <li><b>custom selector click</b> - choose this <b>Open event</b> to specify the selector, that will trigger the popup when one clicks it.</li>
 	</ul>
 </li></p>
 
