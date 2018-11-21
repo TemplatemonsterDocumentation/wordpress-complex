@@ -135,7 +135,7 @@ The default submenu will be disabled as it will be replaced by the Mega Menu con
 
 
   <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/jet-vert/15.png">
+        <img src="projects/<?php echo $project;?>/img/jet-vert22.png">
     </figure>
 
-<p>In this block one can set the custom mega menu width for the item in pixels. </p>
+<p>This block allows to select whether Vertical Menu is aligned at the level of the menu item or the menu container. </p>
