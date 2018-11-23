@@ -3632,5 +3632,12 @@
 		"bitunet-plugins",
 		"bitunet-jetthemecore",
 		"bitunet-changelog"
+	],
+		"jetproductgallery": [
+		"introduction",
+		"jetproductgallery-installation",
+		"jetproductgallery-quick-guide",
+		"jetproductgallery-widgets",
+		"jetproductgallery-settings"
 	]
 }

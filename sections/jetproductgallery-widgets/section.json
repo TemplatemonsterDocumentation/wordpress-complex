@@ -1,0 +1,35 @@
+{
+	"id": "jetproductgallery-widgets",
+	"translations": {
+		"en": "JetProductGallery Widgets",
+		"ru": ""
+	},
+	"articles": {
+		"jetproductgallery": [	{
+			"id": "gallery-anchor-navigation",
+			"translations": {
+				"en": "Gallery Anchor Navigation",
+				"ru": ""
+			}
+		},	{
+			"id": "gallery-grid",
+			"translations": {
+				"en": "Gallery Grid",
+				"ru": ""
+			}
+		},	{
+			"id": "gallery-modern",
+			"translations": {
+				"en": "Gallery Modern",
+				"ru": ""
+			}
+		},{
+			"id": "gallery-slider",
+			"translations": {
+				"en": "Gallery Slider",
+				"ru": ""
+			}
+		}]
+	}
+}
+

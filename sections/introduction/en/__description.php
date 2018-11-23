@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'JetDesignKit' && $project != 'jetsmartfilters' && $project != 'bitunet' ) { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'JetDesignKit' && $project != 'jetsmartfilters' && $project != 'bitunet' && $project != 'jetproductgallery' ) { ?>
 
 <h2>Introduction</h2>
 
@@ -1558,3 +1558,31 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <?php } ?>
 
+<?php if ($project == 'jetproductgallery') { ?>
+
+<article><h2>Introduction</h2>
+
+<h5>Thank you for purchasing JetProductGallery for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up JetProductGallery plugin from scratch.
+You will also find information on how to enable and customize JetProductGallery </h5>
+
+    <h3>What Is JetProductGallery Plugin?</h3>
+
+
+<p> <b>JetProductGallery</b> is plugin that helps to present WooCommerce single product in the most attractive and complete form, using different modules, such as Gallery Anchor Navigation, Gallery Grid and Gallery Slider.</p>
+
+<p>With <b>JetProductGallery</b> plugin you will be able to show WooCommerce product from all sides organizing its images in a convenient gallery.</p>
+
+
+
+    <h3>Jet Overview</h3>
+
+<ul class="marked-list">
+<p><li><b>Gallery Anchor Navigation</b> module displays images of the product in an appealing way. With this module you can show product variations in a stylish, vertical gallery with navigation option. There are different content and style settings, which are useful for customize the module appearance according to your vision.</li></p>
+<p><li><b>Gallery Grid</b> module is the perfect solution if you need to showcase the product variations in a convient form. Style up the layout in several clicks to get the astonishing results and garnish product page with gorgeous imagery!</li></p>
+<p><li><b>Gallery Slider</b> module is a great option to display product images in attractive and bright form! It provides a lot of useful settings, which help to jazz up the product page and make brighter the content on the it.</li></p>
+</ul>
+
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetProductGallery! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+
+<?php } ?>
