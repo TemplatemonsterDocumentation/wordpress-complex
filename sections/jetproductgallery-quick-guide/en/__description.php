@@ -1,6 +1,14 @@
 <h3>JetProductGallery Quick Guide</h3>
 
-<p>Here you can learn more about the process of .....</p>
+<p>Here you can learn more about the way one can use the JetProductGallery widgets. It explains the process of adding the product gallery to the Single Product page template in details.</p>
+
+<h4>Adding Images to Display with the Gallery</h4>
+
+<ol class="index-list">
+<li><p>First, make sure you've added the images to the product gallery and have set the featured image for the product. To do it, please, open the WordPress Dashboard, and here proceed to products page. </p></li>
+
+<li><p>Open one of the existing products for editing, or create a new one. Then, scroll the page down and locate <b>Product Gallery</b> block. Here you need to upload the images that display all the benefits and strong sides of the product.</p></li></ol>
+
 
 <h4>Creating New Single Product Template</h4>
 
@@ -31,7 +39,7 @@
 
 	<ul class="marked-list">
 
-<li><b>The template name</b> - here you you have to type in the title of the template you’re creating;</li>
+<li><b>The template name</b> - here you have to type in the title of the template you’re creating;</li>
 <li><b>This template for</b> - in this dropdown you need to select Single in order to start creating Single Product page template. </li></ul></li></p>
 
 <li><p>After everything is done click <b>Create Template</b> button. </p></li></p>
@@ -56,9 +64,6 @@
         <img src="projects/jetwoobuilder/img/templ/1.png">
     </figure>
 
-        <figure class="img-polaroid">
-        <img src="projects/jetwoobuilder?>/img/templ/3.png">
-    </figure>
 
 </li></p>
 
@@ -74,18 +79,12 @@
 <p><li>
   After that navigate to <b>Elements</b> list and here scroll down to see <b>JetProductGallery</b> widgets.
 
-    <figure class="img-polaroid">
-        <img src="projects/jetwoobuilder/img/templ/6.png">
-    </figure>
 
 </li></p>
 
 <p><li>
   Drag and drop the widgets to the columns in order to place them on the page.
 
-    <figure class="img-polaroid">
-        <img src="projects/jetwoobuilder/img/templ/7.png">
-    </figure>
 
 </li></p>
 

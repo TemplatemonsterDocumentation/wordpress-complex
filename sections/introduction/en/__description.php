@@ -1530,7 +1530,7 @@ Image Comparison block provides you with an ability to add the two-image block t
 <li><b>Bonus Images</b></a> - folder containing professional images for Bitunet theme.
     <li><b>Theme</b></a> - folder containing Bitunet theme files.
 <ul class="marked-list">
-<li><b>bitunet.zip</b></a> - folder containing archive with Bitunet theme.</li> 
+<li><b>bitunet.zip</b></a> - folder containing archive with Bitunet theme.</li>
 <li><b>kava.zip</b></a> - folder containing archive with Kava theme.
 
 </ul></li></ul>
@@ -1562,27 +1562,34 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <article><h2>Introduction</h2>
 
-<h5>Thank you for purchasing JetProductGallery for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up JetProductGallery plugin from scratch.
-You will also find information on how to enable and customize JetProductGallery </h5>
+<h5>Thank you for purchasing JetProductGallery for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up JetProductGallery plugin from scratch. You will also find information on how to enable and customize JetProductGallery plugin.</h5>
 
     <h3>What Is JetProductGallery Plugin?</h3>
 
 
-<p> <b>JetProductGallery</b> is plugin that helps to present WooCommerce single product in the most attractive and complete form, using different modules, such as Gallery Anchor Navigation, Gallery Grid and Gallery Slider.</p>
+<p> <b>JetProductGallery</b> is a plugin that helps represent WooCommerce Single Product templates in the most attractive and complete forms, using different modules, such as Gallery Anchor Navigation, Gallery Grid and Gallery Slider, etc.
+</p>
 
-<p>With <b>JetProductGallery</b> plugin you will be able to show WooCommerce product from all sides organizing its images in a convenient gallery.</p>
+<p>With <b>JetProductGallery</b> plugin you can display WooCommerce products from all sides, organizing the images in a convenient gallery.
+</p>
 
 
 
-    <h3>Jet Overview</h3>
+    <h3>JetProductGallery Overview</h3>
 
 <ul class="marked-list">
-<p><li><b>Gallery Anchor Navigation</b> module displays images of the product in an appealing way. With this module you can show product variations in a stylish, vertical gallery with navigation option. There are different content and style settings, which are useful for customize the module appearance according to your vision.</li></p>
-<p><li><b>Gallery Grid</b> module is the perfect solution if you need to showcase the product variations in a convient form. Style up the layout in several clicks to get the astonishing results and garnish product page with gorgeous imagery!</li></p>
-<p><li><b>Gallery Slider</b> module is a great option to display product images in attractive and bright form! It provides a lot of useful settings, which help to jazz up the product page and make brighter the content on the it.</li></p>
+<p><li> <b>Gallery Anchor Navigation</b> widget displays images of the product in an appealing way. Use it to show product variations as a stylish, vertical gallery with navigation. There are different content and style settings, which are useful for customization of the module appearance according to your vision.
+</li></p>
+<p><li><b>Gallery Grid</b> widget is the perfect solution if you need to showcase the product variations in a convenient form of a gallery. Style up the layout in several clicks to get the astonishing results and garnish product page with gorgeous imagery!
+</li></p>
+<p><li> <b>Gallery Slider</b> widget provides an option to display product images in the form of a slider! The widger possesses lots of useful settings, which help to jazz up the product’s single page and make the content brighter.
+</li></p>
+<p><li><b>Gallery Modern</b> widget allows arranging Single Product images in the form of an attractive gallery layout that has a large featured image at the top and shows off other images below it.</li></p>
 </ul>
 
 <div class="alert alert-info">
         You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetProductGallery! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+<p>Please, note, that you've got to make sure that you have WooCommerce plugin installed and active on the site and you have at least one product added in order to be able to customize its Single page template.</p>
 
+<p>JetproductGallery plugin will help you make the product pages look unique and showcase the product in the most attractive way, letting the visitors get an impression of its appearance.</p>
 <?php } ?>

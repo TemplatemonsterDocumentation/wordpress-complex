@@ -29,7 +29,7 @@ h4 {
           transition-delay: 1s; }
 
 [data-section="introduction"] .rd-mobilepanel {
-  background-image: url("../../projects/jetelements/img/header-bg.png");
+  background-image: url(none);
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
