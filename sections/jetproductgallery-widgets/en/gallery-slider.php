@@ -6,7 +6,7 @@
 <h4>Content</h4>
 
 		<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/images/Screenshot_2.png">
+        <img src="projects/jetproductgallery/img/images/12.png">
   	</figure>
 
 <h5>General</h5>
@@ -74,7 +74,7 @@
 <h4>Style</h4>
 
 		<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/cart2.png">
+        <img src="projects/jetproductgallery/img/images/13.png">
   	</figure>
 
 <h5>Images</h5>

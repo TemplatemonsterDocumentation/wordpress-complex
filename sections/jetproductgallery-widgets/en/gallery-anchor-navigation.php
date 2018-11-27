@@ -2,11 +2,22 @@
 
 <p>This widget allows organizing product images in a stylish form of a vertical gallery with navigation. </p>
 
+<h4>Gallery Anchor Navigation Widget Sample</h4>
+
+<p>On the picture below you can view Gallery Anchor Navigation widget sample.</p>
+
+<figure class="img-polaroid">
+        <img src="projects/jetproductgallery/img/images/4.png">
+  	</figure>
+
+
 <h4>Content</h4>
 
+<figure class="img-polaroid">
+        <img src="projects/jetproductgallery/img/images/5.png">
+  	</figure>
+
 <h5>General Settings</h5>
-
-
 
 <ul class="marked-list">
 <p><li><b>Product ID</b> - here you can specify a certain product, which images are to be displayed by the widget. </li></p>
@@ -72,7 +83,7 @@
 <h4>Style</h4>
 
 		<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/brcr1.png">
+        <img src="projects/jetproductgallery/img/images/6.png">
   	</figure>
 
 <h5>Images</h5>

@@ -17,7 +17,7 @@
 <p>Just remove the checks for those addons you want to disable and click <b>Save</b> button to save the changes.</p>
 
   <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/widg.png">
+        <img src="projects/jetproductgallery/img/images/14.png">
     </figure>
 
 

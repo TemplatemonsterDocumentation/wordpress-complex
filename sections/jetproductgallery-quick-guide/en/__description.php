@@ -89,7 +89,7 @@
 </li></p>
 
 <p><li>
-  After the page is built click <b>Publish</b> button to preserve the changes.
+  After the page is built click <b>Update</b> button to preserve the changes.
 
 </li></p></ol>
 
