@@ -26,7 +26,7 @@
 <p><li> Click <b>Upload</b> button, which can be found at the top of <b>Plugins</b> page. Browse the path to <b>JetProductGallery.zip</b> plugin package and start the installation process.
 
 <figure class="img-polaroid">
-        <img src="projects/jetelements/img/inst/2.png">
+        <img src="projects/jetproductgallery/img/images/1.png">
   	</figure>
 
 </li></p>

@@ -1573,6 +1573,8 @@ Image Comparison block provides you with an ability to add the two-image block t
 <p>With <b>JetProductGallery</b> plugin you can display WooCommerce products from all sides, organizing the images in a convenient gallery.
 </p>
 
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetProductGallery! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
 
 
     <h3>JetProductGallery Overview</h3>
@@ -1587,8 +1589,10 @@ Image Comparison block provides you with an ability to add the two-image block t
 <p><li><b>Gallery Modern</b> widget allows arranging Single Product images in the form of an attractive gallery layout that has a large featured image at the top and shows off other images below it.</li></p>
 </ul>
 
+https://crocoblock.com/jetwoobuilder/
+
 <div class="alert alert-info">
-        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetProductGallery! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+        Please, note, that to use JetProductGallery for creating galleries for WooCommerce products one should have <a href="https://crocoblock.com/jetwoobuilder/" target="_blank">JetWooBuilder</a> plugin or <a href="https://elementor.com/pro/" target="_blank">Elementor Pro</a> version.</a></div>
 <p>Please, note, that you've got to make sure that you have WooCommerce plugin installed and active on the site and you have at least one product added in order to be able to customize its Single page template.</p>
 
 <p>JetproductGallery plugin will help you make the product pages look unique and showcase the product in the most attractive way, letting the visitors get an impression of its appearance.</p>

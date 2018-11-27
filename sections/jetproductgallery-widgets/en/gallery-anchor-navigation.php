@@ -40,7 +40,7 @@
 
 <h5>Video</h5>
 
-<p>You can add the video in the Single Product gallery by inserting video URL of the needed video from Youtube, Vimeo or self-hosted site in Single Product template >Jet Woo Product Video settings. You can also apply a certain placeholder for the video. This option is available for all JetProductGallery widgets.</p>
+<p>You can add the video in the Single Product gallery by inserting video URL of the needed video from Youtube, Vimeo or self-hosted site in Single Product template >Jet Product Gallery Video settings. You can also apply a certain placeholder for the video. This option is available for all JetProductGallery widgets.</p>
 
 
 <ul class="marked-list">

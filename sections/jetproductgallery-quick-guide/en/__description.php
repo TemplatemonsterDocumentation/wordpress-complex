@@ -19,7 +19,7 @@
 <li><p>Let’s navigate to <b>WooCommerce > JetWoo Templates</b> in the Dashboard.
 
 	    <figure class="img-polaroid">
-        <img src="projects/jetwoobuilder/img/add-templ/1.png">
+        <img src="projects/jetproductgallery/img/images/2.png">
     </figure>
 </p></li>
 
@@ -61,7 +61,7 @@
   To add a new section click <b>Add New Section</b> button. Click <b>Edit Section</b> option in order to set the content width, section background style, paddings and margins, etc.
 
     <figure class="img-polaroid">
-        <img src="projects/jetwoobuilder/img/templ/1.png">
+        <img src="projects/jetproductgallery/img/images/3.png">
     </figure>
 
 
