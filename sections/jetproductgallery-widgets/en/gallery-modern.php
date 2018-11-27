@@ -1,7 +1,7 @@
 
 <h3>Gallery Modern</h3>
 
-<p>Gallery Modern widget allows arrange Single Product images in the form of an attractive gallery layout.</p>
+<p>Gallery Modern widget allows arranging Single Product images in the form of an attractive gallery layout.</p>
 
 <h4>Content</h4>
 
@@ -12,9 +12,9 @@
 <h5>General</h5>
 
 <ul class="marked-list">
-<p><li><b>Product id</b> - here you can select a certain product, images of which will be displayed in the module.</li></p>
-<p><li><b>Enable Gallery</b> - use this option if you want to get an access to customized options of product images gallery.</li></p>
-<p><li><b>Enable Zoom</b> - this option allows to apply zoom to product images.</li></p></ul>
+<p><li><b>Product ID</b> - here you can select a certain product, images of which will be displayed in the module.</li></p>
+<p><li><b>Enable Gallery</b> - use this option if you want to get an access to the costomization options of product images gallery.</li></p>
+<p><li><b>Enable Zoom</b> - this option allows applying the zoom effect to product images.</li></p></ul>
 
 <h5>Images</h5>
 
@@ -25,19 +25,19 @@
 
 <ul class="marked-list">
 <p><li><b>Button Icon</b> - here you can choose the size of product images in gallery. </li></p>
-<p><li><b>Show Caption</b> - enable this option that the caption of product images will be showed or not in the gallery.</li></p></ul>
+<p><li><b>Show Caption</b> - enable this option and the caption of product images will be shown or hidden in the gallery.</li></p></ul>
 <h5>Controls</h5>
 <ul class="marked-list">
-<p><li><b>Show Full Screen</b> - here you can specify if the product gallery will be showcased fullwidth.</li></p>
-<p><li><b>Show Zoom</b> - here you can adjust zoom to the product gallery. </li></p>
-<p><li><b>Show Share</b> - here it is available to display share option in the product gallery. </li></p>
+<p><li><b>Show Full Screen</b> - here you can specify if the product gallery is to be showcased fullwidth.</li></p>
+<p><li><b>Show Zoom</b> - here you can adjust zoom for the product gallery. </li></p>
+<p><li><b>Show Share</b> - here you can to display share option in the product gallery. </li></p>
 <p><li><b>Show Counter</b> - here you can enable a counter in the product gallery. </li></p>
-<p><li><b>Show Arrows</b> - here you can set if navigation arrows will be showed or not in the product gallery.</li></p></ul>
+<p><li><b>Show Arrows</b> - here you can set if navigation arrows are to be shown or hidden in the product gallery.</li></p></ul>
 
 <h5>Video</h5>
 
 <ul class="marked-list">
-<p><li><b>Display Video In</b> - here you can select how the video will be showed: as a popup or in the content.</li></p>
+<p><li><b>Display Video In</b> - here you can select how the video is to be shown: as a popup or in the content.</li></p>
 <p><li><b>Aspect Ratio</b> - this option allows your video item to be scaled according to your needs.</li></p></ul>
 <h5>Options</h5>
 <ul class="marked-list">
@@ -98,7 +98,7 @@
 <h5>Photoswipe Trigger</h5>
 
 <ul class="marked-list">
-<p><li><b>Show on hover</b> - enable this option of you want the photoswipe trigger appears on hover. </li></p>
+<p><li><b>Show on hover</b> - enable this option if you want the photoswipe trigger appears on hover. </li></p>
 <p><li><b>Position</b> - define the position of the photoswipe trigger.</li></p>
 <p><li><b>Size</b> - customize the size of the photoswipe trigger.</li></p>
 <p><li><b>Icon Size</b> - here you can adjust the icon size of the photoswipe trigger.</li></p>

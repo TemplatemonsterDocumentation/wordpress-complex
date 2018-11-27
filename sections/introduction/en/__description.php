@@ -1595,5 +1595,5 @@ https://crocoblock.com/jetwoobuilder/
         Please, note, that to use JetProductGallery for creating galleries for WooCommerce products one should have <a href="https://crocoblock.com/jetwoobuilder/" target="_blank">JetWooBuilder</a> plugin or <a href="https://elementor.com/pro/" target="_blank">Elementor Pro</a> version.</a></div>
 <p>Please, note, that you've got to make sure that you have WooCommerce plugin installed and active on the site and you have at least one product added in order to be able to customize its Single page template.</p>
 
-<p>JetproductGallery plugin will help you make the product pages look unique and showcase the product in the most attractive way, letting the visitors get an impression of its appearance.</p>
+<p>JetProductGallery plugin will help you make the product pages look unique and showcase the product in the most attractive way, letting the visitors get an impression of its appearance.</p>
 <?php } ?>

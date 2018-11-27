@@ -27,8 +27,8 @@
 
 <ul class="marked-list">
 <p><li><b>Show Navigation</b> - in this block you can add navigation to the sides of the slides to provide easy switching from slide to slide for the visitors. </li></p>
-<p><li><b>Arrow Previous</b> - here you can select the type of the arrow icon,that switches slider module to previous slide.</li></p>
-<p><li><b>Arrow Next</b> - here you can select the type of the arrow icon,that switches slider module to next slide.</li></p></ul>
+<p><li><b>Arrow Previous</b> - here you can select the type of the arrow icon, that switches slider module to previous slide.</li></p>
+<p><li><b>Arrow Next</b> - here you can select the type of the arrow icon, that switches slider module to next slide.</li></p></ul>
 
 <h5>Pagination</h5>
 
