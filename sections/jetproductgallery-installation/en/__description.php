@@ -30,4 +30,10 @@
   	</figure>
 
 </li></p>
+
+<p><li>When JetProductGallery plugin is uploaded and installed you need to activate it. Navigate to Plugins tab and locate JetProductGallery plugin in the list of installed plugins. Click on Activate link under JetProductGallery. As a result the plugin will become active. 
+<figure class="img-polaroid">
+        <img src="projects/jetproductgallery/img/images/15.png">
+  	</figure>
+</li></p>
 </ol>

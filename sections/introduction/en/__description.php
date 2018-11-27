@@ -1589,8 +1589,6 @@ Image Comparison block provides you with an ability to add the two-image block t
 <p><li><b>Gallery Modern</b> widget allows arranging Single Product images in the form of an attractive gallery layout that has a large featured image at the top and shows off other images below it.</li></p>
 </ul>
 
-https://crocoblock.com/jetwoobuilder/
-
 <div class="alert alert-info">
         Please, note, that to use JetProductGallery for creating galleries for WooCommerce products one should have <a href="https://crocoblock.com/jetwoobuilder/" target="_blank">JetWooBuilder</a> plugin or <a href="https://elementor.com/pro/" target="_blank">Elementor Pro</a> version.</a></div>
 <p>Please, note, that you've got to make sure that you have WooCommerce plugin installed and active on the site and you have at least one product added in order to be able to customize its Single page template.</p>
