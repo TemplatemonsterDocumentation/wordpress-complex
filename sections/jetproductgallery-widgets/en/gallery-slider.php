@@ -93,7 +93,7 @@
 <p><li><b>Background Color</b> - here you can choose the background color of the prev/next arrows.</li></p>
 <p><li><b>Border Type</b> - here you can define the needed border type for the prev/next arrows. It can be dotted, dashed, double, groove or solid.</li></p>
 <p><li><b>Border Radius</b> - here you can set the border radius values to make the border angles more smooth and rounded.</li></p>
-<p><li><b>Padding</b> - fill in the custom paddint values to add a responsive padding for the prev/next arrows.</li></p></ul>
+<p><li><b>Padding</b> - fill in the custom padding values to add a responsive padding for the prev/next arrows.</li></p></ul>
 
 <h5>Prev Arrow</h5>
 <ul class="marked-list">
@@ -116,7 +116,7 @@
 <p><li><b>Border Color</b> - in this block you can select the border color of the pagination dots.</li></p>
 <p><li><b>Border Type</b> - here you can define the type of the border you need to use for the dots border.</li></p>
 <p><li><b>Border Radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p>
-<p><li><b>Margin</b> - hhere you can define the margins for the pagination dots box.</li></p></ul>
+<p><li><b>Margin</b> - here you can define the margins for the pagination dots box.</li></p></ul>
 
 <h5>Photoswipe Trigger</h5>
 

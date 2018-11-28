@@ -1,14 +1,11 @@
 <h3>Gallery Anchor Navigation</h3>
 
-<p>This widget allows organizing product images in a stylish form of a vertical gallery with navigation. </p>
+<p>This widget allows organizing product images in a stylish form of a vertical gallery with anchor navigation. </p>
 
 <h4>Gallery Anchor Navigation Widget Sample</h4>
 
 <p>On the picture below you can view Gallery Anchor Navigation widget sample.</p>
 
-<figure class="img-polaroid">
-        <img src="projects/jetproductgallery/img/images/4.png">
-  	</figure>
 
 
 <h4>Content</h4>
