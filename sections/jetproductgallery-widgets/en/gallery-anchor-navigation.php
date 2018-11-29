@@ -2,9 +2,7 @@
 
 <p>This widget allows organizing product images in a stylish form of a vertical gallery with anchor navigation. </p>
 
-<h4>Gallery Anchor Navigation Widget Sample</h4>
 
-<p>On the picture below you can view Gallery Anchor Navigation widget sample.</p>
 
 
 
