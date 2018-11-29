@@ -7,10 +7,12 @@
     </figure></li></p>
 
 <ul class="marked-list">
-	<li><p>To use this filter type set the necessary query variable  (e.g., _price to showcase the WooCommerce prices). </p></li>
-
-<li><p>Click +New Option to add a new prices range for the checkbox. </p></li>
-
-<li><p>You need to add at least several options and fill in the min and max value for each one (e.g., $5 - $10, $20 - $50, etc.).</p></li></ul>
-
+<li><p><b>Options list</b> - click +New Option to add a new prices range for the checkbox.</p></li>
+<li><p>You need to add at least several options and fill in the min and max value for each one (e.g., $5 - $10, $20 - $50, etc.).</p></li>
+<li><p><b>Values prefix</b> - set the prefix to be shown before the values (e.g., the currency sign).</p></li>
+<p><li><b>Values suffix</b> - set the suffix to be shown after the values  (e.g., the currency sign).</p></li>
+<p><li><b>Thousands separator</b> - here you can define the separator for thousands values (e.g. space).</p></li>
+<p><li><b>Decimal separator</b> - here you can define the separator for decimal values.</p></li>
+<p><li><b>Number of decimals</b> - here you can specify the number of decimals after the separator.</p></li>
+<p><li><b>Query Variable</b> - set the necessary query variable  (e.g., _price to showcase the WooCommerce prices).</p></li></ul></article>
 
