@@ -3528,7 +3528,6 @@
 		"jetwoobuilder-advanced-widget-settings",
 		"jetwoobuilder-woo-settings",
 		"jetwoobuilder-settings",
-		"jetwoobuilder-jet-smart-filters",
 		"jetwoobuilder-changelog"
 	],
 		"jetblocks": [
@@ -3584,7 +3583,6 @@
 		"jetengine-dashboard",
 		"jetengine-use-cases",
 		"jetengine-calendar-functionality",
-		"jetengine-jet-smart-filters",
 		"jetengine-changelog"
 	],
 	"jetguten": [

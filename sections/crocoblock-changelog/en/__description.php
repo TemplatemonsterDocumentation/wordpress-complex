@@ -3,6 +3,358 @@
 <h5>This block will give you information on the latest updates of the products included in the CrocoBlock subscription.</h5>
 
 
+<h4>November 23, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>Kava theme versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.2.4 (November 23, 2018):</b>
+<ul class="marked-list">
+<li>Updated styles for Elementor PRO widgets;</li>
+<li>Added RU localization.</li></ul>
+
+<p><li><b>JetBlog versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>2.1.8(Novenber 23, 2018):</b>
+<ul class="marked-list">
+<li>Added minor performance improvements and fixes;</li>
+<li>Added RU localization.</li></ul>
+
+<p><li><b>JetElements versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.14.4(Novenber 23, 2018):</b>
+<ul class="marked-list">
+<li>Improved compatibility with Elementor v. 2.3.0;</li>
+<li>Added improvements for typing effect in the Animated Text widget;</li>
+<li>Added fixes for Subscribe widget;</li>
+<li>Added fixes for the carousel mode in the Posts widget;</li>
+<li>Added RU localization.</li></ul>
+
+<p><li><b>JetMenu versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.5.4(Novenber 23, 2018):</b>
+<ul class="marked-list">
+<li>Added integration with Epic News Elements plugin;</li>
+<li>Added RU localization.</li></ul>
+
+<p><li><b>JetTricks versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.5(Novenber 23, 2018):</b>
+<ul class="marked-list">
+<li>Added compatibility with WPML String Translation plugin;</li>
+<li>Added RU localization.</li></ul>
+
+<p><li><b>JetPopup versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.2.2(Novenber 23, 2018):</b>
+<ul class="marked-list">
+<li>Added Popups library / item install count banner;</li>
+<li>Added updates for Popup generator;</li>
+<li>Added RU localization.</li></ul>
+</p></ul></li></p></ul>
+
+
+
+<h4>November 16, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>Jetmenu versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.5.3 (November 15, 2018):</b>
+<ul class="marked-list">
+<li>Added relative position for Vertical mega menu’s menu item or menu container;</li>
+<li>Added minor bug fixes.</li></ul>
+
+<p><li><b>JetThemeCore versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.4(Novenber 12, 2018):</b>
+<ul class="marked-list">
+<li>Improved compatibility with Elementor v. 2.3.0.</li></ul>
+
+<ul class="marked-list">
+<p><li><b>1.1.4(Novenber 12, 2018):</b> - added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://demo.crocoblock.com/nutritix/" target="_blank">Nutritix;</a>.</li>
+</p></ul></li></p></ul>
+
+
+<h4>November 9, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetEngine versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.2.2 (November 6, 2018):</b>
+<ul class="marked-list">
+<li>Added rel and target controls to Dynamic Image link;</li>
+<li>Added an ability to add meta boxes only for specific posts/pages;</li>
+<li>Added improvements for Checkbox meta fields processing.</li></ul>
+
+<p><li><b>JetPopup versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.2.1(Novenber 8, 2018):</b>
+<ul class="marked-list">
+<li>Added multiple performance improvements and bug fixes.</li></ul>
+<p><li><b>1.2.0(Novenber 7, 2018):</b>
+<ul class="marked-list">
+<li>Added “Close Popup When Success” option;</li>
+<li>Added “Custom Selector” open event trigger.</li>
+</p></ul></li></p></ul>
+
+
+<h4>November 2, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetElements versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.14.0 (November 1, 2018):</b>
+<ul class="marked-list">
+<li>Added a new Horizontal Timeline widget;.</li>
+<li>Added an ability to use dynamic tags in widgets;</li>
+<li>Added multiple performance improvements and bug fixes.</li></ul>
+
+<p><li><b>JetTricks versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.4(October 31, 2018):</b>
+<ul class="marked-list">
+<li>Added an ability to filter JetTricks settings before render.</li>
+</p></ul></li></p></ul>
+
+
+<h4>October 26, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetElements versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.13.3 (October 22, 2018):</b>
+<ul class="marked-list">
+<li>Added responsive controls for Circle Size, Value Stoke Width, Background Stoke Width in the Circle Progress widget;.</li>
+<li>Improved RTL compatibility in the Advanced Carousel, Image-Comparison, Testimonials, Posts, Slider widgets;</li>
+<li>Improved compatibility of the Video Player widget with Astra theme;</li>
+<li>Updated anime.js to v.2.2.0;</li>
+<li>Added fixes for Instagram widget;</li>
+<li>Added ‘Format number’ callback to filter Dynamic Field output;</li>
+<li>Added improvements for the Show Thousand Separator option in the Circle Progress widget.</li></ul>
+
+<p><li><b>JetSmartFilters versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.0.0(October 23, 2018):</b>
+<ul class="marked-list">
+<li>The brand new JetSmartFilters plugin was officially released.</li>
+</p></ul></li></p></ul>
+
+
+<h4>October 19, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetEngine versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.2.1 (October 19, 2018):</b>
+<ul class="marked-list">
+<li>Added an ability to use HTML tags in textarea meta field.</li></ul>
+<p><li><b>1.2.0 (October 18, 2018):</b>
+<li>Added Calendar widget;</li>
+<li>Added Posts relationships functionality;</li>
+<li>Added Columns gap for Listing Grid widget;</li>
+<li>Added ‘QR Code’ callback to filter Dynamic Field output;</li>
+<li>Added ‘Format number’ callback to filter Dynamic Field output;</li>
+<li>Added Date query controls for Posts query settings in Listing Grid widget;</li>
+<li>Added Dynamic image tag.</li></ul>
+
+<p><li><b>JetWooBuilder versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.3.4 (October 18, 2018):</b>
+<ul class="marked-list">
+<li>Increased the possible number of displayed elements for the products grid, categories grid, products list widgets;</li>
+<li>Added improvements for the equal column height in slick slider;</li>
+<li>Added minor improvements and fixes.</li></ul>
+
+<p><li><b>JetSmartFilters versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>Beta version(October 18, 2018):</b>
+<ul class="marked-list">
+<li>The brand new JetSmartFilters plugin was released in Beta version.</li>
+</p></ul></li></p></ul>
+
+
+
+
+<h4>October 12, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetElements versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.13.2 (October 9, 2018):</b>
+<ul class="marked-list">
+<li>Added the brand new ability to set dynamic location in the Weather widget;</li>
+<li>Added options allowing to use dynamic tags in the Download button widget;</li>
+<li>Added fixes for encoding bug in the Advanced Map widget.</li></ul>
+
+<p><li><b>JetBlog versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>2.1.7 (October 10, 2018):</b>
+<ul class="marked-list">
+<li>Added Custom Query and Navigation Arrows processing options.</li></ul>
+
+<p><li><b>JetWooBuilder versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.3.3 (October 9, 2018):</b>
+<ul class="marked-list">
+<li>Improved compatibility with upcoming JetSmartFilters plugin.</li></ul>
+
+<p><li><b>JetReviews versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.3.3 (October 8, 2018):</b>
+<ul class="marked-list">
+<li>Added improvements for showing the summary content even if no review data has been posted.</li></ul>
+
+<ul class="marked-list">
+<p><li><b>October 10, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://demo.crocoblock.com/warehouser/" target="_blank">Warehouser;</a>.</li>
+<li><a href="https://demo.crocoblock.com/undertone/" target="_blank">Undertone;</a>.</li>
+<li>added the pre-styled sections on multibrand online store and clothes store topics.</li>
+</p></ul></li></p></ul>
+
+
+<h4>October 5, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetBlocks versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.3 (October 4, 2018):</b>
+<ul class="marked-list">
+<li>Added fixes for redirection to Custom URL in the Registration Form widget.</li></ul>
+
+<p><li><b>Kava theme versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.2 (October 4, 2018):</b>
+<ul class="marked-list">
+<li>Updated WooCommerce widget styles.</li></ul>
+
+<p><li><b>JetMenu versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.5.2 (October 3, 2018):</b>
+<ul class="marked-list">
+<li>Added style controls for Active State menu item in the Vertical Mega Menu widget;</li>
+<li>Added compatibility with Phlox and Phlox Pro themes.</li></ul>
+
+
+<p><li><b>JetElements versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.13.1 (October 2, 2018):</b>
+<ul class="marked-list">
+<li>Added compatibility with WPML String Translation plugin for new widgets;</li>
+<li>Updated keywords list in the language file;</li>
+<li>Added multiple performance improvements and bug fixes.</li></ul>
+
+
+<p><li><b>JetWooBuilder versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.3.2 (October 2, 2018):</b>
+<ul class="marked-list">
+<li>Added compatibility with upcoming JetSmartFilters plugin;</li>
+<li>Updated keywords list in the language file;</li>
+<li>Added multiple performance improvements and bug fixes.</li>
+</p></ul></li></p></ul>
+
+
+
+
+<h4>September 28, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetThemeCore versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.3 (September 26, 2018):</b>
+<ul class="marked-list">
+<li>Added ‘Search Results’ condition for Archives.</li></ul>
+
+<p><li><b>JetWooBuilder versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.3.1 (September 25, 2018):</b>
+<ul class="marked-list">
+<li>Added minor bug fixes and performance imrovements.</li></ul>
+
+<p><li><b>JetElements Dynamic Data Addon</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.0 (September 21, 2018):</b>
+<ul class="marked-list">
+<li>Added ability to use dynamic repeater fields in the JetElements widgets.</li>
+</p></ul></li></p></ul>
+
+
+
+<h4>September 14, 2018</h4>
+
+<h5>Jet Plugins</h5>
+
+<p><li><b>JetEngine versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.2 (September 13, 2018):</b>
+<ul class="marked-list">
+<li>Added ability to filter posts query arguments;</li>
+<li>Added “Get value from query variable” control for Meta Query in Listing Grid Widget;</li>
+<li>Added ability to use macros in “Get terms of posts” control in Listing Grid widget;</li>
+<li>Added minor bug fixes.</li></ul>
+
+<p><li><b>JetBlocks versions:</b></li></p>
+
+<ul class="marked-list">
+<p><li><b>1.1.1 (September 10, 2018):</b>
+<ul class="marked-list">
+<li>Added multiple multiple mobile menu options in the Nav Menu Widget;</li>
+<li>Added “At the bottom” dropdown position in the Vertical Layout in the Nav Menu widget;</li>
+<li>Added “Vertical Menu Width” and “Vertical Menu Alignment” controls in the Nav Menu widget;</li>
+<li>Added Product Search option in the Search widget;</li>
+<li>Added multiple performance improvements and bug fixes.</li></ul>
+
+
+<ul class="marked-list">
+<p><li><b>September 14, 2018</b> — added 1 skin to skins library:
+<ul class="marked-list">
+<li><a href="https://demo.crocoblock.com/clothorra/" target="_blank">Clothorra;</a>.</li>
+</p></ul></li></p></ul>
+
+
 
 <h4>September 7, 2018</h4>
 
