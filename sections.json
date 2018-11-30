@@ -3615,7 +3615,8 @@
 		"jetsmartfilters-installation",
 		"jetsmartfilters-new-filter",
 		"jetsmartfilters-filter-widgets",
-		"jetsmartfilters-additional"
+		"jetsmartfilters-additional",
+		"jetsmartfilters-changelog"
 	],
 	"jetdesignkit": [
 		"introduction",
