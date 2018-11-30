@@ -8,5 +8,5 @@
 
 <ul class="marked-list">
 <li><p><b>Placeholder</b> - change the placeholder text inside this field fill in the needed text in the corresponding field.</p></li>
-<li><p><b>Search by</b> - here you can define how the search is implemented: by deafult WP search or by custom field</p></li>
-<li><p><b>Query Variable</b> - set the necessary query variable (e.g., _description).</p></li></ul></article>
+<li><p><b>Search by</b> - here you can define how the search is implemented: by deafult WP search or by custom field.</p></li>
+<li><p><b>Query Variable</b> -  fill in the needed meta field slug (this meta field will become the source of the search). E.g., you can specify the "color" meta key to allow searching the products by color.</p></li></ul></article>
