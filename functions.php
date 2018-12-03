@@ -106,16 +106,28 @@ function generateNavigation($sections, $lang, $section_param, $project, $default
 			$section_title 		= $current_section['translations'][$lang];
 			$section_path 		= 'index.php?project='. $proj . '&lang=' . $lang . '&section=' . $section_id;
 
+			$target = '';
+			$icon   = '';
+
 			// Active class
 			$active_class = '';
 			if (isset($_GET['section']) && $section_id == $_GET['section']) {
 				$active_class = ' opened';
 			}
 
+			if ( ! empty( $current_section['custom_link'] ) ) {
+				$section_path = $current_section['custom_link'];
+				$target       = ' target="_blank"';
+			}
+
+			if ( ! empty( $current_section['icon'] ) ) {
+				$icon = sprintf( '<i class="%s"></i>', $current_section['icon'] );
+			}
+
 			// Get Articles List
 			$section_articles 	= $current_section['articles'][$proj];
 
-			$html .= '<li class="section section__' . $section_id . '"><a class="section_link' . $active_class .'" href="' . $section_path .'" data-key="' . $section_key . '"  data-id="' . $section_id . '">' . $section_title . '</a>';
+			$html .= '<li class="section section__' . $section_id . '"><a class="section_link' . $active_class .'" href="' . $section_path .'" data-key="' . $section_key . '"  data-id="' . $section_id . '"' . $target . '>' . $section_title . ' ' . $icon . '</a>';
 
 				// Generate articles navigation
 				if (!empty($section_articles)) {

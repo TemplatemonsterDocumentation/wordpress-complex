@@ -1,0 +1,24 @@
+{
+	"id": "jetplugins",
+	"icon": "fa fa-external-link",
+	"custom_link": "https://crocoblock.com/",
+	"translations": {
+		"en": "Jet Plugins",
+		"ru": ""
+	},
+	"articles": {
+		"jetsmartfilters": [],
+		"jetproductgallery": [],
+		"jetpopup": [],
+		"jetengine": [],
+		"jettricks": [],
+		"jetblocks": [],
+		"jetwoobuilder": [],
+		"jettabs": [],
+		"jetreviews": [],
+		"jetblog": [],
+		"jetmenu": [],
+		"jetelements": []
+	}
+}
+

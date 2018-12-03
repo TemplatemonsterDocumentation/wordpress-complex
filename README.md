@@ -2,6 +2,15 @@
 New Theme Documentation
 
 Changelog:
+
+- 03.12.18
+- added JetProductGallery documentation;
+- added CrocoBlock changelog;
+- added JetSmartFilters update documentation;
+- added external link into php by Photon;
+- added external links to Jet plugin projects.
+
+
 - 09.11.18
 - added Popup trigger event on custom selector click in triggers.
 
