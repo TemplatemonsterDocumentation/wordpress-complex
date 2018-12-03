@@ -1,6 +1,19 @@
 <h3>Changelog</h3>
 
 
+
+<h4>Version 1.3.5 (December 3, 2018)</h4>
+<ul class="marked-list">
+
+<p><li>Added an ability to render archive with default Elementor callbacks;</li></p>
+<p><li>Fixed processing categories;</li></p>
+<p><li>Fixed compatibility with WooCommerce Booking plugin.</li></p>
+<p><li>Fixed compatibility with WooCommerce Product Bundles plugin.</li></p>
+<p><li>Added Product Grid widgets presets.</li></p>
+<p><li>Added compatibility with WPML String Translation plugin.</li></p>
+<p><li>Added minor fixes.</li></p>
+</ul>
+
 <h4>Version 1.3.4 (October 18, 2018)</h4>
 <ul class="marked-list">
 

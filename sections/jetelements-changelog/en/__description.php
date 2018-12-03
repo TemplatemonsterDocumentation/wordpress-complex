@@ -2,6 +2,28 @@
 
 <h5>In this block you can view the latest updates for JetElements plugin.</h5>
 
+<h4>Version 1.14.6 (November 30, 2018)</h4>
+
+<ul class="marked-list">
+<p><li>Added Button Alignment option in the Download Button Widget;</li></p>
+<p><li>Added Image Size option in the Images Layout Widget;</li></p>
+<p><li>Added Image Size option in the Portfolio Widget;</li></p>
+<p><li>Fixed compatibility with Elementor 2.3.3;</li><p>
+<p><li>Fixed: html validation errors in the Table Widget.</li></p>
+</ul>
+</ul>
+
+<h4>Version 1.14.4 (November 23, 2018)</h4>
+
+<ul class="marked-list">
+<p><li>Improved compatibility with Elementor v. 2.3.0;</li></p>
+<p><li>Added improvements for typing effect in the Animated Text widget;</li></p>
+<p><li>Added fixes for Subscribe widget;</li></p>
+<p><li>Added fixes for the carousel mode in the Posts widget;</li><p>
+<p><li>Added RU localization.</li></p>
+</ul>
+</ul>
+
 <h4>Version 1.14.0 (November 1, 2018)</h4>
 
 <ul class="marked-list">
