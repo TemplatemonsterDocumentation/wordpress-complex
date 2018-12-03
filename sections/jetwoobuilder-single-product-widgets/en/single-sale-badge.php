@@ -38,4 +38,6 @@ This widget makes it simple to add the <b>Sale badge</b> to the product’s page
 	<li><p><b>Box Shadow</b> - here you can apply the shadow to use for the badge.</p></li>
 
 	<li><p><b>Padding</b> - here you can apply custom padding in order to use it for the element.</p></li>
+	
+	<li><p><b>Alignment</b> - in this block you can select the alignment to use for the sale badge (right, left, center).</p></li>
 </ul>

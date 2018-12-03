@@ -78,21 +78,20 @@ This widget allows to display the taxonomy categories or tags for the WooCommerc
 <h6>Content</h6>
 
 <ul class="marked-list">
-	<li><p><b>Background Color</b> - here you can set the background color for the content on hover.</p></li>
-
-
-	<li><p><b>Border Color</b> - here you can set the color to apply for the content on hover.</p></li></ul>
+	<li><p><b>Background Color</b> - here you can set the background color for the content on hover.</p></li></ul>
 
 <h6>Title</h6>
 
 <ul class="marked-list">
-	<li><p><b>Color</b> - here you can specify the color to apply for the title on hover.</p></li></ul>
+	<li><p><b>Color</b> - here you can specify the color to apply for the title on hover.</p></li>
+	<li><p><b>Text Decoration</b> - here you can decorate the text.</p></li></ul>
 
 
 <h6>Description</h6>
 
 <ul class="marked-list">
-	<li><p><b>Color</b> - here you can specify the color to apply for the description.</p></li></ul>
+	<li><p><b>Color</b> - here you can specify the color to apply for the description.</p></li>
+	<li><p><b>Text Decoration</b> - here you can decorate the description.</p></li></ul>
 
 
 <h6>Count</h6>
@@ -102,7 +101,8 @@ This widget allows to display the taxonomy categories or tags for the WooCommerc
 
 	<li><p><b>Background Color</b> - here you can set the color to apply for the count background on hover.</p></li>
 
-	<li><p><b>Border Color</b> - here you can set the needed border color to use for the box count on hover.</p></li></ul>
+	<li><p><b>Border Color</b> - here you can set the needed border color to use for the box count on hover.</p></li>
+	<li><p><b>Text Decoration</b> - here you can decorate the count.</p></li></ul>
 
 <h6>Content</h6>
 

@@ -42,6 +42,9 @@ Portfolio widget allows displaying Portfolio in the form of eye-catching layouts
 
 <p><li><b>Image</b> - select an image from the media library or use upload it from your hard drive in order to apply it to the portfolio item. </li></p>
 
+<p><li><b>Image Size</b> - here you can select the certain size of the image. </li></p>
+
+
 <p><li><b>Title</b> - input the title of the portfolio item you’re currently setting. </li></p>
 
 <p><li><b>Description</b> - here you need to input the description for the portfolio item.</li></p>

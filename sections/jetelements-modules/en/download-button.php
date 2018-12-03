@@ -39,42 +39,28 @@ Download Button widget will assist You in creating versatile buttons that will a
 <h6>Button</h6>
 
 <ul class="marked-list">
+<p><li><b>Button Alignment</b> — select the centered, left, right or justified alignment of the button.</li></p>
 <p><li><b>Icon Size</b> — here you can set the necessary icon size to use it for the button.</li></p>
-<p><li><b>Icon Color</b> — use color picker tool to choose the needed icon color.</li></p>
 <p><li><b>Download Link Icon</b> — use the dropdown menu to specify the position of the download link.</li></p>
-<p><li><b>Alignment</b> — select the centered, left or right alignment of the button.</li></p>
 <p><li><b>Icon Margin</b> — here you can define the preferable margin values for the button icon.</li></p>
+<p><li><b>Text Alignment</b> — select the centered, left or right alignment of the text.</li></p>
+<p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the button. The customization options vary for each type. </li></p>
+<p><li><b>Padding</b> — here you can set the preferable custom padding for the whole column where the widget is displayed. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding. </li></p>
+<p><li><b>Border Type</b> —  here you can define the type of the border you need to use for the element.</li></p>
+<p><li><b>Border Radius</b> - here you can set the border radius for the download button.</li></p>
+<p><li><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p>
 
+
+<h6>Button Icon</h6>
 <ul class="marked-list">
-<p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the button. The customization options vary for each type. </li></p></ul>
 
-<h6>Classic Background Type</h6>
-
-
-<ul class="marked-list">
-<p><li><b>Color</b> — here you can set background color for the button using color picker tool.</li></p>
-<p><li><b>Image</b> — here you can choose the image you want to use as a background. Select the image from the media library or upload it to define it as a background in this block. When the image is uploaded, you’ll be able to define its position, alignment, turn on repeat and set the necessary size.</li></p>
-<p><li><b>Opacity</b> — here you can define the value for the opacity of the background. </li></p></ul>
-
-<h6>Gradient Background Type</h6>
-
-
-<ul class="marked-list">
-<p><li><b>Color</b> — here you can set background color for the button using color picker tool.</li></p>
-<p><li><b>Location</b> — here you can define the proportion for the first color in the gradient background. </li></p>
-<p><li><b>Second Color</b> — here you can set the second color to use in the gradient background. </li></p>
-<p><li><b>Location</b> — here you can define the proportion for the second color in the gradient background. </li></p>
-<p><li><b>Type</b> — define, if you want to use linear or radial type of the gradient. </li></p>
-<p><li><b>Angle</b> — in this block you can set the angle for the gradient (in degrees). </li></p>
-<p><li><b>Opacity</b> — here you can change background opacity, where 1 is 100% opacity, and 0 — is 0% opacity. </li></p></ul>
-
+<p><li><b>Icon Color</b> — use color picker tool to choose the needed icon color.</li></p></ul>
 
 <h6>Button Label</h6>
 
-
 <ul class="marked-list">
-<p><li><b>Text Color</b> — here you can select the preferable color of the button label text using color picker. </li></p>
-<p><li><b>Typography</b> — turn the option on to view the typography settings.</li></p>
+<p><li><b>Text Color</b> — here you can select the preferable color of the button label text using color picker.</li></p>
+<p><li><b>Typography</b> — turn the option on to view the typography settings.
 <ul class="marked-list">
 <p><li><b>Size</b> — define the font size of the button label. </li></p>
 <p><li><b>Family</b> — here you can set the font family for the button label. </li></p>
@@ -85,12 +71,9 @@ Download Button widget will assist You in creating versatile buttons that will a
 <p><li><b>Letter Spacing</b> — here you can set the space between letters. </li></p></ul></li></p></ul>
 
 
+
 <h6>Button Sub Label</h6>
 
 <ul class="marked-list">
 <p><li><b>Text Color</b> — here you can select the preferable color of the button sub  label text using color picker. </li></p>
-<p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to those in the Button Label block.</li>
-</ul>
-
-
-<p><li><b>Padding</b> — here you can set the preferable custom padding for the whole column where the widget is displayed. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding. </li></p></ul>
+<p><li><b>Typography</b> — turn the option on to view the typography settings. They are similar to those in the Button Label block.</li></ul>

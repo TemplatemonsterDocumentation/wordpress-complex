@@ -35,11 +35,13 @@ Images Layout widget displays images using different eye-catching layout types, 
 
 <ul class="marked-list">
 <p><li><b>Image</b> — click on the Image area to select the image from the Media Library or upload one from your hard drive.</li></p>
+<p><li><b>Image Size</b> — here you can select the size of the images.</li></p>
 <p><li><b>Icon</b> — here you can set the icon for the image.</li></p>
 <p><li><b>Title</b> — here you can input the title of the image.</li></p>
-<p><li><b>Title</b> — in this field you need to provide the image description.</li></p>
+<p><li><b>Description</b> — in this field you need to provide the image description.</li></p>
 <p><li><b>Link type</b> — here you need to specify if you want the link to be external or lightboxed.</li></p>
-<p><li><b>External Link</b> — here you can provide the URL address of the external link.</li></p></ul>
+<p><li><b>External Link</b> — here you can provide the URL address of the external link.</li></p>
+<p><li><b>Open external link in new window</b> — enable this option if you want the link opens in a new window.</li></p></ul>
 
 <h4>Style</h4>
 

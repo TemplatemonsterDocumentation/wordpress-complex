@@ -8,6 +8,16 @@
 <p><li>In order to access the <b>WooCommerce JetWooBuilder Settings</b>, please, navigate to <b>WooCommerce > Settings > Jet Woo Builder</b> tab in WordPress Dashboard. Here you can see the list of options available for JetWooBuilder templates.
 Let’s take a closer look at them.
 
+<p><b>General</b></p>
+
+
+      <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/upd/woo-settings7.png">
+    </figure>
+
+<ul class="marked-list">
+<li><p><b>Archive Widgets Render Method</b> - here you need to select the widgets render for archive product and archive category templates.</p></li>
+
 <p><b>Shop Page</b></p>
 
 
