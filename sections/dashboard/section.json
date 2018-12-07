@@ -1,0 +1,63 @@
+{
+	"id": "dashboard",
+	"translations": {
+		"en": "Dashboard",
+		"ru": ""
+	},
+	"articles": {
+		"kava-child": [
+			
+			
+            {
+				"id": "skins",
+				"translations": {
+					"en": "Skins",
+					"ru": ""
+				}
+			},
+
+            {
+				"id": "settings",
+				"translations": {
+					"en": "Settings",
+					"ru": ""
+				}
+			},
+
+			{
+				"id": "user-guide",
+				"translations": {
+					"en": "User Guide",
+					"ru": ""
+				}
+			}],
+	
+		"rocktheme": [
+			
+			
+            {
+				"id": "skins",
+				"translations": {
+					"en": "Skins",
+					"ru": ""
+				}
+			},
+
+            {
+				"id": "settings",
+				"translations": {
+					"en": "Settings",
+					"ru": ""
+				}
+			},
+
+			{
+				"id": "user-guide",
+				"translations": {
+					"en": "User Guide",
+					"ru": ""
+				}
+			}]
+	}
+}
+

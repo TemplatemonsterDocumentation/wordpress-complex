@@ -1697,7 +1697,7 @@
 	},
 	"kava-child": {
 		"textLogo": "",
-		"title": "Kava Child Documenation",
+		"title": "Kava Child Documentation",
 		"titleCaption": "",
 		"author": ""
 	},
@@ -1766,7 +1766,13 @@
 		"title": "JetProductGallery Documentation",
 		"titleCaption": "",
 		"author": ""
-	}
 
+	},
+	"rocktheme": {
+		"textLogo": "",
+		"title": "RockTheme Documentation",
+		"titleCaption": "with Kava Theme",
+		"author": ""
+	}
 
 }

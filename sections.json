@@ -3554,10 +3554,10 @@
 	],
 	"kava-child": [
 		"introduction",
-		"kava-installation",
-	    "kava-dashboard",
-		"kava-plugins",
-		"kava-jetthemecore"
+		"installation-new",
+	    "dashboard",
+		"plugins",
+		"jetthemecore-extra"
 	],
 	"elementortemplate": [
 		"introduction",
@@ -3650,5 +3650,13 @@
 		"jetproductgallery-widgets",
 		"jetproductgallery-settings",
 		"jetplugins"
+	],
+
+	"rocktheme": [
+		"introduction",
+		"installation-new",
+	    "dashboard",
+		"plugins",
+		"jetthemecore-extra"
 	]
-}
+	}

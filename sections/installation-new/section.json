@@ -1,0 +1,59 @@
+{
+	"id": "installation-new",
+	"translations": {
+		"en": "Installation",
+		"ru": ""
+	},
+	"articles": {
+		"kava-child": [
+{
+				"id": "theme-installation",
+				"translations": {
+					"en": "Theme Installation",
+					"ru": ""
+				}
+			},
+
+            {
+				"id": "plugins-and-content-installation",
+				"translations": {
+					"en": "Plugins and Content Installation",
+					"ru": ""
+				}
+			},
+			 {
+				"id": "manual-plugins-installation",
+				"translations": {
+					"en": "Manual Plugins Installation",
+					"ru": ""
+				}
+			}],
+
+		"rocktheme": [
+{
+				"id": "theme-installation",
+				"translations": {
+					"en": "Theme Installation",
+					"ru": ""
+				}
+			},
+
+            {
+				"id": "plugins-and-content-installation",
+				"translations": {
+					"en": "Plugins and Content Installation",
+					"ru": ""
+				}
+			},
+			 {
+				"id": "manual-plugins-installation",
+				"translations": {
+					"en": "Manual Plugins Installation",
+					"ru": ""
+				}
+			}
+
+			]
+	}
+}
+

@@ -84,7 +84,8 @@ Please, keep reading this block to learn how to create and use the relations bet
 <h3><b>Listing Grid</b></h3>
 
 <ol class="index-list">
-<p><li>First, to use the <b>Listing Grid</b> for displaying the related posts, you need to create the single listing for the related posts. You can read in more details about creating a new listing here.</li></p> 
+<p><li>First, to use the <b>Listing Grid</b> for displaying the related posts, you need to create the single listing for the related posts. You can read in more details about creating a new listing <a href="https://documentation.zemez.io/wordpress/index.php?project=jetengine&lang=en&section=jetengine-custom-post-type#creating-cpt-template
+" target="_blank">here</a>.</li></p> 
 <p><li>After the listing is created, open the single post page template and drop the listing grid widget to it.</li></p> 
 <p><li>Select a listing to show in <b>Listing</b> dropdown.</li></p> 
 <p><li>Now you can filter the <b>Listing Grid</b> widget’s content to display only the related posts using the specific macros codes.</li></p> 
