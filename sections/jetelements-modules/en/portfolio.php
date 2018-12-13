@@ -22,11 +22,12 @@ Portfolio widget allows displaying Portfolio in the form of eye-catching layouts
   	</figure>
 
 <ul class="marked-list">
-<p><li><b>Layout type</b> - here you can select the needed layout type to use for the portfolio (masonry, grid, justify, list).
+<p><li><b>Layout Type</b> - here you can select the needed layout type to use for the portfolio (masonry, grid, justify, list).
 </li></p>
 <p><li><b>Preset</b> - here you can pick the preferable preset to use for the portfolio items.</li></p>
 
 <p><li><b>Columns</b> - here you can set the preferable number of columns (from 1 to 6). </li></p>
+<p><li><b>'All' Filter Label</b> - here you can indicate the label for the all filters. </li></p>
 
 <p><li><b>View More Button</b> - enable this option in order to add a View More button to the portfolio. </li></p>
 
@@ -51,7 +52,8 @@ Portfolio widget allows displaying Portfolio in the form of eye-catching layouts
 
 <p><li><b>Link Text</b> - here you can add the link text to be shown for the item. </li></p>
 
-<p><li><b>Link URL</b> - input the link URL in the corresponding field.</li></p></ul>
+<p><li><b>Link URL</b> - input the link URL in the corresponding field.</li></p>
+<p><li><b>Title HTML Tag</b> - here you can select the HTML tag (div, or heading) to apply for the title. </li></p></ul>
 
 
 <h4>Style</h4>
@@ -100,6 +102,7 @@ Portfolio widget allows displaying Portfolio in the form of eye-catching layouts
 <p><li><b>Separator Size</b> - here you can adjust the separator icon size to make it suitable and responsive. </li></p>
 
 <p><li><b>Alignment</b> - change the alignment to the left, right or centered and make it responsive using the responsiveness modes. </li></p>
+<p>Here you can switch from customizing the filter items in the <b>Normal</b> mode to styling them up in <b>Hover</b> mode and <b>Active</b> mode. To do it just switch between this three modes.
 
 <p><li><b>Color</b> - here you can change the color of the categories using color picker tool. </li></p>
 
@@ -110,15 +113,11 @@ Portfolio widget allows displaying Portfolio in the form of eye-catching layouts
 <p><li><b>Padding</b> - input the preferable responsive padding values in order to set the paddings for the portfolio. </li></p>
 
 <p><li><b>Margin</b> - here you can specify the responsive margins. </li></p>
-
 <p><li><b>Border Type</b> - here you can select one of the available border types to use: none, solid, double, dotted, dashed or groove.</li></p>
 <p><li><b>Width</b> - here you can define the width of the border in px.</li></p>
 <p><li><b>Color</b> - here you can change the color of the borders.</li></p>
 <p><li><b>Border Radius</b> - here you can set the border radius for the chosen border to make the border angles more round.</li></p>
-
-
 <p><li><b>Box Shadow</b> - click on the pencil icon to access the shadow option and apply the shadow for the element.</li></p></ul>
-
 
 
 <h5>Content</h5>
@@ -245,10 +244,7 @@ Portfolio widget allows displaying Portfolio in the form of eye-catching layouts
 
 <ul class="marked-list">
 <p><li><b>Cover Icon</b> - here you can define the icon for the cover from the list of available icons.</li></p>
-
-<p><li><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the widget containers. The customization options vary for each type.
-
-<p><li><b>Cover Icon Settings:</b>
+<p><li><b>Cover Icon Style</b> - here you can set the style settings of the cover icon:
 
 <ul class="marked-list">
 <p><li><b>background type;</b></li></p>
@@ -259,7 +255,28 @@ Portfolio widget allows displaying Portfolio in the form of eye-catching layouts
 <p><li><b>border radius;</b></li></p>
 <p><li><b>box shadow.</b></li></p></ul>
 
+<p><li><b>Background Type</b> - in this block you can choose, whether you want to use <b>Classic</b> or <b>Gradient</b> type for the widget containers. The customization options vary for each type.
 
+<p>Click on the button <b>Classic</b> to proceed to customizing classic type.
+<ul class="marked-list">
+<p><li><b>Color</b> -  here you can set background color for the cover using color picker tool.</li></p>
+<p><li><b>Image</b> - here you can define the background image for the cover.</li></p>
+<p><li><b>Position</b> - here you can define the position of the background image.</li></p>
+<p><li><b>Attachment</b> - here you can define the attachment of the background image.</li></p>
+<p><li><b>Repeat</b> - here you can define the repetition of the background image.</li></p>
+<p><li><b>Size</b> - here you can define the size of the background image.</li></p>
+
+<p>Click on the button <b>Gradient</b> to proceed to customizing gradient type.
+<ul class="marked-list">
+<p><li><b>Color</b> -  here you can set background color for the cover using color picker tool.</li></p>
+<p><li><b>Image</b> - here you can define the background image for the cover.</li></p>
+<p><li><b>Location</b> - here you can define the proportion for the first color in the gradient background.</li></p>
+<p><li><b>Second Color</b> - here you can set the second color to use in the gradient background.</li></p>
+<p><li><b>Type</b> - define, if you want to use linear or radial type of the gradient.</li></p>
+<p><li><b>Angle</b> - in this block you can set the angle for the gradient (in degrees).</li></p>
+<p><li><b>Location</b> - here you can define the proportion for the second color in the gradient background.</li></p>
+<p><li><b>Border Radius</b> - here you can set the border radius for the chosen border to make the border angles more round.</li></p>
+<p><li><b>Margin</b> - here you can define the margins for the cover on the background.</li></p>
 </li></p></ul>
 
 

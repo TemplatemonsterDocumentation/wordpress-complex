@@ -38,7 +38,7 @@
     </figure>
 
 <ul class="marked-list">
-<p><li>Click on the newly created item and there click <b>Image</b> to add a new image from the media library or upload it from your hard drive.</li></p>
+<p><li>Click on the newly created item and there click <b>Image</b> to add a new image from the media library or upload it from your hard drive. Also you can add dynamic custom image.</li></p>
 <p><li>To change the speed of the parallax effect you need to use the <b>Parallax Speed</b> control. Drag it leftwards to reduce the speed, or rightwards to increase it.</li></p>
 <p><li>Select the parallax type from the <b>Parallax Type</b> dropdown list.
 <ul class="marked-list">
@@ -48,7 +48,9 @@
 
 <p><li><b>Background X Position %</b> - define the item’s horizontal position in percents in relation to the background.</li></p>
 <p><li><b>Background Y Position %</b> - define the item’s vertical position in percents in relation to the background.</li></p>
-<p><li><b>Size</b> - here you can select the preferable size for the item (Auto, Cover or Contain).
+<p><li><b>Background Size</b> - here you can select the preferable size for the item (Auto, Cover or Contain).</li></p>
+<p><li><b>Animation Property</b> - here you can define the animation effect for the item (Background position, Transform, Transform 3D)</li></p>
+<p><li><b>Enable on Device</b> - here you can specify the devices, where the item appears.</li></p>
 
 Note, that you can add as many items with different parallax settings (speed, position), as you need.
 

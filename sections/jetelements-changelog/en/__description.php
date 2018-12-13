@@ -2,6 +2,14 @@
 
 <h5>In this block you can view the latest updates for JetElements plugin.</h5>
 
+<h4>Version 1.14.7 (December 12, 2018)</h4>
+<ul class="marked-list">
+<p><li>Added an ability to use dynamic tags  in the sections with parallax effect;</li></p>
+<p><li>Added compatibility of URL controls with WPML plugin in widgets;</li></p>
+<p><li>Added gradient options for text elements in the Headline Widget;</li></p>
+<p><li>Fixed display of filtered items in the Portfolio Widget.</li></p>
+
+
 <h4>Version 1.14.6 (November 30, 2018)</h4>
 
 <ul class="marked-list">
@@ -9,7 +17,7 @@
 <p><li>Added Image Size option in the Images Layout Widget;</li></p>
 <p><li>Added Image Size option in the Portfolio Widget;</li></p>
 <p><li>Fixed compatibility with Elementor 2.3.3;</li><p>
-<p><li>Fixed: html validation errors in the Table Widget.</li></p>
+<p><li>Fixed html validation errors in the Table Widget.</li></p>
 </ul>
 </ul>
 
