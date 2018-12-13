@@ -2,12 +2,12 @@
 
 
 <h6>
-Smart Post Tiles module will assist you in adding your posts to the website’s page in the form of an eye-catching tiles block with immaculate layout and impeccable style. This module has versatile style settings, allowing to add gap between boxes, create box overlays, change content appearance and meta information. It also has 6 pre-built layouts that will help you showcase your posts in a totally advantageous way.
+Smart Post Tiles widget will assist you in adding your posts to the website’s page in the form of an eye-catching tiles block with immaculate layout and impeccable style. This module has versatile style settings, allowing to add gap between boxes, create box overlays, change content appearance and meta information. It also has 6 pre-built layouts that will help you showcase your posts in a totally advantageous way.
 </h6>
 
-<h4>Smart Post Tiles Module Sample</h4>
+<h4>Smart Post Tiles Widget Sample</h4>
 
-<h6>On the picture below you can view Smart Post Tiles module sample.</h6>
+<h6>On the picture below you can view Smart Post Tiles widget sample.</h6>
 
  	<figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/modules/tiles3.png">
@@ -27,13 +27,15 @@ Smart Post Tiles module will assist you in adding your posts to the website’s 
 <p><li><b>Layout</b> - here you can select one of the 6 layouts to display your posts content in the most suitable way.</li></p>
 <p><li><b>Min Height</b> - use the controls or type in the height value in the corresponding field in order to define the minimal Smart Post Tiles module height. </li></p>
 <p><li><b>Main Box Width</b> - use the controls or type in the height value in the corresponding field in order to define the main box (the largest box) width. </li></p>
+<p><li><b>Image Size</b> - here you can select the suitable size for post images (the sizes may vary depending on what theme you’re using).</li></p>
 <p><li><b>Show Post Terms</b> - enable this option in order to display the post terms (categories or tags). </li></p>
 <p><li><b>Show Terms From</b> - here you can select, if you want to display tags or categories. </li></p>
 <p><li><b>Max Terms to Show</b> - here you can set, how many tags or categories you want to show per one post (1-4, or all of them).</li></p>
 <p><li><b>Title Max Length (Words)</b> - here you can set the maximum length or the post title in words.</li></p>
-<p><li><b>Excerpt Length</b> - here you can specify the post excerpt length to display with this module.</li></p>
+<p><li><b>Excerpt Length</b> - here you can specify the post excerpt length to display with this widget.</li></p>
+<p><li><b>Excerpt Trimmed Ending</b> - here you can define the appearance of the excerpt trimmed ending.</li></p>
 <p><li><b>Show Excerpt on Small Boxes Only on Hover</b> - enable this option in order to show the post excerpt texts only when on hover.</li></p>
-<p><li><b>Post Meta</b> - enable this option to display the post meta information in this module.</li></p>
+<p><li><b>Post Meta</b> - enable this option to display the post meta information in this widget.</li></p>
 <p><li><b>Show Post Author</b> - enable this option in order to display the post author for the post.</li></p>
 <p><li><b>Author Icon</b> - if the previous option is active, you can select the icon to display on the left of the post author’s username.</li></p>
 <p><li><b>Show Post Date</b> - enable this option in order to display the date when the post is published.</li></p>
@@ -46,8 +48,8 @@ Smart Post Tiles module will assist you in adding your posts to the website’s 
 
 
 <ul class="marked-list">
-<p><li><b>Query Posts By</b> - here you can select the query type you want to use for this module’s content (<b>Categories, Tags</b> or <b>All</b>).</li></p>
-<p><li><b>Get posts from categories/tags/IDs</b> - here you can select which post categories/tags/IDs you want to display using the Smart Post Tiles module.</li></p>
+<p><li><b>Query Posts By</b> - here you can select the query type you want to use for this widget’s content (<b>Categories, Tags</b> or <b>All</b>).</li></p>
+<p><li><b>Get posts from categories/tags/IDs</b> - here you can select which post categories/tags/IDs you want to display using the Smart Post Tiles widget.</li></p>
 <p><li><b>Exclude Posts by IDs</b> - here you can specify the post IDs you want to exclude from showing up.</li></p></ul>
 
   <figure class="img-polaroid">
@@ -63,7 +65,8 @@ Smart Post Tiles module will assist you in adding your posts to the website’s 
 
 
 <p><li><b>Enable Carousel</b> - enable this option if you want to display the post tiles in the form of the posts carousel.</li></p>
-<p><li><b>Number of Slides</b> - here you can define the number of slides you want to display with this module.</li></p>
+<p><li><b>Number of Slides</b> - here you can define the number of slides you want to display with this widget.</li></p>
+<p><li><b>Autoplay</b> - enable this option if you want the slides change automatically.</li></p>
 <p><li><b>Show Controls Arrows</b> - enable this option if you want to enable carousel arrow controls.</li></p>
 <p><li><b>Select Control Arrows Type</b> - here you can change the arrow controls icons.</li></p></ul>
 
@@ -129,7 +132,7 @@ Smart Post Tiles module will assist you in adding your posts to the website’s 
 <p><li><b>Padding</b> - here you can input your custom padding values to apply padding for the whole post tiles layout block.</li></p>
 <p><li><b>Border Type</b> - here you can select the type of the border from the dropdown menu.</li></p>
 <p><li><b>Border Radius</b> - here you can select the radius for the applied border (in pixels) to make the border andles more smooth and round.</li></p>
-<p><li><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 <b>Box Overlay</b>
 
@@ -144,15 +147,15 @@ Smart Post Tiles module will assist you in adding your posts to the website’s 
 <b>Title</b>
 
 <ul class="marked-list">
-<p><li><b>Color</b> - here you can set the color for the module content using color picker tool.</li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
-<p><li><b>Margin</b> -  in this block you can input the values (in pixels) to define the margins for the module content you're customizing.</li></p></ul>
+<p><li><b>Color</b> - here you can set the color for the widget content using color picker tool.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
+<p><li><b>Margin</b> -  in this block you can input the values (in pixels) to define the margins for the widget content you're customizing.</li></p></ul>
 
 <b>Post Text</b>
 
 <ul class="marked-list">
 <p><li><b>Color</b> - here you can set the color for the post text using color picker tool.</li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <p><li><b>Margin</b> -  in this block you can input the values (in pixels) to define the margins for the post text.</li></p></ul>
 
 <b>Meta</b>
@@ -162,7 +165,7 @@ Smart Post Tiles module will assist you in adding your posts to the website’s 
 <p><li><b>Meta Icon Gap</b> - here you can set the gap distance between the icon and the meta information text.</li></p>
 <p><li><b>Background Color</b> - here you can set the background color for the post meta using color picker tool.</li></p>
 <p><li><b>Text Color</b> - here you can set the color for the post text using color picker tool.</li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the post meta. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
 <p><li><b>Margin</b> - here you can apply your custom margins for the post meta.</li></p>
 <p><li><b>Alignment</b> - here you can define the preferable post meta information alignment. It can be placed to the left, to the right, or remain centered.</li></p>
@@ -177,13 +180,13 @@ Smart Post Tiles module will assist you in adding your posts to the website’s 
 <p><li><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the terms links. The customization options vary for each type.</li></p>
 <p><li><b>Color</b> - here you can set the background box color for the terms links using color picker tool.</li></p>
 <p><li><b>Text Color</b> - here you can set the text color for the terms links using color picker tool.</li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <p><li><b>Text Decoration</b> - here you can apply the underline for the terms text.</li></p>
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the post terms links. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
 <p><li><b>Border Radius</b> - here you can select the radius for the applied border (in pixels) to make the border angles more smooth and round.</li></p>
 <p><li><b>Border Type</b> - here you can define the type of the border you need to use for the element.</li></p>
 <p><li><b>Width</b> - here you can set the preferable border width in px.</li></p>
-<p><li><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p>
+<p><li><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p>
 <p><li><b>Horizontal Alignment</b> - here you can set the preferable horizontal alignment (Left, Center, Right).</li></p>
 <p><li><b>Vertical Alignment</b> - here you can set the needed vertical alignment (Top, Bottom).</li></p></ul>
 
@@ -219,7 +222,7 @@ Smart Post Tiles module will assist you in adding your posts to the website’s 
 
 <h4>Advanced</h4>
 
-<p>In this block you can access advanced appearance settings for the modules, define module margins and padding, entrance animation, change the background for the whole module, etc.
+<p>In this block you can access advanced appearance settings for the widgets, define widget margins and padding, entrance animation, change the background for the whole widget, etc.
 </p>
 
-<p>The Advanced settings of the Smart Post Tiles module are similar to the ones of the other JetBlog modules.</p>
+<p>The Advanced settings of the Smart Post Tiles widget are similar to the ones of the other JetBlog widgets.</p>

@@ -1,7 +1,7 @@
 <h3>View More</h3>
 
 <p>
-	This widget allows displayind sections and higing them under the cut stylishly, making the page's content more visually compact.
+	This widget allows displayind sections and hiding them under the cut stylishly, making the page's content more visually compact.
 </p>
 
  <figure class="img-polaroid">

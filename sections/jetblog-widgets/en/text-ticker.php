@@ -2,12 +2,12 @@
 
 
 <h6>
-Text Ticker module is created for adding an eye-catching ticker content module to website’s page, displaying the recent and most important post titles in order to engage more visitors to read the recent publications. This module has multiple content settings, as well as loads of style settings, such as container background type, post thumbnails to display, paging arrows and many more.
+Text Ticker widget is created for adding an eye-catching ticker content module to website’s page, displaying the recent and most important post titles in order to engage more visitors to read the recent publications. This module has multiple content settings, as well as loads of style settings, such as container background type, post thumbnails to display, paging arrows and many more.
 </h6>
 
-<h4>Text Ticker Module Sample</h4>
+<h4>Text Ticker Widget Sample</h4>
 
-<h6>On the picture below you can view Text Ticker module sample.</h6>
+<h6>On the picture below you can view Text Ticker widget sample.</h6>
 
  	<figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/modules/tick.png">
@@ -29,8 +29,8 @@ Text Ticker module is created for adding an eye-catching ticker content module t
 <li><p><b>Date Format</b> - here you can define the date format to use for the displayed date (e.g., F j, Y; you can learn more about displaying the date <a href="https://codex.wordpress.org/Formatting_Date_and_Time" target="_blank">here</a>). </li></p>
 <li><p><b>Date Icon</b> - here you can define what icon to use for the date.</li></p>
 <li><p><b>Posts Number to Show</b> - input the number of posts you want to display in Text Ticker block.</li></p>
-<li><p><b>Query Posts By</b> - here you can select the query type you want to use for this module’s content (Categories, Tags or All).</li></p>
-<li><p><b>Get posts from categories</b> - here you can select which post categories you want to display using the Text Ticker module.</li></p>
+<li><p><b>Query Posts By</b> - here you can select the query type you want to use for this widget’s content (Categories, Tags or All).</li></p>
+<li><p><b>Get posts from categories</b> - here you can select which post categories you want to display using the Text Ticker widget.</li></p>
 
 <li><p><b>Exclude Posts by IDs</b> - here you can specify the post IDs you want to exclude from showing up.</li></p>
 
@@ -69,7 +69,7 @@ Text Ticker module is created for adding an eye-catching ticker content module t
 
 <ul class="marked-list">
 <li><p><b>Color</b> - in this block you can set the color of the title using color picker tool.</li></p>
-<li><p><b>Typography</b> -  turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<li><p><b>Typography</b> -  turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <li><p><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the ticker title. The customization options vary for each type.</li></p>
 <li><p><b>Padding</b> - here you can set the preferable custom padding for the title. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
 <li><p><b>Border Type</b> - here you can define the type of the border you need to use for the element.</li></p>
@@ -84,7 +84,7 @@ Text Ticker module is created for adding an eye-catching ticker content module t
 
 <ul class="marked-list">
 <li><p><b>Color</b> - in this block you can set the color of the current date using color picker tool.</li></p>
-<li><p><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<li><p><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 
 <li><p><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the current date in the ticker. The customization options vary for each type.</li></p>
 <li><p><b>Padding</b> - here you can set the preferable custom padding for the current date. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
@@ -112,14 +112,14 @@ Text Ticker module is created for adding an eye-catching ticker content module t
 
 <ul class="marked-list">
 <li><p><b>Color</b> - in this block you can set the color of the post author using color picker tool.</li></p>
-<li><p><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p></ul>
+<li><p><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p></ul>
 
 
 <b>Link</b>
 
 <ul class="marked-list">
 <li><p><b>Color</b> - in this block you can set the color of the post link using color picker tool.</li></p>
-<li><p><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p></ul>
+<li><p><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p></ul>
 
 
 <b>Paging Arrows</b>
@@ -155,7 +155,7 @@ Text Ticker module is created for adding an eye-catching ticker content module t
 <h4>Advanced</h4>
 
 
-<p>In this block you can access advanced appearance settings for the modules, define module margins and padding, entrance animation, change the background for the whole module, etc.
+<p>In this block you can access advanced appearance settings for the widgets, define widget margins and padding, entrance animation, change the background for the whole widget, etc.
 </p>
 
-<p>The Advanced settings of the Text Ticker module are similar to the ones of the other JetBlog modules.</p>
+<p>The Advanced settings of the Text Ticker widget are similar to the ones of the other JetBlog widgets.</p>

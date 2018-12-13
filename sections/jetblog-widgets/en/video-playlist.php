@@ -1,10 +1,10 @@
 <h2>Video Playlist</h2>
 
 <h6>
-Video Playlist module allows adding a video playlist to the web page built with Elementor live page builder. It is invaluable if you want to showcase the videos in a stylish way, arrange the playlist in a pixel-perfect layout, and change the style of the thumbnails, as well as scrollbar styles and thumbnail numbers or typography.
+Video Playlist widget allows adding a video playlist to the web page built with Elementor live page builder. It is invaluable if you want to showcase the videos in a stylish way, arrange the playlist in a pixel-perfect layout, and change the style of the thumbnails, as well as scrollbar styles and thumbnail numbers or typography.
 </h6>
 
-<h4>Video Playlist Module Sample</h4>
+<h4>Video Playlist Widget Sample</h4>
 
 <h6>On the picture below you can view Video Playlist module sample.</h6>
  	<figure class="img-polaroid">
@@ -48,10 +48,10 @@ Video Playlist module allows adding a video playlist to the web page built with 
 <h6>General Style</h6>
 
 <ul class="marked-list">
-<p><li><b>Canvas Background</b> - select the color using color picker tool in order to use it as the background color for the module canvas.  </li></p>
+<p><li><b>Canvas Background</b> - select the color using color picker tool in order to use it as the background color for the widget canvas.  </li></p>
 <p><li><b>Thumbnails Background</b> - select the preferable color to use it as a background for the video thumbnails list.  </li></p>
 <p><li><b>Heading Background</b> - here you can select the background color to use it for the video playlist heading.  </li></p>
-<p><li><b>Heading Padding</b> - here you can apply your custom padding in pixels for the module heading. </li></p></ul>
+<p><li><b>Heading Padding</b> - here you can apply your custom padding in pixels for the widget heading. </li></p></ul>
 
 
 <b>Heading Icon</b>
@@ -64,14 +64,14 @@ Video Playlist module allows adding a video playlist to the web page built with 
 
 <ul class="marked-list">
 <p><li><b>Color</b> - here you can select the color to use it for the heading title. </li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p></ul>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p></ul>
 
 
 <b>Heading Counter</b>
 
 <ul class="marked-list">
 <p><li><b>Color</b> - here you can select the color to use it for the heading counter. </li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p></ul>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p></ul>
 
 <b>Thumbnail Styles</b>
 
@@ -83,13 +83,13 @@ Video Playlist module allows adding a video playlist to the web page built with 
 <b>Title</b>
 
 <ul class="marked-list">
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the title. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p></ul>
 
 <b>Duration</b>
 
 <ul class="marked-list">
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the video duration. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p></ul>
 
 <p>You can customize the appearance of  the thumbnail styles using the <b>Normal, Hover</b> or <b>Active</b> mode. Just switch between the modes using the corresponding buttons.</p>
@@ -103,7 +103,7 @@ Video Playlist module allows adding a video playlist to the web page built with 
 <b>Thumbnail Numbers and Status Icons</b>
 
 <ul class="marked-list">
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <p><li><b>Margin</b> - here you can apply your custom margins for the thumbnail numbers and status icons.</li></p></ul>
 
 <p>You can customize the appearance of  the thumbnail numbers and status icons using the <b>Normal, Hover</b>* or <b>Active</b> mode. Just switch between the modes using the corresponding buttons.</p>
@@ -115,7 +115,7 @@ Video Playlist module allows adding a video playlist to the web page built with 
 <p><li><b>Box Size</b> - here you can select the size of the box in pixels.</li></p>
 <p><li><b>Border Type</b> - here you can define the type of the border you need to use for the border.</li></p>
 <p><li><b>Border Radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p>
-<p><li><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
 
 <b>Scrollbar Styles</b>
 
@@ -127,7 +127,7 @@ Video Playlist module allows adding a video playlist to the web page built with 
 
 <h4>Advanced</h4>
 
-<p>In this block you can access advanced appearance settings for the modules, define module margins and padding, entrance animation, change the background for the whole module, etc.
+<p>In this block you can access advanced appearance settings for the widgets, define widget margins and padding, entrance animation, change the background for the whole widget, etc.
 </p>
 
-<p>The Advanced settings of the Video Playlist module are similar to the ones of the other JetBlog modules.</p>
+<p>The Advanced settings of the Video Playlist widget are similar to the ones of the other JetBlog widgets.</p>

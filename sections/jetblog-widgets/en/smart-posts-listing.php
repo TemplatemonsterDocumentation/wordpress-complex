@@ -1,14 +1,14 @@
-<h2>Smart Posts Listing</h2>
+<h2>Smart Posts List</h2>
 
 
 
 <h6>
-Smart Posts Listing module is a perfect tool for displaying your posts in the form of neat content blocks with easily changeable layout and customizable appearance. You can change the listing max width, featured post position, image size, style up post excerpts and meta information without ever touching a single line of code.
+Smart Posts List widget is a perfect tool for displaying your posts in the form of neat content blocks with easily changeable layout and customizable appearance. You can change the listing max width, featured post position, image size, style up post excerpts and meta information without ever touching a single line of code.
 </h6>
 
-<h4>Smart Posts Listing Module Sample</h4>
+<h4>Smart Posts List Widget Sample</h4>
 
-<h6>On the picture below you can view Smart Posts Listing module sample.</h6>
+<h6>On the picture below you can view Smart Posts List widget sample.</h6>
 
  	<figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/modules/list4.png">
@@ -25,7 +25,7 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 
 
 <ul class="marked-list">
-<p><li><b>Widget Title</b> - here you need to input the title for the module. It will be displayed above the posts listing.</li></p>
+<p><li><b>Widget Title</b> - here you need to input the title for the widget. It will be displayed above the posts listing.</li></p>
 <p><li><b>Title Tag</b> - select the appropriate widget title tag to use it when displaying the title (<b>H1, H2, H3, H4, H5, H6</b> or <b>div</b> tag).</li></p>
 
 <p><li><b>Mark First Post as Featured</b> - enable this option in order to display the first post from the listing as a featured one. If the option is disabled, all the posts will be shown as equal listing items.</li></p>
@@ -35,6 +35,9 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 <p><li><b>Featured Post Image Size</b> - here you can select the suitable size for the featured post image (the sizes may vary depending on what theme you’re using).</li></p>
 <p><li><b>Featured Post Image Max Width</b> - use the controls or type in the needed value in px in the corresponding field to set the maximum featured post image width.</li></p>
 <p><li><b>Featured Post Excerpt Length</b> - here you can select the length of the post excerpt to be displayed in the featured post.</li></p>
+<p><li><b>Featured Excerpt Trimmed Ending</b> - here you can define the appearance of the featured excerpt trimmed ending.</li></p>
+<p><li><b>Featured Post Read More Button</b> - enable this option in order to show the Read More button.</li></p>
+<p><li><b>Read More Button Label</b> - here you can specify the label for the Read More button.</li></p>
 <p><li><b>Featured Post Meta</b> - enable this option in order to display the post meta information in the featured post.</li></p>
 <p><li><b>Featured Meta Position</b> - choose the position of the featured post meta information (before or after the title).</li></p>
 <p><li><b>Show Post Author</b> - enable this option in order to display the post author for the featured post.</li></p>
@@ -43,13 +46,16 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 <p><li><b>Date Icon</b> - when the previous option is active, you can select the icon to display it on the left of the post publishing date.</li></p>
 <p><li><b>Show Post Comments</b> - enable this option in order to display the number of comments to the post.</li></p>
 <p><li><b>Comments Icon</b> - when the previous option is active, you can select the icon to display it on the left of the number of comments to the post.</li></p>
-<p><li><b>Columns Number</b> - select the number of columns for different screen resolutions to make the module content responsive. You can set from <b>1</b> to <b>4</b> columns.</li></p>
+<p><li><b>Columns Number</b> - select the number of columns for different screen resolutions to make the widget content responsive. You can set from <b>1</b> to <b>4</b> columns.</li></p>
 <p><li><b>Rows Number</b> - here you can select how many rows you want to display in the listing.</li></p>
 <p><li><b>Post Thumbnail</b> - enable this option to display the post thumbnail image.</li></p>
 <p><li><b>Post Image Size</b> - here you can set the preferable image size for the posts displayed in the listing (the sizes may vary depending on the theme you’re using).</li></p>
 <p><li><b>Post Image Position</b> - here you can set the needed post image position (<b>Top, Left</b>).</li></p>
 <p><li><b>Post Image Max Width</b> - use the controls or type in the needed value in pixels to define the maximum width for the post images.</li></p>
 <p><li><b>Excerpt Length</b> - type in the post excerpt length value to set it for the posts shown in listing.</li></p>
+<p><li><b>Excerpt Trimmed Ending</b> - here you can define the appearance of the excerpt trimmed ending.</li></p>
+<p><li><b>Post Read More Button</b> - enable this option in order to show the Read More button in posts.</li></p>
+<p><li><b>Read More Button Label</b> - here you can specify the label for the Read More button in posts.</li></p>
 <p><li><b>Post Meta</b> - enable this option in order to display the post meta information.</li></p>
 <p><li><b>Show Post Author</b> - enable this option in order to display the post author for the posts shown in listing.</li></p>
 <p><li><b>Author Icon</b> - if the previous option is active, you can set the icon to display it on the left from the post author’s username.</li></p>
@@ -64,8 +70,8 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 
 <ul class="marked-list">
 <p><li><b>Post Type</b> - here you can select the post type you want to use (e.g., Posts, Pages, Projects).</li></p>
-<p><li><b>Query Posts By</b> - here you can select the query type you want to use for this module’s content (<b>Categories, Tags</b> or <b>All</b>). In the JetBlog v.1.2.0  and further one can query posts by <b>IDs</b>. After that one needs to ad the comma-separated list of IDs in the corresponding field.</li></p>
-<p><li><b>Get posts from categories/tags/IDs</b> - here you can select which post categories/tags/IDs you want to display using the <b>Smart Posts Listing</b> module. </li></p>
+<p><li><b>Query Posts By</b> - here you can select the query type you want to use for this widget’s content (<b>Categories, Tags</b> or <b>All</b>). In the JetBlog v.1.2.0  and further one can query posts by <b>IDs</b>. After that one needs to ad the comma-separated list of IDs in the corresponding field.</li></p>
+<p><li><b>Get posts from categories/tags/IDs</b> - here you can select which post categories/tags/IDs you want to display using the <b>Smart Posts Listing</b> widget. </li></p>
 <p><li><b>Exclude Posts by IDs</b> - here you can specify the post IDs you want to exclude from showing up.</li></p></ul>
 
   <figure class="img-polaroid">
@@ -139,8 +145,11 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
         <img src="projects/<?php echo $project;?>/img/modules/list2.png">
   	</figure>
 
+<h6>Posts Wrapper</h6>
 <ul class="marked-list">
-<p><li><b>Posts Wrapper</b> - here you can input the posts wrapper size in pixels.</li></p></ul>
+<p><li><b>Global Wrapper Margin</b> - here you can input the margin of the posts wrapper.</li></p>
+<p><li><b>Featured Post Margin</b> - here you can input the  wrapper margin for the Featured post.</li></p>
+<p><li><b>Posts List Margin</b> - here you can input the margin of the posts list.</li></p>
 
 <h6>Heading</h6>
 
@@ -174,7 +183,7 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 <b>Title</b>
 
 <ul class="marked-list">
-<p><li><b>Title Color</b> - here you can define the suitable color for the module title. Use color picker tool to select the necessary color.</li></p>
+<p><li><b>Title Color</b> - here you can define the suitable color for the widget title. Use color picker tool to select the necessary color.</li></p>
 <p><li><b>Typography</b> - turn the option on to view the typography settings.</p>
 <ul class="marked-list">
 <li><b>Size</b> - define the font size of the module title.</li>
@@ -188,10 +197,10 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 <p><li><b>Margin</b> - here you can define the margins for the title.</li></p></ul>
 
 
-<b>Filter</b>
+<h6>Filter</h6>
 
 <ul class="marked-list">
-<p><li><b>Typography</b> -  turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p></ul>
+<p><li><b>Typography</b> -  turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p></ul>
 
 <p>You can customize the appearance of  the title using the <b>Normal, Hover</b> or <b>Active</b> mode. Just switch between the modes using the corresponding buttons.</p>
 
@@ -208,7 +217,7 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 
 <ul class="marked-list">
 <p><li><b>Hidden Terms Icon Size</b> - here you can define the value of icon size in pixels.</li></p>
-<p><li><b>Typography</b> -  turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<p><li><b>Typography</b> -  turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <p><li><b>Color</b> - in this block you can set the color using color picker tool.</li></p>
 <p><li><b>Hover/Active Color</b> -  in this block you can set the color using color picker tool to use in on hover or when the box is active.</li></p>
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the box. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
@@ -217,7 +226,7 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 <p><li><b>Border Radius</b> - here you can define the values for the radius of the selected border.</li></p>
 <p><li><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for the  box and need to apply shadow for it.</li></p></ul>
 
-<b>Featured</b>
+<h6>Featured</h6>
 
 <ul class="marked-list">
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the featured box element with content and overlay. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
@@ -238,17 +247,17 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 
 <ul class="marked-list">
 <p><li><b>Color</b> - here you can set the color for the post title text using color picker tool.</li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <p><li><b>Margin</b> - here you can apply your custom margins for the post title.</li></p></ul>
 
 <b>Post Text</b>
 
 <ul class="marked-list">
 <p><li><b>Color</b> - here you can set the color for the post text using color picker tool.</li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <p><li><b>Margin</b> - here you can apply your custom margins for the post text.</li></p></ul>
 
-<b>Featured Post Meta</b>
+<h6>Featured Post Meta</h6>
 
 <ul class="marked-list">
 <p><li><b>Meta Icon Size</b> - here you can define the value of icon size in pixels.</li></p>
@@ -257,14 +266,14 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 <p><li><b>Text Color</b> - here you can set the color for the featured post text using color picker tool.</li></p>
 <p><li><b>Links Color</b> - here you can set the color for the featured post links using color picker tool.</li></p>
 <p><li><b>Links Hover Color</b> - here you can set the color for the featured post links on hover using color picker tool.</li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the featured post meta. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
 <p><li><b>Margin</b> - here you can apply your custom margins for the featured post meta.</li></p>
 <p><li><b>Alignment</b> - here you can define the preferable featured post meta information alignment. It can be placed to the left, to the right, or remain centered.</li></p>
 <p><li><b>Meta Divider</b> - here you can input the custom divider text or symbol.</li></p>
 <p><li><b>Divider Gap</b> - here you can set the gap distance between the divider and the meta information text.</li></p></ul>
 
-<b>Featured Read More Button</b>
+<h6>Featured Read More Button</h6>
 
 
 <ul class="marked-list">
@@ -281,7 +290,7 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 <p><li><b>Background Type</b> - in this block you can choose, whether you want to use classic or gradient type for the Read More button. The customization options vary for each type. The settings are similar to the common background type settings for other JetBlog modules.</li></p>
 <p><li><b>Color</b> - here you can set the button color.</li></p>
 <p><li><b>Text Color</b> - click this option to set the button text color using color picker tool.</li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <p><li><b>Text Decoration</b> - here you can apply the underline for the button text.</li></p>
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the Read More button. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
 <p><li><b>Border Radius</b> -  here you can define the values for the radius of the selected border.</li></p>
@@ -290,7 +299,7 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 <p><li><b>Alignment</b> - here you can define the preferable Read More button alignment. It can be placed to the left, to the right, or remain centered.</li></p></ul>
 
 
-<b>Post</b>
+<h6>Post</h6>
 
 <ul class="marked-list">
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the post. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
@@ -314,7 +323,7 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 
 <ul class="marked-list">
 <p><li><b>Color</b> - here you can select the preferable color for the post title using color picker tool.</li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <p><li><b>Margin</b> - here you can apply your custom margins for the post title.</li></p></ul>
 
 
@@ -322,11 +331,11 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 
 <ul class="marked-list">
 <p><li><b>Color</b> - here you can select the preferable color for the post text using color picker tool.</li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <p><li><b>Margin</b> - here you can apply your custom margins for the post text.</li></p></ul>
 
 
-<b>Post Meta</b>
+<h6>Post Meta</h6>
 
 <ul class="marked-list">
 <p><li><b>Meta Icon Size</b> - use the controls to change the icon size or type in the size value in px in the corresponding field.</li></p>
@@ -335,7 +344,7 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 <p><li><b>Text Color</b> - here you can set the color for the post text using color picker tool.</li></p>
 <p><li><b>Links Color</b> - here you can set the color for the post links using color picker tool.</li></p>
 <p><li><b>Links Hover Color</b> - here you can set the color for the post links on hover using color picker tool.</li></p>
-<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog modules.</li></p>
+<p><li><b>Typography</b> - turn the option on to view the typography settings. They are similar to the typography settings of other JetBlog widgets.</li></p>
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the post meta. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
 <p><li><b>Margin</b> - here you can apply your custom margins for the post meta.</li></p>
 <p><li><b>Alignment</b> - here you can define the preferable post meta information alignment. It can be placed to the left, to the right, or remain centered.</li></p>
@@ -343,7 +352,7 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 <p><li><b>Divider Gap</b> - here you can set the gap distance between the divider and the meta information text.</li></p></ul>
 
 
-<b>Paging Arrows</b>
+<h6>Paging Arrows</h6>
 
 <p>You can customize the appearance of  the paging arrows using the <b>Normal</b> or <b>Hover</b> mode. Just switch between the modes using the corresponding buttons.</p>
 
@@ -381,26 +390,26 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
   	</figure>
 
 
-<h5>In this block you can access advanced appearance settings for the modules, define module margins and padding, entrance animation, change the background for the whole module, etc.
+<h5>In this block you can access advanced appearance settings for the widgetss, define widget margins and padding, entrance animation, change the background for the whole widget, etc.
 </h5>
 
 <h4>Element Style</h4>
 
 <ul class="marked-list">
-<p><li><b>Margin</b> — in this block you can input the values (in pixels) to define the margins for the module you're customizing.</li></p>
-<p><li><b>Padding</b>— here you can set the custom padding for the module. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
-<p><li><b>Z-index</b>— input the value of the z-index to use it for the module.</li></p>
-<p><li><b>Entrance Animation</b>- choose from the dropdown menu one of the styles for the module to appear on the page.</li></p>
-<p><li><b>Animation Duration</b> — here you can define the time during which the module will appear on the page. It can be normal, slow or fast. Choose the one you need from the dropdown menu.</li></p>
+<p><li><b>Margin</b> — in this block you can input the values (in pixels) to define the margins for the widget you're customizing.</li></p>
+<p><li><b>Padding</b>— here you can set the custom padding for the widget. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
+<p><li><b>Z-index</b>— input the value of the z-index to use it for the widget.</li></p>
+<p><li><b>Entrance Animation</b>- choose from the dropdown menu one of the styles for the widget to appear on the page.</li></p>
+<p><li><b>Animation Duration</b> — here you can define the time during which the widget will appear on the page. It can be normal, slow or fast. Choose the one you need from the dropdown menu.</li></p>
 <p><li><b>Animation Delay (ms)</b> — input the value (in ms) for the animation delay.</li></p>
-<p><li><b>CSS Classes</b> — here you can define the CSS class for the module.</li></p></ul>
+<p><li><b>CSS Classes</b> — here you can define the CSS class for the mwidget.</li></p></ul>
 
 <h4>Background</h4>
 
 <p>Here you can switch from customizing Normal to Hover background style settings. Just click on the button Hover to proceed to customizing hover elements. </p>
 
 <ul class="marked-list">
-<p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the module background. The customization options vary for each type.</li></p></ul>
+<p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the widget background. The customization options vary for each type.</li></p></ul>
 
 <h4>Classic Background Type</h4>
 
@@ -412,7 +421,7 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 <h4>Gradient Background Type</h4>
 
 <ul class="marked-list">
-<p><li><b>Color</b> — here you can set background color for the module using color picker tool.</li></p>
+<p><li><b>Color</b> — here you can set background color for the widget using color picker tool.</li></p>
 <p><li><b>Location</b> — here you can define the proportion for the first color in the gradient background.</li></p>
 <p><li><b>Second Color</b> — here you can set the second color to use in the gradient background.</li></p>
 <p><li><b>Location</b> — here you can define the proportion for the second color in the gradient background.</li></p>
@@ -431,7 +440,7 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 <li>dotted;</li>
 <li>dashed.</li></ul>
 <p><b>Border Radius</b> — here you can select the radius for the applied border (in pixels). </p>
-<p><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it. </p>
+<p><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it. </p>
 
 <p><b>Shadow Settings:</b></p>
 <ul class="marked-list">
@@ -440,4 +449,4 @@ Smart Posts Listing module is a perfect tool for displaying your posts in the fo
 <li><b>spread</b> — here you can set how large the shadow will be;</li>
 <li><b>horizontal</b> — here you can move the shadow horizontally (from right to left);</li>
 <li><b>vertical</b> — here you can move the shadow vertically (from top to bottom);</li>
-<li><b>position</b> — here you need to choose, whether you want the shadow to outline the module, or to be inset. </li></ul>
+<li><b>position</b> — here you need to choose, whether you want the shadow to outline the widget, or to be inset. </li></ul>
