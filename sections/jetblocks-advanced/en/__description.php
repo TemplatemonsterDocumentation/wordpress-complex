@@ -5,9 +5,9 @@
 
 <h4>Element Style</h4>
 
- 	<figure class="img-polaroid">
-        <img src="projects/jetelements/img/adv/1.png">
-  	</figure>
+    <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/adv1/11.png">
+    </figure>
 
 <ul class="marked-list">
 <p><li><b>Margin</b> — in this block you can input the values (in pixels) to define the margins for the module you're customizing.</li></p>
@@ -28,8 +28,8 @@
 <h4>Classic Background Type</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/jetelements/img/adv/1.png">
-  	</figure>
+        <img src="projects/<?php echo $project;?>/img/adv1/22.png">
+    </figure>
 
 
 <ul class="marked-list">
@@ -39,7 +39,7 @@
 <h4>Gradient Background Type</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/jetelements/img/adv/1.png">
+        <img src="projects/jetblocks/img/adv1/33.png">
   	</figure>
 
 
@@ -54,7 +54,7 @@
 <h4>Border </h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/jetelements/img/adv/1.png">
+        <img src="projects/jetblocks/img/adv1/44.png">
   	</figure>
 
 <p>Here you can switch from customizing Normal to Hover border style settings. Just click on the button Hover to proceed to customizing hover elements. </p>
@@ -70,7 +70,7 @@
 <p><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for this module, and need to apply shadow for it. </p>
 
  	<figure class="img-polaroid">
-        <img src="projects/jetelements/img/adv/1.png">
+        <img src="projects/jetblocks/img/adv1/55.png">
   	</figure>
 
 

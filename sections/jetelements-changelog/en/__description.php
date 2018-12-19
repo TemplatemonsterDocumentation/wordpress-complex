@@ -6,18 +6,18 @@
 <ul class="marked-list">
 <p><li>Added an ability to use dynamic tags  in the sections with parallax effect;</li></p>
 <p><li>Added compatibility of URL controls with WPML plugin in widgets;</li></p>
-<p><li>Added gradient options for text elements in the Headline Widget;</li></p>
-<p><li>Fixed display of filtered items in the Portfolio Widget.</li></p>
+<p><li>Added gradient options for text elements in the Headline widget;</li></p>
+<p><li>Fixed display of filtered items in the Portfolio widget.</li></p>
 
 
 <h4>Version 1.14.6 (November 30, 2018)</h4>
 
 <ul class="marked-list">
-<p><li>Added Button Alignment option in the Download Button Widget;</li></p>
-<p><li>Added Image Size option in the Images Layout Widget;</li></p>
-<p><li>Added Image Size option in the Portfolio Widget;</li></p>
+<p><li>Added Button Alignment option in the Download Button widget;</li></p>
+<p><li>Added Image Size option in the Images Layout widget;</li></p>
+<p><li>Added Image Size option in the Portfolio widget;</li></p>
 <p><li>Fixed compatibility with Elementor 2.3.3;</li><p>
-<p><li>Fixed html validation errors in the Table Widget.</li></p>
+<p><li>Fixed html validation errors in the Table widget.</li></p>
 </ul>
 </ul>
 
@@ -48,7 +48,7 @@
 <p><li>Added better RTL compatibility in the Advanced Carousel, Image-Comparison, Testimonials, Posts, Slider widgets;</li></p>
 <p><li>Added better compatibility the Video Player widget with Astra theme;</li></p>
 <p><li>Added fixes for Instagram widget;</li></p>
-<p><li>Added fixes for Show Thousand Separator option in the Circle Progress Widget.</li></p>
+<p><li>Added fixes for Show Thousand Separator option in the Circle Progress widget.</li></p>
 </ul>
 </ul>
 
@@ -109,9 +109,9 @@
 
 <ul class="marked-list">
 
-<p><li>Added scroll offset option to Scroll Navigation Widget;</li></p>
-<p><li>Added slider viewport height option to Slider Widget;</li></p>
-<p><li>Fixed image tag size attributes (w3c validation) in Slider Widget.</li></p></ul>
+<p><li>Added scroll offset option to Scroll Navigation widget;</li></p>
+<p><li>Added slider viewport height option to Slider widget;</li></p>
+<p><li>Fixed image tag size attributes (w3c validation) in Slider widget.</li></p></ul>
 
 <h4>Version 1.10.2 (June 5, 2018)</h4>
 
@@ -129,7 +129,7 @@
 <p><li>Fixed centering the map when there are many markers in the Advanced Map widgets;</li></p>
 <p><li>Fixed Parallax extension / none type check;</li></p>
 <p><li>Fixed Portfolio Widget / more button visible check;</li></p>
-<p><li>Fixed Portfolio Widget / justify layout / empty image size value check.</li></p>
+<p><li>Fixed Portfolio widget / justify layout / empty image size value check.</li></p>
 </ul>
 
 <h4>Version 1.10.1 (May 22, 2018)</h4>
