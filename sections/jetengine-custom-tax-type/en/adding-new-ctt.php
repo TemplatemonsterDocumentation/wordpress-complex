@@ -81,7 +81,8 @@ Please, pay attention, that the slug shouldn’t contain any spaces, you have to
 
 <li><b>Show Admin UI</b> -  enable this option to be able to access this taxonomy from Dashboard Admin panel.</li>
 
-<li><b>Show in Nav Menu</b> - enable this option to abto to access this taxonomy from Dashboard on backend from Nav menu.</li>
+<li><b>Show in Nav Menu</b> - enable this option to able to access this taxonomy from Dashboard on backend from Nav menu.</li>
+<li><p><b>Show in Rest API (allow Gutenberg Editor)</b> - enable this option to use Gutenberg editor for your custom post type.</p></li>
 
 <li><b>Register Query Var</b> - enable this option to be able to query the taxonomy using different criterias and one link.</li>
 

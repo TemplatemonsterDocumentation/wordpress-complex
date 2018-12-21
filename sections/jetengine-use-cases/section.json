@@ -12,6 +12,13 @@
 					"en": "Dynamic Section Background",
 					"ru": ""
 				}
+			},
+			{
+				"id": "terms-listing",
+				"translations": {
+					"en": "Displaying Related Posts in the Terms Listing",
+					"ru": ""
+				}
 			}]
 	}
 }

@@ -79,8 +79,9 @@
 
  <li><p><b>Show Admin UI</b> -  enable this option to be able to access this post type from Dashboard top panel on frontend.</p></li>
 
- <li><p><b>Show in Nav Menu</b> - enable this option to abto to access this post type from Dashboard on backend.</p></li>
+ <li><p><b>Show in Nav Menu</b> - enable this option to able to access this post type from Dashboard on backend.</p></li>
 
+ <li><p><b>Show in Rest API (allow Gutenberg Editor)</b> - enable this option to use Gutenberg editor for your custom post type.</p></li>
  <li><p><b>Register Query Var</b> - enable this option to be able to query the custom posts using different criterias and using one link.</p></li>
 
  <li><p><b>Rewrite</b> - enable this option in the case you want to be able to rewrite the custom post.</p></li>
@@ -161,3 +162,35 @@
 
 <li><p>After everything is set click <b>Add Post Type</b> button to save the changes.</p></li></p></li></ol>
 
+<h4>Admin Columns</h4>
+
+<p>In this block you’ll be able to create additional admin columns to show for the custom post type.</p>
+
+
+      <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/cpt/12.png">
+    </figure>
+
+<ol class="index-list">
+ <li><p>To create a new admin column click <b>+ New Column</b> option.</p></li>
+
+<li><p>In the newly opened block input these kinds of information:
+
+<ul class="marked-list">
+<li><b>Title</b> - here you should type in the title that will be shown for the admin column;</li>
+<li><b>Type</b> - here you have to specify the type of content that will be available for adding to this admin column;</li>
+<li><b>Value from meta field</b> - here you have to insert the meta field ID, from which the value to pull;</li>
+<li><b>Taxonomy</b> - here you have to insert the custom taxonomy ID, from which the content to pull;</li>
+<li><b>Callback function name</b> - here you have to insert the name of the callback function;</li>
+<li><b>Column order</b> - here you have to define the order of the admin column;</li>
+<li><b>Value prefix</b> - here you can add the prefix to the values displayed in the admin column;</li>
+<li><b>Value suffix</b> - here you add the suffix to the values displayed in the admin column.</li></ul></p>
+
+<p>There are such kinds of possible content available for the admin column:
+
+<ul class="marked-list">
+ <li><b>Meta Value</b> - will perfectly fit if you want to display the meta field values in the admin column. To do that you need to insert the meta field ID in the corresponding field;</li>
+ <li><b>Posts Terms</b> - will help display the terms of the current post in the admin column. To do that you need to inser the custom taxonomy ID in the correponding field;</li>
+ <li><b>Custom Callback</b> - will allow to add custom callback to display needed information. Note: this type is recommended for advanced users skilled in PHP. You need to add <a href="https://gist.github.com/MjHead/ccf94293dc89e50e6ced143f4ece315a" target="_blank">this code</a> in fuction.php file of your theme.</li></ul></li>
+
+<li><p>After everything is set click <b>Update Post Type</b> button to save the changes.</p></li></p></li></ol>
