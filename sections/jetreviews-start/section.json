@@ -17,6 +17,13 @@
 				"en": "Adding Reviews via Dashboard",
 				"ru": ""
 			}
+			},	{
+			"id": "jetreviews-front-end",
+			"translations": {
+				"en": "Enabling Reviews from Front-end ",
+				"ru": ""
+			}
+
 		}]
 	}
 }

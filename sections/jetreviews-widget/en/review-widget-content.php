@@ -66,7 +66,12 @@
 <p><li>At right side of summary box:;<li></p>
 <p><li>At bottom of summary box;</li></p>
 <p><li>At left side of summary box;</li></p>
-<p><li>At top of summary box.</li></p></ul></li></p></ul>
+<p><li>At top of summary box.</li></p></ul>
+<p><li><b>Results Block Width</b> - here you can specify width of the the results block.</li></p>
+<p><li><b>Summary Average Layout</b> - here you can choose the preferable layout for the summary average results (you can set Points, Percentage or Stars).</li></p>
+<p><li><b>Progressbar</b> -  enable this option in order to display the summary results in the form of a progressbar.</li></p>
+<div class="alert alert-info">Note, that the progressbar is available only for <b>Percentage</b> and <b>Points</b> layout types.</div>
+<p><li><b>Values Position</b> - here you can select the position of the summary results either inside or above the progress bar.</li></p></li></li></p></ul>
 
 <h5>Results Block Width</h5>
 
