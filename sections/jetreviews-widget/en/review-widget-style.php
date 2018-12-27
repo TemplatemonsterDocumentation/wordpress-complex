@@ -152,7 +152,7 @@
 
 <h6>Mail</h6>
 <ul class="marked-list">
-<li><p><b>Color</b> - here you can select the color for the email adress.</p></li>
+<li><p><b>Color</b> - here you can select the color for the email address.</p></li>
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li></ul>
 
 <h6>Date</h6>
