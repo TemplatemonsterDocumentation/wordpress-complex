@@ -1505,7 +1505,28 @@ Image Comparison block provides you with an ability to add the two-image block t
 <p>Please, note, that in order to use JetSmartFilters you would also need JetEngine or JetWooBuilder plugins to showcase the product or post listings.</p>
 
 
+<h5>Checkboxes list;</h5>
+<p>The Select filter is made for displaying select options with the custom values of the properties of the products from which one is able to choose to filter the posts or products on the page.  </p>
+
+<h5>Select</h5>
+<p>The Checkboxes filter perfectly suits for displaying checkboxes with the custom values of the properties of the products from which one is able to choose to filter the posts or products on the page. </p>
+
+<h5>Range</h5>
+<p>The Range filter provides an easy way for the visitors to select the range within which to look for the products or posts.  </p>
+
+<h5>Check Range</h5>
+<p>Use this filter to allow the visitors select the ranges by which the items will be filtered. It adds the checklist of ranges containing the specific range values between which the products or posts will be selected.  </p>
+
+<h5>Date Range</h5>
+<p>This filter widget provides an easy way to filter the posts or products using the date they were added, or filter the events by the event date when it’s supposed to take place. </p>
+
+<h5>Radio</h5>
+<p>Use this filter widget to display the radio filter allowing to select from the options represented for the visitor’s choice.  </p>
+
+<h5>Search</h5>
+<p>Use this filter to allow the visitors to search for the matching results manually by inputting the needed words or phrases into the Search field.  </p>
 <?php } ?>
+
 
 
 

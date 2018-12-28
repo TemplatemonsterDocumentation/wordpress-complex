@@ -26,7 +26,7 @@
 
 
   <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/Screenshot_5.png">
+        <img src="projects/<?php echo $project;?>/img/5.png">
     </figure>
 
 <p><li>Hover on the <b>Folder</b> icon in the bottom left corner to see the list of options. Select <b>Templates Library</b>. </li></p>

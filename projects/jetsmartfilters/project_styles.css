@@ -17,10 +17,10 @@ h4 {
   background-position: 0% bottom; }
 
 .rd-mobilepanel {
-  background-color: #892756;
+  background-color: #aa3992;
   background-position: right top;
   -webkit-transition-property: height;
-  transition-property: height;
+          transition-property: height;
   -webkit-transition-duration: 2s;
           transition-duration: 2s;
   -webkit-transition-timing-function: linear;
@@ -35,7 +35,7 @@ h4 {
     height: 56px;
     background-image: none;
     -webkit-transition: top 1s ease-out 0.5s;
-    transition: top 1s ease-out 0.5s; }
+            transition: top 1s ease-out 0.5s; }
 
 body:not([data-section="introduction"]) .tm-title-caption {
   display: none; }
@@ -93,10 +93,10 @@ body:not([data-section="introduction"]) .tm-title-caption {
   background-color: #fff; }
 
 .rd-mobilemenu_ul ul a.focus {
-  color: #892756; }
+  color: #a0378f; }
 
 .toTop {
-  background-color: #892756;
+  background-color: #a0378f;
   color: #ffffff; }
   .toTop:hover {
     background-color: #5e1f50; }
@@ -104,10 +104,10 @@ body:not([data-section="introduction"]) .tm-title-caption {
 .files_structure li .fa {
   margin-top: 3px;
   margin-right: 10px;
-  color: #892756;
+  color: #a0378f;
   font-size: 16px; }
 
 article a {
-  color: #892756; }
+  color: #a0378f; }
 
 /*# sourceMappingURL=project_styles.css.map */
