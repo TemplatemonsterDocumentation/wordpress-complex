@@ -1773,6 +1773,12 @@
 		"title": "RockTheme Documentation",
 		"titleCaption": "with Kava Theme",
 		"author": ""
+	},
+	"jetsearch": {
+		"textLogo": "",
+		"title": "JetSearch",
+		"titleCaption": "",
+		"author": ""
 	}
 
 }

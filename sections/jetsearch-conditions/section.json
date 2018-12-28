@@ -1,0 +1,23 @@
+{
+	"id": "jetsearch-conditions",
+	"translations": {
+		"en": "JetSearch Conditions",
+		"ru": ""
+	},
+	"articles": {
+		"jetsearch": [{
+			"id": "content",
+			"translations": {
+				"en": "Content",
+				"ru": ""
+			}
+		},	{
+			"id": "style",
+			"translations": {
+				"en": "Style",
+				"ru": ""
+			}
+		}]
+	}
+}
+

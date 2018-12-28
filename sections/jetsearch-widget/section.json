@@ -1,0 +1,23 @@
+{
+	"id": "jetsearch-widget",
+	"translations": {
+		"en": "JetSearch Ajax Widget",
+		"ru": ""
+	},
+	"articles": {
+		"jetsearch": [{
+			"id": "content",
+			"translations": {
+				"en": "Content",
+				"ru": ""
+			}
+		},	{
+			"id": "style",
+			"translations": {
+				"en": "Style",
+				"ru": ""
+			}
+		}]
+	}
+}
+

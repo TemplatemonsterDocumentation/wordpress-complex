@@ -3659,5 +3659,14 @@
 	    "dashboard",
 		"plugins",
 		"jetthemecore-extra"
+	],
+
+	"jetsearch": [
+		"introduction",
+		"jetsearch-installation",
+	    "jetsearch-start",
+		"jetsearch-widget",
+		"jetsearch-conditions",
+		"jetsearch-relevance"
 	]
 	}
