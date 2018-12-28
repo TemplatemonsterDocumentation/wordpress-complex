@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'JetDesignKit' && $project != 'jetsmartfilters' && $project != 'bitunet' && $project != 'jetproductgallery' && $project != 'rocktheme') { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'JetDesignKit' && $project != 'jetsmartfilters' && $project != 'bitunet' && $project != 'jetproductgallery' && $project != 'rocktheme' && $project != 'jetsearch' ) { ?>
 
 <h2>Introduction</h2>
 
@@ -1671,8 +1671,20 @@ Image Comparison block provides you with an ability to add the two-image block t
 <p>You can get more information <a href="https://docs.elementor.com/article/38-requirements
 " target="_blank">here.</a></p>
 
+<?php } ?>
 
+<?php if ($project == 'jetsearch') { ?>
 
+<article><h2>Introduction</h2>
+
+<h5>Thank you for purchasing JetSearch addon for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up JetSearch  plugin from scratch. You will also find information on how to add JetSearch widget to the pages built with Elementor, and how to change JetSearch settings. </h5>
+
+<h3>What Is JetSearch Plugin? </h3>
+
+<p><b>JetSearch</b> is a plugin that enriches the website with user-friendly and interactive ajax search, that will help visitors to search needed content from custom posts.</b></p>
+
+<p>With <b>JetSearch</b> one can add Ajax Search widget on the page built with <b>Elementor</b>, and style its appearance to match the general webpage style. Using <b>JetSearch</b> you can customize the widget placeholder icon and text, submit button, results area, notifications and there are still so many more options to discover for the Ajax Search widget.</p>
+</article>
 
 <?php } ?>
 

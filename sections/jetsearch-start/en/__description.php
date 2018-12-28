@@ -1,38 +1,31 @@
-<h3>JetSmartFilters Installation</h3>
+<h3>JetSearch Installation</h3>
 
-<h5>From this block, you can learn how to install JetSmartFilters plugin using WordPress Dashboard.</h5>
+<h5>From this block you can learn how to add Ajax Search widget to Elementor sections.</h5>
+
+<div class="alert alert-info">Note, that Ajax Search widget works only if there is some content in custom posts.</div>
 
 <ol class="index-list">
+<p><li>First, let’s open the page where you want to add the <b>Ajax Search</b> widget using Elementor live page builder. To do it click <b>Edit with Elementor</b> button. </li></p>
 
+<p><li>Add a new section to the page using <b>Add New Section</b> button.</li></p>
 
-	<p><li>First, make sure that you’ve installed and activated <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder before proceeding to JetSmartFilters installation. If you have problems installing Elementor feel free to read the detailed <a href="https://docs.elementor.com/" target="_blank">Elementor documentation</a>.</li></p>
+  <figure class="img-polaroid">
+        <img src="projects/jetsearch/img/5.png">
+    </figure>
 
-
-<p><li>Log in to WordPress Dashboard using Your login credentials and navigate to <b>Plugins</b> tab in the left column.
-
+<p><li>Select the preferable columns structure for the section. You can also drag the column borders in order to set the custom columns width. Feel free to edit the columns width, set the content position, etc, by editing the column.</li></p>
 <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/1.png">
-    </figure></li></p>
+        <img src="projects/jetsearch/img/6.png">
+    </figure>
 
+<p><li>On the left you can see the list of the available widgets which you can drop to the column you’ve created. Find <b>Ajax Search</b> widget and drop it to the needed area.</li></p>
 
-<p><li>Click on <b>Add new</b> button to upload JetSmartFilters plugin from Your hard drive.
+  <figure class="img-polaroid">
+        <img src="projects/jetsearch/img/Screenshot_19.png">
+    </figure>
 
-<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/2.png">
-    </figure></li></p>
-
-<p><li> Click <b>Upload</b> button, which can be found at the top of <b>Plugins</b> page. Browse the path to <b>JetSmartFilters.zip</b> plugin package and start the installation process.
-
-	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/3.png">
-  	</figure>
-
+<p><li>After the page is built click <b>Update</b> button to preserve the changes.</li></p>
 </li></p>
-<p><li>When JetSmartFilters plugin is uploaded and installed you’ll need to activate it. Navigate to <b>Plugins</b> tab and locate JetSmartFilters plugin in the list of installed plugins. Click on <b>Activate</b> link under JetSmartFilters. As a result the plugin will become active.
-
- 	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/4.png">
-  	</figure>
-</li></p>
-
 </ol>
+
+

@@ -4,6 +4,10 @@
         <img src="projects/jetpopup/img/presets/21.png">
      </figure>
 
+<h5>General Styles</h5>
+<ul class="marked-list">
+<li><b>Z-Index</b> – input the value of the z-index to use it for the module.</li>
+
 <h5>Popup Container</h5>
 
 <ul class="marked-list">
