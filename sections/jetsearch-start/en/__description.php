@@ -1,8 +1,8 @@
-<h3>JetSearch Installation</h3>
+<h3>Getting Started</h3>
 
 <h5>From this block you can learn how to add Ajax Search widget to Elementor sections.</h5>
 
-<div class="alert alert-info">Note, that Ajax Search widget works only if there is some content in custom posts.</div>
+<div class="alert alert-info">Note, that Ajax Search widget works only if there is some content with key words in custom posts.</div>
 
 <ol class="index-list">
 <p><li>First, let’s open the page where you want to add the <b>Ajax Search</b> widget using Elementor live page builder. To do it click <b>Edit with Elementor</b> button. </li></p>

@@ -8,13 +8,13 @@
 		"jetsearch": [{
 			"id": "content",
 			"translations": {
-				"en": "Content",
+				"en": "Ajax Search Widget Content Block",
 				"ru": ""
 			}
 		},	{
 			"id": "style",
 			"translations": {
-				"en": "Style",
+				"en": "Ajax Search Widget Style Block",
 				"ru": ""
 			}
 		}]

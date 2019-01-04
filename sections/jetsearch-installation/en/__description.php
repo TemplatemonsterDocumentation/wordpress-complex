@@ -28,7 +28,7 @@
   	</figure>
 
 </li></p>
-<p><li>When JetSearch plugin is uploaded and installed you’ll need to activate it. Navigate to <b>Plugins</b> tab and locate JetSSearch plugin in the list of installed plugins. Click on <b>Activate</b> link under JetSearch. As a result the plugin will become active.
+<p><li>When JetSearch plugin is uploaded and installed you’ll need to activate it. Navigate to <b>Plugins</b> tab and locate JetSearch plugin in the list of installed plugins. Click on <b>Activate</b> link under JetSearch. As a result the plugin will become active.
 
  	<figure class="img-polaroid">
         <img src="projects/jetsearch/img/Screenshot_17.png">
