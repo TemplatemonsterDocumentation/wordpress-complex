@@ -24,6 +24,18 @@
 				"ru": ""
 			}
 		},	{
+			"id": "instagram-options",
+			"translations": {
+				"en": "Instagram Options",
+				"ru": ""
+			}
+		},	{
+			"id": "weather-options",
+			"translations": {
+				"en": "Weather Options",
+				"ru": ""
+			}
+		},	{
 			"id": "available-widgets",
 			"translations": {
 				"en": "Available Widgets",
