@@ -1695,7 +1695,7 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <p>Let visitors find needed content in the most convient and fast way using JetSearch plugin.</p>
 
-<p>This plugin can showcase search results from the post types or categories you’ve specified without diffing into the code.</p>
+<p>This plugin can showcase search results from the post types or categories you’ve specified without digging into the code.</p>
 
 <p>Add AJAX search to website's header making the process of looking for the information lightning-fast.</p>
 

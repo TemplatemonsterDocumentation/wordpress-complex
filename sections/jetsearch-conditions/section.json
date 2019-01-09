@@ -1,20 +1,20 @@
 {
 	"id": "jetsearch-conditions",
 	"translations": {
-		"en": "JetSearch Setting Ajax Search Conditions",
+		"en": "Setting Ajax Search Conditions",
 		"ru": ""
 	},
 	"articles": {
 		"jetsearch": [{
-			"id": "content",
+			"id": "custom-post-types",
 			"translations": {
-				"en": "Content",
+				"en": "Enabling Ajax Search for Custom Post Types",
 				"ru": ""
 			}
 		},	{
-			"id": "style",
+			"id": "custom-taxonomy",
 			"translations": {
-				"en": "Style",
+				"en": "Enabling Ajax Search for Custom Taxonomy",
 				"ru": ""
 			}
 		}]

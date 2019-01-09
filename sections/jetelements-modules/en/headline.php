@@ -39,7 +39,7 @@ Headline widget is the perfect tool for creating stunningly beautiful headlines 
 <ul class="marked-list">
 <p><li><b>Direction</b> - here you can set the preferable headline direction. It can arrange text using <b>horizontal</b> or <b>vertical</b> alignment.</li></p>
 <p><li><b>Space between</b> - when using horizontal alignment, you can choose whether it is necessary to add the space between the two parts of the heading.</li></p>
-<p><li><b>Alignment</b> - here you can select the needed alignment for the headline text (<b>left, center, right</b>).</li></p>
+<p><li><b>Alignment</b> - here you can select the needed alignment for the headline text (<b>left, center, right</b>) on different screens.</li></p>
 <p><li><b>Background Type</b> - in this block you can choose, whether you want to use <b>classic</b> or <b>gradient</b> type for the headline. The customization options vary for each type. The settings are similar to the common background type settings for other <b>JetElements</b> widget.</li></p>
 <p><li><b>Padding</b> - here you can set the preferable custom padding for the headline. Fill in the values for the <b>top, bottom, right</b> and </b>left</li> padding in pixels to apply your custom padding.</li></p>
 <p><li><b>Margin</b> - input the values for the headline margins in the required fields.
