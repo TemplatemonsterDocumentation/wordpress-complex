@@ -1699,9 +1699,9 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <p>Drag and drop this widget to the needed section to start using Ajax Search on your site. </p>
 
-<p>The key feature of this plugin is its speed, that allows too preview the search results without page reload, so the visitor is always able to correct the search request he's using in order to find the necessary results. </p>
+<p>The key feature of this plugin is its speed, that allows previewing the search results without page reload, so the visitor is always able to correct the search request he's using in order to find the necessary results. </p>
 
-<p>With JetSearch the search functionality become easy to implement, manage and customize. </p>
+<p>With JetSearch the search functionality becomes easy to implement, manage and customize. </p>
 
 <p>Keep reading this documentation to learn more about the plugin's installation, the way to use it and customize its appearance. Also, here you'll find how to use Ajax Search widget's functionality to its fullest. </p>
 
