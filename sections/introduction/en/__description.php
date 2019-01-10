@@ -1684,14 +1684,18 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <p>JetSearch plugin is a must-have ultra-fast tool, perfect for adding search functionality to any page built with Elementor.</p>
 <p>It allows to use the search functionality:</p>
+<ul class="marked-list">
 
-<p>- within the specific post type, including the custom post types, narrowing down the search results;</p>
+<li>within the specific post type, including the custom post types, narrowing down the search results;</li>
 
-<p>- for the needed category only, which the visitor can select himself to make the search request more specific;</p>
+<li>for the needed category only, which the visitor can select himself to make the search request more specific;</li>
 
-<p>- using the pagination and navigation for the results preview to let the visitors view the results with more ease;</p>
+<li>using the pagination and navigation for the results preview to let the visitors view the results with more ease;</li>
+<li>by relevance, making the most important results show up first, and the less important below them.</li></ul>
 
-<p>- by relevance, making the most important results show up first, and the less important below them.</p> 
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetSearch plugin! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+
 
 <h3>How JetSearch Works</h3>
 
@@ -1703,36 +1707,11 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <p>With JetSearch the search functionality becomes easy to implement, manage and customize. </p>
 
+<p>Let visitors find nedeed content in the most convenient and fast wau using JetSearch plugin.</p>
+
+<p>Add Ajax Search to website's header making the process of looking for the information lightning-fast.</p>
+
 <p>Keep reading this documentation to learn more about the plugin's installation, the way to use it and customize its appearance. Also, here you'll find how to use Ajax Search widget's functionality to its fullest. </p>
-
-<div class="alert alert-info">
-        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetSearch plugin! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
-
-
-<p>The plugin possesses everything for creating an effective, awesome site search easily and quickly.</p>
-
-<p>There are a lot of different customizable settings, which you will be able to apply to the Ajax Search widget.</p>
-
-<p>Let visitors find needed content in the most convenient and fast way using JetSearch plugin.</p>
-
-<p>This plugin can showcase search results from the post types or categories you’ve specified without digging into the code.</p>
-
-<p>Add Ajax search to website's header making the process of looking for the information lightning-fast.</p>
-
-<p>JetSearch plugin provides various customization features of the search results.</p>
-
-<p>It is wonderful that JetSearch allows sorting the search results by relevance. </p>
-
-<p>It is easy to use JetSearch to add search in a few click! The interface is user-friendly and intuitive.</p>
-
-<p>In case you are looking for a powerful plugin, which will help to add search functionality to the pages, JetSearch will meet all your needs.</p>
-
-<p>The plugin starts working (i.e. displaying search results) as soon as the keywords are typed in.</p>
-
-<p>You can add search by dragging and dropping the Ajax Search widget to the needed column in the page’s design!</p>
-
-
-<p>JetSearch is a really easy-to-use plugin for everyone needing to display search created directly in Elementor page builder.</p>
 
 
 </article>
