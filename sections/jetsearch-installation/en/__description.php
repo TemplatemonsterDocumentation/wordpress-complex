@@ -24,14 +24,14 @@
 <p><li> Click <b>Upload</b> button, which can be found at the top of <b>Plugins</b> page. Browse the path to <b>JetSearch.zip</b> plugin package and start the installation process.
 
 	<figure class="img-polaroid">
-        <img src="projects/jetsearch/img/Screenshot_16.png">
+        <img src="projects/jetsearch/img/inst16.png">
   	</figure>
 
 </li></p>
 <p><li>When JetSearch plugin is uploaded and installed you’ll need to activate it. Navigate to <b>Plugins</b> tab and locate JetSearch plugin in the list of installed plugins. Click on <b>Activate</b> link under JetSearch. As a result the plugin will become active.
 
  	<figure class="img-polaroid">
-        <img src="projects/jetsearch/img/Screenshot_17.png">
+        <img src="projects/jetsearch/img/inst17.png">
   	</figure>
 </li></p>
 

@@ -21,7 +21,7 @@
 <p><li>On the left you can see the list of the available widgets which you can drop to the column you’ve created. Find <b>Ajax Search</b> widget and drop it to the needed area.</li></p>
 
   <figure class="img-polaroid">
-        <img src="projects/jetsearch/img/Screenshot_19.png">
+        <img src="projects/jetsearch/img/start19.png">
     </figure>
 
 <p><li>After the page is built click <b>Update</b> button to preserve the changes.</li></p>

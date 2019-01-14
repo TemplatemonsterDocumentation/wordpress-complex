@@ -5,7 +5,7 @@
 <h5>Search Form</h5>
 
   <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/Screenshot_23.png">
+        <img src="projects/<?php echo $project;?>/img/widg23.png">
     </figure>
 
 <ul class="marked-list">

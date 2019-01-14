@@ -1686,12 +1686,12 @@ Image Comparison block provides you with an ability to add the two-image block t
 <p>It allows to use the search functionality:</p>
 <ul class="marked-list">
 
-<li>within the specific post type, including the custom post types, narrowing down the search results;</li>
+<p><li>within the specific post type, including the custom post types, narrowing down the search results;</li></p>
 
-<li>for the needed category only, which the visitor can select himself to make the search request more specific;</li>
+<p><li>for the needed category only, which the visitor can select himself to make the search request more specific;</li></p>
 
-<li>using the pagination and navigation for the results preview to let the visitors view the results with more ease;</li>
-<li>by relevance, making the most important results show up first, and the less important below them.</li></ul>
+<p><li>using the pagination and navigation for the results preview to let the visitors view the results with more ease;</li></p>
+<p><li>by relevance, making the most important results show up first, and the less important below them.</li></p></ul>
 
 <div class="alert alert-info">
         You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetSearch plugin! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
