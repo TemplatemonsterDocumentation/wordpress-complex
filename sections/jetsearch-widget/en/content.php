@@ -31,7 +31,7 @@
 <h5>Results Area</h5>
 
 <ul class="marked-list">
-<li><p><b>Results Area Width</b> - here you can specify width of the results area. It can be apply by Search Form or by Input Box and Categories List.</p></li>
+<li><p><b>Results Area Width</b> - here you can specify width of the results area. You can set the width to be same as Search Form or by Input Box and Categories List.</p></li>
 <li><p><b>Show Post Thumbnail</b> - enable this option in order to show thumbnails of the posts.</p></li>
 <li><p><b>Thumbnail Size</b> - here you can select the post thumbnail size from the drop-down list.</p></li>
 <li><p><b>Post Excerpt Length</b> - here you can select the length of the post excerpt to be displayed in the results area</p></li>
