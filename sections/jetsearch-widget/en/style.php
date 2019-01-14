@@ -18,17 +18,17 @@
 <li><p><b>Color</b> - here you can pick color for the borders of the search form.</p></li>
 <li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li></ul>
 
-<h5>Input Field and Category List Wrapper</h5>
+<h5>Input Field and Categories List Wrapper</h5>
 
 <ul class="marked-list">
-<p>Here you can switch from customizing <b>Normal</b> to <b>Focus</b> Input Field and Category List Wrapper style settings. Just click on the button <b>Focus</b> to proceed to customizing focus elements.</p>
-<li><p><b>Background Color</b> - here you can pick background color of the input field and category list wrapper.</p></li>
+<p>Here you can switch from customizing <b>Normal</b> to <b>Focus</b> Input Field and Categories List Wrapper style settings. Just click on the button <b>Focus</b> to proceed to customizing focus elements.</p>
+<li><p><b>Background Color</b> - here you can pick background color of the input field and categories list wrapper.</p></li>
 <li><p><b>Border Color</b> - here you can select color for the borders in focus state.</p>
-<li><p><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for the input field and category list wrapper.</p></li>
-<li><p><b>Padding</b> - here you can set the preferable custom padding for the input field and category list wrapper. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</p></li>
-<li><p><b>Border Type</b> - select the preferable border type to use it for the input field and category list wrapper.</p></li>
+<li><p><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for the input field and categories list wrapper.</p></li>
+<li><p><b>Padding</b> - here you can set the preferable custom padding for the input field and categories list wrapper. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</p></li>
+<li><p><b>Border Type</b> - select the preferable border type to use it for the input field and categories list wrapper.</p></li>
 <li><p><b>Width</b> - here you can specify width of the borders.</p></li>
-<li><p><b>Color</b> - here you can pick color for the borders of the input field and category list wrapper.</p></li>
+<li><p><b>Color</b> - here you can pick color for the borders of the input field and categories list wrapper.</p></li>
 <li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li></ul>
 
 <h5>Input Field</h5>
@@ -62,20 +62,49 @@
 <li><p><b>Color</b> - here you can pick color for the borders of the submit button.</p></li>
 <li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li></ul>
 
-<h5>Category List</h5>
+<h5>Categories List</h5>
 
 <ul class="marked-list">
-<li><p><b>Width</b> - here you can specify width of the category list block.</p></li>
+<li><p><b>Width</b> - here you can specify width of the categories list block.</p></li>
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
+<li><p><b>Arrow Font Size</b> - here you can define the font size of the arrows.</p></li>
 <p>Here you can switch from customizing <b>Normal</b> to <b>Focus</b> Submit button style settings. Just click on the button <b>Focus</b> to proceed to customizing focus elements.</p>
-<li><p><b>Text Color</b> - here you can pick color of the text in category list block.</p></li>
-<li><p><b>Background Color</b> - here you can pick background color of the category list block.</p></li>
-<li><p><b>Border Color</b> - here you can select color of the borders of the category list block.</p></li>
-<li><p><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for the category list block.</p></li>
-<li><p><b>Padding</b> - here you can set the preferable custom padding for the category list block. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</p></li>
-<li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the category list block.</p></li>
+<li><p><b>Text Color</b> - here you can pick color of the text in categories list block.</p></li>
+<li><p><b>Arrow Color</b> - here you can pick color of the arrow in categories list block.</p></li>
+<li><p><b>Background Color</b> - here you can pick background color of the categories list block.</p></li>
+<li><p><b>Border Color</b> - here you can select color of the borders of the categories list block.</p></li>
+<li><p><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for the categories list block.</p></li>
+<li><p><b>Padding</b> - here you can set the preferable custom padding for the categories list block. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</p></li>
+<li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the categories list block.</p></li>
 <li><p><b>Border Width</b> - here you can specify width of the borders.</p></li>
 <li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li></ul>
+
+<h6>Dropdown Style</h6>
+
+<ul class="marked-list">
+<li><p><b>Max Height</b> - use the controls or type in the needed value in px in the corresponding field to set the maximum dropdown height.</p></li>
+<li><p><b>Gap</b> - here you can fix the appropriate gap between dropdown and search bar.</p></li>
+<li><p><b>Background Color</b> - here you can pick background color of the dropdown.</p></li>
+<li><p><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for the dropdown.</p></li>
+<li><p><b>Padding</b> - here you can set the preferable custom padding for the dropdown. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</p></li>
+<li><p><b>Border Type</b> - select the preferable border type to use it for the dropdown.</p></li>
+<li><p><b>Width</b> - here you can specify width of the borders.</p></li>
+<li><p><b>Color</b> - here you can pick color for the borders of the dropdown.</p></li>
+<li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li>
+<li><p><b>Scrollbar Thumb Color</b> - here you can pick color of the scrollbar thumb in dropdown.</p></li></ul>
+
+<h6>Dropdown Items Style</h6>
+
+<ul class="marked-list">
+<li><p><b>Typography</b> - use the controls or type in the needed value in px in the corresponding field to set the maximum dropdown height.</p></li>
+<p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> Dropdown Items style settings. Just click on the button <b>Hover</b> to proceed to customizing hover elements.</p>
+<li><p><b>Color</b> - here you can pick color of the dropdown items.</p></li>
+<li><p><b>Background Color</b> - here you can pick background color of the dropdown items.</p></li>
+<li><p><b>Padding</b> - here you can set the preferable custom padding for the dropdown items. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</p></li>
+<li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li>
+<li><p><b>Gap</b> - here you can fix the appropriate gap between dropdown items.</p></li></ul>
+
+
 
 <h5>Results Area</h5>
 <h6>Results Area</h6>

@@ -14,9 +14,10 @@
 <li><p><b>Show Submit Button</b> - enable this option if you want the submit button to appear.</p></li>
 <li><p><b>Submit Button Label</b> - here you can specify the label of the submit button.</p></li>
 <li><p><b>Submit Button Icon</b> - here you can choose the needed icon for the submit button from the drop-down list.</p></li>
-<li><p><b>Show Category List</b> - enable this option if you what to display the list with categories.</p></li>
+<li><p><b>Show Categories List</b> - enable this option if you what to display the list with categories.</p></li>
 <li><p><b>Taxonomy</b> - here you can specify the particular taxonomy to look for the results only within it.</p></li>
-<li><p><b>Select Placeholder</b> - here you can define the placeholder text for the category list.</p></li></ul>
+<li><p><b>Select Placeholder</b> - here you can define the placeholder text for the category list.</p></li>
+<li><p><b>Responsive Form on Mobile</b> - enable this option if you want to apply Ajax Search to mobile screen.</p></li></ul>
 
 <h5>Search Settings</h5>
 
@@ -30,12 +31,13 @@
 <h5>Results Area</h5>
 
 <ul class="marked-list">
+<li><p><b>Results Area Width</b> - here you can specify width of the results area. It can be apply by Search Form or by Input Box and Categories List.</p></li>
 <li><p><b>Show Post Thumbnail</b> - enable this option in order to show thumbnails of the posts.</p></li>
 <li><p><b>Thumbnail Size</b> - here you can select the post thumbnail size from the drop-down list.</p></li>
 <li><p><b>Post Excerpt Length</b> - here you can select the length of the post excerpt to be displayed in the results area</p></li>
 <li><p><b>Show Results Counter</b> - enable this option if you want to show the number of results.</p></li>
 <li><p><b>Show All Results Button</b> - enable this option if you want to display See All Results button</p></li>
-<li><p><b>Full Results Button Text</b> - here you can define the text for the See All results button.</p></li></ul>
+<li><p><b>All Results Button Text</b> - here you can define the text for the See All results button.</p></li></ul>
 
 <h6>Results Navigation</h6>
 
