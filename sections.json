@@ -3668,5 +3668,12 @@
 		"jetsearch-widget",
 		"jetsearch-conditions",
 		"jetsearch-relevance"
+	],
+
+	 "jetcomparewishlist": [
+		"introduction",
+		"jetcomparewishlist-installation",
+	    "jetcomparewishlist-compare",
+		"jetcomparewishlist-wishlist",
+		"jetcomparewishlist-widgets"
 	]
-	}

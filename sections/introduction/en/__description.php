@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'JetDesignKit' && $project != 'jetsmartfilters' && $project != 'bitunet' && $project != 'jetproductgallery' && $project != 'rocktheme' && $project != 'jetsearch' ) { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'JetDesignKit' && $project != 'jetsmartfilters' && $project != 'bitunet' && $project != 'jetproductgallery' && $project != 'rocktheme' && $project != 'jetsearch' & $project != 'jetcomparewishlist') { ?>
 
 <h2>Introduction</h2>
 
@@ -1674,6 +1674,49 @@ Image Comparison block provides you with an ability to add the two-image block t
 <?php } ?>
 
 <?php if ($project == 'jetsearch') { ?>
+
+<article><h2>Introduction</h2>
+
+<h5>Thank you for purchasing JetSearch addon for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up JetSearch  plugin from scratch. You will also find information on how to add JetSearch widget to the pages built with Elementor, and how to change JetSearch settings. </h5>
+
+<h3>What Is JetSearch Plugin? </h3>
+
+
+<p>JetSearch plugin is a must-have ultra-fast tool, perfect for adding search functionality to any page built with Elementor.</p>
+<p>It allows to use the search functionality:</p>
+<ul class="marked-list">
+
+<p><li>within the specific post type, including the custom post types, narrowing down the search results;</li></p>
+
+<p><li>for the needed category only, which the visitor can select himself to make the search request more specific;</li></p>
+
+<p><li>using the pagination and navigation for the results preview to let the visitors view the results with more ease;</li></p>
+<p><li>by relevance, making the most important results show up first, and the less important below them.</li></p></ul>
+
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetSearch plugin! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+
+
+<h3>How JetSearch Works</h3>
+
+<p>JetSearch plugin adds one more widget, called Ajax Search, to the list of widgets available for Elementor page builder. </p>
+
+<p>Drag and drop this widget to the needed section to start using Ajax Search on your site. </p>
+
+<p>The key feature of this plugin is its speed, that allows previewing the search results without page reload, so the visitor is always able to correct the search request he's using in order to find the necessary results. </p>
+
+<p>With JetSearch the search functionality becomes easy to implement, manage and customize. </p>
+
+<p>Let visitors find nedeed content in the most convenient and fast wau using JetSearch plugin.</p>
+
+<p>Add Ajax Search to website's header making the process of looking for the information lightning-fast.</p>
+
+<p>Keep reading this documentation to learn more about the plugin's installation, the way to use it and customize its appearance. Also, here you'll find how to use Ajax Search widget's functionality to its fullest. </p>
+
+
+<?php } ?>
+
+<?php if ($project == 'jetcomparewishlist') { ?>
 
 <article><h2>Introduction</h2>
 

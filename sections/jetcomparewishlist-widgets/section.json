@@ -1,0 +1,47 @@
+{
+	"id": "jetcomparewishlist-widgets",
+	"translations": {
+		"en": "JetCompareWishlist Widgets",
+		"ru": ""
+	},
+	"articles": {
+		"jetcomparewishlist": [{
+			"id": "compare-button",
+			"translations": {
+				"en": "Compare Button",
+				"ru": ""
+			}
+		},	{
+			"id": "compare-count-button",
+			"translations": {
+				"en": "Compare Count Button",
+				"ru": ""
+			}
+		},	{
+			"id": "compare",
+			"translations": {
+				"en": "Compare",
+				"ru": ""
+			}
+		},	{
+			"id": "wishlist-button",
+			"translations": {
+				"en": "Wishlist Button",
+				"ru": ""
+			}
+		},	{
+			"id": "wishlist-count-button",
+			"translations": {
+				"en": "Wishlist Count Button",
+				"ru": ""
+			}
+	    },	{
+			"id": "wishlist",
+			"translations": {
+				"en": "Wishlist",
+				"ru": ""
+			}
+		}]
+	}
+}
+
