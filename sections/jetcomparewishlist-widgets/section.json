@@ -6,6 +6,12 @@
 	},
 	"articles": {
 		"jetcomparewishlist": [{
+			"id": "enable-disable-widgets",
+			"translations": {
+				"en": "Enabling/Disabling Widgets",
+				"ru": ""
+            }
+		},	{
 			"id": "compare-button",
 			"translations": {
 				"en": "Compare Button",
@@ -41,6 +47,7 @@
 				"en": "Wishlist",
 				"ru": ""
 			}
+			
 		}]
 	}
 }

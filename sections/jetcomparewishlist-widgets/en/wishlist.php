@@ -1,57 +1,150 @@
-<h3>Ajax Search Widget Content Block</h3>
+<h3>Wishlist</h3>
 
-<h6>In this block you can edit the content displayed with JetSearch plugin.</h6>
+<h6>Wishlist widget helps to create a wishlist with liked products saved by a customer on the page.</h6>
 
-<h5>Search Form</h5>
+<h4>Content<h4>
 
   <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widg21.png">
+        <img src="projects/<?php echo $project;?>/img/wishlist1.png">
     </figure>
 
+<h5>General</h5>
 <ul class="marked-list">
-<li><p><b>Placeholder Icon</b> - here you can select the appropriate icon for the placeholder from the drop-down list.</p></li>
-<li><p><b>Placeholder Text</b> - here you can define the text for the placeholder.</p></li>
-<li><p><b>Show Submit Button</b> - enable this option if you want the submit button to appear.</p></li>
-<li><p><b>Submit Button Label</b> - here you can specify the label of the submit button.</p></li>
-<li><p><b>Submit Button Icon</b> - here you can choose the needed icon for the submit button from the drop-down list.</p></li>
-<li><p><b>Show Categories List</b> - enable this option if you what to display the list with categories.</p></li>
-<li><p><b>Taxonomy</b> - here you can specify the particular taxonomy to look for the results only within it.</p></li>
-<li><p><b>Select Placeholder</b> - here you can define the placeholder text for the category list.</p></li>
-<li><p><b>Responsive Form on Mobile</b> - enable this option if you want to apply Ajax Search to mobile screen.</p></li></ul>
+<li><p><b>Empty Wishlist Text</b> - here you can insert text displayed when the wishlist is empty.</p></li>
+<li><p><b>Columns</b> - here you can select from 1 to 6 columns to showcase liked products.</p></li></ul>
 
-<h5>Search Settings</h5>
+<h6>Thumbnail</h6>
 
 <ul class="marked-list">
-<li><p><b>Search in</b> - here you can select particular post type within which the search will be made. If nothing is selected in the option, the search will be made over the entire site.</p></li>
-<li><p><b>A number of results displayed on one search page</b> - this option allows to limit the number of displayed search results on one search page.</p></li>
-<li><p><b>A number of results displayed in one search query</b> - this option allows to specify the number of displayed search results in one search query.</p></li>
-<li><p><b>Sort Results by</b> - here you can indicate how to sort the results. They can be sorted by relevance, date, title, author, last modified and number of comments(descending).</p></li>
-<li><p><b>Filter Results by</b> - here you can set ascending or descending order for results.</p></li></ul>
+<li><p><b>Image Size</b> - here you can select the size of the product thumbnail.</p></li>
+<li><p><b>Position</b> - here you can specify position of the thumbnail.</p> </p></li></ul>
 
-<h5>Results Area</h5>
+<h6>Rating</h6>
 
 <ul class="marked-list">
-<li><p><b>Results Area Width</b> - here you can specify width of the results area. You can set the width to be same as Search Form or by Input Box and Categories List.</p></li>
-<li><p><b>Show Post Thumbnail</b> - enable this option in order to show thumbnails of the posts.</p></li>
-<li><p><b>Thumbnail Size</b> - here you can select the post thumbnail size from the drop-down list.</p></li>
-<li><p><b>Post Excerpt Length</b> - here you can select the length of the post excerpt to be displayed in the results area</p></li>
-<li><p><b>Show Results Counter</b> - enable this option if you want to show the number of results.</p></li>
-<li><p><b>Show All Results Button</b> - enable this option if you want to display See All Results button</p></li>
-<li><p><b>All Results Button Text</b> - here you can define the text for the See All results button.</p></li></ul>
+<li><p><b>Rating Icon</b> - here you can select style of the rating icon from the dropdown list.</p></li></ul>
 
-<h6>Results Navigation</h6>
+<h4>Style</h4>
 
-<ul class="marked-list">
-<li><p><b>Bullet Pagination</b> - here you can specify where to display the bullet pagination.</p></li>
-<li><p><b>Number Pagination</b> - here you can specify where to display the number pagination.</p></li>
-<li><p><b>Navigation Arrows</b> - here you can define where to show the navigations arrows.</p></li>
-<li><p><b>Navigation Arrows Type</b> - here you can select type of navigation arrows from the drop-down list.</p></li></ul>
+  <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/wishlist2.png">
+    </figure>
 
-<h5>Notifications</h5>
+<h5>Columns</h5>
 
 <ul class="marked-list">
-<li><p><b>Negative Search Results</b> - here you can specify the message appearing if nothing is found.</p></li>
-<li><p><b>Technical Error</b> - here you can specify the message if technical error happens.</p></li></ul>
+<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li></ul>
 
+<h5>Item</h5>
 
+<ul class="marked-list">
+<li><p><b>Background Color</b> - here you can pick blackground color of the item.</p></li>
+<li><p><b>Border Type</b> - here you can define the type of the border you need to use for the element.</p></li>
+<li><p><b>Width</b> - here you can specify the message appearing if nothing is found.</p></li>
+<li><p><b>Color</b> -  here you can pick color of the borders.</p></li>
+<li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li>
+<li><p><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for the item, and need to apply shadow for it.</p></li>
+<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li></ul>
 
+<h6>Content</h6>
+<ul class="marked-list">
+<li><p><b>Vertical Alignment</b> - here you can set the vertical position of the item content (on the top, in the middle or on the bottom).</p></li>
+<li><p><b>Horizontal Alignment</b> - here you can set the prefferable horizontal alignment of the content (on the left, in the center, on the right).</p></li></ul>
+
+<h5>Thumbnail</h5>
+<ul class="marked-list">
+<li><p><b>Background Color</b> - here you can specify background color of the thumbnail block.</p></li>
+<li><p><b>Border Type</b> - here you can define the type of the border you need to use for the element.</p></li>
+<li><p><b>Width</b> - here you can specify width of the borders.</p></li>
+<li><p><b>Color</b> - here you can pick color for the borders of the thumbnail block.</p></li>
+<li><p><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for the thumbnail block, and need to apply shadow to it.</p></li>
+<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li>
+<li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the thumbnail block.</p></li>
+<li><p><b>Order</b> - here you can set order of the thumbnail.</p></li></ul>
+
+<h5>Title</h5>
+<ul class="marked-list">
+<li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
+<p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> Title style settings. Just click on the button <b>Hover</b> to proceed to customizing hover elements.</p>
+<li><p><b>Color</b> - here you can select color of the title.</p></li>
+<li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the title’s text highlighted.</p></li>
+<li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the title.</p></li>
+<li><p><b>Order</b> - here you can define order of the title.</p></li></ul>
+
+<h5>Price</h5>
+<ul class="marked-list">
+<li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
+<li><p><b>Color</b> - here you can pick color for the price.</p></li>
+<li><p><b>Space Between Prices</b> - here you can set the gap to apply between the prices and make this distance responsive.</p></li>
+<p>Here you can switch from customizing <b>Regular</b> to <b>Sale</b> Price style settings. Just click on the button <b>Sale</b> to proceed to customizing sale elements.</p>
+<li><p><b>Color</b> - here you can pick color for regular and sale prices.</p></li>
+<li><p><b>Text Decoration</b> - here you can add decoration to the text.</p></li>
+<li><p><b>Size</b> - here you can specify size of the price.</p></li>
+<li><p><b>Font Weight</b> - in this block you can select the suitable font weight.</p></li>
+<li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the price.</p></li>
+<li><p><b>Order</b> - here you can define order of the price.</p></li></ul>
+
+<h5>Rating</h5>
+<ul class="marked-list">
+<li><p><b>Font Size</b> - define the font size of rating for different screen resolutions.</p></li>
+<p>Here you can switch from customizing <b>All</b> to <b>Rated</b> Rating settings. Just click on the button <b>Rated</b> to proceed to customizing rated elements.</p>
+<li><p><b>Color</b> - here you can pick color for the price.</p></li>
+<li><p><b>Space Between Stars (px)</b> - here you can set the space between starts for all and rated rating.</p></li>
+<li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the rating.</p></li>
+<li><p><b>Order</b> - here you can define order of the rating.</p></li></ul>
+
+<h5>Add to Cart</h5>
+<ul class="marked-list">
+<li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
+<li><p><b>Button Width</b> - here you can specify width of the button.</p></li>
+<p>Here you can switch from customizing <b>Normal</b>, <b>Hover</b>, <b>Added</b> to <b>Loading</b> Add to Cart button style settings. Just click on the button <b>Hover</b>, <b>Added</b> and <b>Loading</b> to proceed to customizing hover, added and loading elements.</p>
+<li><p><b>Text Color</b> - here you can define color of the text on the button.</p></li>
+<li><p><b>Background Color</b> - here you can pick background color of the button.</p></li>
+<li><p><b>Border Color</b> - here you can choose color of the borders of the button by added and loading status.</p></li>
+<li><p><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for Add to Cart button, and need to apply shadow for it.</p></li>
+<li><p><b>Border Type</b> - here you can define the type of the border you need to use for the element.</p></li>
+<li><p><b>Width</b> - here you can specify width of the borders of the button.</p></li>
+<li><p><b>Color</b> - here you can pick color of the borders.</p></li>
+<li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li>
+<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li>
+<li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the Add to Cart button.</p></li>
+<li><p><b>Order</b> - here you can define order of the Add to Cart button.</p></li></ul>
+
+<h5>Remove Button</h5>
+<ul class="marked-list">
+<li><p><b>Button Text</b> - here you can specify text of the remove button.</p></li>
+<li><p><b>Button Icon</b> - here you can select icon of the remove button.</p></li>
+<li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
+<p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> Remove Button style settings. Just click on the button <b>Hover</b> to proceed to customizing hover elements.</p>
+<li><p><b>Text Color</b> - here you can specify color of the text on the remove button.</p></li>
+<li><p><b>Background Color</b> - here you can specify background color of the remove button.</p></li>
+<li><p><b>Border Color</b> - here you can pick color of the borders of the remove button on hover.</p></li>
+<li><p><b>Border Type</b> - here you can define the type of the border you need to use for the element.</p></li>
+<li><p><b>Width</b> - here you can specify width of the borders.</p></li>
+<li><p><b>Color</b> - here you can pick color for the borders of the remove button.</p></li>
+<li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li>
+<li><p><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for the remove button, and need to apply shadow to it.</p></li>
+<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li>
+<li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the remove button.</p></li>
+<li><p><b>Order</b> - here you can define order of the remove button.</p></li></ul>
+
+<h6>Icon</h6>
+<ul class="marked-list">
+<li><p><b>Size</b> - here you can set an appropriate size of the icon.</p></li>
+<li><p><b>Offset</b> - here you can tune the icon horizontal offset.</p></li>
+<p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> Remove Button style settings. Just click on the button <b>Hover</b> to proceed to customizing hover elements.</p>
+<li><p><b>Color</b> - here you can select color of the icon.</p></li></ul>
+
+<h5>Empty Text</h5>
+<ul class="marked-list">
+<li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
+<li><p><b>Color</b> - here you can set the color to use it for the empty text.</p></li>
+<li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the empty text highlighted.</p></li>
+<li><p><b>Background Color</b> - here you can select background color of the empty text.</p></li>
+<li><p><b>Border Type</b> -here you can define the type of the border you need to use for the element.</p></li>
+<li><p><b>Width</b> - here you can specify width of the borders of the empty text block.</p></li>
+<li><p><b>Color</b> - here you can pick color of the borders.</p></li>
+<li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li>
+<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li>
+<li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the empty text block.</p></li>
+<li><p><b>Alignment</b> - here you can define the preferable alignment of the empty text. The empty text can be placed to the left, to the right, or remain centered.</p></li></li></ul>

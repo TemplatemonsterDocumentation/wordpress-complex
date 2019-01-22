@@ -1,57 +1,51 @@
-<h3>Ajax Search Widget Content Block</h3>
+<h3>Wishlist Button</h3>
 
-<h6>In this block you can edit the content displayed with JetSearch plugin.</h6>
+<h6>Wishlist Button widget allows adding products to the wishlist list. It can be added on custom Single and Archive WooCommerce templates.</h6>
 
-<h5>Search Form</h5>
+<h4>Content</h4>
 
   <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widg21.png">
+        <img src="projects/<?php echo $project;?>/img/wishlistbuttoncontent.png">
     </figure>
 
+<h5>Wishlist</h5>
 <ul class="marked-list">
-<li><p><b>Placeholder Icon</b> - here you can select the appropriate icon for the placeholder from the drop-down list.</p></li>
-<li><p><b>Placeholder Text</b> - here you can define the text for the placeholder.</p></li>
-<li><p><b>Show Submit Button</b> - enable this option if you want the submit button to appear.</p></li>
-<li><p><b>Submit Button Label</b> - here you can specify the label of the submit button.</p></li>
-<li><p><b>Submit Button Icon</b> - here you can choose the needed icon for the submit button from the drop-down list.</p></li>
-<li><p><b>Show Categories List</b> - enable this option if you what to display the list with categories.</p></li>
-<li><p><b>Taxonomy</b> - here you can specify the particular taxonomy to look for the results only within it.</p></li>
-<li><p><b>Select Placeholder</b> - here you can define the placeholder text for the category list.</p></li>
-<li><p><b>Responsive Form on Mobile</b> - enable this option if you want to apply Ajax Search to mobile screen.</p></li></ul>
+<p>Here you can switch from customizing <b>Normal</b> to <b>Added</b> Wishlist content settings. Just click on the button <b>Added</b> to proceed to customizing added elements.</p>
+<li><p><b>Button Icon</b> - here you can define an icon for the wishlist button in Normal and Added status of the product.</p></li>
+<li><p><b>Button Label Text</b> - here you can paste a label text of the wishlist button in Normal and Added status of the product.</p></li></ul>
 
-<h5>Search Settings</h5>
-
+<h6>Icon</h6>
 <ul class="marked-list">
-<li><p><b>Search in</b> - here you can select particular post type within which the search will be made. If nothing is selected in the option, the search will be made over the entire site.</p></li>
-<li><p><b>A number of results displayed on one search page</b> - this option allows to limit the number of displayed search results on one search page.</p></li>
-<li><p><b>A number of results displayed in one search query</b> - this option allows to specify the number of displayed search results in one search query.</p></li>
-<li><p><b>Sort Results by</b> - here you can indicate how to sort the results. They can be sorted by relevance, date, title, author, last modified and number of comments(descending).</p></li>
-<li><p><b>Filter Results by</b> - here you can set ascending or descending order for results.</p></li></ul>
+<li><p><b>Use Icon</b> - enable this option if you want to display an icon on the wishlist button.</p></li>
+<li><p><b>Icon Position</b> - here you can specify position of the icon on the wishlist button (left, top, right, bottom).</p></li></ul>
 
-<h5>Results Area</h5>
 
+<h4>Style</h4>
+  <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/wishlistbuttonstyle.png">
+    </figure>
+
+<h5>Compare</h5>
 <ul class="marked-list">
-<li><p><b>Results Area Width</b> - here you can specify width of the results area. You can set the width to be same as Search Form or by Input Box and Categories List.</p></li>
-<li><p><b>Show Post Thumbnail</b> - enable this option in order to show thumbnails of the posts.</p></li>
-<li><p><b>Thumbnail Size</b> - here you can select the post thumbnail size from the drop-down list.</p></li>
-<li><p><b>Post Excerpt Length</b> - here you can select the length of the post excerpt to be displayed in the results area</p></li>
-<li><p><b>Show Results Counter</b> - enable this option if you want to show the number of results.</p></li>
-<li><p><b>Show All Results Button</b> - enable this option if you want to display See All Results button</p></li>
-<li><p><b>All Results Button Text</b> - here you can define the text for the See All results button.</p></li></ul>
+<li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
+<li><p><b>Custom Size</b> - enable this potion if you want to set the custom size of the wishlist button.</p></li>
+<li><p><b>Custom Width</b> - specify the preferable width of the wishlist button in pixels or percentage.</p></li>
+<li><p><b>Custom Height</b> - specify the preferable height of the wishlist button in pixel or percentage.</p></li>
+<p>Here you can switch from customizing <b>Normal</b>, <b>Hover</b> to <b>Added</b> Compare style settings. Just click on the button <b>Hover</b> and <b>Added</b> to proceed to customizing hover and added elements.</p>
+<li><p><b>Color</b> - here you can pick color for the label text and icon of the wishlist button.</p></li>
+<li><p><b>Background Color</b> - here you can select background color of the wishlist button.</p></li>
+<li><p><b>Border Color</b> - here you can choose color of the border of the wishlist button.</p></li>
+<li><p><b>Border Type</b> - here you can define the type of the border you need to use for the element.</p></li>
+<li><p><b>Width</b> - here you can specify width of the borders.</p></li>
+<li><p><b>Color</b> - here you can pick color for the borders of the wishlist button.</p></li>
+<li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li>
+<li><p><b>Alignment</b> - here you can define the preferable alignment of the wishlist button. The wishlist button can be placed to the left, to the right, or remain centered.</p></li>
+<li><p><b>Padding</b> - here you can set the preferable custom padding for the wishlist button. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</p></li>
+<li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the wishlist button.</p></li></ul>
 
-<h6>Results Navigation</h6>
-
+<h6>Icon</h6>
 <ul class="marked-list">
-<li><p><b>Bullet Pagination</b> - here you can specify where to display the bullet pagination.</p></li>
-<li><p><b>Number Pagination</b> - here you can specify where to display the number pagination.</p></li>
-<li><p><b>Navigation Arrows</b> - here you can define where to show the navigations arrows.</p></li>
-<li><p><b>Navigation Arrows Type</b> - here you can select type of navigation arrows from the drop-down list.</p></li></ul>
-
-<h5>Notifications</h5>
-
-<ul class="marked-list">
-<li><p><b>Negative Search Results</b> - here you can specify the message appearing if nothing is found.</p></li>
-<li><p><b>Technical Error</b> - here you can specify the message if technical error happens.</p></li></ul>
-
-
-
+<p>Here you can switch from customizing <b>Normal</b>, <b>Added</b> to <b>Hover</b> Icon style settings. Just click on the button <b>Added</b> and <b>Hover</b> to proceed to customizing added and hover elements.</p>
+<li><p><b>Color</b> - here you can pick color of the icon on the wishlist button.</p></li>
+<li><p><b>Font Size</b> - here you can define font size of the icon on the wishlist button.</p></li>
+<li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the icon on the wishlist button.</p></li></ul>

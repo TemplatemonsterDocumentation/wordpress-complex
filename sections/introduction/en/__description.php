@@ -1720,43 +1720,33 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <article><h2>Introduction</h2>
 
-<h5>Thank you for purchasing JetSearch addon for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up JetSearch  plugin from scratch. You will also find information on how to add JetSearch widget to the pages built with Elementor, and how to change JetSearch settings. </h5>
+<h5>Thank you for purchasing JetCompareWishlist addon for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up JetCompareWishlist plugin from scratch. You will also find information on how to add JetCompare widgets to the pages built with Elementor, and how to change JetCompareWishlist settings. </h5>
 
-<h3>What Is JetSearch Plugin? </h3>
+<h3>What Is JetCompareWishlist Plugin? </h3>
 
 
-<p>JetSearch plugin is a must-have ultra-fast tool, perfect for adding search functionality to any page built with Elementor.</p>
-<p>It allows to use the search functionality:</p>
+<p><b>JetCompareWishlist</b> plugin is a useful tool for adding comparison and wish fucntionality on eCommerce pages built with Elementor.</p>
+<p>With <b>JetCompareWishlist</b> plugin you can create comparison lists and wishlists and add desired products to them.</p>
+<p><p>It allows to use the comparison and wish functionality:</p>
 <ul class="marked-list">
-
-<p><li>within the specific post type, including the custom post types, narrowing down the search results;</li></p>
-
-<p><li>for the needed category only, which the visitor can select himself to make the search request more specific;</li></p>
-
-<p><li>using the pagination and navigation for the results preview to let the visitors view the results with more ease;</li></p>
-<p><li>by relevance, making the most important results show up first, and the less important below them.</li></p></ul>
+<li><p>creating comparison lists and wishlists with desired products easily and quickly;</p></li>
+<li><p>adding Compare and Wishlist buttons to the products as on default WooCommerce templates as on custom Single and Archive WooCommerce templates;</p></li>
+<li><p>comparing and viewing products and their features in a suitable form as a comparison table and wishlist.</p></li>
 
 <div class="alert alert-info">
-        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetSearch plugin! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetCompareWishlist plugin! If You haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
 
 
-<h3>How JetSearch Works</h3>
+<h3>JetCompareWishlist Overview</h3>
+<ul class="marked-list">
+<li><p><b>Compare Button</b> widget Compare Button widget provides the product with the button, which allows adding products to the comparison list. Compare Button widget can be added on custom Single and Archive WooCommerce templates.</p></li>
+<li><p><b>Compare Count Button</b> widget displays the number of added products in the comparison list.</p></li>
+<li><p><b>Compare</b> widget provides an option to display the comparison list with added products on the page in the form of comparison table, where different features of the product can be presented.</p></li>
+<li><p><b>Wishlist Button</b> widget lets you add the liked product to the wishlist and then view it in a convient wishlist.</p></li>
+<li><p><b>Wishlist Count Button</b> widget shows how many products added in the wishlist.</p></li>
+<li><p><b>Wishlist</b> widget allows to display the wishlist with the products, which you liked and saved on the page.</p></li></ul>
 
-<p>JetSearch plugin adds one more widget, called Ajax Search, to the list of widgets available for Elementor page builder. </p>
-
-<p>Drag and drop this widget to the needed section to start using Ajax Search on your site. </p>
-
-<p>The key feature of this plugin is its speed, that allows previewing the search results without page reload, so the visitor is always able to correct the search request he's using in order to find the necessary results. </p>
-
-<p>With JetSearch the search functionality becomes easy to implement, manage and customize. </p>
-
-<p>Let visitors find nedeed content in the most convenient and fast wau using JetSearch plugin.</p>
-
-<p>Add Ajax Search to website's header making the process of looking for the information lightning-fast.</p>
-
-<p>Keep reading this documentation to learn more about the plugin's installation, the way to use it and customize its appearance. Also, here you'll find how to use Ajax Search widget's functionality to its fullest. </p>
-
-
+<p><b>JetCompareWishlist</b> plugin will help you compare the products creating comparison lists and saved products in convenient wishlists where you can view liked products at any time and make the most beneficial purchase.</p>
 </article>
 
 <?php } ?>

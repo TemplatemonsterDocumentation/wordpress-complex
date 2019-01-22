@@ -21,17 +21,17 @@
         <img src="projects/jetsmartfilters/img/installation/2.png">
     </figure></li></p>
 
-<p><li> Click <b>Upload</b> button, which can be found at the top of <b>Plugins</b> page. Browse the path to <b>JetCompareWish.zip</b> plugin package and start the installation process.
+<p><li> Click <b>Upload</b> button, which can be found at the top of <b>Plugins</b> page. Browse the path to <b>JetCompareWishlist.zip</b> plugin package and start the installation process.
 
 	<figure class="img-polaroid">
-        <img src="projects/jetsearch/img/inst16.png">
+        <img src="projects/jetcomparewishlist/img/uploadplugin1.png">
   	</figure>
 
 </li></p>
 <p><li>When JetCompareWishlist plugin is uploaded and installed you’ll need to activate it. Navigate to <b>Plugins</b> tab and locate JetCompareWishlist plugin in the list of installed plugins. Click on <b>Activate</b> link under JetCompareWishlist. As a result the plugin will become active.
 
  	<figure class="img-polaroid">
-        <img src="projects/jetsearch/img/inst17.png">
+        <img src="projects/jetcomparewishlist/img/activateplugin.png">
   	</figure>
 </li></p>
 
