@@ -5,7 +5,7 @@
 Use this filter to allow the visitors to search for the matching results manually by inputting the needed words or phrases into the Search field.
 </h6>
 
-<p>Please, create the Search filter type in WordPress Dashboard > Smart Filters before proceeding to adding the Checkboxes filter widget to the page. </p>
+<p>Please, create the Search filter type in WordPress Dashboard > Smart Filters before proceeding to adding the Search filter widget to the page. </p>
 
 <h4>Content</h4>
 
