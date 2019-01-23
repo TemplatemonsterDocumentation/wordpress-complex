@@ -1,6 +1,6 @@
 <h3>Wishlist Button</h3>
 
-<h6>Wishlist Button widget allows adding products to the wishlist list. It can be added on custom Single and Archive WooCommerce templates.</h6>
+<h6>Wishlist Button widget allows adding products to the wishlist. It can be added to custom Single and Archive WooCommerce templates.</h6>
 
 <h4>Content</h4>
 
@@ -11,6 +11,7 @@
 <h5>Wishlist</h5>
 <ul class="marked-list">
 <p>Here you can switch from customizing <b>Normal</b> to <b>Added</b> Wishlist content settings. Just click on the button <b>Added</b> to proceed to customizing added elements.</p>
+
 <li><p><b>Button Icon</b> - here you can define an icon for the wishlist button in Normal and Added status of the product.</p></li>
 <li><p><b>Button Label Text</b> - here you can paste a label text of the wishlist button in Normal and Added status of the product.</p></li></ul>
 
@@ -31,7 +32,7 @@
 <li><p><b>Custom Size</b> - enable this potion if you want to set the custom size of the wishlist button.</p></li>
 <li><p><b>Custom Width</b> - specify the preferable width of the wishlist button in pixels or percentage.</p></li>
 <li><p><b>Custom Height</b> - specify the preferable height of the wishlist button in pixel or percentage.</p></li>
-<p>Here you can switch from customizing <b>Normal</b>, <b>Hover</b> to <b>Added</b> Compare style settings. Just click on the button <b>Hover</b> and <b>Added</b> to proceed to customizing hover and added elements.</p>
+<p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> or <b>Added</b> wishlist style settings. Just click on the button <b>Hover</b> or<b>Added</b> to proceed to customizing hover and added elements.</p>
 <li><p><b>Color</b> - here you can pick color for the label text and icon of the wishlist button.</p></li>
 <li><p><b>Background Color</b> - here you can select background color of the wishlist button.</p></li>
 <li><p><b>Border Color</b> - here you can choose color of the border of the wishlist button.</p></li>

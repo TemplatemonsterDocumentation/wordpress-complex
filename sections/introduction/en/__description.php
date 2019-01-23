@@ -1720,17 +1720,17 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <article><h2>Introduction</h2>
 
-<h5>Thank you for purchasing JetCompareWishlist addon for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up JetCompareWishlist plugin from scratch. You will also find information on how to add JetCompare widgets to the pages built with Elementor, and how to change JetCompareWishlist settings. </h5>
+<h5>Thank you for purchasing JetCompareWishlist plugin for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and setting up JetCompareWishlist plugin from scratch. You will also find information on how to add its specific widgets to the pages built with Elementor, and how to change JetCompareWishlist settings. </h5>
 
 <h3>What Is JetCompareWishlist Plugin? </h3>
 
 
-<p><b>JetCompareWishlist</b> plugin is a useful tool for adding comparison and wish fucntionality on eCommerce pages built with Elementor.</p>
-<p>With <b>JetCompareWishlist</b> plugin you can create comparison lists and wishlists and add desired products to them.</p>
-<p><p>It allows to use the comparison and wish functionality:</p>
+<p><b>JetCompareWishlist</b> plugin is a useful tool for adding comparison and wishlist fucntionality to e-Commerce pages built with Elementor.</p>
+<p>With <b>JetCompareWishlist</b> plugin you can create comparison lists and wishlists and enable visitors add desired products into them, showcasing the selected products with this plugin in the most amazing way.</p>
+<p><p>It allows to use the comparison and wishlist functionality, and is perfect for:</p>
 <ul class="marked-list">
-<li><p>creating comparison lists and wishlists with desired products easily and quickly;</p></li>
-<li><p>adding Compare and Wishlist buttons to the products as on default WooCommerce templates as on custom Single and Archive WooCommerce templates;</p></li>
+<li><p>showcasing comparison lists and wishlists with desired products easily and quickly;</p></li>
+<li><p>adding Compare and Wishlist buttons to the products on default WooCommerce templates as well as to custom Single and Archive WooCommerce templates;</p></li>
 <li><p>comparing and viewing products and their features in a suitable form as a comparison table and wishlist.</p></li>
 
 <div class="alert alert-info">
@@ -1739,14 +1739,14 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <h3>JetCompareWishlist Overview</h3>
 <ul class="marked-list">
-<li><p><b>Compare Button</b> widget Compare Button widget provides the product with the button, which allows adding products to the comparison list. Compare Button widget can be added on custom Single and Archive WooCommerce templates.</p></li>
+<li><p><b>Compare Button</b> widget Cprovides the product with the button, which allows adding products to the comparison list. Compare Button widget can be added to custom Single and Archive WooCommerce templates.</p></li>
 <li><p><b>Compare Count Button</b> widget displays the number of added products in the comparison list.</p></li>
-<li><p><b>Compare</b> widget provides an option to display the comparison list with added products on the page in the form of comparison table, where different features of the product can be presented.</p></li>
-<li><p><b>Wishlist Button</b> widget lets you add the liked product to the wishlist and then view it in a convient wishlist.</p></li>
-<li><p><b>Wishlist Count Button</b> widget shows how many products added in the wishlist.</p></li>
-<li><p><b>Wishlist</b> widget allows to display the wishlist with the products, which you liked and saved on the page.</p></li></ul>
+<li><p><b>Compare</b> widget provides an option to display the comparison list with added products at the page in the form of comparison table, where different features of the product can be presented.</p></li>
+<li><p><b>Wishlist Button</b> widget lets you add the liked product to the wishlist and then view it in a stylish wishlist.</p></li>
+<li><p><b>Wishlist Count Button</b> widget shows how many products have been added in the wishlist.</p></li>
+<li><p><b>Wishlist</b> widget allows to display the wishlist with the products, which you liked and saved.</p></li></ul>
 
-<p><b>JetCompareWishlist</b> plugin will help you compare the products creating comparison lists and saved products in convenient wishlists where you can view liked products at any time and make the most beneficial purchase.</p>
+<p><b>JetCompareWishlist</b> plugin will help you compare the products by creating comparison lists and saved products. Manage the wishlists and products comparison functionality, and make sure your customers and visitors can view the liked products at any time and make the most beneficial purchase.</p>
 </article>
 
 <?php } ?>
