@@ -2,30 +2,27 @@
 
 <h4>From this block you can learn how to set the products wishlist with JetCompareWishlist plugin for Elementor.</h4>
 
-<h5>Create Page</h5>
+<h5>1. Create a page</h5>
 
-<h6>In your <b>Dashboard > Pages</b> block create the page, where you want to display the products wishlist.</h6>
+<p>In the <b>Dashboard > Pages</b> block create the page, where you want to display the products wishlist.</p>
 
-<h5>Enable Wishlist functionality</h5> 
+<h5>2. Enable Wishlist functionality</h5>
 
-<h6>Then go to <b>Elementor > JetCompareWishlist settings > Wishlist</b> block and move the toggle near <b>Enable Wishlist</b> option.</h6>
+<p>Then go to <b>Elementor > JetCompareWishlist settings > Wishlist</b> block and move the toggle near <b>Enable Wishlist</b> option.</p>
 
 <figure class="img-polaroid">
         <img src="projects/jetcomparewishlist/img/wishlistsettings.png">
     </figure>
 
-<h5>Save for logged users</h5>
+<h5>3. Set the conditions</h5>
+<p>Enable <b>Save for logged users</b> option if you want to provide logged users only with an opportunity to save their wishlists.</p>
 
-<h6>Enable this option if you want to provide logged users with an opportunity to save their wishlists.</h6>
+<h5>4. Select a page</h5>
+
+<p>You need to define the wishlist page, where you want to apply wishlist functionality in <b>Wishlist Page</b> option. Also, you can add <b>Wishlist button</b> to default <b>WooCommerce Single</b> and <b>Archive</b> templates. </p>
 
 
-<h5>Select Page</h5>
-
-<h6>You need define the wishlist page, where you want to apply wishlist functionality in <b>Wishlist Page</b> option. Also, you can add <b>Wishlist button</b> to default <b>WooCommerce Single</b> and <b>Archive</b> templates. </h6>
-
-<h5>
-
-<h5>Adding Widgets</h5>
+<h5>5. Adding widgets</h5>
 
 <h6>Here you can learn how to add <b>Wishlist Button</b>, <b>Wishlist Count Button</b> and <b>Wishlist</b> widgets to Elementor sections.</h6>
 

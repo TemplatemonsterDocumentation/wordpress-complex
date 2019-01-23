@@ -1,6 +1,6 @@
 <h3>Wishlist Count Button</h3>
 
-<h6>Wishlist Count Button widget allows showing the number of products added in the wishlist. It can be added in header, footer etc.</h6>
+<h6>Wishlist Count Button widget allows showing the number of products added to the wishlist. It can be added in header, footer, etc.</h6>
 
 <h4>Content</h4>
 
@@ -35,7 +35,7 @@
 <li><p><b>Custom Size</b> - enable this potion if you want to set the custom size of the wishlist count button.</p></li>
 <li><p><b>Custom Width</b> - specify the preferable width of the wishlist count button in pixels or percentage.</p></li>
 <li><p><b>Custom Height</b> - specify the preferable height of the wishlist count button in pixel or percentage.</p></li>
-<p>Here you can switch from customizing <b>Normal</b>, <b>Hover</b> to <b>Added</b> General style settings. Just click on the button <b>Hover</b> and <b>Added</b> to proceed to customizing hover and added elements.</p>
+<p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> mode. Just click on the button <b>Hover</b> and proceed to customizing the elements on hover.</p>
 <li><p><b>Color</b> - here you can pick color for the label text and count of the wishlist count button.</p></li>
 <li><p><b>Background Color</b> - here you can select background color of the wishlist count button.</p></li>
 <li><p><b>Border Color</b> - here you can pick color of the borders on hover.</p></li>
@@ -59,7 +59,7 @@
 <li><p><b>Size</b> - here you change size of the count.</p></li>
 <li><p><b>Width</b> - here you can define width of the count.</p></li>
 <li><p><b>Height</b> - here you can specify height of the count.</p></li>
-<p>Here you can switch from customizing <b>Normal</b>, <b>Hover</b> to <b>Added</b> Count style settings. Just click on the button <b>Hover</b> and <b>Added</b> to proceed to customizing hover  and added elements.</p>
+<p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> mode. Just click on the button <b>Hover</b> and  proceed to customizing the elements in the hover mode.</p>
 <li><p><b>Color</b> - here you can pick color of the count.</p></li>
 <li><p><b>Background Color</b> - here you can select background color of the count.</p></li>
 <li><p><b>Border Color</b> - here you can choose color of the border of the count.</p></li>
