@@ -17,7 +17,7 @@ h4 {
   background-position: 0% bottom; }
 
 .rd-mobilepanel {
-  background-color: #4f56ef;
+  background-color: #F48C42;
   background-position: right top;
   -webkit-transition-property: height;
           transition-property: height;
@@ -29,7 +29,7 @@ h4 {
           transition-delay: 1s; }
 
 [data-section="introduction"] .rd-mobilepanel {
-  background-image: url("../../projects/jetpopup/img/header-bg.png");
+  background-image: url("../../projects/jetcomparewishlist/img/header.png");
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
@@ -66,24 +66,24 @@ body:not([data-section="introduction"]) .tm-title-caption {
 
 @media (max-width: 1439px) {
   .rd-mobilepanel_title {
-    top: 74px;
-    left: 85px; }
+    top: 237px;
+    left: 158px; }
 
   .tm-title-caption {
     top: 140px;
     left: 85px; } }
 @media (max-width: 1600px) and (min-width: 1440px) {
   .rd-mobilepanel_title {
-    top: 93px;
-    left: 97px; }
+    top: 237px;
+    left: 158px; }
 
   .tm-title-caption {
     top: 180px;
     width: 198px; } }
 @media (max-width: 1800px) and (min-width: 1601px) {
   .rd-mobilepanel_title {
-    top: 104px;
-    left: 98px; }
+    top: 237px;
+    left: 158px; }
 
   .tm-title-caption {
     top: 180px;
@@ -93,21 +93,21 @@ body:not([data-section="introduction"]) .tm-title-caption {
   background-color: #fff; }
 
 .rd-mobilemenu_ul ul a.focus {
-  color: #4f56ef; }
+  color: #F48C42; }
 
 .toTop {
-  background-color: #4f56ef;
+  background-color: #F48C42;
   color: #ffffff; }
   .toTop:hover {
-    background-color: #121ac6; }
+    background-color: #c5580b; }
 
 .files_structure li .fa {
   margin-top: 3px;
   margin-right: 10px;
-  color: #4f56ef;
+  color: #F48C42;
   font-size: 16px; }
 
 article a {
-  color: #4f56ef; }
+  color: #F48C42; }
 
 /*# sourceMappingURL=project_styles.css.map */
