@@ -50,8 +50,8 @@
 <h6>Icon</h6>
 <ul class="marked-list">
 <li><p><b>Size</b> - here you can specify size of the icon.</p></li>
-<p>Here you can switch from customizing Normal to Hover icon style settings. Just click on the button Hover to proceed to customizing icon hover elements.</p>
-<li><p><b>Color</b> - here you can pick color of the icon on the wishlist button.</p></li>
+<p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> icon style settings. Just click on the button <b>Hover</b> to proceed to customizing icon hover elements.</p>
+<li><p><b>Color</b> - here you can pick color of the icon on the wishlist count button.</p></li>
 <li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the icon on the wishlist count button.</p></li></ul>
 
 <h6>Count</h6>

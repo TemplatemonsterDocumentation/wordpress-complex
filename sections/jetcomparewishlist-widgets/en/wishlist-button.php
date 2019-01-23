@@ -12,7 +12,7 @@
 <ul class="marked-list">
 <p>Here you can switch from customizing <b>Normal</b> to <b>Added</b> Wishlist content settings. Just click on the button <b>Added</b> to proceed to customizing added elements.</p>
 <li><p><b>Button Icon</b> - here you can define an icon for the wishlist button in Normal and Added status of the product.</p></li>
-<li><p><b>Button Label Text</b> - here you can paste a label text of the wishlist button in Normal and Added status of the product.</p></li></ul>
+<li><p><b>Button Label Text</b> - here you can paste a label text for the wishlist button in Normal and Added status of the product.</p></li></ul>
 
 <h6>Icon</h6>
 <ul class="marked-list">

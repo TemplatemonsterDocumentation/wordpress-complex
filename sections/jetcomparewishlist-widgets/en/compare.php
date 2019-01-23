@@ -1,6 +1,6 @@
 <h3>Compare</h3>
 
-<h6>Compare widget allows displaying the comparison list on the page in form of comparison table.</h6>
+<h6>Compare widget allows displaying the comparison list on the page in form of a comparison table.</h6>
 
 <h4>Content</h4>
 
@@ -126,7 +126,7 @@
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
 <p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> title style settings. Just click on the button <b>Hover</b> to proceed to customizing hover elements.</p>
 <li><p><b>Color</b> - specify the color of the title with color picker tool.</p></li>
-<li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the title’s text highlighted.</p>
+<li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the title’s text highlighted.</p></li></ul>
 
 <h5>Price</h5>
 <ul class="marked-list">
@@ -158,7 +158,7 @@
 <h5>Add to Cart</h5>
 <ul class="marked-list">
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
-<li><p><b>Button Width</b> - here you can specify width of the button.</p></li>
+<li><p><b>Button Width</b> - here you can specify width of the Add to Cart button.</p></li>
 <p>Here you can switch from customizing <b>Normal</b>, <b>Hover</b>, <b>Added</b> to <b>Loading</b> Add to Cart button style settings. Just click on the button <b>Hover</b>, <b>Added</b> and <b>Loading</b> to proceed to customizing hover, added and loading elements.</p>
 <li><p><b>Text Color</b> - here you can define color of the text on the button.</p></li>
 <li><p><b>Background Color</b> - here you can pick background color of the button.</p></li>
@@ -173,19 +173,19 @@
 <h5>Description</h5>
 <ul class="marked-list">
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
-<li><p><b>Color</b> - here you can define the suitable color of the text of description.</p></li>
+<li><p><b>Color</b> - here you can define the suitable color for the text of description.</p></li>
 <li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the description’s text highlighted.</p></li></ul>
 
 <h5>Short Description</h5>
 <ul class="marked-list">
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
-<li><p><b>Color</b> - here you can define the suitable color of the text of short description.</p></li>
+<li><p><b>Color</b> - here you can define the suitable color for the text of short description.</p></li>
 <li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the short description’s text highlighted.</p></li></ul>
 
 <h5>SKU</h5>
 <ul class="marked-list">
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
-<li><p><b>Color</b> - here you can define the suitable color of the product service identification code.</p></li>
+<li><p><b>Color</b> - here you can define the suitable color for the product service identification code.</p></li>
 <li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the product service identification code highlighted.</p></li></ul>
 
 <h5>Stock Status</h5>
@@ -198,33 +198,33 @@
 <h5>Weight</h5>
 <ul class="marked-list">
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
-<li><p><b>Color</b> - here you can define the suitable color of the weight.</p></li>
+<li><p><b>Color</b> - here you can define the suitable color for the weight.</p></li>
 <li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the weight highlighted.</p></li></ul>
 
 <h5>Dimensions</h5>
 <ul class="marked-list">
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
-<li><p><b>Color</b> - here you can define the suitable color of the dimensions.</p></li>
+<li><p><b>Color</b> - here you can define the suitable color for the dimensions.</p></li>
 <li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the dinemsions highlighted.</p></li></ul>
 
 <h5>Attributes</h5>
 <ul class="marked-list">
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
-<li><p><b>Color</b> - here you can define the suitable color of the attributes.</p></li>
+<li><p><b>Color</b> - here you can define the suitable color for the attributes.</p></li>
 <li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the attributes highlighted.</p></li></ul>
 
 <h5>Categories</h5>
 <ul class="marked-list">
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
 <p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> Categories style settings. Just click on the button <b>Hover</b> to proceed hover elements.</p>
-<li><p><b>Color</b> - here you can define the suitable color of the categories.</p></li>
+<li><p><b>Color</b> - here you can define the suitable color for the categories.</p></li>
 <li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the categories highlighted.</p></li></ul>
 
 <h5>Tags</h5>
 <ul class="marked-list">
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
 <p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> Categories style settings. Just click on the button <b>Hover</b> to proceed hover elements.</p>
-<li><p><b>Color</b> - here you can define the suitable color of the tags.</p></li>
+<li><p><b>Color</b> - here you can define the suitable color for the tags.</p></li>
 <li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the tags highlighted.</p></li></ul>
 
 <h5>Empty Text</h5>

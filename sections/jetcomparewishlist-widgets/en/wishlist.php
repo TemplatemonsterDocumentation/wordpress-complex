@@ -138,7 +138,7 @@
 <h5>Empty Text</h5>
 <ul class="marked-list">
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
-<li><p><b>Color</b> - here you can set the color to use it for the empty text.</p></li>
+<li><p><b>Color</b> - here you can set the color to use it for the empty text block.</p></li>
 <li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the empty text highlighted.</p></li>
 <li><p><b>Background Color</b> - here you can select background color of the empty text.</p></li>
 <li><p><b>Border Type</b> -here you can define the type of the border you need to use for the element.</p></li>

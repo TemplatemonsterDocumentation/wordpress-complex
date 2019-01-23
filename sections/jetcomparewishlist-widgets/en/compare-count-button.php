@@ -1,6 +1,6 @@
 <h3>Compare Count Button</h3>
 
-<h6>Compare Count Button widget allows showing the number of products added in the comparison list. It can be added in header, footer etc.</h6>
+<h6>Compare Count Button widget allows showing the number of products added to the comparison list. It can be added to header, footer etc.</h6>
 
 <h4>Content</h4>
 
@@ -19,9 +19,9 @@
 
 <h6>Count</h6>
 <ul class="marked-list">
-<li><p><b>Show Count</b> - enable this option if you want to showcase the number of added products in a comparison list.</p></li>
+<li><p><b>Show Count</b> - enable this option if you want to showcase the number of added products to a comparison list.</p></li>
 <li><p><b>Format</b> - here you can specify format of the count items added to the comparison list.</p></li>
-<li><p><b>Position</b> - here you can set position of the count in compare count button.</p></li></ul>
+<li><p><b>Position</b> - here you can set position of the count on the compare count button.</p></li></ul>
 
 
 <h4>Style</h4>
@@ -35,7 +35,7 @@
 <li><p><b>Custom Size</b> - enable this potion if you want to set the custom size of the compare count button.</p></li>
 <li><p><b>Custom Width</b> - specify the preferable width of the compare count button in pixels or percentage.</p></li>
 <li><p><b>Custom Height</b> - specify the preferable height of the compare count button in pixel or percentage.</p></li>
-<p>Here you can switch from customizing Normal to Hover and Added general style settings. Just click on the button Hover and Added to proceed to customizing hover elements and elements in added status of the product.</p>
+<p>Here you can switch from customizing <b>Normal</b>, <b>Hover</b> to <b>Added</b> general style settings. Just click on the button <b>Hover</b> and <b>Added</b> to proceed to customizing hover and added elements.</p>
 <li><p><b>Color</b> - here you can pick color for the label text and count of the compare count button.</p></li>
 <li><p><b>Background Color</b> - here you can select background color of the compare count button.</p></li>
 <li><p><b>Border Color</b> - here you can pick color of the borders on hover.</p></li>
@@ -50,7 +50,7 @@
 <h6>Icon</h6>
 <ul class="marked-list">
 <li><p><b>Size</b> - here you can specify size of the icon.</p></li>
-<p>Here you can switch from customizing Normal to Hover icon style settings. Just click on the button Hover to proceed to customizing icon hover elements.</p>
+<p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> icon style settings. Just click on the button <b>Hover</b> to proceed to customizing hover elements.</p>
 <li><p><b>Color</b> - here you can pick color of the icon on the compare count button.</p></li>
 <li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the icon on the compare count button.</p></li></ul>
 
@@ -59,7 +59,7 @@
 <li><p><b>Size</b> - here you change size of the count.</p></li>
 <li><p><b>Width</b> - here you can define width of the count.</p></li>
 <li><p><b>Height</b> - here you can specify height of the count.</p></li>
-<p>Here you can switch from customizing Normal to Hover and Added count style settings. Just click on the button Hover and Added to proceed to customizing hover elements and elements in added status of the product.</p>
+<p>Here you can switch from customizing <b>Normal</b>, <b>Hover</b> to <b>Added</b> count style settings. Just click on the button <b>Hover</b> and <b>Added</b> to proceed to customizing hover and added elements.</p>
 <li><p><b>Color</b> - here you can pick color of the count.</p></li>
 <li><p><b>Background Color</b> - here you can select background color of the count.</p></li>
 <li><p><b>Border Color</b> - here you can choose color of the border of the count.</p></li>

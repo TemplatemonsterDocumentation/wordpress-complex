@@ -4,7 +4,7 @@
 
 <h5>Create Page</h5>
 
-<h6>In your Dashboard > Pages block create the page, where you want to display compared products.</h6>
+<h6>In your <b>Dashboard > Pages</b> block create the page, where you want to display compared products.</h6>
 
 <h5>Enable Comparison Functionality</h5> 
 

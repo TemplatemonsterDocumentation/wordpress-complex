@@ -14,6 +14,11 @@
         <img src="projects/jetcomparewishlist/img/wishlistsettings.png">
     </figure>
 
+<h5>Save for logged users</h5>
+
+<h6>Enable this option if you want to provide logged users with an opportunity to save their wishlists.</h6>
+
+
 <h5>Select Page</h5>
 
 <h6>You need define the wishlist page, where you want to apply wishlist functionality in <b>Wishlist Page</b> option. Also, you can add <b>Wishlist button</b> to default <b>WooCommerce Single</b> and <b>Archive</b> templates. </h6>
