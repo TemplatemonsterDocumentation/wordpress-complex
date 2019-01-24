@@ -1,4 +1,4 @@
-<h3>Working with Wishlist</h3>
+<h3>Working with Products Wishlist</h3>
 
 <h4>From this block you can learn how to set the products wishlist with JetCompareWishlist plugin for Elementor.</h4>
 
