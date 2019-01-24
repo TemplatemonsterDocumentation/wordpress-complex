@@ -33,7 +33,7 @@
 <h5>Columns</h5>
 
 <ul class="marked-list">
-<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li></ul>
+<li><p><b>Padding</b> - type in the custom padding values to add responsive padding for the block.</p></li></ul>
 
 <h5>Item</h5>
 
@@ -44,7 +44,7 @@
 <li><p><b>Color</b> -  here you can pick color of the borders.</p></li>
 <li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li>
 <li><p><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for the item, and need to apply shadow for it.</p></li>
-<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li></ul>
+<li><p><b>Padding</b> - type in the custom padding values to add responsive padding for the block.</p></li></ul>
 
 <h6>Content</h6>
 <ul class="marked-list">
@@ -58,7 +58,7 @@
 <li><p><b>Width</b> - here you can specify width of the borders.</p></li>
 <li><p><b>Color</b> - here you can pick color for the borders of the thumbnail block.</p></li>
 <li><p><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for the thumbnail block, and need to apply shadow to it.</p></li>
-<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li>
+<li><p><b>Padding</b> - type in the custom padding values to add responsive padding for the block.</p></li>
 <li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the thumbnail block.</p></li>
 <li><p><b>Order</b> - here you can set order of the thumbnail.</p></li></ul>
 
@@ -106,7 +106,7 @@
 <li><p><b>Width</b> - here you can specify width of the borders of the button.</p></li>
 <li><p><b>Color</b> - here you can pick color of the borders.</p></li>
 <li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li>
-<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li>
+<li><p><b>Padding</b> - type in the custom padding values to add responsive padding for the block.</p></li>
 <li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the Add to Cart button.</p></li>
 <li><p><b>Order</b> - here you can define order of the Add to Cart button.</p></li></ul>
 
@@ -124,7 +124,7 @@
 <li><p><b>Color</b> - here you can pick color for the borders of the remove button.</p></li>
 <li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li>
 <li><p><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for the remove button, and need to apply shadow to it.</p></li>
-<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li>
+<li><p><b>Padding</b> - type in the custom padding values to add responsive padding for the block.</p></li>
 <li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the remove button.</p></li>
 <li><p><b>Order</b> - here you can define order of the remove button.</p></li></ul>
 
@@ -145,6 +145,6 @@
 <li><p><b>Width</b> - here you can specify width of the borders of the empty text block.</p></li>
 <li><p><b>Color</b> - here you can pick color of the borders.</p></li>
 <li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li>
-<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li>
+<li><p><b>Padding</b> - type in the custom padding values to add responsive padding for the block.</p></li>
 <li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the empty text block.</p></li>
 <li><p><b>Alignment</b> - here you can define the preferable alignment of the empty text. The empty text can be placed to the left, to the right, or remain centered.</p></li></li></ul>

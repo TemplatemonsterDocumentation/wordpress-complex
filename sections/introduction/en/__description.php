@@ -1725,7 +1725,7 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 
 <p><b>JetCompareWishlist</b> plugin is a useful tool for adding comparison and wishlist fucntionality to e-Commerce pages built with Elementor.</p>
-<p>With <b>JetCompareWishlist</b> plugin you can create comparison lists and wishlists and enable visitors add desired products into them, showcasing the selected products with this plugin in the most amazing way.</p>
+<p>With <b>JetCompareWishlist</b> plugin you can create comparison lists and wishlists and enable visitors to add desired products into them, showcasing the selected products with this plugin in the most amazing way.</p>
 <p><p>It allows to use the comparison and wishlist functionality, and is perfect for:</p>
 <ul class="marked-list">
 <li><p>showcasing comparison lists and wishlists with desired products easily and quickly;</p></li>
@@ -1741,7 +1741,7 @@ Image Comparison block provides you with an ability to add the two-image block t
 <li><p><b>Compare Button</b> widget provides products with the button, which allows adding products to the comparison list. Compare Button widget can be added to custom Single and Archive WooCommerce templates.</p></li>
 <li><p><b>Compare Count Button</b> widget displays the number of added products in the comparison list.</p></li>
 <li><p><b>Compare</b> widget provides an option to display the comparison list with added products on the page in the form of comparison table, where different features of the product can be presented.</p></li>
-<li><p><b>Wishlist Button</b> widget lets you add liked products to the wishlist and then view them in a convient wishlist.</p></li>
+<li><p><b>Wishlist Button</b> widget lets you add liked products to the wishlist and then view them in a convenient wishlist.</p></li>
 <li><p><b>Wishlist Count Button</b> widget shows how many products added in the wishlist.</p></li>
 <li><p><b>Wishlist</b> widget allows to display the wishlist with the products, which you liked and saved, on the page.</p></li></ul>
 

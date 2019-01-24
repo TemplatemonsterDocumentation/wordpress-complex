@@ -32,7 +32,7 @@
 <h5>General</h5>
 <ul class="marked-list">
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
-<li><p><b>Custom Size</b> - enable this potion if you want to set the custom size of the compare count button.</p></li>
+<li><p><b>Custom Size</b> - enable this option if you want to set the custom size of the compare count button.</p></li>
 <li><p><b>Custom Width</b> - specify the preferable width of the compare count button in pixels or percentage.</p></li>
 <li><p><b>Custom Height</b> - specify the preferable height of the compare count button in pixel or percentage.</p></li>
 <p>Here you can switch from customizing <b>Normal</b>, <b>Hover</b> to <b>Added</b> general style settings. Just click on the button <b>Hover</b> and <b>Added</b> to proceed to customizing hover and added elements.</p>

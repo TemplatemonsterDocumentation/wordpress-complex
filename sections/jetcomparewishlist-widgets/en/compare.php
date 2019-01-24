@@ -61,12 +61,12 @@
 <ul class="marked-list">
 <li><p><b>Row Hover Background Color</b> - here you can specify the text color to use for the row on hover.</p></li>
 <li><p><b>Even Row Hover Background Color</b> - here you can specify the color to use for the even row background on hover.</p></li>
-<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li>
+<li><p><b>Padding</b> - type in the custom padding values to add responsive padding for the block.</p></li>
 <li><p><b>Border Type</b> - here you can define the type of the border you need to use for the element.</p></li>
 <li><p><b>Width</b> - here you can specify width of the borders of the block.</p></li>
 <li><p><b>Color</b> - here you can pick color of the borders.</p></li>
 <li><p><b>Hidden border for header container</b> - here you can add the hidden border of the header’s container.</p></li>
-<li><p><b>Alignment Horizontal</b> - here you can set the table headings’s horizontal alignment (on the left, in the center, on the right).</p></li>
+<li><p><b>Alignment Horizontal</b> - here you can set the table headings' horizontal alignment (on the left, in the center, on the right).</p></li>
 <li><p><b>Alignment Vertical</b> - here you can set the vertical position of the table headings (on the top, in the middle or on the bottom).</p></li></ul>
 
 <h5>Table Content</h5>
@@ -83,7 +83,7 @@
 <li><p><b>Row Hover Background Color</b> - here you can specify the text color to use for the row on hover.</p></li>
 <li><p><b>Even Row Hover Background Color</b> - here you can specify the color to use for the even row background on hover.</p></li>
 <li><p><b>Even Row Background Color</b> - here you can specify the color to use for the even row background.</p></li>
-<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li>
+<li><p><b>Padding</b> - type in the custom padding values to add responsive padding for the block.</p></li>
 <li><p><b>Border Type</b> - here you can define the type of the border you need to use for the element.</p></li>
 <li><p><b>Width</b> - here you can specify width of the borders of the block.</p></li>
 <li><p><b>Color</b> - here you can pick color of the borders.</p></li>
@@ -103,7 +103,7 @@
 <li><p><b>Color</b> - here you can pick color for the borders of the remove button.</p></li>
 <li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li>
 <li><p><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for the remove button, and need to apply shadow to it.</p></li>
-<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li></ul>
+<li><p><b>Padding</b> - type in the custom padding values to add responsive padding for the block.</p></li></ul>
 
 <h6>Icon</h6>
 <ul class="marked-list">
@@ -119,7 +119,7 @@
 <li><p><b>Width</b> - here you can specify width of the borders.</p></li>
 <li><p><b>Color</b> - here you can pick color for the borders of the thumbnail block.</p></li>
 <li><p><b>Box Shadow</b> - enable this option if you want to access the shadow advanced settings for the thumbnail block, and need to apply shadow to it.</p></li>
-<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li></ul>
+<li><p><b>Padding</b> - type in the custom padding values to add responsive padding for the block.</p></li></ul>
 
 <h5>Title</h5> 
 <ul class="marked-list">
@@ -168,7 +168,7 @@
 <li><p><b>Width</b> - here you can specify width of the borders of the button.</p></li>
 <li><p><b>Color</b> - here you can pick color of the borders.</p></li>
 <li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li>
-<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li></ul>
+<li><p><b>Padding</b> - type in the custom padding values to add responsive padding for the block.</p></li></ul>
 
 <h5>Description</h5>
 <ul class="marked-list">
@@ -237,6 +237,6 @@
 <li><p><b>Width</b> - here you can specify width of the borders of the empty text block.</p></li>
 <li><p><b>Color</b> - here you can pick color of the borders.</p></li>
 <li><p><b>Border Radius</b> - here you can define the value of the border radius to make the angles more smooth and round.</p></li>
-<li><p><b>Padding</b> - type in the custom padding values to add a responsive padding for the block.</p></li>
+<li><p><b>Padding</b> - type in the custom padding values to add responsive padding for the block.</p></li>
 <li><p><b>Margin</b> - here you can apply your custom margins in pixels or percentage to set them for the empty text block.</p></li>
 <li><p><b>Alignment</b> - here you can define the preferable alignment of the empty text. The empty text can be placed to the left, to the right, or remain centered.</p></li></li></ul>
