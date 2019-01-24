@@ -17,7 +17,7 @@
 <h6>Icon</h6>
 <ul class="marked-list">
 <li><p><b>Use Icon</b> - enable this option if you want to display an icon on the compare button.</p></li>
-<li><p><b>Icon Position</b> - here you can specify position of the icon on the compare button (left, top, right, bottom).</p></li></ul>
+<li><p><b>Icon Position</b> - here you can specify the position of the icon on the compare button (left, top, right, bottom).</p></li></ul>
 
 
 <h4>Style</h4>
@@ -28,7 +28,7 @@
 <h5>Compare</h5>
 <ul class="marked-list">
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
-<li><p><b>Custom Size</b> - enable this potion if you want to set the custom size of the compare button.</p></li>
+<li><p><b>Custom Size</b> - enable this option if you want to set the custom size of the compare button.</p></li>
 <li><p><b>Custom Width</b> - specify the preferable width of the compare button in pixels or percentage.</p></li>
 <li><p><b>Custom Height</b> - specify the preferable height of the compare button in pixel or percentage.</p></li>
 <p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> and <b>Added</b> Compare style settings. Just click on the button <b>Hover</b> and <b>Added</b> to proceed to customizing hover and added elements.</p>

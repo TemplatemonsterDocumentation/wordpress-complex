@@ -205,7 +205,7 @@
 <ul class="marked-list">
 <li><p><b>Typography</b> - turn the option on to view the typography settings.</p></li>
 <li><p><b>Color</b> - here you can define the suitable color for the dimensions.</p></li>
-<li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the dinemsions highlighted.</p></li></ul>
+<li><p><b>Text Shadow</b> - use the shadow settings (such as shadow color, blur, horizontal, vertical) if you want to make the dimensions highlighted.</p></li></ul>
 
 <h5>Attributes</h5>
 <ul class="marked-list">

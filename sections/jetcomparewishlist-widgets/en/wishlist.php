@@ -49,7 +49,7 @@
 <h6>Content</h6>
 <ul class="marked-list">
 <li><p><b>Vertical Alignment</b> - here you can set the vertical position of the item content (on the top, in the middle or on the bottom).</p></li>
-<li><p><b>Horizontal Alignment</b> - here you can set the prefferable horizontal alignment of the content (on the left, in the center, on the right).</p></li></ul>
+<li><p><b>Horizontal Alignment</b> - here you can set the preferable horizontal alignment of the content (on the left, in the center, on the right).</p></li></ul>
 
 <h5>Thumbnail</h5>
 <ul class="marked-list">
