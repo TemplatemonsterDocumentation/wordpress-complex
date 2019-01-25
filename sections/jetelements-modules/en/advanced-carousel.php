@@ -23,7 +23,7 @@ Advanced Carousel widget displays slides in an attractive way. You can display f
 
 <h6>Slides</h6>
 
-<p>Slides are called Items in this block. Click on the button <b>Add item</b> to add new slides to the Advanced Carousel widget. You can add as many slides as you want, and customize each one of them. Click on the newly added item to customize it.</p>
+<p>Slides are called Items in this block. Click on the <b>Add item</b> button to add new slides to the Advanced Carousel widget. You can add as many slides as you want, and customize each one of them. Click on the newly added item to customize it.</p>
 
 <ul class="marked-list">
 <p><li><b>Choose Your Image</b> — click on the block to choose the image you want to use for this  particular slide. You can choose it from the existing media library or upload it from your hard drive.</li></p>

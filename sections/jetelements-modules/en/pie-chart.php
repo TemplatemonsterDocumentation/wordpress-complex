@@ -17,7 +17,7 @@
 
 <h5>Chart Data</h5>
 <ul class="marked-list">
-<p>Click on the button <b>Add item</b> to add new features to the chart. You can add as many features as you want, and customize each one of them. Click on the newly added item to customize it.</p>
+<p>Click on the <b>Add item</b> button to add new features to the chart. You can add as many features as you want, and customize each one of them. Click on the newly added item to customize it.</p>
 <p><li><b>Label</b> — here you can specify the label of the chart item.</li></p>
 <p><li><b>Value</b> — here you can define the value of the chart item.</li></p>
 <p><li><b>Color</b> — here you can pick the color for the chart item.</li></p>

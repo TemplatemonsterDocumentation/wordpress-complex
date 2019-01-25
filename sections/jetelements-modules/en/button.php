@@ -19,7 +19,7 @@ Button widget will assist you in creating buttons with your custom text and link
         <img src="projects/<?php echo $project;?>/img/widget/but2.png">
   	</figure>
 
-<p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> content settings. Just click on the button Hover to proceed to customizing hover elements.</p>
+<p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> content settings. Just click on the Hover button  to proceed to customizing hover elements.</p>
 
 <ul class="marked-list">
 <p><li><b>Button icon</b> - here you can select one of the available icons from the icons list to use it for the button.</li></p>

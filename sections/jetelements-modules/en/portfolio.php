@@ -257,7 +257,7 @@ Portfolio widget allows displaying Portfolio in the form of eye-catching layouts
 
 <p><li><b>Background Type</b> - in this block you can choose, whether you want to use <b>Classic</b> or <b>Gradient</b> type for the widget containers. The customization options vary for each type.
 
-<p>Click on the button <b>Classic</b> to proceed to customizing classic type.
+<p>Click on the <b>Classic</b> button to proceed to customizing classic type.
 <ul class="marked-list">
 <p><li><b>Color</b> -  here you can set background color for the cover using color picker tool.</li></p>
 <p><li><b>Image</b> - here you can define the background image for the cover.</li></p>
@@ -266,7 +266,7 @@ Portfolio widget allows displaying Portfolio in the form of eye-catching layouts
 <p><li><b>Repeat</b> - here you can define the repetition of the background image.</li></p>
 <p><li><b>Size</b> - here you can define the size of the background image.</li></p>
 
-<p>Click on the button <b>Gradient</b> to proceed to customizing gradient type.
+<p>Click on the <b>Gradient</b> button  to proceed to customizing gradient type.
 <ul class="marked-list">
 <p><li><b>Color</b> -  here you can set background color for the cover using color picker tool.</li></p>
 <p><li><b>Image</b> - here you can define the background image for the cover.</li></p>
