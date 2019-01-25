@@ -2,6 +2,34 @@
 
 <h5>In this block you can view the latest updates for JetElements plugin.</h5>
 
+<h4>Version 1.15.0 (January 25, 2019)</h4>
+<ul class="marked-list">
+<p><li>Added Pie Chart widget;</li></p>
+<p><li>Added Column flex orientation;</li></p>
+<p><li>Added better compatibility with dynamic tags in the Video and Audio widgets;</li></p>
+<p><li>Fixed Scheme Typography in the Services widget;</li></p>
+<p><li>Added minor bug fixes and performance improvements.</li></p>
+
+
+ 
+<h4>Version 1.14.10 (January 14, 2019)</h4>
+<ul class="marked-list">
+<p><li>Added compatibility with Elementor 2.4.0;</li></p>
+<p><li>Added Show/Hide title option in the Weather widget;</li></p>
+<p><li>Updated Cherry-framework to 1.5.11;</li></p>
+<p><li>Added minor bug fixes and performance improvements.</li></p>
+
+
+<h4>Version 1.14.9 (January 9, 2019)</h4>
+<ul class="marked-list">
+<p><li>Added responsive control to the Alignment in the Headline widget;</li></p>
+<p><li>Added fixes for the Weather widget.</li></p>
+
+<h4>Version 1.14.9 (December 27, 2018)</h4>
+<ul class="marked-list">
+<p><li>Fixed displaying filters by using Dynamic Data Addon in the Portfolio widget;</li></p>
+<p><li>Added minor bug fixes and performance improvements.</li></p>
+
 <h4>Version 1.14.7 (December 12, 2018)</h4>
 <ul class="marked-list">
 <p><li>Added an ability to use dynamic tags  in the sections with parallax effect;</li></p>

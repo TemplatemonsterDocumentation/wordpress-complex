@@ -12,12 +12,6 @@
 				"ru": ""
 			}
 		},	{
-			"id": "demo-content-installation",
-			"translations": {
-				"en": "Plugins and Content Installation",
-				"ru": ""
-			}
-		},	{
 			"id": "plugins-installation",
 			"translations": {
 				"en": "Manual Plugins Installation",

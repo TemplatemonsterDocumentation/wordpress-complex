@@ -2,6 +2,12 @@
 
 <h5>In this block you can view the latest updates for JetBlog plugin.</h5>
 
+<h4>Version 2.1.10 (January 25, 2019):</h4>
+<ul class="marked-list">
+<li><p>Added improvements for Taxonomy Tiles on mobile layout;</p></li>
+<li><p>Added minor bug fixes and performance improvements.</p></li>
+
+
 <h4>Version 2.1.9 (December 13, 2018):</h4>
 <ul class="marked-list">
 <li>Improved RTL compatibility in the Text Ticker widget;</li>

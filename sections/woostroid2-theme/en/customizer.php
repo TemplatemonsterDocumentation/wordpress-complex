@@ -2,66 +2,24 @@
 
 <h6>In this block you can fiund the detailed information on how to use customize Kava theme. The customization settings are located in <b>Appearance > Customize</b> block in WordPress Dashboard.</h6>
 
-
-    <figure class="img-polaroid"><img src="img/wordpress/croco/customizer.png" alt=""></figure>
+ <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/customizer.png">
+    </figure>
 
 <h5>Site Identity</h5>
-
-    <figure class="img-polaroid"><img src="img/wordpress/croco/ident.png" alt=""></figure>
-
+ <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/siteidentity.png">
+    </figure>
 
 <p>Here you can setup site identity.</p>
 
-<ul>
-    <li>
-        <dl class="inline-term">
-            <dt>Logo</dt>
-            <dd>
-                Here you can select an image to be shown as the website's logo, or change the one previously set to the new logo image.
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>Site Title</dt>
-            <dd>
-                Your website title goes here.
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>Tagline</dt>
-            <dd>
-                this short statement is similar to a subtitle or advertising slogan.
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>Show tagline on top panel</dt>
-            <dd>
-                this property specifies whether to  show or hide tagline on top panel.
-            </dd>
-        </dl>
-    </li>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>Show toTop button</dt>
-            <dd>
-                this property specifies whether to enable or disable topTop button.
-            </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>Show page preloader</dt>
-            <dd>
-                this property specifies whether to show preloader or not.
-            </dd>
-        </dl>
-    </li>
+<ul class="marked-list">
+<li><p><b>Logo</b> - here you can select an image to be shown as the website's logo, or change the one previously set to the new logo image.</p></li>
+<li><p><b>Site Title</b> - your website title goes here.</p></li>
+<li><p><b>Tagline</b> - this short statement is similar to a subtitle or advertising slogan.</p></li>
+<li><p><b>Show tagline on top panel</b> - this property specifies whether to  show or hide tagline on top panel.</p></li>  
+<li><p><b>Show ToTop button</b> - this property specifies whether to enable or disable topTop button.</p></li>
+<li><p><b>Show page prealoder</b> - this property specifies whether to show preloader or not.</p></li></ul>   
 
 <h5>General Site Settings</h5>
 
@@ -70,17 +28,10 @@
 
 <h6>Favicon</h6>
 
-    <figure class="img-polaroid"><img src="img/wordpress/croco/favicon.png" alt=""></figure>
+<figure class="img-polaroid"><img src="img/wordpress/croco/favicon.png" alt=""></figure>
 
-
-    <li>
-        <dl class="inline-term">
-            <dt>Site icon</dt>
-            <dd>
-                here you can define the site icon to use as a favicon.
-            </dd>
-        </dl>
-    </li>
+<ul class="marked-list">
+<li><p><b>Site Icon</b> - here you can define the site icon to use as a favicon.</p></li></ul>
 
 <h6>Breadcrumbs</h6>
 
@@ -160,7 +111,9 @@
 
 <h5>Color Scheme</h5>
 
-    <figure class="img-polaroid"><img src="img/wordpress/croco/colsch.png" alt=""></figure>
+<figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/colorscheme.png">
+    </figure>
 
 
 <p>Here you can set up site color scheme.</p>
@@ -280,7 +233,9 @@
 
 <h5>Typography</h5>
 
-    <figure class="img-polaroid"><img src="img/wordpress/croco/typogr.png" alt=""></figure>
+    <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/bodytext.png">
+    </figure>
 
 
 <p>Here you can configure headers and text typography</p>
@@ -440,7 +395,9 @@
 
 <h6>Top Panel</h6>
 
-    <figure class="img-polaroid"><img src="img/wordpress/croco/toppanhead.png" alt=""></figure>
+     <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/toppanel.png">
+    </figure>
 
 
    <li>
@@ -449,14 +406,6 @@
             <dd>
                 enable/disable top panel.
             </dd>
-        </dl>
-    </li>
-    <li>
-        <dl class="inline-term">
-            <dt>Enable search</dt>
-                <dd>
-                    show / Hide search form in top header part.
-                </dd>
         </dl>
     </li>
     <li>

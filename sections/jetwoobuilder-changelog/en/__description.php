@@ -1,6 +1,10 @@
 <h3>Changelog</h3>
 
-
+<h4>Version 1.3.5 (December 3, 2018)</h4>
+<ul class="marked-list">
+<p><li>Improved compatibility with JetCompareWishlist plugin;</li></p>
+<p><li>Added Query options for archive page in Products Grid widget;</li></p>
+<p><li>Added minor bug fixes and performance improvements.</li></p>
 
 <h4>Version 1.3.5 (December 3, 2018)</h4>
 <ul class="marked-list">

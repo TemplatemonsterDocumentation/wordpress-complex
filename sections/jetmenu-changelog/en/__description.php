@@ -3,42 +3,65 @@
 <h5>In this block you can view the latest updates for JetMenu plugin.
  </h5>
 
+<h4>Version 1.5.6 (January 25, 2019)</h4>
+<ul class="marked-list">
+<li>Added custom mega menu settings in the Menu Item Settings Popup.</li>
+
+<h4>Version 1.5.5 (January 10, 2019)</h4>
+<ul class="marked-list">
+<li>Added minor fixes to scroll in mobile menu;</li>
+<li>Updated Cherry framework v 1.5.11.</li>
+
+<h4>Version 1.5.4 (November 23, 2018)</h4>
+<ul class="marked-list">
+<li>Added integration with Epic News Elements plugin;</li>
+<li>Added RU localization.</li>
+
+<h4>Version 1.5.3 (November 15, 2018)</h4>
+<ul class="marked-list">
+<li>Added relative position for Vertical mega menu’s menu item or menu container;</li>
+<li>Added minor bug fixes.</li>
+
+<h4>Version 1.5.2 (October 3, 2018)</h4>
+<ul class="marked-list">
+<li>Added style controls for Active State menu item in the Vertical Mega Menu widget;</li>
+<li>Added compatibility with Phlox and Phlox Pro themes.</li>
 
 <h4>Version 1.5.1 (September 19, 2018)</h4>
-
 <ul class="marked-list">
-<<<<<<< HEAD
-<li>Added a closing the mobile menu when clicking outside the mobile menu area;</li>
-=======
-<li>Added option to close the mobile menu when clicking outside the mobile menu area;</li>
->>>>>>> c5622edaa8d60ed7347fbb77837a7210f943519d
 <li>Added fixes for prevent displaying submenu outside the window;</li>
 <li>Added fixes for prevent duplicate sub-menu and mega-menu when the section is sticky;</li>
 <li>Added fixes for applying cached css on https sites;</li>
 <li>Added minor CSS fixes.</li>
-</p> 
 
 
 <h4>Version 1.5.0 (September 3, 2018)</h4>
-
 <ul class="marked-list">
-<<<<<<< HEAD
-<li>Added an allowing to cache menu CSS;</li>
-=======
-<li>Added ability to cache menu CSS;</li>
->>>>>>> c5622edaa8d60ed7347fbb77837a7210f943519d
+<li>Added ability to save cache of menu CSS;</li>
 <li>Added minor CSS fixes.</li>
-</p>
+
+
+<h4>Version 1.4.4 (August 14, 2018)</h4>
+<ul class="marked-list">
+Added compatibility with Header Footer Elementor plugin;
+Updated Cherry Framework to v1.5.10.
+
+<h4>Version 1.4.3 (August 1, 2018)</h4>
+<ul class="marked-list">
+<li>Added multiple improvements and bug fixes.</li>
+
+<h4>Version 1.4.2 (July 24, 2018)</h4>
+<ul class="marked-list">
+<li>Added the fix for hiding submenu and submengamenu items when page loads.</li>
 
 
 <h4>Version 1.4.1 (July 13, 2018)</h4>
-
 <ul class="marked-list">
 <li>Added Mobile breakpoint option.</li>
-</p>
+<li>Added multiple performance improvements and bug fixes.</li>
+
 
 <h4>Version 1.4.0 (July 5, 2018)</h4>
-
 <ul class="marked-list">
 <li>Added the ability to display mega-menu content in the Vertical Mega Menu widget;</li>
 <li>Changed Custom Menu Widget name to Vertical Mega Menu;</li>

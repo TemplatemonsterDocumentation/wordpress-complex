@@ -1,52 +1,42 @@
 <h3>Full Installation</h3>
 
-<p>This block describes the detailed process of installing Monstroid2 as well as Jet plugins set and demo content. </p>
+<p>This block describes the detailed process of installing Woostroid2 as well as Jet plugins set and demo content. </p>
 
-<p>In the case You want to install and use both <b>Monstroid2</b> theme together with <b>Jet plugins</b> pack and <b>demo content</b>, feel free to follow the steps described below.</p>
-
-<h4>Step 1</h4>
+<p>In the case You want to install and use both <b>Woostroid2</b> theme together with <b>Jet plugins</b> pack and <b>demo content</b>, feel free to follow the steps described below.</p>
 
 <ol class="index-list">
-<li><p>First, let’s install <b>JetThemeWizard</b> plugin. It is available for download in your <b>Downloads</b> block located in the client's account.</p></li>
+<li><p>First, let’s install <b>W2-Theme-Wizard</b> plugin. It is available for download in the archive with the theme.</p></li>
 
-<li><p>To install it, please, open WordPress Dashboard and here navigate to <b>Plugins > Add New</b>. Click <b>Upload Plugin</b> button and then browse <b>jet-theme-wizard.zip</b> package on your hard drive.</p></li>
-
-      <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/wizard-new1.png">
-    </figure>
-
-          <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/wizard-new2.png">
-    </figure>
-
-<li><p>Click <b>Install</b> button and the plugin will be installen on your site. Then click <b>Activate</b> option to activate it.</p></li>
+<li><p>Click <b>Install</b> button and the plugin will be installed on your site. Then click <b>Activate</b> option to activate it.</p></li>
 
       <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/wizard-new3.png">
+        <img src="projects/<?php echo $project;?>/img/installation/123.png">
     </figure>
 
-<p><li><b>JetThemeWizard</b> plugin allows to install the theme with all the needed plugins and skins smoothly in a step-by-step way. When it is active, you'll see <b>Install Theme</b> block where you need to paste the <b>license key</b> for Monstroid2 theme.</li></p>
+
+<li><p><b>W2-Theme-Wizard</b> plugin allows to install the theme with all the needed plugins and skins smoothly in a step-by-step way. When it is active, you'll see <b>Install Theme</b> block where you need to paste the <b>order ID</b> for Woostroid2 theme.</p></li>
 
       <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/wizard-new4.png">
+        <img src="projects/<?php echo $project;?>/img/installation/inst1000.png">
     </figure>
 
-<p><li>After this you'll see <b>Use Child Theme?</b> block where one can decide if he wants to install the parent theme only, or to install the Child theme along with the parent theme in order to make all the changes in CSS safe at all times. Click <b>Continue</b> button when you've made a choice.</li></p>
+<li><p>After this you'll see <b>Use Child Theme</b>? block where one can decide if he wants to install the parent theme only, or to install the Child theme along with the parent theme in order to make all the changes in CSS safe at all times. Click <b>Continue</b> button when you've made a choice.</p></li>
 
       <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/wizard-new5.png">
+        <img src="projects/<?php echo $project;?>/img/installation/dcreen1.png">
     </figure>
 
-<p><li><b>Select Skin and Start Install</b> block allows to select the skin to install it on the theme with all the plugins and demo content. One can skip the demo content installation if needed later. Select the needed skin from the skins grid and click <b>Start Install</b> below it to proceed to its installation.</li></p>
+<li><p><b>Select Skin and Start Install</b> block allows to select the skin to install it on the theme with all the plugins and demo content. One can skip the demo content installation if needed later. Select the needed skin from the skins grid and click <b>Start Install</b> below it to proceed to its installation.</p></li>
 
       <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/wizard-new6.png">
+        <img src="projects/<?php echo $project;?>/img/installation/dcreen1.png">
     </figure>
 
-<p><li>After you’ve picked the demo you want to install, <b>Jet Plugin Wizard</b> will open <b>Configure Plugins</b> page, which displays the lists of <b>Required Plugins</b>, <b>Recommended Plugins</b> and <b>Extra Plugins</b>.</p>
+
+<p><li>After you’ve picked the demo you want to install, <b>W2-Theme-Wizard</b> will open <b>Configure Plugins</b> page, which displays the lists of <b>Required Plugins</b>, <b>Recommended Plugins</b> and <b>Extra Plugins</b>.</li></p>
 
       <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/wizard-new7.png">
+        <img src="projects/<?php echo $project;?>/img/installation/install5.png">
     </figure>
 
 <ul class="marked-list">
@@ -54,7 +44,7 @@
 <li><p><b>Recommended Plugins</b> - here you can see the recommended set of basic plugins to display the template’s pages. The best option for your site's future configuration. If you will not install one or more plugins from this list, the specific sections of the template, for which these plugins are responsible, will not be displayed.</p></li>
 <li><p><b>Extra Plugins</b> - here one can view the full list of plugins available for a template installation is recommended if you want to add additional functionality to your theme.</p></li></ul></li>
 
-<li><p>Check or uncheck the plugins from the represented list in order to select which ones you want to be installed on your site. After that click <b>Next</b> button. The installation process will start.</p></li>
+<li><p>Check or uncheck the plugins from the represented list in order to select which ones you want to be installed on your site. After that click Next button. The installation process will start.</p></li>
 
 <p><li>In the case you already have the needed plugins, click <b>Skip to demo content</b> button to skip this step and start demo content installation.</li></p>
 
