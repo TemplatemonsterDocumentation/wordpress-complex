@@ -114,6 +114,12 @@
 				"ru": ""
 			}
 		},	{
+			"id": "pie-chart",
+			"translations": {
+				"en": "Pie Chart",
+				"ru": ""
+			}
+		},	{
 			"id": "posts",
 			"translations": {
 				"en": "Posts",
