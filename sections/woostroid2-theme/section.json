@@ -1,0 +1,41 @@
+{
+	"id": "woostroid2-theme",
+	"translations": {
+		"en": "Woostroid2 Overview",
+		"ru": ""
+	},
+	"articles": {
+		"woostroid2": [{
+			"id": "customizer",
+			"translations": {
+				"en": "Customizer",
+				"ru": ""
+			}
+		},	{
+			"id": "blog-layouts",
+			"translations": {
+				"en": "Blog Layouts",
+				"ru": ""
+			}
+		},	{
+			"id": "posts-categories",
+			"translations": {
+				"en": "Posts, Categories and Post Formats",
+				"ru": ""
+			}
+		},	{
+			"id": "simple-widgets",
+			"translations": {
+				"en": "Simple Widgets",
+				"ru": ""
+			}
+		},	{
+			"id": "localization",
+			"translations": {
+				"en": "Localization",
+				"ru": ""
+			}
+		}]
+	}
+}
+

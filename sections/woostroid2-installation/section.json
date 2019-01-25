@@ -1,0 +1,29 @@
+{
+	"id": "woostroid2-installation",
+	"translations": {
+		"en": "Installation",
+		"ru": ""
+	},
+	"articles": {
+		"woostroid2": [{
+			"id": "simple-installation",
+			"translations": {
+				"en": "Full Installation",
+				"ru": ""
+			}
+		},	{
+			"id": "demo-content-installation",
+			"translations": {
+				"en": "Plugins and Content Installation",
+				"ru": ""
+			}
+		},	{
+			"id": "plugins-installation",
+			"translations": {
+				"en": "Manual Plugins Installation",
+				"ru": ""
+			}
+		}]
+	}
+}
+

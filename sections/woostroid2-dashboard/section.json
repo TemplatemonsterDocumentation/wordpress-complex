@@ -1,0 +1,45 @@
+{
+	"id": "woostroid2-dashboard",
+	"translations": {
+		"en": "Woostroid2 Dashboard",
+		"ru": ""
+	},
+	"articles": {
+		"woostroid2": [{
+				"id": "license",
+				"translations": {
+					"en": "License",
+					"ru": ""
+				}
+			},
+			{
+				"id": "updates",
+				"translations": {
+					"en": "Plugin Updates",
+					"ru": ""
+				}
+			},
+			{
+				"id": "theme",
+				"translations": {
+					"en": "Theme",
+					"ru": ""
+				}
+			},
+			{
+				"id": "skins",
+				"translations": {
+					"en": "Skins",
+					"ru": ""
+				}
+			},
+			{
+				"id": "settings",
+				"translations": {
+					"en": "Settings",
+					"ru": ""
+				}
+			}]
+	}
+}
+

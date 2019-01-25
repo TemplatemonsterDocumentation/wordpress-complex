@@ -3676,5 +3676,16 @@
 	    "jetcomparewishlist-compare",
 		"jetcomparewishlist-wishlist",
 		"jetcomparewishlist-widgets"
+	],
+
+	 "woostroid2": [
+		"introduction",
+		"woostroid2-installation",
+	    "woostroid2-theme",
+		"woostroid2-dashboard",
+		"woostroid2-plugins",
+		"woostroid2-jetthemecore",
+		"woostroid2-changelog"
 	]
 }
+

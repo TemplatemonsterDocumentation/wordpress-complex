@@ -40,7 +40,7 @@
 <p><li>After that click <b>Edit Mega Menu Item Content</b> button to open the JetMenu content editor.
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/jet-editing/16.png">
+        <img src="projects/<?php echo $project;?>/img/jet-editing/con1.png">
   	</figure></li></p>
 
 
@@ -94,10 +94,25 @@ The default submenu will be disabled as it will be replaced by the Mega Menu con
 <p><li>After that click on <b>Back</b> icon in the bottom left corner to return to the <b>JetMenu Content</b> popup window.</li></p>
 <p><li>Don’t forget to click <b>Save</b> to save the changes.</li></p></ol>
 
+<h6>Settings</h6>
+
+  <figure class="img-polaroid">
+        <img src="projects/<?php echo $project;?>/img/jet-editing/set1.png">
+    </figure>
+
+<p>In this block you can set the JetMenu position.</p>
+
+<p>Click on <b>Settings</b> block to view the list of all the available position settings of the mega menu.</p>
+<ol class="marked-list">
+
+<p><li><b>Default</b> - this option allows to set the mega menu width as the container width.</li></p>
+<p><li><b>Relative the menu item</b> - here you can set the mega menu width relatively to the menu item position.</li></p>
+<p><li><b>Set custom mega menu width for this item (px)</b> - here you can define the custom width for the certain item of the mega menu.</li></p></ol>
+
 <h6>Icon</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/jet-editing/13.png">
+        <img src="projects/<?php echo $project;?>/img/jet-editing/ic1.png">
   	</figure>
 
 <p>In this block you can set the JetMenu item icon and specify the icon color.</p>
@@ -109,7 +124,7 @@ The default submenu will be disabled as it will be replaced by the Mega Menu con
 <h6>Badges</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/jet-editing/14.png">
+        <img src="projects/<?php echo $project;?>/img/jet-editing/badges1.png">
   	</figure>
 
 <ul class="marked-list">
@@ -121,7 +136,7 @@ The default submenu will be disabled as it will be replaced by the Mega Menu con
 <h6>Misc</h6>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/jet-editing/15.png">
+        <img src="projects/<?php echo $project;?>/img/jet-editing/misc11.png">
   	</figure>
 
 <p>In this block you can hide or show the menu item navigation label. </p>

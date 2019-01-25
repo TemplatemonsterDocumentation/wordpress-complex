@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'JetDesignKit' && $project != 'jetsmartfilters' && $project != 'bitunet' && $project != 'jetproductgallery' && $project != 'rocktheme' && $project != 'jetsearch' & $project != 'jetcomparewishlist') { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'JetDesignKit' && $project != 'jetsmartfilters' && $project != 'bitunet' && $project != 'jetproductgallery' && $project != 'rocktheme' && $project != 'jetsearch' && $project != 'jetcomparewishlist' && $project != 'woostroid2') { ?>
 
 <h2>Introduction</h2>
 
@@ -1751,3 +1751,51 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <?php } ?>
 
+<?php if ($project == 'woostroid2') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank you for purchasing Woostroid2 theme! This documentation consists of several parts and covers the entire process of installing and setting up a WordPress website from scratch.</p>
+
+
+
+<p>Here you can find the following products: </p>
+
+<ul class="marked-list">
+<ul class="marked-list">
+<li><b>Manual Install</b></a> - folder containing Woostroid2 theme and Jet Plugins.
+<ul class="marked-list">
+<li><b>Plugins</b></a> - the full set of Jet Plugins.</li>
+
+<li><b>Theme</b></a> - folder containing archives with Woostroid2 and Woostroid2 Child themes.</li>
+
+
+</ul></li></ul>
+
+<ul class="marked-list">
+<li><b>Theme Wizard</b></a> - folder containing W2-Theme-Wizard.
+</li></ul>
+
+<h3>Recommended Technical Requirements</h3>
+
+<p>The needed requirements are:</p>
+<p>
+<ul class="marked-list">
+<li>PHP 7 or higher;</li>
+<li>MySQL 5.6 of higher;</li>
+<li>WP memory limit of 128 Mb or larger;</li>
+<li>Desktop device;</li>
+<li>SSL certificate on server.</li></ul></p>
+
+<p>You can get more information <a href="https://docs.elementor.com/article/38-requirements
+" target="_blank">here.</a></p>
+
+<h3>Compatibility with previous version of Woostroid2</h3>
+<p>Woostroid2 comes with absolutely upgraded functionality. Now the theme uses Elementor page builder instead of Power Builder. Also, new version of Woostroid2 comes with Jet Family plugins.</p>
+<p>If you're using old version of Woostroid2, please check the following tutorial how to transfer your content effortlessly! </p>
+
+<p>Welcome to Woostroid2!</p>
+
+</article>
+
+<?php } ?>
