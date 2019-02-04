@@ -29,7 +29,7 @@
 <li><p><b>Select Skin and Start Install</b> block allows to select the skin to install it on the theme with all the plugins and demo content. One can skip the demo content installation if needed later. Select the needed skin from the skins grid and click <b>Start Install</b> below it to proceed to its installation.</p></li>
 
       <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/dcreen1.png">
+        <img src="projects/<?php echo $project;?>/img/installation/image.png">
     </figure>
 
 
@@ -71,7 +71,7 @@
 
 
       <figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/installation/wizard-new10.png">
+        <img src="projects/<?php echo $project;?>/img/installation/install6.png">
     </figure>
 
 <li><p>After you’ve chosen the most suitable option, click <b>Next</b> button. The demo content will be automatically installed on your site. The blue progress bars will indicate the percents of demo content which are accomplished.</p></li>

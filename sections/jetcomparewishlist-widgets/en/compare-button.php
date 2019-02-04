@@ -10,7 +10,7 @@
 
 <h5>Compare</h5>
 <ul class="marked-list">
-<p>Here you can switch from customizing <b>Normal</b> to <b>Added</b> content settings. Just click on the button <b>Added</b> to proceed to customizing added elements.</p>
+<p>Here you can switch from customizing <b>Normal</b> to <b>Added</b> Compare button content settings. Just click on the button <b>Added</b> to proceed to customizing added elements.</p>
 <li><p><b>Button Icon</b> - here you can define an icon for the compare button in Normal and Added status of the product.</p></li>
 <li><p><b>Button Label Text</b> - here you can paste a label text of the compare button in Normal and Added status of the product.</p></li></ul>
 
@@ -31,7 +31,7 @@
 <li><p><b>Custom Size</b> - enable this option if you want to set the custom size of the compare button.</p></li>
 <li><p><b>Custom Width</b> - specify the preferable width of the compare button in pixels or percentage.</p></li>
 <li><p><b>Custom Height</b> - specify the preferable height of the compare button in pixel or percentage.</p></li>
-<p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> and <b>Added</b> Compare style settings. Just click on the button <b>Hover</b> and <b>Added</b> to proceed to customizing hover and added elements.</p>
+<p>Here you can switch from customizing <b>Normal</b> to <b>Hover</b> and <b>Added</b> Compare button style settings. Just click on the button <b>Hover</b> and <b>Added</b> to proceed to customizing hover and added elements.</p>
 <li><p><b>Color</b> - here you can pick color for the label text and icon of the compare button.</p></li>
 <li><p><b>Background Color</b> - here you can select background color of the compare button.</p></li>
 <li><p><b>Border Color</b> - here you can choose color of the border of the compare button.</p></li>

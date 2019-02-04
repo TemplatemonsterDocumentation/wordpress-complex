@@ -932,14 +932,19 @@ You will also find information on how to enable and customize JetElements addons
 <ul class="marked-list">
 <li><a href="http://jetelements.zemez.io/" target="_blank">JetElements;</a></li>
 <li><a href="http://jetmenu.zemez.io/" target="_blank">JetMenu;</a></li>
-<li><a href="https://jetblocks.zemez.io/" target="_blank">JetBlocks;</a></li>
+<li><a href="https://jettabs.zemez.io/" target="_blank">JetTabs;</a></li>
 <li><a href="https://jetblog.zemez.io/" target="_blank">JetBlog;</a></li>
-<li><a href="http://documentation.zemez.io/wordpress/index.php?project=crocoblock&lang=en&section=crocoblock-jetthemecore" target="_blank">JetThemeCore;</li>
+<li><a href="https://jetreviews.zemez.io/" target="_blank">JetReviews;</a></li>
 <li><a href="https://jetwoobuilder.zemez.io/" target="_blank">JetWooBuilder;</a></li>
 <li><a href="https://jettricks.zemez.io/" target="_blank">JetTricks;</a></li>
-<li><a href="https://jetreviews.zemez.io/" target="_blank">JetReviews;</a></li>
-<li><a href="https://jettabs.zemez.io/" target="_blank">JetTabs.</a></li></ul>
-</li>
+<li><a href="http://documentation.crocoblock.com/index.php?project=crocoblock&lang=en&section=crocoblock-jetthemecore#" target="_blank">JetThemeCore;</a></li>
+<li><a href="https://jetblocks.zemez.io/" target="_blank">JetBlocks;</a></li>
+<li><a href="https://jetengine.zemez.io/" target="_blank">JetEngine;</a></li>
+<li><a href="https://jetpopup.zemez.io/" target="_blank">JetPopup;</a></li>
+<li><a href="https://crocoblock.com/woocommerce/jetsmartfilters/?_refer=crocoblock" target="_blank">JetSmartFilters;</a></li>
+<li><a href="https://crocoblock.com/woocommerce/jetproductgallery/?_refer=crocoblock" target="_blank">JetProductGallery;</a></li>
+<li><a href="https://jetsearch.zemez.io/" target="_blank">JetSearch;</a></li></ul>
+
 <li><a href="https://crocoblock.com/demos/" target="_blank"><b>Multiple Demos</a> on Different Topics</b> - the list will be updated with time with even more demos;</li>
 <li><b>High Quality Image Packs</b> - the image packs on different topics.</li></p></ul>
 
@@ -965,7 +970,7 @@ You will also find information on how to enable and customize JetElements addons
 
 <p>Feel free to view the video playlist with the presentation of different CrocoBlock services.</p>
 
-<iframe width="750" height="400" src="https://www.youtube.com/embed/videoseries?list=PLdaVCVrkty72g_9pu4-tRJ0j_cc01PqUX" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="750" height="400" src="https://www.youtube.com/watch?v=QfDt0_inEIU&list=PLdaVCVrkty72g_9pu4-tRJ0j_cc01PqUX&t=1s&index=58" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
@@ -1776,6 +1781,16 @@ Image Comparison block provides you with an ability to add the two-image block t
 <li><b>Theme Wizard</b></a> - folder containing W2-Theme-Wizard.
 </li></ul>
 
+<h3>Preparation</h3>
+<p>Before installing a WordPress website, you need to get fully prepared. We recommend you to get the following aspects covered:</p>
+
+<h6>Software</h6>
+
+<p>Before you start working with the WordPress template, you should download the required software. You can check the required software on the template preview page.</p>
+<ul class="marked-list">
+<li>To edit the source code of the template, you can use code editors like Adobe Dreamweaver, Notepad++, Sublime Text, etc.</li>
+<li>To upload the files to a hosting server, you will need an FTP manager like Total Commander, FileZilla, CuteFTP, etc.</li></ul>
+
 <h3>Recommended Technical Requirements</h3>
 
 <p>The needed requirements are:</p>
@@ -1792,7 +1807,6 @@ Image Comparison block provides you with an ability to add the two-image block t
 
 <h3>Compatibility with previous version of Woostroid2</h3>
 <p>Woostroid2 comes with absolutely upgraded functionality. Now the theme uses Elementor page builder instead of Power Builder. Also, new version of Woostroid2 comes with Jet Family plugins.</p>
-<p>If you're using old version of Woostroid2, please check the following tutorial how to transfer your content effortlessly! </p>
 
 <p>Welcome to Woostroid2!</p>
 

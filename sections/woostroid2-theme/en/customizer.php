@@ -1,6 +1,6 @@
 <h3>Customizer</h3>
 
-<h6>In this block you can fiund the detailed information on how to use customize Kava theme. The customization settings are located in <b>Appearance > Customize</b> block in WordPress Dashboard.</h6>
+<h6>In this block you can fiund the detailed information on how to use customize Woostroid2 theme. The customization settings are located in <b>Appearance > Customize</b> block in WordPress Dashboard.</h6>
 
  <figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/customizer.png">
@@ -476,21 +476,60 @@
         </dl>
     </li>
 
+
 <h5>Homepage Settings</h5>
 
     <figure class="img-polaroid"><img src="img/wordpress/croco/hom.png" alt=""></figure>
 
 
-<p>Here you can set the home page or an archive posts page to be opened as a website's home page </p>
+<p>Here you can set the home page or an archive posts page to be opened as a website's home page. </p>
 
+<p>Your homepage displays:</p>
+<ul class="marked-list">
+<li><p><b>your latest post</b> - front page shows a list of site posts that were recently added;</p></li>
+<li><p><b>a static page</b> - this setting allows to choose site main and blog pages among the list of the available ones.</p></li></ul>
 
-    <li>
-        Your homepage displays:
-        <ul class="marked-list">
-            <li>
-            	your latest posts;</li>
-            	<li>a static page.</li>
-    </li>
+<h6>Homepage:</h6>
+<p>select your Homepage from the dropdown list.</p>
+<h6>Posts Page:</h6>
+<p>select your Posts Page from the dropdown list.</p>
+
+<h5>WooCommerce</h5>
+
+<p>Here you can configure your WooCommerce section.</p>
+
+<h6>Store Notice</h6>
+
+<ul class="marked-list">
+<li><p><b>Enable store notice</b> - enable / disable to show events or promotions to visitors.</li></p></li></ul>
+
+<h6>Product Catalog</h6>
+
+<ul class="marked-list">
+<li><p><b>Shop page display</b> - choose what to display on the main shop page;</p></li>
+<li><p><b>Category display</b> - choose what to display on product category pages;</p></li>
+<li><p><b>Default product sorting</b> - select the way products will be sorted in the catalog by default;</p></li>
+<li><p><b>Products per row</b> - select how many products will be shown per row;</p></li>
+<li><p><b>Rows per page</b> - select how many rows will be shown per page.</p></li></ul>
+
+<h6>Product Images</h6>
+
+<ul class="marked-list">
+<li><p><b>Main image width</b> - select image size used for the main image on single product pages;</p></li>
+<li><p><b>Thumbnail width</b> - select image size used for products in the catalog and product gallery thumbnails;</p></li>
+<li><p><b>Thumbnail cropping</b> - select the option of thumbnail cropping.</p></li></ul>
+
+<h6>Checkout</h6>
+
+<ul class="marked-list">
+<li><p><b>Company name field</b> - select a field for company name from the list;</p></li>
+<li><p><b>Address line 2 field</b> - select a field for second address line from the list;</p></li>
+<li><p><b>Phone field</b> - select a field for phone from the list;</p></li>
+<li><p><b>Highlight required fields with an asterisk</b> - enable / disable highlighting required fields with an asterisk;</p></li>
+<li><p><b>Privacy policy page</b> - select privacy policy page from the list;</p></li>
+<li><p><b>Terms and conditions page</b> - select terms and conditions page from the list;</p></li>
+<li><p><b>Privact policy</b> - optionally add some text about your store privacy policy to show during checkout;</p></li>
+<li><p><b>Terms and consitions</b> - optionally add some text for the terms checkbox that customers must accept.</p></li></ul>
 
 
 <h5>Additional CSS</h5>

@@ -5,12 +5,12 @@
 Dynamic Repeater widget is made for displaying repeating blocks set for the custom post types or taxonomies (this can be done in meta boxes or when you create a meta field and select the Repeater content type).
 </h6>
 
-<p>Please, note, that this widget can process only repeater meta fields created with <b>JetThemeCore</b> or <b>ACF</b> plugins.</p>
+<p>Please, note, that this widget can process only repeater meta fields created with <b>JetEngine</b> or <b>ACF</b> plugins.</p>
 
 <h4>Content</h4>
 
   	 	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widgets/dr1.png">
+        <img src="projects/<?php echo $project;?>/img/widgets/dr11.png">
   	</figure>
 
 <ul class="marked-list">
@@ -26,7 +26,7 @@ Dynamic Repeater widget is made for displaying repeating blocks set for the cust
 
 <li><p>After that add the macros into the HTML markup (e.g., use <b>< span >< /span></b> or <b>< div>< /div></b> markup). </p></li>
 
-<li><p>To add more complicated content, use the proper HTML markup (e.g., <b>< i class="fa %icon%"></ i></b> markup will fit for displaying icons where <b>%icon%</b> is a macros for the meta field with the iconpicker). </p></li></ol></li></ul>
+<li><p>To add more complicated content, use the proper HTML markup (e.g., <b>< i class="fa %icon%" ></ i></b> markup will fit for displaying icons where <b>%icon%</b> is a macros for the meta field with the iconpicker). </p></li></ol></li></ul>
 
 <ul class="marked-list">
 <li><b>Items Delimiter</b> - to add spaces, special symbols or any other delimiters between the content type them in in this field.</li></ul>
@@ -80,7 +80,7 @@ Dynamic Repeater widget is made for displaying repeating blocks set for the cust
 <p><li>After that add the macroses for the image sub fields in the Item Format field (e.g., if you've used <b>"media1"</b> ID for the sub field that displays an image, add <b>%madia1%</b> in the Item Format block.</li></p>
 
 <p><li>To make the image displayed properly add the filter to the end of the sub field ID. E.g., to display an image you should use <b>|img_url_by_id</b> filter. As a result, you'll be able to display the image URL link that will be pulled from the database. In Item Format block you'll have the following code: <b>%media1|img_url_by_id%</b>.</li></p>
-<p><li>The last step is to add the HTML markup for the image link to display the image (e.g.,<b>< img src= "%media1|img_url_by_id%" ></b> will display the iamge added in the repeater sub field with ID <b>media1</b>.</li></p></ol>
+<p><li>The last step is to add the HTML markup for the image link to display the image (e.g.,<b>< img src= "%media1|img_url_by_id%" ></b> will display the image added in the repeater sub field with ID <b>media1</b>.</li></p></ol>
 
 <h5>Galleries</h5>
 

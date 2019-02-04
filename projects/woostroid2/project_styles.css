@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 h1 {
   font-family: "Roboto", sans-serif;
-  color: #fff; }
+  color: #000; }
 
 h4 {
   color: #000; }
@@ -13,7 +13,7 @@ h4 {
       background-position: 50% bottom; } }
 
 .rd-mobilepanel {
-  background-color: #34D7A1;
+  background-color: #f4f6fc;
   background-position: right top;
   -webkit-transition-property: height;
           transition-property: height;
@@ -28,7 +28,7 @@ h4 {
       background-position: 600px bottom; } }
 
 [data-section="introduction"] .rd-mobilepanel {
-  background-image: url("../../projects/crocoblock/img/header-bg.png");
+  background-image: url("../../projects/woostroid2/img/header-bg.png");
   height: 600px; }
   [data-section="introduction"] .rd-mobilepanel.fixed {
     height: 56px;
@@ -40,9 +40,9 @@ body:not([data-section="introduction"]) .tm-title-caption {
   display: none; }
 
 .rd-mobilepanel_toggle span {
-  background-color: #fff; }
+  background-color: #000; }
   .rd-mobilepanel_toggle span:before, .rd-mobilepanel_toggle span:after {
-    background-color: #fff; }
+    background-color: #000; }
 
 .rd-mobilepanel_title {
   font-size: 40px;
@@ -92,21 +92,21 @@ body:not([data-section="introduction"]) .tm-title-caption {
   background-color: #fff; }
 
 .rd-mobilemenu_ul ul a.focus {
-  color: #34D7A1; }
+  color: #181718; }
 
 .toTop {
-  background-color: #34D7A1;
+  background-color: #181718;
   color: #fff; }
   .toTop:hover {
-    background-color: #1b8a65; }
+    background-color: #f4f6fc; }
 
 .files_structure li .fa {
   margin-top: 3px;
   margin-right: 10px;
-  color: #34D7A1;
+  color: #181718;
   font-size: 16px; }
 
 article a {
-  color: #34D7A1; }
+  color: #181718; }
 
 /*# sourceMappingURL=project_styles.css.map */

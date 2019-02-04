@@ -1,7 +1,7 @@
 <h3>Skins</h3>
 
 <ol class="index-list">
-<li><p>Open <b>Monstroid2 > Skins</b> to view all the available skins for your subscription. </p></li>
+<li><p>Open <b>Woostroid2 > Skins</b> to view all the available skins for your subscription. </p></li>
 
 			<figure class="img-polaroid">
         <img src="projects/<?php echo $project;?>/img/dashboard/skins.png">

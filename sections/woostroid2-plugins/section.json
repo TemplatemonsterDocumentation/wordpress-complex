@@ -6,6 +6,27 @@
 	},
 	"articles": {
 		"woostroid2": [{
+				"id": "contact-form-7",
+				"translations": {
+					"en": "Contact Form 7",
+					"ru": ""
+				}
+			},
+			{
+			"id": "elementor",
+				"translations": {
+					"en": "Elementor Page Builder",
+					"ru": ""
+				}
+			},
+			{
+			"id": "jet-data-importer",
+				"translations": {
+					"en": "Jet Data Importer",
+					"ru": ""
+				}
+			},
+			{
 				"id": "jetthemecore",
 				"translations": {
 					"en": "JetThemeCore Plugin",
@@ -19,17 +40,17 @@
 					"ru": ""
 				}
 			},
-			{
-				"id": "jetelements",
+				{
+				"id": "jetcomparewishlist",
 				"translations": {
-					"en": "JetElements Plugin",
+					"en": "JetCompareWishlist Plugin",
 					"ru": ""
 				}
 			},
 			{
-				"id": "jetblog",
+				"id": "jetelements",
 				"translations": {
-					"en": "JetBlog Plugin",
+					"en": "JetElements Plugin",
 					"ru": ""
 				}
 			},
@@ -40,6 +61,20 @@
 					"ru": ""
 				}
 			},
+				{
+				"id": "jetproductgallery",
+				"translations": {
+					"en": "JetProductGallery Plugin",
+					"ru": ""
+				}
+			},
+				{
+				"id": "jetsmartfilters",
+				"translations": {
+					"en": "JetSmartFilters Plugin",
+					"ru": ""
+				}
+			},
 			{
 				"id": "jettabs",
 				"translations": {
@@ -47,17 +82,25 @@
 					"ru": ""
 				}
 			},
-			{
-				"id": "jetreviews",
+	
+				{
+			"id": "jetpopup",
 				"translations": {
-					"en": "JetReviews Plugin",
-					"ru": "Логотип и фавиконка"
+					"en": "JetPopup Plugin",
+					"ru": ""
 				}
 			},
 			{
 				"id": "jetwoobuilder",
 				"translations": {
 					"en": "JetWooBuilder Plugin",
+					"ru": "Логотип и фавиконка"
+				}
+			},
+			{
+				"id": "woocommerce",
+				"translations": {
+					"en": "WooCommerce",
 					"ru": "Логотип и фавиконка"
 				}
 			},

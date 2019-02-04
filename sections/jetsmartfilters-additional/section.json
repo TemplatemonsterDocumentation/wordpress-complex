@@ -17,6 +17,12 @@
 				"en": "Active Filters",
 				"ru": ""
 			}
+		},	{
+			"id": "applybutton",
+			"translations": {
+				"en": "Apply Button",
+				"ru": ""
+			}
 		}]
 	}
 }

@@ -86,7 +86,7 @@ Image Comparison widget is the perfect tool that will assist you in creating sli
 <ul class="marked-list">
 <p><li><b>Background type</b> -  in this block you can choose, whether you want to use classic or gradient type for the handle background. The customization options vary for each type. The settings are similar to the common background type settings for other JetElements widget.</li></p>
 
-<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p>
+<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for the handle, and need to apply shadow for it.</li></p>
 
 
 <p><li><b>Border radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p></ul>
@@ -128,7 +128,7 @@ Image Comparison widget is the perfect tool that will assist you in creating sli
 <p><li><b>Box size</b> - here you can set the size of the navigation arrow box.</li></p>
 <p><li><b>Border type</b> - here you can define the type of the border you need to use for the element.</li></p>
 <p><li><b>Border radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p>
-<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for this widget, and need to apply shadow for it.</li></p></ul>
+<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for the arrows, and need to apply shadow for them.</li></p></ul>
 
 
 
@@ -162,7 +162,7 @@ Image Comparison widget is the perfect tool that will assist you in creating sli
 <p><li><b>Border type</b> - here you can define the type of the border you need to use for the dots border.</li></p>
 <p><li><b>Border radius</b> - here you can set the border radius to make the angles more smooth and round.</li></p>
 
-<p><li><b>Box shadow</b> - here you can set the border radius to make the angles more smooth and round.</li></p>
+<p><li><b>Box shadow</b> - enable this option if you want to access the shadow advanced settings for dots, and need to apply shadow for it.</li></p>
 
 <p><li><b>Gap</b> - here you can define the gap between pagination dots in pixels, or use controls to set it automatically.</li></p>
 <p><li><b>Dots box margin</b> - here you can define the margins for the Dots box.</li></p>

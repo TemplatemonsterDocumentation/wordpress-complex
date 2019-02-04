@@ -24,8 +24,9 @@ The Checkboxes filter perfectly suits for displaying checkboxes with the custom 
 <li><b>WooCommerce Shortcode</b> - in case you’re displaying the WooCommerce products or categories with WooCommerce shortcode added to a page built with Elementor, and want to apply the following filter for these products or categories, select this option.</li>
 <li><b>WooCommerce Archive (by JetWooBuilder)</b> - in case you’re applying the filter to the products or archive (on Shop page) created with JetWooBuilder widgets, use this option.</li>
 <li><b>WooCommerce Products Grid</b> - if you’re adding the products to page built with Elementor using JetWoobuilder Products Grid widget, select this option to apply the filter for this specific widget and the products displayed by it.</li>
-<li><b>WooCommerce Products List</b> -  if you’re adding the products to page built with Elementor using JetWoobuilder Products List widget, select this option to apply the filter for this specific widget and the products displayed by it.</li></p></ul>
-
+<li><b>WooCommerce Products List</b> -  if you’re adding the products to page built with Elementor using JetWoobuilder Products List widget, select this option to apply the filter for this specific widget and the products displayed by it.</li>
+<li><b>Elementor Pro Archive</b> -  choose it in case you're applying the filter to the archive page built with Elementor using Elementor Pro Posts widget.</li>
+<li><b>Elementor Pro Posts</b> - in case you’re applying the filter to the content created with Elementor Pro Posts widget, use this option.</li></ul>
 
 
 

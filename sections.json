@@ -3469,8 +3469,8 @@
 		"jetelements-templates",
 		"jetelements-dummydata",
 		"jetelements-settings",
-		"jetelements-changelog",
-		"jetplugins"
+		"jetelements-changelog"
+		
 	],
 	"jetmenu": [
 		"introduction",
@@ -3481,8 +3481,7 @@
 		"jetmenu-editing",
 		"jetmenu-dummydata",
 		"jetmenu-modules",
-		"jetmenu-changelog",
-		"jetplugins"
+		"jetmenu-changelog"
 	],
 	"woo-quickstart-kit": [
 		"introduction",
@@ -3498,23 +3497,20 @@
 		"jetblog-adding-content",
 		"jetblog-widgets",
 		"jetblog-settings",
-		"jetblog-changelog",
-		"jetplugins"
+		"jetblog-changelog"
 	],
 	"jetreviews": [
 		"introduction",
 		"jetreviews-start",
 		"jetreviews-widget",
-		"jetreviews-changelog",
-		"jetplugins"
+		"jetreviews-changelog"
 	],
 	"jettabs": [
 		"introduction",
 		"jettabs-installation",
 		"jettabs-start",
 		"jettabs-widgets",
-		"jettabs-changelog",
-		"jetplugins"
+		"jettabs-changelog"
 	],
 	"jetparallax": [
 		"introduction",
@@ -3534,8 +3530,7 @@
 		"jetwoobuilder-advanced-widget-settings",
 		"jetwoobuilder-woo-settings",
 		"jetwoobuilder-settings",
-		"jetwoobuilder-changelog",
-		"jetplugins"
+		"jetwoobuilder-changelog"
 	],
 		"jetblocks": [
 		"introduction",
@@ -3543,15 +3538,13 @@
 		"jetblocks-sticky-header",
 		"jetblocks-widgets",
 		"jetblocks-advanced",
-		"jetblocks-changelog",
-		"jetplugins"
+		"jetblocks-changelog"
 	],
 	"jettricks": [
 		"introduction",
 		"jettricks-installation",
 		"jettricks-effects",
-		"jettricks-changelog",
-		"jetplugins"
+		"jettricks-changelog"
 	],
 	"kava-child": [
 		"introduction",
@@ -3592,8 +3585,7 @@
 		"jetengine-dashboard",
 		"jetengine-use-cases",
 		"jetengine-calendar-functionality",
-		"jetengine-changelog",
-		"jetplugins"
+		"jetengine-changelog"
 	],
 	"jetguten": [
 		"introduction",
@@ -3618,8 +3610,7 @@
 		"jetpopup-export-import",
 		"jetpopup-events",
 		"jetpopup-settings",
-		"jetpopup-changelog",
-		"jetplugins"
+		"jetpopup-changelog"
 	],
 	"jetsmartfilters": [
 		"introduction",
@@ -3627,8 +3618,7 @@
 		"jetsmartfilters-new-filter",
 		"jetsmartfilters-filter-widgets",
 		"jetsmartfilters-additional",
-		"jetsmartfilters-changelog",
-		"jetplugins"
+		"jetsmartfilters-changelog"
 	],
 	"jetdesignkit": [
 		"introduction",
@@ -3649,8 +3639,7 @@
 		"jetproductgallery-installation",
 		"jetproductgallery-quick-guide",
 		"jetproductgallery-widgets",
-		"jetproductgallery-settings",
-		"jetplugins"
+		"jetproductgallery-settings"
 	],
 
 	"rocktheme": [

@@ -4,7 +4,7 @@
 <p>From this block you can learn how to create new templates and work with them using JetThemeCore plugin.</p>
 
 <ol class="index-list">
-<p><li>First, let’s navigate to <b>Monstroid2 > My Library</b> section on the left of the Dashboard. Here open <b>My Library</b> sub menu. </li></p>
+<p><li>First, let’s navigate to <b>Woostroid2 > My Library</b> section on the left of the Dashboard. Here open <b>My Library</b> sub menu. </li></p>
 
 <p><li>In the <b>Theme Parts</b> block you’re able to view the existing templates for your theme or create the new ones.</p>
 

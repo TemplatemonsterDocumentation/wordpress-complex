@@ -47,6 +47,6 @@
 
 <li><p>Now you can go ahead and select any skin!</p></li>
  <figure class="img-polaroid">
-        <img src="projects/woostroid2/img/installation/install12.png">
+        <img src="projects/woostroid2/img/installation/image.png">
     </figure>
 </ol>

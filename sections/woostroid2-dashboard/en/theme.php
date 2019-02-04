@@ -1,13 +1,13 @@
 <h3>Theme</h3>
 
 <ol class="index-list">
-	<li><p>Navigate to <b>Monstroid2 > Theme</b> in WordPress Dasboard. </p></li>
+	<li><p>Navigate to <b>Woostroid2 > Theme</b> in WordPress Dasboard. </p></li>
 
 			<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/dashboard/theme.png">
+        <img src="projects/<?php echo $project;?>/img/dashboard/dashboard-theme1.png">
   	</figure>
 
-	<li><p>Here you can see if Monstroid2 is installed and active on your site. You can view the theme’s version, and see if it is needed to be updated. In the case there is an update you’ll be able to click <b>Update Now</b> option. </p></li>
+	<li><p>Here you can see if Woostroid2 is installed and active on your site. You can view the theme’s version, and see if it is needed to be updated. In the case there is an update you’ll be able to click <b>Update Now</b> option. </p></li>
 
 	<li><p><b>Child Theme</b> block shows if the <b>Child theme</b> is currently installed and active on the site. It is recommended to install and use it in order to make all the further changes in theme’s styles safe. </p></li>
 
