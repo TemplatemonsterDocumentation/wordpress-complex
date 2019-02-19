@@ -36,6 +36,12 @@
 				"ru": ""
 			}
 		},	{
+			"id": "date-range",
+			"translations": {
+				"en": "Date Range",
+				"ru": ""
+			}
+		},	{
 			"id": "radio",
 			"translations": {
 				"en": "Radio",

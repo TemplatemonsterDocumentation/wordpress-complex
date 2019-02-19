@@ -4,10 +4,10 @@
 
 
 <ol class="index-list">
-<p><li>First, open the popup template for editing. Here navigate to <b>Settings > JetPopup Settings</b> block located in the bottom left corner. Here select <b>JetPopup Settings</b> tab in the left sidebar of the editor.
+<p><li>First, open the popup template for editing. Here navigate to <b>Settings > Popup Settings</b> block located in the bottom left corner. Here select <b>Settings</b> tab in the left sidebar of the editor.
 
 <figure class="img-polaroid">
-        <img src="projects/jetpopup/img/presets/16.png">
+        <img src="projects/jetpopup/img/presets/145.png">
   	</figure></li></p>
 
 <p><li>In <b>Open Event</b> select the most suitable event for the popup to appear:
@@ -23,4 +23,5 @@
 </li></p>
 
 <p><li>Enable <b>Show once</b> option to display the current popup template only once and never show it again in case it was already displayed to the visitor.</li></p>
+<p><li>Enable <b>Loading content with Ajax</b> option to delay loading of the popup content. The content is being loading by opening a popup.</li></p>
 </ol>

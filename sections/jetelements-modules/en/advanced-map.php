@@ -37,7 +37,8 @@ Advanced Map widget is the perfect solution if you need to display a map on your
 
 <ul class="marked-list">
 <p><li><b>Map Height</b> — define the value of the map height in pixels. </li></p>
-<p><li><b>Map Style</b> — here you can choose from the dropdown menu the style for the map appearance.</li></p></ul>
+<p><li><b>Map Style</b> — here you can choose from the dropdown menu the style for the map appearance.</li></p>
+<p>In case you select <b>Custom</b> map style, you can add custom style json file below in order to apply your own map style.</p></ul>
 
 
 

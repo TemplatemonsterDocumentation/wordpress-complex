@@ -18,17 +18,36 @@ Slider widget is invaluable if You need to liven up Your website page with a bri
 <h4>Content</h4>
 
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widget/sl1.png">
+        <img src="projects/<?php echo $project;?>/img/widget/slider11.png">
   	</figure>
+
+<h6>Items</h6>
+
+<ul class="marked-list">
+<p><li><b>Image</b> — click on the Image area to select the image from the Media Library or upload one from your hard drive.</li></p>
+<p><li><b>Icon</b> — here you can set the icon for the image.</li></p>
+<p><li><b>Title</b> — here you can input the title of the image.</li></p>
+<p><li><b>Subtitle</b> — here you can specify the subtitle of the image.</li></p>
+<p><li><b>Description</b> — in this field you need to provide the image description.</li></p>
+<p><li><b>Primary Button URL</b> — here you can specify the URL link for the primary slider button.</li></p>
+<p><li><b>Primary Button Text</b> — here you can define the primary button text for the link.</li></p>
+<p><li><b>Secondary Button URL</b> — here you can specify the URL link for the secondary slider button.</li></p>
+<p><li><b>Secondary Button Text</b> — here you can define the secondary button text for the link.</li></p></ul>
+
+<div class="alert alert-info">
+        <p>Please, pay attention, that by default there are 3  items. In the case You're using only 2 slides, please, consider disabling <b>Indicates if the slides will be looped </b> option, as the widget requires at least 3 slides to loop them. </p></div>
+
 
 <h6>Settings</h6>
 
-
 <ul class="marked-list">
+<p><li><b>Image Size</b> — here you can set the preferable image size for the slider widget.</li></p>
 <p><li><b>Use navigation?</b> — enable the option in order to turn on navigation arrows for the slider.</li></p>
 <p><li><b>Arrows Fade on Hover</b> — here you need to enable the option if you want the arrows to fade in on hover.</li></p>
+<p><li><b>Use pagination</b> — enable this option if you want to add pagination dots to the slider.</li></p>
 <p><li><b>Use autoplay?</b> — enable this option if you need the slides to switch from one to another automatically.</li></p>
 <p><li><b>Autoplay delay</b> — here you can set the delay in autoplay in the ms.</li></p>
+<p><li><b>Autoplay on hover</b> — here you can select autoplay mode on hover.</li></p>
 <p><li><b>Display fullscreen button?</b> — here you can enable the fullscreen button.</li></p>
 <p><li><b>Slides shuffle</b> — here you can enable shuffling the slides randomly.</li></p>
 <p><li><b>Indicates the slides will be looped</b> — here you can enable repeating of the slides.</li></p>
@@ -40,29 +59,14 @@ Slider widget is invaluable if You need to liven up Your website page with a bri
 <p><li><b>Thumbnail height</b> — here you can specify the height of the slides thumbnails in px.</li></p></ul>
 
 
-<h6>Items</h6>
-
-<ul class="marked-list">
-<p><li><b>Image</b> — click on the Image area to select the image from the Media Library or upload one from your hard drive.</li></p>
-<p><li><b>Icon</b> — here you can set the icon for the image.</li></p>
-<p><li><b>Title</b> — here you can input the title of the image.</li></p>
-<p><li><b>Title</b> — in this field you need to provide the image description.</li></p>
-<p><li><b>Primary Button URL</b> — here you can specify the URL link for the primary slider button.</li></p>
-<p><li><b>Primary Button Text</b> — here you can define the primary button text for the link.</li></p>
-<p><li><b>Secondary Button URL</b> — here you can specify the URL link for the secondary slider button.</li></p>
-<p><li><b>Secondary Button Text</b> — here you can define the secondary button text for the link.</li></p></ul>
-
-<div class="alert alert-info">
-        <p>Please, pay attention, that by default there are 3  items. In the case You're using only 2 slides, please, consider disabling <b>Indicates if the slides will be looped </b> option, as the widget requires at least 3 slides to loop them. </p></div>
-
-
 <h4>Style</h4>
 
+<p>In this block, you can change style and appearance settings for Slider widget, define items padding, alignment, additional elements color, etc. </p>
+
  	<figure class="img-polaroid">
-        <img src="projects/<?php echo $project;?>/img/widget/sl2.png">
+        <img src="projects/<?php echo $project;?>/img/ss1.png">
   	</figure>
 
-<p>In this block, you can change style and appearance settings for Slider widget, define items padding, alignment, additional elements color, etc. </p>
 
 <h6>General</h6>
 
@@ -72,6 +76,47 @@ Slider widget is invaluable if You need to liven up Your website page with a bri
 <p><li><b>Slider Height</b> — here you can specify the height of the slider in percents.</li></p>
 <p><li><b>Slider Container Width</b> — define the custom width of the slider container in percents.</li></p>
 <p><li><b>Image Scale Mode</b> — here you can select if you want to use covered or contained image scale mode for the slider.</li></p></ul>
+
+<h6>Container</h6>
+
+<ul class="marked-list">
+<p><li><b>Padding</b> — here you can set the preferable custom padding for the title. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
+<p><li><b>Margin</b> — input the values for the container margins in the required fields.</li></p>
+<p><li><b>Border Type</b> — here you can define the needed border type for the container. It can be groove, dotted, dashed, double or solid.</li></p>
+<p><li><b>Width</b> — type in the border width in pixels in order to set the width for the container top, bottom, left and right borders.</li></p>
+<p><li><b>Color</b> — here you can specify the color of the container borders using Color picker tool.</li></p>
+<p><li><b>Border Radius</b> — here you can set the border radius for the chosen border to make the border angles more round.</li></p>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for the container, and need to apply shadow to it.</li></p></ul>
+
+<h6>Content</h6>
+
+<ul class="marked-list">
+<p><li><b>Horizontal Alignment</b> — define the horizontal alignment for the content block.</li></p>
+<p><li><b>Vertical Alignment</b> — define the vertical alignment for the content block. It can be arranged on the top, on the bottom and in the center. </li></p>
+<p><li><b>Background Type</b> — in this block you can choose, whether you want to use classic or gradient type for the content block. The customization options vary for each type.</li></p>
+
+<p>Classic Background Type</p>
+<ul class="marked-list">
+<p><li><b>Color</b> — here you can set background color for the content block using color picker tool.</li></p>
+<p><li><b>Image</b> — here you can choose the image you want to use as a background. Select the image from the media library or upload it to define it as a background in this block. When the image is uploaded, you’ll be able to define its position, attachment, turn on repeat and set the necessary size.</li></p></ul>
+
+<p>Gradient Background Type</p>
+<ul class="marked-list">
+<p><li><b>Color</b> — here you can set background color for the content block using color picker tool.</li></p>
+<p><li><b>Location</b> — here you can define the proportion for the first color in the gradient background.</li></p>
+<p><li><b>Second Color</b> — here you can set the second color to use in the gradient background.</li></p>
+<p><li><b>Location</b> — here you can define the proportion for the second color in the gradient background.</li></p>
+<p><li><b>Type</b> — define, if you want to use linear or radial type of the gradient.</li></p>
+<p><li><b>Angle</b> — in this block you can set the angle for the gradient (in degrees).</li></p></ul>
+
+<p><li><b>Padding</b> — here you can set the preferable custom padding for the content block. Fill in the values for the top, bottom, right and left padding in pixels to apply your custom padding.</li></p>
+<p><li><b>Margin</b> — input the values for the content block margins in the required fields.</li></p>
+<p><li><b>Border Type</b> — here you can define the needed border type for the content block. It can be groove, dotted, dashed, double or solid.</li></p>
+<p><li><b>Width</b> — type in the border width in pixels in order to set the width for the content block top, bottom, left and right borders.</li></p>
+<p><li><b>Color</b> — here you can specify the color of the container borders using Color picker tool.</li></p>
+<p><li><b>Border Radius</b> — here you can set the border radius for the chosen border to make the border angles more round.</li></p>
+<p><li><b>Box Shadow</b> — enable this option if you want to access the shadow advanced settings for the content block, and need to apply shadow to it.</li></p></ul>
+
 
 <h6>Overlay</h6>
 

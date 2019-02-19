@@ -3585,6 +3585,7 @@
 		"jetengine-dashboard",
 		"jetengine-use-cases",
 		"jetengine-calendar-functionality",
+		"jetengine-booking-functionality",
 		"jetengine-changelog"
 	],
 	"jetguten": [
@@ -3665,7 +3666,8 @@
 		"jetcomparewishlist-installation",
 	    "jetcomparewishlist-compare",
 		"jetcomparewishlist-wishlist",
-		"jetcomparewishlist-widgets"
+		"jetcomparewishlist-widgets",
+		"jetcomparewishlist-changelog"
 	],
 
 	 "woostroid2": [
@@ -3676,6 +3678,23 @@
 		"woostroid2-plugins",
 		"woostroid2-jetthemecore",
 		"woostroid2-changelog"
+	],
+
+	 "kavatheme": [
+		"introduction",
+		"kavatheme-customizer",
+	    "kavatheme-blog-layouts",
+		"kavatheme-posts-categories-postformats",
+		"kavatheme-simple-widgets",
+		"kavatheme-localization"
+	],
+
+	 "jetthemecore": [
+		"introduction",
+		"jetthemecore-creating-template",
+	    "jetthemecore-creating-headers-footers",
+		"jetthemecore-magicbutton",
+		"jetthemecore-newthemepart"
 	]
 }
 

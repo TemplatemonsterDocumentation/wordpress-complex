@@ -1,5 +1,5 @@
 
-<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'JetDesignKit' && $project != 'jetsmartfilters' && $project != 'bitunet' && $project != 'jetproductgallery' && $project != 'rocktheme' && $project != 'jetsearch' && $project != 'jetcomparewishlist' && $project != 'woostroid2') { ?>
+<?php if ($project != 'jetelements' && $project != 'jetmenu' && $project != 'woo-quickstart-kit' && $project != 'jetblog' && $project != 'jetreviews' && $project != 'jettabs' && $project != 'jetparallax' && $project != 'jetwoobuilder' && $project != 'jettricks' && $project != 'crocoblock' && $project != 'jetblocks' && $project != 'kava-child'&& $project != 'elementortemplate' && $project != 'jeta' && $project != 'mezo' && $project != 'jetengine' && $project != 'jetguten' && $project != 'jetpopup' && $project != 'monstroid2' && $project != 'JetDesignKit' && $project != 'jetsmartfilters' && $project != 'bitunet' && $project != 'jetproductgallery' && $project != 'rocktheme' && $project != 'jetsearch' && $project != 'jetcomparewishlist' && $project != 'woostroid2' && $project != 'kavatheme' && $project != 'jetthemecore' ) { ?>
 
 <h2>Introduction</h2>
 
@@ -970,8 +970,7 @@ You will also find information on how to enable and customize JetElements addons
 
 <p>Feel free to view the video playlist with the presentation of different CrocoBlock services.</p>
 
-<iframe width="750" height="400" src="https://www.youtube.com/watch?v=QfDt0_inEIU&list=PLdaVCVrkty72g_9pu4-tRJ0j_cc01PqUX&t=1s&index=58" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<iframe width="750" height="400" src="https://www.youtube.com/embed/QfDt0_inEIU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 <p>Welcome to <a href="https://crocoblock.com/" target="_blank">CrocoBlock</a>!</p>
@@ -1498,19 +1497,19 @@ Image Comparison block provides you with an ability to add the two-image block t
 <p>There are several types of filters:</p>
 <ul class="marked-list">
     <li>Checkboxes list;</li>
-    <li>Select</li>
-    <li>Range</li>
-    <li>Check Range</li>
-    <li>Date Range</li>
-    <li>Radio</li>
-    <li>Search</li></ul>
+    <li>Select;</li>
+    <li>Range;</li>
+    <li>Check Range;</li>
+    <li>Date Range;</li>
+    <li>Radio;</li>
+    <li>Search.</li></ul>
 
 <p>Each filter can be applied to the products or posts listing in order to get the results the visitor needs the most.</p>
 <p>JetSmartFilters plugin provides the 7 different widgets for applying filters. Every widget has extensive style and easy-to-use content settings.</p>
 <p>Please, note, that in order to use JetSmartFilters you would also need JetEngine or JetWooBuilder plugins to showcase the product or post listings.</p>
 
 
-<h5>Checkboxes list;</h5>
+<h5>Checkboxes list</h5>
 <p>The Select filter is made for displaying select options with the custom values of the properties of the products from which one is able to choose to filter the posts or products on the page.  </p>
 
 <h5>Select</h5>
@@ -1811,5 +1810,80 @@ Image Comparison block provides you with an ability to add the two-image block t
 <p>Welcome to Woostroid2!</p>
 
 </article>
+
+<?php } ?>
+<?php if ($project == 'kavatheme') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank you for purchasing a WordPress template. This documentation consists of several parts and covers the entire process of installing and setting up a WordPress website from scratch.</p>
+
+<h3>What is WordPress CMS?</h3>
+
+<p>WordPress is a free open-source blogging tool and content management system (CMS) based on PHP and MySQL. With its help you can create and administrate websites or powerful on-line applications without possessing any special technical skills. Due to the ease of use and flexibility, WordPress has become the most popular platform for website development. <a href="http://wordpress.org/about/" target="_blank">Learn More.</a></p>
+
+
+
+<h3>What is a WordPress Template?</h3>
+
+<p>WordPress template is a theme for the WordPress CMS platform. You can easily change your website appearance by installing a new WordPress template in a few easy steps. Despite its simplicity, a WordPress template contains all the necessary source files that can be altered the way you need.</p>
+
+<h3>Template Structure</h3>
+
+<p>The template package includes several folders. Let’s check what’s inside: </p>
+
+<ul class="marked-list">
+<p>
+<li><b>theme</b> - contains WordPress theme files:
+<ul class="marked-list">
+<li><strong>kava.zip</strong> - archive with Kava theme. Contains Kava theme's files.
+            <li><strong>manual_install</strong> - contains files that make the WordPress website look like on our live demo.
+
+<ul class="marked-list">
+
+                    <li><strong>uploads</strong> - contains theme images.</li>
+                    <li><strong>theme_name.sql</strong> - database file (contains theme content).</li>
+                </ul></li></li></ul>
+<li><b>documentation.html</b> -  contains documentation link information.</li></p>
+<li><b>info.txt</b> -  instructions on how to extract source files.</li></p>
+<li><b>license.txt</b> -  contains information about GPL license.</li></p>
+</ul>
+
+
+
+<h3>Recommended Technical Requirements</h3>
+
+<p>The needed requirements are:</p>
+<p>
+<ul class="marked-list">
+<li>PHP 7 or higher;</li>
+<li>MySQL 5.6 of higher;</li>
+<li>WP memory limit of 128 Mb or larger;</li>
+<li>Desktop device;</li>
+<li>SSL certificate on server.</li></ul></p>
+
+<p>You can get more information <a href="https://docs.elementor.com/article/38-requirements
+" target="_blank">here.</a></p>
+
+<?php } ?>
+
+<?php if ($project == 'jetthemecore') { ?>
+
+<article><h2>Introduction</h2>
+
+<p>Thank You for purchasing <b>JetThemeCore</b> for <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a>. This documentation consists of several parts and covers the entire process of installing and using <b>JetThemeCore</b> plugin from scratch.</p>
+
+<h3>What Is JetThemeCore plugin?</h3>
+
+<p><b>JetThemeCore</b> is a powerful plugin which is aimed at making it more easy to create the templates of theme parts.</p>
+<p>It allows creating headers and footers using pre-made ones or building them from scratch using Elementor and Jet widgets.</p>
+<p>The plugin is also needed when one has to assign the particular headers and footers to the specific pages or page templates.</p>
+
+
+
+<div class="alert alert-info">
+        You have to install and activate <a href="https://wordpress.org/plugins/elementor/" target="_blank">Elementor</a> page builder plugin before using JetThemeCore! If you haven’t installed Elementor, please, navigate to <a href="https://docs.elementor.com/" target="_blank">Elementor Installation tutorial.</a></div>
+
+
 
 <?php } ?>

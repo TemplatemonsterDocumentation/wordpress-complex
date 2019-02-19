@@ -1791,5 +1791,17 @@
 		"title": "Woostroid&sup2;",
 		"titleCaption": "",
 		"author": ""
+	},
+	"kavatheme": {
+		"textLogo": "",
+		"title": "Kava Theme",
+		"titleCaption": "",
+		"author": ""
+	},
+	"jetthemecore": {
+		"textLogo": "",
+		"title": "JetThemeCore",
+		"titleCaption": "",
+		"author": ""
 	}
 }
