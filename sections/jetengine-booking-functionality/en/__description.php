@@ -105,12 +105,12 @@
 
 <p>In case you select <b>Call a Hook</b> type, you need to set the following settings:</p>
 <ul class="marked-list">
-<li><b>Hook Name</b> - here you can specify the name of the hook.</li></ul>
+<li><b>Hook Name</b> - here you can specify the name of the hook.</li></ul></ul></ul></ul></li></ul>
 
 
 <p><li><b>Messages Settings</b> - here you can define the text of messages, which can appear during one fills in the booking form.</li></p>
 
-<p><li>After you created a booking form, click <b>Publish</b> button.</li></p>
+<p><li>After you created the booking form, click <b>Publish</b> button.</li></p>
 
 <h4>Step 2. Working with Booking Form Widget</h4>
 
