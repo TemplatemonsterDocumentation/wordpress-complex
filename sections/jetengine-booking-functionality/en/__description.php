@@ -101,7 +101,7 @@
 <p>In case you select <b>Insert Post</b> type, you need to set the following settings:</p>
 <ul class="marked-list">
 <li><b>Post Type</b> - here you need to select the post type, where the data will be taken from.</li>
-<li><b>Fields Map</b> - 
+<li><b>Fields Map</b> - here you need to set meta fields names to save appropriate form fields into the selected post type.</li>
 
 <p>In case you select <b>Call a Hook</b> type, you need to set the following settings:</p>
 <ul class="marked-list">
